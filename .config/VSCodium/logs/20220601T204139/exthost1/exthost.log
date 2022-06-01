@@ -1,0 +1,58 @@
+[2022-06-01 20:41:49.528] [exthost] [info] Extension host with pid 21168 started
+[2022-06-01 20:41:49.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-01 20:41:50.058] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-01 20:41:50.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-01 20:41:50.168] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-06-01 20:41:50.921] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-06-01 20:41:51.128] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-06-01 20:41:52.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-01 20:41:53.070] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-01 20:41:53.251] [exthost] [info] Eager extensions activated
+[2022-06-01 20:41:53.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:41:53.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:41:53.346] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:41:53.445] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:41:53.928] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:41:54.159] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:41:54.221] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:41:55.253] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:42:01.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-01 20:42:01.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-01 20:42:01.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-01 20:42:21.688] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+[2022-06-01 20:42:21.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+[2022-06-01 20:42:21.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+[2022-06-01 20:42:21.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+[2022-06-01 20:43:33.875] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-01 20:43:33.903] [exthost] [info] Extension host with pid 21168 exiting with code 0
+[2022-06-01 20:43:39.225] [exthost] [info] Extension host with pid 21541 started
+[2022-06-01 20:43:39.226] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/9626c8f45b4525f27f2040acdebc2900.
+[2022-06-01 20:43:39.600] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-01 20:43:39.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-01 20:43:39.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-01 20:43:39.632] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-06-01 20:43:39.642] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-06-01 20:43:39.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-01 20:43:40.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-01 20:43:41.400] [exthost] [info] Eager extensions activated
+[2022-06-01 20:43:41.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:41.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:41.434] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:41.508] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:41.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-01 20:43:41.641] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: false, activationEvent: '*'
+[2022-06-01 20:43:41.667] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:41.686] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:41.724] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:41.932] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 20:43:43.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-01 20:43:47.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-06-01 20:43:51.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-01 20:43:56.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+[2022-06-01 20:43:56.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+[2022-06-01 20:43:56.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+[2022-06-01 20:43:56.362] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-01 20:43:56.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-01 20:43:56.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-01 20:46:45.583] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-01 20:46:45.664] [exthost] [info] Extension host with pid 21541 exiting with code 0

@@ -1,0 +1,12 @@
+[2022-06-01 20:48:26.873] [exthost] [info] Extension host with pid 23213 started
+[2022-06-01 20:48:26.875] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/9626c8f45b4525f27f2040acdebc2900.
+[2022-06-01 20:48:27.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-01 20:48:27.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-01 20:48:27.230] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-01 20:48:27.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-01 20:48:27.249] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-06-01 20:48:27.280] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-06-01 20:48:27.304] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-06-01 20:48:27.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-01 20:48:27.954] [exthost] [info] Extension host terminating: parent process 23193 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-06-01 20:48:27.961] [exthost] [info] Extension host with pid 23213 exiting with code 0

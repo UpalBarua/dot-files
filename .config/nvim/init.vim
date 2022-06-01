@@ -120,3 +120,4 @@ nnoremap <silent><leader><leader>l :!live-server &<CR>
 source $HOME/.config/nvim/plugged-config/coc-settings.vim
 source $HOME/.config/nvim/plugged-config/lightline-settings.vim
 source $HOME/.config/nvim/plugged-config/startify.vim
+

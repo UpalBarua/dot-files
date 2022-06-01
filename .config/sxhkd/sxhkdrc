@@ -7,6 +7,99 @@
 #       |_|                                             #
 #=======================================================#
 
+## launching programs ========================================= 
+#
+# terminal 
+super + Return
+    $TERMINAL
+
+super + shift + Return
+    kitty 
+
+super + alt + Return
+    xfce4-terminal 
+
+# launching gui applications
+super + alt + {b, v, t, w, a, s, x, i, g, p, n, d} 
+    {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app, zathura}
+
+# launching tui applications
+super + alt + {f, m, y, z, c, r, l}
+    $TERMINAL -e {lfub, cmus, btop, htop, nvim, newsboat, lfub}
+
+alt + t
+    transmission-daemon;\
+    notify-send "Transmission" "daemon started"
+
+super + alt + F12
+    notify-send "Keyboard" "bangla keybord daemon started";\
+    ibus-daemon -drxR
+
+
+## Rofi launchers ===========================================
+
+# run launcher
+super + @space 
+    rofi -show drun
+
+# window switcher
+super + w
+    rofi -show window
+
+# powermenu
+super + x
+    ~/.config/rofi/powermenu.sh
+
+# emoji
+super + e
+    rofi -show emoji -modi emoji
+
+# clipboard
+super + v
+    rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
+
+# calculator
+super + c 
+    rofi -show calc -modi calc -no-show-match -no-sort
+
+# rofi beats
+super + u 
+    ~/.config/rofi/rofi-beats.sh
+
+## system controls ==========================================
+
+# power options
+super + ctrl + alt + {p, r, s, l, q}
+    {systemctl poweroff, systemctl reboot, systemctl suspend, betterlockscreen -l, bspc quit}
+
+# volume Controls
+shift + {Up, Down}
+    {pamixer -i 5, pamixer -d 5};\
+    /home/upalb/.config/dunst/scripts/volume.sh 
+
+# brightness controls
+shift + {Right, Left}
+    {brightnessctl set +5%, brightnessctl set 5%-};\
+    /home/upalb/.config/dunst/scripts/brightness.sh screen
+
+# screenshot
+Print
+    scrot ~/Pictures/Screenshots/screenshot-%y-%m_%d__%H-%M.png;\
+    notify-send "Screenshot" "screenshot saved"
+
+shift + Print
+    scrot -e 'xclip -selection clipboard -t "image/png" < $f';\
+    notify-send "Screenshot" "screenshot copied"
+
+super + Print
+    scrot -a $(slop -f '%x,%y,%w,%h') ~/Pictures/Screenshots/screenshot-%y-%m_%d__%H-%M.png;\
+    notify-send "Screenshot" "screenshot saved"
+
+# changing a random wallpaper
+alt + r
+    feh --bg-scale --randomize "$HOME/Pictures/Wallpapers/Solarized Wallpapers/"
+
+
 ## wm independent hotkeys ===============================
 
 # make sxhkd reload its configuration files:
@@ -112,86 +205,6 @@ super + alt + shift + {h,j,k,l}
 super + {Left,Down,Up,Right}
     bspc node -v {-20 0,0 20,0 -20,20 0}
 
-## launching programs ========================================= 
-
-# terminal 
-super + Return
-    kitty
-
-super + shift + Return
-    alacritty 
-
-super + alt + Return
-    xfce4-terminal 
-
-# launching gui applications
-super + alt + {b, v, t, w, a, s, x, i, g, p, n} 
-    {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app}
-
-# launching tui applications
-super + alt + {f, m, y, z, c}
-    kitty -e {~/.config/vifm/scripts/vifmrun, cmus, btop, htop, nvim}
-
-
-## Rofi launchers ===========================================
-
-# run launcher
-super + @space 
-    rofi -show drun
-
-# window switcher
-super + w
-    rofi -show window
-
-# powermenu
-super + x
-    ~/.config/rofi/powermenu.sh
-
-# emoji
-super + e
-    rofi -show emoji -modi emoji
-
-# clipboard
-super + v
-    rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
-
-# calculator
-super + c 
-    rofi -show calc -modi calc -no-show-match -no-sort
-
-# rofi beats
-super + u 
-    ~/.config/rofi/rofi-beats.sh
-
-## system controls ==========================================
-
-# power options
-super + ctrl + alt + {p, r, s, l, q}
-    {systemctl poweroff, systemctl reboot, systemctl suspend, betterlockscreen -l blur, bspc quit}
-
-# volume Controls
-shift + {Up, Down}
-    {pamixer -i 5, pamixer -d 5};\
-    /home/upalb/.config/dunst/scripts/volume.sh 
-
-# brightness controls
-shift + {Right, Left}
-    {brightnessctl set +5%, brightnessctl set 5%-};\
-    /home/upalb/.config/dunst/scripts/brightness.sh screen
-
-# screenshot
-Print
-    flameshot full -p ~/Pictures/Screenshots 
-
-shift + Print
-    flameshot full -c
-
-super + Print
-    flameshot gui
-
-# changing a random wallpaper
-alt + r
-    nitrogen --set-zoom-fill --random ~/Pictures/Wallpapers/Desktop\ Wallpapers/catppuccin --save
 
 
 

@@ -1,0 +1,16 @@
+[2022-06-01 20:41:40.599] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-01 20:41:40.758] [main] [info] update#setState idle
+[2022-06-01 20:41:41.425] [main] [info] ExtensionHostStarterWorker created
+[2022-06-01 20:41:46.330] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-01 20:41:46.991] [main] [info] Starting extension host with pid 21168 (fork() took 25 ms).
+[2022-06-01 20:41:46.991] [main] [info] ExtensionHostStarterWorker.start() took 27 ms.
+[2022-06-01 20:42:10.763] [main] [info] update#setState checking for updates
+[2022-06-01 20:42:11.516] [main] [info] update#setState idle
+[2022-06-01 20:43:33.973] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-01 20:43:34.142] [main] [info] Extension host with pid 21168 exited with code: 0, signal: null.
+[2022-06-01 20:43:36.327] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-01 20:43:36.873] [main] [info] Starting extension host with pid 21541 (fork() took 21 ms).
+[2022-06-01 20:43:36.873] [main] [info] ExtensionHostStarterWorker.start() took 44 ms.
+[2022-06-01 20:46:45.598] [main] [info] Waiting for extension host with pid 21541 to exit.
+[2022-06-01 20:46:45.699] [main] [info] Extension host with pid 21541 exited with code: 0, signal: null.
+[2022-06-01 20:46:45.936] [main] [warning] [storage main] detected slow close() operation: Time: 344ms, DB size: 446464b, Large Keys: iconThemeData:397973, colorThemeData:6949, workbench.activity.placeholderViewlets:3321, editorFontInfo:2682, __$__targetStorageMarker:1564
