@@ -1,0 +1,183 @@
+# Basic settings =======================
+set shell sh
+set ignorecase true
+set icons true
+set drawbox
+set shellopts '-eu' # set '-eu' options for shell commands
+set ifs "\n" # set internal field separator (IFS) to "\n" for shell commands
+set scrolloff 10 # leave some space at the top and the bottom of the screen
+set preview true
+set cleaner '~/.config/lf/cleaner'
+set previewer '~/.config/lf/scope'
+
+# Custom functions =====================
+# Making new folder
+cmd mkdir %{{
+  printf " Directory Name: "
+  read ans
+  mkdir $ans
+}}
+
+# Making new file
+cmd mkfile %{{
+  printf " File Name: "
+  read ans
+  touch $ans
+}}
+
+# Custom 'delete' command
+cmd delete %{{
+    set -f
+    printf "$fx\n"
+    printf " Delete permanently? [y/n] "
+    read ans
+    [ $ans = "y" ] && rm -rf $fx
+}}
+
+# Move files to ~/.trash
+%mkdir -p ~/.trash # make sure trash folder exists
+cmd trash %set -f; mv - $fx ~/.trash
+
+# Clear the ~/.trash
+cmd trash-clear &rm -rf ~/.trash/*
+
+# Fuzzy file finder
+cmd fzf_jump ${{
+  res="$(find . -maxdepth 3 | fzf --reverse --header='Jump to location')"
+  if [ -f "$res" ]; then
+    cmd="select"
+  elif [ -d "$res" ]; then
+    cmd="cd"
+  fi
+  lf -remote "send $id $cmd \"$res\""
+}}
+
+# Archive functions 
+cmd extract ${{
+    set -f
+    case $f in
+        *.tar.bz|*.tar.bz2|*.tbz|*.tbz2) tar xjvf $f;;
+        *.tar.gz|*.tgz) tar xzvf $f;;
+        *.tar.xz|*.txz) tar xJvf $f;;
+        *.zip) unzip $f;;
+        *.rar) unrar x $f;;
+        *.7z) 7z x $f;;
+    esac
+}}
+
+# Compress files 
+cmd zip %zip -r "$f" "$f"
+cmd tar %tar cvf "$f.tar" "$f"
+cmd targz %tar cvzf "$f.tar.gz" "$f"
+cmd tarbz2 %tar cjvf "$f.tar.bz2" "$f"
+
+# Settings image as wallpaper
+# cmd setwallpaper &nitrogen --set-scaled "$f" --save 
+cmd setwallpaper %feh --bg-scale "$f"
+cmd setlockscreen %betterlockscreen -u "$f" --fx 0 &
+cmd copyimg %xclip -selection clipboard -target image/png -i "$f"
+
+# Open file with another program
+cmd open-with %"$@" "$fx"
+
+# Custom 'open' command
+cmd open ${{
+    test -L $f && f=$(readlink -f $f)
+    case $(file --mime-type $f -b) in
+        image/*) $HOME/.config/lf/rotdir $f | grep -i "\.\(png\|jpg\|jpeg\|gif\|webp\|tif\|ico\)\(_large\)*$" |
+            setsid -f sxiv -aio 2>/dev/null | while read -r file; do
+                [ -z "$file" ] && continue
+                lf -remote "send select \"$file\""
+                lf -remote "send toggle"
+            done & ;;
+        text/*) $EDITOR $fx;;
+        *) for f in $fx; do setsid $OPENER $f > /dev/null 2> /dev/null & done;;
+    esac
+}}
+
+cmd sximg %{{
+    rotdir $f | grep -i "\.\(png\|jpg\|jpeg\|gif\|webp\|tif\|ico\)\(_large\)*$" |
+    setsid -f sxiv -aio 2>/dev/null | while read -r file; do
+        [ -z "$file" ] && continue
+        lf -remote "send select \"$file\""
+        lf -remote "send toggle"
+    done &
+    ;;
+}}
+
+cmd resize-50 %{{
+    # OUTPUT=grep -o '[^/]*$' <<< $f
+    %convert -resize 50% $f resized.jpg
+    ;;
+}}
+
+
+# Key bindings ==========================
+# Remove some defaults
+map m
+map o
+map n
+map "'"
+map '"'
+map d
+map c
+map e
+map f
+
+# File Openers
+map ee $$EDITOR "$f"
+
+# Basic Functions
+map K half-up  
+map J half-down
+map . set hidden!
+map <delete> trash
+map dd trash 
+map DD delete
+map p paste
+map x cut
+map y copy
+map <enter> open
+map R reload
+map mf mkfile
+map md mkdir
+map bg setwallpaper
+map bl setlockscreen
+map cr5 resize-50
+map ae extract
+map C clear
+map TC trash-clear
+map f fzf_jump 
+map ` push :open-with<space>
+
+ # Directory jumps
+map gh cd ~/
+map gC cd ~/.config
+map gT cd ~/.trash
+map gP cd ~/NewsFlash
+
+map ge. cd /run/media/upalb
+map ged cd "/run/media/upalb/Multimedia/Stolen Dots"
+
+
+map gd cd ~/downloads
+map gD cd ~/Documents
+map gb cd ~/Books
+map gc cd ~/Code
+
+map gp. cd ~/Pictures
+map gpw cd "~/Pictures/Wallpapers"
+map gps cd ~/Pictures/Screenshots
+
+map gv. cd ~/Videos
+map gvm cd "~/Movies & Shows"
+
+map gm. cd ~/Music
+map gm1 cd "~/Music/1 Bangladesh bands"
+map gm2 cd "~/Music/2 Foreign bands"
+map gm3 cd "~/Music/3 Solo Artists"
+map gm4 cd "~/Music/4 Others"
+
+
+
+
