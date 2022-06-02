@@ -1,0 +1,188 @@
+["INFO" - 3:50:42 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 3:50:42 PM] Extension Version: 9.5.0.
+["INFO" - 4:03:37 PM] Formatting file:///home/upalb/dot-files/README.md
+["INFO" - 4:03:37 PM] Using ignore file (if present) at /home/upalb/dot-files/.prettierignore
+["INFO" - 4:03:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 4:03:37 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:03:37 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/dot-files/README.md",
+  "parser": "markdown"
+}
+["INFO" - 4:03:37 PM] Formatting completed in 0.124ms.
+["INFO" - 4:28:45 PM] Formatting file:///home/upalb/dot-files/README.md
+["INFO" - 4:28:45 PM] Using ignore file (if present) at /home/upalb/dot-files/.prettierignore
+["INFO" - 4:28:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 4:28:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:28:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/dot-files/README.md",
+  "parser": "markdown"
+}
+["INFO" - 4:28:45 PM] Formatting completed in 0.131ms.
+["INFO" - 4:28:58 PM] Formatting file:///home/upalb/dot-files/README.md
+["INFO" - 4:28:58 PM] Using ignore file (if present) at /home/upalb/dot-files/.prettierignore
+["INFO" - 4:28:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 4:28:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:28:58 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/dot-files/README.md",
+  "parser": "markdown"
+}
+["INFO" - 4:28:58 PM] Formatting completed in 0.037ms.
+["INFO" - 4:29:51 PM] Formatting file:///home/upalb/dot-files/README.md
+["INFO" - 4:29:51 PM] Using ignore file (if present) at /home/upalb/dot-files/.prettierignore
+["INFO" - 4:29:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 4:29:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:29:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/dot-files/README.md",
+  "parser": "markdown"
+}
+["INFO" - 4:29:51 PM] Formatting completed in 0.032ms.
+["INFO" - 4:31:15 PM] Formatting file:///home/upalb/dot-files/README.md
+["INFO" - 4:31:15 PM] Using ignore file (if present) at /home/upalb/dot-files/.prettierignore
+["INFO" - 4:31:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 4:31:15 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:31:15 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/dot-files/README.md",
+  "parser": "markdown"
+}
+["INFO" - 4:31:15 PM] Formatting completed in 0.047ms.
+["INFO" - 4:31:25 PM] Formatting file:///home/upalb/dot-files/README.md
+["INFO" - 4:31:25 PM] Using ignore file (if present) at /home/upalb/dot-files/.prettierignore
+["INFO" - 4:31:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 4:31:25 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:31:25 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/dot-files/README.md",
+  "parser": "markdown"
+}
+["INFO" - 4:31:25 PM] Formatting completed in 0.034ms.

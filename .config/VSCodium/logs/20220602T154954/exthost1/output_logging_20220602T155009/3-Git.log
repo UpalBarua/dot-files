@@ -1,0 +1,33 @@
+[2022-06-02T09:50:17.361Z] Validating found git in: git
+[2022-06-02T09:50:17.657Z] Using git 2.36.1 from git
+[2022-06-02T09:50:23.836Z] > git rev-parse --show-toplevel [6159ms]
+[2022-06-02T09:50:23.837Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-02T09:50:23.909Z] > git rev-parse --show-toplevel [23ms]
+[2022-06-02T09:50:23.946Z] > git rev-parse --git-dir --git-common-dir [12ms]
+[2022-06-02T09:50:23.967Z] Open repository: /home/upalb/NewsFlash/FreeCodeCamp-NewsFlash
+[2022-06-02T09:50:24.045Z] > git rev-parse --show-toplevel [14ms]
+[2022-06-02T09:50:24.045Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-02T09:50:24.067Z] > git rev-parse --show-toplevel [6ms]
+[2022-06-02T09:50:24.067Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-02T09:50:24.089Z] > git rev-parse --show-toplevel [6ms]
+[2022-06-02T09:50:24.089Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-02T09:50:24.108Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-02T09:50:24.108Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-02T09:50:24.422Z] > git status -z -uall [418ms]
+[2022-06-02T09:50:24.438Z] > git symbolic-ref --short HEAD [3ms]
+[2022-06-02T09:50:24.528Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [75ms]
+[2022-06-02T09:50:24.553Z] > git remote --verbose [2ms]
+[2022-06-02T09:50:24.632Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [91ms]
+[2022-06-02T09:50:24.664Z] > git config --get commit.template [2ms]
+[2022-06-02T09:50:25.351Z] > git rev-parse --show-toplevel [31ms]
+[2022-06-02T09:50:25.351Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-02T09:50:27.945Z] > git check-ignore -v -z --stdin [8ms]
+[2022-06-02T09:50:39.184Z] > git rev-parse --show-toplevel [112ms]
+[2022-06-02T09:50:39.218Z] > git rev-parse --git-dir --git-common-dir [10ms]
+[2022-06-02T09:50:39.225Z] Open repository: /home/upalb/dot-files
