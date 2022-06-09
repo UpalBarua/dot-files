@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "/home/upalb/NewsFlash"
+    },
+    {
+      "path": "../../../../Drum Kit"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "NewsFlash"
+  }
+}

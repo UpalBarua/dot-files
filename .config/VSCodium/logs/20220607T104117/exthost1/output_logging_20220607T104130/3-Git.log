@@ -1,0 +1,54 @@
+[2022-06-07T04:41:34.556Z] Validating found git in: git
+[2022-06-07T04:41:35.369Z] Using git 2.36.1 from git
+[2022-06-07T04:41:35.622Z] > git rev-parse --show-toplevel [228ms]
+[2022-06-07T04:41:35.622Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-07T04:41:35.748Z] > git rev-parse --show-toplevel [84ms]
+[2022-06-07T04:41:35.849Z] > git rev-parse --git-dir --git-common-dir [30ms]
+[2022-06-07T04:41:35.868Z] Open repository: /home/upalb/jsClock
+[2022-06-07T04:41:36.017Z] > git rev-parse --show-toplevel [69ms]
+[2022-06-07T04:41:36.066Z] > git rev-parse --git-dir --git-common-dir [16ms]
+[2022-06-07T04:41:36.128Z] Open repository: /home/upalb/NewsFlash/FreeCodeCamp-NewsFlash
+[2022-06-07T04:41:39.897Z] > git status -z -uall [3970ms]
+[2022-06-07T04:41:39.913Z] > git status -z -uall [3749ms]
+[2022-06-07T04:41:39.931Z] > git check-ignore -v -z --stdin [64ms]
+[2022-06-07T04:41:39.946Z] > git rev-parse --show-toplevel [3718ms]
+[2022-06-07T04:41:39.946Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-07T04:41:40.102Z] > git symbolic-ref --short HEAD [172ms]
+[2022-06-07T04:41:40.117Z] > git symbolic-ref --short HEAD [204ms]
+[2022-06-07T04:41:40.225Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [108ms]
+[2022-06-07T04:41:40.268Z] > git rev-parse --show-toplevel [310ms]
+[2022-06-07T04:41:40.269Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-07T04:41:40.314Z] > git remote --verbose [48ms]
+[2022-06-07T04:41:40.315Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [71ms]
+[2022-06-07T04:41:40.342Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [204ms]
+[2022-06-07T04:41:40.474Z] > git remote --verbose [82ms]
+[2022-06-07T04:41:40.474Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [111ms]
+[2022-06-07T04:41:40.480Z] > git rev-parse --show-toplevel [188ms]
+[2022-06-07T04:41:40.480Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-07T04:41:40.752Z] > git check-ignore -v -z --stdin [327ms]
+[2022-06-07T04:41:40.753Z] > git show --textconv :style.css [241ms]
+[2022-06-07T04:41:40.756Z] > git ls-files --stage -- /home/upalb/jsClock/style.css [227ms]
+[2022-06-07T04:41:40.784Z] > git config --get commit.template [314ms]
+[2022-06-07T04:41:40.796Z] > git cat-file -s f2b647e741532187ffe146461483d5236a6dc837 [14ms]
+[2022-06-07T04:41:40.797Z] > git config --get commit.template [66ms]
+[2022-06-07T04:41:48.443Z] > git show --textconv :style.scss [25ms]
+[2022-06-07T04:41:48.443Z] > git ls-files --stage -- /home/upalb/jsClock/style.scss [6ms]
+[2022-06-07T04:41:48.578Z] > git check-ignore -v -z --stdin [3ms]
+[2022-06-07T04:41:49.073Z] > git status -z -uall [3ms]
+[2022-06-07T04:41:49.086Z] > git symbolic-ref --short HEAD [3ms]
+[2022-06-07T04:41:49.106Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+[2022-06-07T04:41:49.131Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-06-07T04:41:49.132Z] > git remote --verbose [4ms]
+[2022-06-07T04:41:49.151Z] > git config --get commit.template [2ms]
+[2022-06-07T04:42:54.203Z] > git show --textconv :style.css [15ms]
+[2022-06-07T04:42:54.205Z] > git ls-files --stage -- /home/upalb/jsClock/style.css [5ms]
+[2022-06-07T04:42:54.225Z] > git cat-file -s f2b647e741532187ffe146461483d5236a6dc837 [7ms]
+[2022-06-07T04:43:02.978Z] > git show --textconv :style.scss [13ms]
+[2022-06-07T04:43:02.980Z] > git ls-files --stage -- /home/upalb/jsClock/style.scss [4ms]
+[2022-06-07T04:43:58.127Z] > git ls-files --stage -- /home/upalb/jsClock/style.css [62ms]
+[2022-06-07T04:43:58.140Z] > git show --textconv :style.css [91ms]
+[2022-06-07T04:43:58.142Z] > git cat-file -s f2b647e741532187ffe146461483d5236a6dc837 [3ms]

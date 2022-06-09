@@ -1,0 +1,7 @@
+
+[Default Applications]
+application/pdf=org.pwmt.zathura.desktop
+application/epub+zip=org.pwmt.zathura.desktop
+x-scheme-handler/notion=notion-app.desktop
+application/octet-stream=libreoffice.desktop
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop

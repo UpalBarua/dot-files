@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "/home/upalb/NewsFlash"
+    },
+    {
+      "path": "../../../../jsClock"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "jsClock"
+  }
+}

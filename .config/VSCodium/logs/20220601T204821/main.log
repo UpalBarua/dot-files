@@ -1,9 +1,0 @@
-[2022-06-01 20:48:22.284] [main] [info] window#load: attempt to load window (id: 1)
-[2022-06-01 20:48:22.305] [main] [info] update#setState idle
-[2022-06-01 20:48:22.386] [main] [info] ExtensionHostStarterWorker created
-[2022-06-01 20:48:24.662] [main] [info] window#load: window reported ready (id: 1)
-[2022-06-01 20:48:24.898] [main] [info] Starting extension host with pid 23213 (fork() took 25 ms).
-[2022-06-01 20:48:24.899] [main] [info] ExtensionHostStarterWorker.start() took 32 ms.
-[2022-06-01 20:48:27.864] [main] [info] Waiting for extension host with pid 23213 to exit.
-[2022-06-01 20:48:27.976] [main] [info] Extension host with pid 23213 exited with code: 0, signal: null.
-[2022-06-01 20:48:28.154] [main] [warning] [storage main] detected slow close() operation: Time: 303ms, DB size: 28672b, Large Keys: memento/workbench.editors.files.textFileEditor:1738, __$__targetStorageMarker:1186, memento/workbench.parts.editor:1107, workbench.view.debug.state:528, history.entries:493

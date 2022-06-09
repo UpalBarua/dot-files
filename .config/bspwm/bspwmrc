@@ -6,7 +6,7 @@ killall -9 sxhkd picom dunst greenclip xidlehook;
 
 sxhkd &
 feh --bg-scale --randomize "$HOME/Pictures/Wallpapers/Solarized Wallpapers/" &
-$HOME/.config/polybar/launch.sh &
+$HOME/.config/polybar/scripts/launch.sh &
 picom -b &
 dunst &
 greenclip daemon &

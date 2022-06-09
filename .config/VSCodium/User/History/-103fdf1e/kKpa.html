@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Remix icons -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/swiper-bundle.min.css">
+    <!-- JS -->
+    <script src="./js/index.js" defer></script>
+    <script src="./js/swiper-bundle.min.js"></script>
+    <title>NewsFlash</title>
+</head>               
+<body>
+    <!------------ Navbar ------------>
+    <header class="header">
+        <nav class="navbar container">
+            <div class="navbar__logo">
+                <a href="index.html">NewsFlash</a>
+            </div>
+
+                <ul class="navbar__menu-center" id="navbar__menu-center">
+                <li class="navbar__item"><a href="#" class="navbar__link">Home</a></li>
+                <li class="navbar__item"><a href="#" class="navbar__link">Categories</a></li>
+                <li class="navbar__item"><a href="#" class="navbar__link">Reviews</a></li>
+                <li class="navbar__item"><a href="#" class="navbar__link">News</a></li>
+                <li class="navbar__item"><a href="#" class="navbar__link">Membership</a></li>
+                <li class="navbar__item"><a href="#" class="navbar__link">Contact</a></li>
+                <li class="navbar__item"><a href="#" class="navbar__link lg-hidden">Sign in</a></li>
+                <li class="navbar__item"><a href="#" class="navbar__link lg-hidden">Sign up</a></li>
+            </ul>
+    
+            <ul class="navbar__menu-right">
+                <button class="theme-btn btn" id="theme-btn">
+                    <i class="ri-sun-line dark-hidden"></i>
+                    <i class="ri-moon-line light-hidden"></i>
+                </button>
+    
+                <button class="search-btn btn">
+                    <i class="ri-search-line"></i>
+                </button>
+    
+                <button class="btn sm-hidden">Sign in</button>
+                <button class="btn sm-hidden">Sign up</button>
+
+                <button class="btn lg-hidden active" id="navbar__menu-toggle">
+                    <i class="ri-menu-3-line"></i>
+                    <i class="ri-close-line hidden"></i>
+                </button>
+            </ul>
+        </nav>
+    </header>
+
+    <!------------ Main ------------>
+    <main class="main-container container">
+        <div class="main__breaking-news">
+            <span class="breaking-news__title">breaking news</span>
+            <span class="breaking-news__text">Apple announces a new partnership...</span>
+        </div>
+
+        <div class="main-card main-card__1">
+            <a href="#" class="main-card__link">
+                <div class="main-card__tag">technology</div>
+                <img src="./assets/images/featured/featured-1.jpg" alt="card image" class="main-card__img">
+                <div class="main-card__info-container">
+                    <div class="main-card__info">
+                        <span class="main-card__date">Dec 5th 2021</span>
+                        <span class="separator"></span>
+                        <span class="main-card__read-time">8 Min read</span>
+                    </div>
+                    <h3 class="main-card__title">Is VR the future?</h3>
+                </div>
+            </a>
+        </div>
+
+        <div class="main-card main-card__2">
+            <a href="#" class="main-card__link">
+                <div class="main-card__tag">technology</div>
+                <img src="./assets/images/featured/featured-2.jpg" alt="card image" class="main-card__img">
+                <div class="main-card__info-container">
+                    <div class="main-card__info">
+                        <span class="main-card__date">Dec 5th 2021</span>
+                        <span class="separator"></span>
+                        <span class="main-card__read-time">8 Min read</span>
+                    </div>
+                    <h3 class="main-card__title">Is VR the future?</h3>
+                </div>
+            </a>
+        </div>
+
+        <div class="main-card main-card__3">
+            <a href="#" class="main-card__link">
+                <div class="main-card__tag">technology</div>
+                <img src="./assets/images/featured/featured-3.jpg" alt="card image" class="main-card__img">
+                <div class="main-card__info-container">
+                    <div class="main-card__info">
+                        <span class="main-card__date">Dec 5th 2021</span>
+                        <span class="separator"></span>
+                        <span class="main-card__read-time">8 Min read</span>
+                    </div>
+                    <h3 class="main-card__title">Is VR the future?</h3>
+                </div>
+            </a>
+        </div>
+
+        <div class="trending-container">
+            <h3 class="trending__title">Trending news</h3>
+
+            <div class="trending-card">
+                <a href="#" class="trending-card__link">
+                    <div class="trending-img__container">
+                        <span class="trending-card__index">01</span>
+                        <img src="./assets/images/trending/trending_1.jpg" alt="trending image 1" class="trending-card__img">
+                    </div>
+
+                    <div class="trending-info__container">
+                        <div class="trending-info">
+                            <span class="trending-info__date">23 Dec 2021</span>
+                            <span class="separator"></span>
+                            <span class="trending-info__read-time">3 Min read</span>
+                        </div>
+
+                        <h3 class="trending-info__title">Sample article title</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="trending-card">
+                <a href="#" class="trending-card__link">
+                    <div class="trending-img__container">
+                        <span class="trending-card__index">02</span>
+                        <img src="./assets/images/trending/trending_2.jpg" alt="trending image 2" class="trending-card__img">
+                    </div>
+
+                    <div class="trending-info__container">
+                        <div class="trending-info">
+                            <span class="trending-info__date">23 Dec 2021</span>
+                            <span class="separator"></span>
+                            <span class="trending-info__read-time">3 Min read</span>
+                        </div>
+
+                        <h3 class="trending-info__title">Sample article title</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="trending-card">
+                <a href="#" class="trending-card__link">
+                    <div class="trending-img__container">
+                        <span class="trending-card__index">03</span>
+                        <img src="./assets/images/trending/trending_3.jpg" alt="trending image 3" class="trending-card__img">
+                    </div>
+                    <div class="trending-info__container">
+                        <div class="trending-info">
+                            <span class="trending-info__date">23 Dec 2021</span>
+                            <span class="separator"></span>
+                            <span class="trending-info__read-time">3 Min read</span>
+                        </div>
+
+                        <h3 class="trending-info__title">Sample article title</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="trending-card">
+                <a href="#" class="trending-card__link">
+                    <div class="trending-img__container">
+                        <span class="trending-card__index">04</span>
+                        <img src="./assets/images/trending/trending_4.jpg" alt="trending image 4" class="trending-card__img">
+                    </div>
+
+                    <div class="trending-info__container">
+                        <div class="trending-info">
+                            <span class="trending-info__date">23 Dec 2021</span>
+                            <span class="separator"></span>
+                            <span class="trending-info__read-time">3 Min read</span>
+                        </div>
+
+                        <h3 class="trending-info__title">Sample article title</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="trending-card">
+                <a href="#" class="trending-card__link">
+                    <div class="trending-img__container">
+                        <span class="trending-card__index">05</span>
+                        <img src="./assets/images/trending/trending_5.jpg" alt="trending image 5" class="trending-card__img">
+                    </div>
+
+                    <div class="trending-info__container">
+                        <div class="trending-info">
+                            <span class="trending-info__date">23 Dec 2021</span>
+                            <span class="separator"></span>
+                            <span class="trending-info__read-time">3 Min read</span>
+                        </div>
+
+                        <h3 class="trending-info__title">Sample article title</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Quick read -->
+    <section class="quick-read__container container">
+        <h3 class="quick-read__title offset-title" data-title="quick read">Quick read</h3>
+
+        <div class="quick-read__cards-container">
+            <div class="quick-read__card">
+                <img src="./assets/images/quick_read/quick_read_1.jpg" alt="quick read image" class="quick-read__img">
+
+                <div class="quick-read__info">
+                    <div>
+                        <span class="quick-read__date">23 Dec 2021</span>
+                        <span class="separator"></span>
+                        <span class="quick-read__read-time">3 Min read</span>
+                    </div>
+
+                    <h3 class="quick-read-card__title">Sample article title</h3>
+                </div>
+            </div>
+
+            <div class="quick-read__card">
+                <img src="./assets/images/quick_read/quick_read_2.jpg" alt="quick read image" class="quick-read__img">
+
+                <div class="quick-read__info">
+                    <span class="quick-read__date">23 Dec 2021</span>
+                    <span class="separator"></span>
+                    <span class="quick-read__read-time">3 Min read</span>
+                </div>
+                <h3 class="quick-read-card__title">Sample article title</h3>
+            </div>
+
+            <div class="quick-read__card">
+                <img src="./assets/images/quick_read/quick_read_3.jpg" alt="quick read image" class="quick-read__img">
+
+                <div class="quick-read__info">
+                    <span class="quick-read__date">23 Dec 2021</span>
+                    <span class="separator"></span>
+                    <span class="quick-read__read-time">3 Min read</span>
+                </div>
+                <h3 class="quick-read-card__title">Sample article title</h3>
+            </div>
+
+            <div class="quick-read__card">
+                <img src="./assets/images/quick_read/quick_read_4.jpg" alt="quick read image" class="quick-read__img">
+
+                <div class="quick-read__info">
+                    <span class="quick-read__date">23 Dec 2021</span>
+                    <span class="separator"></span>
+                    <span class="quick-read__read-time">3 Min read</span>
+                </div>
+                <h3 class="quick-read-card__title">Sample article title</h3>
+            </div>
+
+            <div class="quick-read__card">
+                <img src="./assets/images/quick_read/quick_read_5.jpg" alt="quick read image" class="quick-read__img">
+
+                <div class="quick-read__info">
+                    <span class="quick-read__date">23 Dec 2021</span>
+                    <span class="separator"></span>
+                    <span class="quick-read__read-time">3 Min read</span>
+                </div>
+                <h3 class="quick-read-card__title">Sample article title</h3>
+            </div>
+
+            <div class="quick-read__card">
+                <img src="./assets/images/quick_read/quick_read_6.jpg" alt="quick read image" class="quick-read__img">
+
+                <div class="quick-read__info">
+                    <span class="quick-read__date">23 Dec 2021</span>
+                    <span class="separator"></span>
+                    <span class="quick-read__read-time">3 Min read</span>
+                </div>
+                <h3 class="quick-read-card__title">Sample article title</h3>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Older posts -->
+    <section class="older-posts__container container">
+        <h3 class="older-posts__title offset-title" data-title="older posts">Older posts</h3>
+
+        <div class="older-posts-cards__container">
+            <div class="older-posts-card">
+                <img src="./assets/images/older_posts/older_posts_1.jpg" alt="older post img" class="older-posts__img"></img>
+
+                <div>
+                    <div class="older-posts__info">
+                        <span class="older-posts__date">23 Dec 2021</span>
+                        <span class="separator"></span>
+                        <span class="older-posts__read-time">3 Min read</span>
+                    </div>
+                    <h3 class="older-posts-card__title">Sample article title</h3>
+                    <p class="older-posts__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                </div>
+            </div>
+
+            <div class="older-posts-card">
+                <img src="./assets/images/older_posts/older_posts_2.jpg" alt="older post img" class="older-posts__img"></img>
+
+                <div>
+                    <div class="older-posts__info">
+                        <span class="older-posts__date">23 Dec 2021</span>
+                        <span class="separator"></span>
+                        <span class="older-posts__read-time">3 Min read</span>
+                    </div>
+                    <h3 class="older-posts-card__title">Sample article title</h3>
+                    <p class="older-posts__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                </div>
+            </div>
+
+            <div class="older-posts-card">
+                <img src="./assets/images/older_posts/older_posts_3.jpg" alt="older post img" class="older-posts__img"></img>
+
+                <div>
+                    <div class="older-posts__info">
+                        <span class="older-posts__date">23 Dec 2021</span>
+                        <span class="separator"></span>
+                        <span class="older-posts__read-time">3 Min read</span>
+                    </div>
+                    <h3 class="older-posts-card__title">Sample article title</h3>
+                    <p class="older-posts__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                </div>
+            </div>
+
+            <div class="older-posts-card">
+                <img src="./assets/images/older_posts/older_posts_4.jpg" alt="older post img" class="older-posts__img"></img>
+
+                <div>
+                    <div class="older-posts__info">
+                        <span class="older-posts__date">23 Dec 2021</span>
+                        <span class="separator"></span>
+                        <span class="older-posts__read-time">3 Min read</span>
+                    </div>
+                    <h3 class="older-posts-card__title">Sample article title</h3>
+                    <p class="older-posts__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                </div>
+            </div>
+
+            <div class="older-posts-card">
+                <img src="./assets/images/older_posts/older_posts_5.jpg" alt="older post img" class="older-posts__img"></img>
+
+                <div>
+                    <div class="older-posts__info">
+                        <span class="older-posts__date">23 Dec 2021</span>
+                        <span class="separator"></span>
+                        <span class="older-posts__read-time">3 Min read</span>
+                    </div>
+                    <h3 class="older-posts-card__title">Sample article title</h3>
+                    <p class="older-posts__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                </div>
+            </div>
+
+            <div class="older-posts-card">
+                <img src="./assets/images/older_posts/older_posts_6.jpg" alt="older post img" class="older-posts__img"></img>
+
+                <div>
+                    <div class="older-posts__info">
+                        <span class="older-posts__date">23 Dec 2021</span>
+                        <span class="separator"></span>
+                        <span class="older-posts__read-time">3 Min read</span>
+                    </div>
+                    <h3 class="older-posts-card__title">Sample article title</h3>
+                    <p class="older-posts__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique a tempore sapiente corporis, eaque fuga placeat odit voluptatibus.</p>
+                </div>
+            </div>
+        </div>
+
+        <a class="btn older-posts__more-btn" href="#">
+            <span>see more</span>
+            <i class="ri-arrow-right-s-line"></i>
+        </a>
+    </section>
+
+    <!-- Popular section -->
+    <section class="popular-container container">
+        <h3 class="popular__title offset-title" data-title="Popular tags">Popular tags</h3>
+
+        <div class="popular-cards__container">
+            <div class="popular__card">
+                <a class="popular-card__link" href="#">
+                    <img class="popular-card__img" src="./assets/images/tags/travel-tag.jpg" alt="">
+                    <span class="popular-card__tag">#Travel</span>
+                </a>
+            </div>
+
+            <div class="popular__card">
+                <a class="popular-card__link" href="#">
+                    <img class="popular-card__img" src="./assets/images/tags/food-tag.jpg" alt="">
+                    <span class="popular-card__tag">#Food</span>
+                </a>
+            </div>
+
+            <div class="popular__card">
+                <a class="popular-card__link" href="#">
+                    <img class="popular-card__img" src="./assets/images/tags/technology-tag.jpg" alt="">
+                    <span class="popular-card__tag">#Technology</span>
+                </a>
+            </div>
+
+            <div class="popular__card">
+                <a class="popular-card__link" href="#">
+                    <img class="popular-card__img" src="./assets/images/tags/health-tag.jpg" alt="">
+                    <span class="popular-card__tag">#Health</span>
+                </a>
+            </div>
+
+            <div class="popular__card">
+                <a class="popular-card__link" href="#">
+                    <img class="popular-card__img" src="./assets/images/tags/nature-tag.jpg" alt="">
+                    <span class="popular-card__tag">#Nature</span>
+                </a>
+            </div>
+
+            <div class="popular__card">
+                <a class="popular-card__link" href="#">
+                    <img class="popular-card__img" src="./assets/images/tags/fitness-tag.jpg" alt="">
+                    <span class="popular-card__tag">#Fitness</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter -->
+    <section class="newsletter__container container">
+        <h3 class="newsletter__title offset-title" data-title="Newsletter">Newsletter</h3>
+
+        <div class="newsletter__inner-container">
+            <h3 class="newsletter__inner-title">Subscribe to NewsFlash</h3>
+            <p class="newsletter__text">Lorem ipsum dolor sit amet consectetur adipisicing quaerat dignissimos.</p>
+
+            <form action="" class="newsletter__form">
+                <input type="email" class="newsletter__input" placeholder="Enter your email address">
+                <button class="newsletter__btn btn">
+                    <i class="ri-mail-send-line"></i>
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <footer class="footer__container container">
+        <div class="footer-info">
+            <h3 class="footer-info__title">NewsFlash</h3>
+            <p class="footer-info__text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, iure. Harum, animi dolores, nam, ad magni expedita.
+            </p>
+
+            <div class="footer-info__socials">
+                <a class="footer-info__social-link" href="#">
+                    <i class="ri-instagram-line"></i>
+                </a>
+
+                <a class="footer-info__social-link" href="#">
+                    <i class="ri-facebook-circle-line"></i>
+                </a>
+
+                <a class="footer-info__social-link" href="#">
+                    <i class="ri-twitter-line"></i>
+                </a>
+
+                <a class="footer-info__social-link" href="#">
+                    <i class="ri-pinterest-line"></i>
+                </a>
+            </div>
+
+            <span class="footer-info__copyright">&copy2021 NewsFlash. All right reserved.</span>
+        </div>
+        
+        <div class="footer-links__container">
+            <h3 class="footer-links__title">categories</h3>
+            <ul class="footer-links">
+                <li><a class="footer-link" href="#">Travel</a></li>
+                <li><a class="footer-link" href="#">Food</a></li>
+                <li><a class="footer-link" href="#">Technology</a></li>
+                <li><a class="footer-link" href="#">Health</a></li>
+                <li><a class="footer-link" href="#">Nature</a></li>
+                <li><a class="footer-link" href="#">Fitness</a></li>
+            </ul>
+
+        </div>
+        
+        <div class="footer-links__container">
+            <h3 class="footer-links__title">usefull links</h3>
+            <ul class="footer-links">
+                <li><a class="footer-link" href="#">Home</a></li>
+                <li><a class="footer-link" href="#">Elements</a></li>
+                <li><a class="footer-link" href="#">Tags</a></li>
+                <li><a class="footer-link" href="#">Authors</a></li>
+                <li><a class="footer-link" href="#">Membership</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-links__container">
+            <h3 class="footer-links__title">company</h3>
+            <ul class="footer-links">
+                <li><a class="footer-link" href="#">Contact us</a></li>
+                <li><a class="footer-link" href="#">F.A.Q</a></li>
+                <li><a class="footer-link" href="#">Carrers</a></li>
+                <li><a class="footer-link" href="#">Authors</a></li>
+                <li><a class="footer-link" href="#">Memberships</a></li>
+            </ul>
+        </div>
+    </footer>
+    
+</body>
+</html>

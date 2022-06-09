@@ -103,7 +103,7 @@ selection:
 
 cursor:
   style:
-    shape: Block
+    shape: Underline
     blinking: Always
 
   vi_mode_style: None

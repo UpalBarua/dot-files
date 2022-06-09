@@ -1,0 +1,12 @@
+[2022-06-03 13:11:25.639] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-03 13:11:25.663] [main] [info] update#setState idle
+[2022-06-03 13:11:25.868] [main] [info] ExtensionHostStarterWorker created
+[2022-06-03 13:11:29.375] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-03 13:11:29.542] [main] [info] Starting extension host with pid 5129 (fork() took 21 ms).
+[2022-06-03 13:11:29.542] [main] [info] ExtensionHostStarterWorker.start() took 23 ms.
+[2022-06-03 13:11:41.903] [main] [info] Enabling inspect port on extension host with pid 5129.
+[2022-06-03 13:11:55.669] [main] [info] update#setState checking for updates
+[2022-06-03 13:11:56.063] [main] [info] update#setState idle
+[2022-06-03 13:35:15.248] [main] [info] Waiting for extension host with pid 5129 to exit.
+[2022-06-03 13:35:15.417] [main] [info] Extension host with pid 5129 exited with code: 0, signal: null.
+[2022-06-03 13:35:15.512] [main] [warning] [storage main] detected slow close() operation: Time: 302ms, DB size: 49152b, Large Keys: terminal.integrated.bufferState:10459, memento/workbench.editors.files.textFileEditor:3901, workbench.view.extensions.state:1790, __$__targetStorageMarker:1545, memento/workbench.parts.editor:1083

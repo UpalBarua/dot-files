@@ -1,0 +1,48 @@
+:root {
+  --clr: limegreen;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  background-image: url('./bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.clock__face {
+  height: 16rem;
+  aspect-ratio: 1;
+  border: 6px solid var(--clr);
+  border-radius: 50%;
+  transform: rotate(90deg);
+  position: relative;
+}
+
+.clock__face > div {
+  height: 6px;
+  width: 6rem;
+  background-color: var(--clr);
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform-origin: 100%;
+  transition: transform .5s ease;
+}
+
+.clock__face > .clock__hour-hand {
+  height: 6px;
+  width: 2rem;
+}
+
+.clock__face > .clock__minute-hand {
+  height: 4px;
+  width: 4rem;
+}

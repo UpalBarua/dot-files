@@ -88,7 +88,7 @@ Print
     notify-send "Screenshot" "screenshot saved"
 
 shift + Print
-    scrot -e '/tmp/screenshot.png' -e 'xclip -selection clipboard -target image/png -i $f';\
+    scrot '/tmp/%F_%T_$wx$h.png' -e 'xclip -selection clipboard -target image/png -i $f';\
     notify-send "Screenshot" "screenshot copied"
 
 super + Print

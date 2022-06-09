@@ -1,0 +1,8 @@
+[2022-06-07 10:41:30.648] [sharedprocess] [info] Starting worker process with pid 12468 (type: fileWatcher, window: 1).
+[2022-06-07 10:41:35.911] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-06-07 10:41:37.776] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-06-07 10:41:40.333] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/upalb/.config/VSCodium/CachedExtensionVSIXs/pkief.material-icon-theme-4.18.0
+[2022-06-07 10:41:42.571] [sharedprocess] [info] Extracted extension to /home/upalb/.vscode-oss/extensions/.7b673ef7-aa78-47f8-a28f-feecdbd17ba1: pkief.material-icon-theme
+[2022-06-07 10:41:42.697] [sharedprocess] [info] Renamed to /home/upalb/.vscode-oss/extensions/pkief.material-icon-theme-4.18.0
+[2022-06-07 10:41:42.706] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-06-07 10:41:42.859] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme

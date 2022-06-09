@@ -1,0 +1,10 @@
+[2022-06-03 15:13:57.097] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-03 15:13:57.372] [main] [info] update#setState idle
+[2022-06-03 15:13:58.315] [main] [info] ExtensionHostStarterWorker created
+[2022-06-03 15:14:05.235] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-03 15:14:05.543] [main] [info] Starting extension host with pid 11889 (fork() took 18 ms).
+[2022-06-03 15:14:05.543] [main] [info] ExtensionHostStarterWorker.start() took 20 ms.
+[2022-06-03 15:14:08.172] [main] [info] Waiting for extension host with pid 11889 to exit.
+[2022-06-03 15:14:08.762] [main] [warning] [storage main] detected slow close() operation: Time: 596ms, DB size: 49152b, Large Keys: terminal.integrated.bufferState:10459, memento/workbench.editors.files.textFileEditor:3901, workbench.view.extensions.state:1790, __$__targetStorageMarker:1545, memento/workbench.parts.editor:1081
+[2022-06-03 15:14:08.771] [main] [warning] [storage main] detected slow close() operation: Time: 607ms, DB size: 450560b, Large Keys: iconThemeData:397973, colorThemeData:6949, workbench.activity.placeholderViewlets:3375, __$__targetStorageMarker:1589, workbench.view.extensions.state.hidden:1525
+[2022-06-03 15:14:09.640] [main] [info] Extension host with pid 11889 exited with code: 0, signal: null.

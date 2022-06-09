@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "/home/upalb/NewsFlash"
+    },
+    {
+      "path": "/home/upalb/dot-files"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "NewsFlash"
+  }
+}

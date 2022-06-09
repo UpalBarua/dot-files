@@ -46,7 +46,7 @@ call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'norcalli/nvim-colorizer.lua'
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'mattn/emmet-vim'
-  " Plug 'sheerun/vim-polyglot'
+  Plug 'sheerun/vim-polyglot'
   Plug 'junegunn/fzf.vim'
   Plug 'https://github.com/tpope/vim-commentary'
   Plug 'https://github.com/ryanoasis/vim-devicons'
@@ -65,6 +65,7 @@ let g:user_emmet_leader_key=','
 nnoremap <leader>\ ``
 
 nnoremap <leader>e :CocCommand explorer<CR>
+nnoremap <leader><leader>p :CocCommand prettier.forceFormatDocument<CR>
 
 " Type jj to exit insert mode quickly.
 inoremap jk <Esc>

@@ -1,9 +1,0 @@
-[2022-06-02 10:53:08.550] [sharedprocess] [info] Starting worker process with pid 5313 (type: fileWatcher, window: 1).
-[2022-06-02 10:53:09.809] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
-[2022-06-02 10:53:59.911] [sharedprocess] [info] Getting Manifest... matt-rudge.auto-open-preview-panel
-[2022-06-02 10:54:00.125] [sharedprocess] [info] Installing extension: matt-rudge.auto-open-preview-panel
-[2022-06-02 10:54:03.697] [sharedprocess] [info] Downloaded extension: matt-rudge.auto-open-preview-panel /home/upalb/.config/VSCodium/CachedExtensionVSIXs/matt-rudge.auto-open-preview-panel-0.0.6
-[2022-06-02 10:54:07.845] [sharedprocess] [info] Extracted extension to /home/upalb/.vscode-oss/extensions/.14abc38c-62e6-4d29-959f-ba9b531ec98d: matt-rudge.auto-open-preview-panel
-[2022-06-02 10:54:07.913] [sharedprocess] [info] Renamed to /home/upalb/.vscode-oss/extensions/matt-rudge.auto-open-preview-panel-0.0.6
-[2022-06-02 10:54:07.916] [sharedprocess] [info] Extracting completed. matt-rudge.auto-open-preview-panel
-[2022-06-02 10:54:07.921] [sharedprocess] [info] Extension installed successfully: matt-rudge.auto-open-preview-panel
