@@ -23,4 +23,4 @@ for your own machine.
 
 ![Image 1](./screenshots/nord-1.png)
 ![Image 2](./screenshots/nord-2.png)
-![Image 3](./screenshots/nord-3.png
+![Image 3](./screenshots/nord-3.png)
