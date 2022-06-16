@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "../../../homepage"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "NewsFlash"
+  }
+}

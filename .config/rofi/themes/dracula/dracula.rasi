@@ -1,11 +1,11 @@
 @theme "/dev/null"
 
 * {
-  font: "SFMono Nerd Font 10";
+  font: "CodeNewRoman Nerd Font 11";
 
   bg: #282a36;
   fg: #f8f8f2;
-  ac: #ff79c6;
+  ac: #bd93f9;
 
   background-color: @bg;
   
@@ -17,6 +17,9 @@
 
 window {
   width: 35%;
+  border: 2px;
+  border-radius: 8px;
+  border-color: @ac;
 }
 
 element {

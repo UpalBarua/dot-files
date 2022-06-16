@@ -1,0 +1,78 @@
+#!/bin/env bash
+
+##---------- Autostart programs ----------##
+# kill existing process
+killall -9 sxhkd picom dunst greenclip xidlehook;
+
+sxhkd &
+$HOME/.fehbg &
+$HOME/.config/polybar/scripts/launch.sh &
+picom -b &
+dunst &
+greenclip daemon &
+$HOME/.config/bspwm/scripts/power-manager &
+$HOME/.config/bspwm/scripts/low-battery-notifier &
+/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
+xsetroot -cursor_name left_ptr &
+
+##---------- Bspwm configuration ----------## 
+bspc monitor -d 1 2 3 4 5 6
+
+bspc config border_radius                 0
+bspc config border_width                  2
+bspc config window_gap                    6
+
+bspc config top_padding                   30
+bspc config bottom_padding                0
+bspc config left_padding                  0
+bspc config right_padding                 0
+
+bspc config single_monocle                false
+bspc config click_to_focus                true
+bspc config split_ratio                   0.50
+bspc config borderless_monocle            true
+bspc config gapless_monocle               true
+bspc config paddingless_monocle           true
+bspc config focus_by_distance             true
+bspc config focus_follows_pointer         true
+bspc config history_aware_focus           true
+bspc config remove_disabled_monitors      true
+bspc config merge_overlapping_monitors    true
+bspc config ignore_ewmh_focus 		  	  true
+
+# Modkey settings
+bspc config pointer_modifier mod4
+bspc config pointer_action1 move
+bspc config pointer_action2 resize_side
+bspc config pointer_action3 resize_corner
+
+# Border colors
+bspc config normal_border_color "#002b36"
+bspc config active_border_color "#002b36"
+bspc config focused_border_color "#2aa198"
+bspc config presel_feedback_color "#2aa198"
+
+##---------- Bspc rules ----------##
+bspc rule -a Chromium desktop='^2'
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+bspc rule -a Brave-browser desktop=^2 state=tiled follow=false
+bspc rule -a Thunar state=floating follow=on
+bspc rule -a Rhythmbox state=tiled desktop=^4 follow=on
+bspc rule -a VSCodium state=tiled desktop=^1 follow=false
+bspc rule -a Pulsemixer state=tiled desktop=^3 follow=on
+bspc rule -a Nitrogen state=floating follow=on
+bspc rule -a Gpick state=floating follow=on
+bspc rule -a Lxappearance state=floating follow=on
+bspc rule -a Timeshift-gtk state=floating follow=on
+bspc rule -a Xfce4-power-manager-settings state=floating follow=on
+bspc rule -a Pavucontrol state=floating follow=on
+bspc rule -a Engrampa state=floating follow=on
+bspc rule -a Zathura state=tiled follow=on
+bspc rule -a Anki desktop=^1 state=monocole follow=false
+bspc rule -a stacer state=floating
+bspc rule -a Lightdm-gtk-greeter-settings state=floating
+bspc rule -a Emacs state=tiled
+
+##---------- EOF ----------##

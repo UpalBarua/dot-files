@@ -43,7 +43,7 @@ cmd trash-clear &rm -rf ~/.trash/*
 
 # Fuzzy file finder
 cmd fzf_jump ${{
-  res="$(find . -maxdepth 3 | fzf --reverse --header='Jump to location')"
+  res="$(find . -maxdepth 3 | fzf --header='Jump to location')"
   if [ -f "$res" ]; then
     cmd="select"
   elif [ -d "$res" ]; then
@@ -74,6 +74,7 @@ cmd tarbz2 %tar cjvf "$f.tar.bz2" "$f"
 # Settings image as wallpaper
 # cmd setwallpaper &nitrogen --set-scaled "$f" --save 
 cmd setwallpaper %feh --bg-scale "$f"
+cmd gonord %python src/cli.py --img="$f"
 cmd setlockscreen %betterlockscreen -u "$f" --fx 0 &
 cmd copyimg %xclip -selection clipboard -target image/png -i "$f"
 

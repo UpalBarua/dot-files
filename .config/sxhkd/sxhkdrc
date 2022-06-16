@@ -24,16 +24,26 @@ super + alt + {b, v, t, w, a, s, x, i, g, p, n, d}
     {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app, zathura}
 
 # launching tui applications
-super + alt + {f, m, y, z, c, r, l}
-    $TERMINAL -e {lfub, cmus, btop, htop, nvim, newsboat, lfub}
+super + alt + {f, m, y, z, c, r}
+    $TERMINAL -e {lfub, ncmpcpp, btop, htop, nvim, newsboat}
 
 alt + t
     transmission-daemon;\
     notify-send "Transmission" "daemon started"
 
+alt + m
+    killall -9 mpd;\
+    mpd;\
+    notify-send "Music" "mpd started"
+
 super + alt + F12
     notify-send "Keyboard" "bangla keybord daemon started";\
     ibus-daemon -drxR
+
+# MPD controls
+super + alt + {comma, period, slash}
+   mpc {prev, next, toggle}
+
 
 
 ## Rofi launchers ===========================================
@@ -97,7 +107,7 @@ super + Print
 
 # changing a random wallpaper
 alt + r
-    feh --bg-scale --randomize "$HOME/Pictures/Wallpapers/Solarized Wallpapers/"
+    feh --bg-fill --randomize $HOME/Pictures/Wallpapers/Nord\ Wallpapers/*
 
 
 ## wm independent hotkeys ===============================

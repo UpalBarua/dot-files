@@ -1,0 +1,125 @@
+["INFO" - 8:09:47 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 8:09:47 PM] Extension Version: 9.5.0.
+["INFO" - 8:10:08 PM] Formatting file:///home/upalb/.config/VSCodium/Workspaces/1654163437602/workspace.json
+["INFO" - 8:10:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:10:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:10:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/Workspaces/1654163437602/workspace.json",
+  "parser": "json"
+}
+["INFO" - 8:10:08 PM] Formatting completed in 0.7ms.
+["INFO" - 8:10:52 PM] Formatting file:///home/upalb/.config/alacritty/alacritty.yml
+["INFO" - 8:10:52 PM] Using ignore file (if present) at /home/upalb/.prettierignore
+["INFO" - 8:10:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:10:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:10:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/alacritty/alacritty.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:10:52 PM] Formatting completed in 0.373ms.
+["INFO" - 8:11:08 PM] Formatting file:///home/upalb/.config/alacritty/alacritty.yml
+["INFO" - 8:11:09 PM] Using ignore file (if present) at /home/upalb/.prettierignore
+["INFO" - 8:11:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:11:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:11:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/alacritty/alacritty.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:11:09 PM] Formatting completed in 0.173ms.
+["INFO" - 8:11:39 PM] Formatting file:///home/upalb/.config/alacritty/alacritty.yml
+["INFO" - 8:11:39 PM] Using ignore file (if present) at /home/upalb/.prettierignore
+["INFO" - 8:11:39 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "yaml"
+}
+["INFO" - 8:11:39 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:11:39 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/alacritty/alacritty.yml",
+  "parser": "yaml"
+}
+["INFO" - 8:11:39 PM] Formatting completed in 0.116ms.

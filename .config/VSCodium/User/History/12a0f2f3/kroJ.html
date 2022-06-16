@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/style.min.css">
+  <!-- JS -->
+  <script src="./js/index.js" defer></script>
+  <!-- SwiperJS -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
+  <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+  <!-- Scrollreveal -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/2.0.0/scrollReveal.min.js" defer></script>
+  <title>Cris Paul</title>
+</head>
+<body>
+  <!-- HEADER -->
+  <header class="header">
+    <nav class="navbar container">
+      <a href="index.html" class="navbar__logo">
+        <img src="./images/logo.svg" alt="" class="navbar__logo-img">
+      </a>
+
+      <div class="navbar__menu fw-500 text-light-alt fs-2 bg-dark" id="navbar__menu">
+        <ul class="navbar__list">
+          <li class="navbar__list-item"><a href="#" class="navbar__list-link">Home</a></li>
+          <li class="navbar__list-item"><a href="#" class="navbar__list-link">Portfolio</a></li>
+          <li class="navbar__list-item"><a href="#" class="navbar__list-link">Services</a></li>
+          <li class="navbar__list-item"><a href="#" class="navbar__list-link">About me</a></li>
+          <li class="navbar__list-item"><a href="#" class="navbar__list-link">Blog</a></li>
+        </ul>
+      </div>
+
+      <div class="navbar__btn-group">
+        <button class="navbar__contact-btn btn underline ff-title text-white fs-3">contact me</button>
+
+        <button class="navbar__menu-toggle btn lg-hidden" id="navbar__menu-toggle">
+          <svg width="19" height="14" viewBox="0 0 19 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.3333 0.999999L0.999918 1" stroke="#fff" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path d="M17.3333 6.83333L0.999916 6.83333" stroke="#fff" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path d="M10.3333 12.6667L0.999918 12.6667" stroke="#fff" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+          </svg>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- MAIN -->
+  <main class="main container">
+    <h1 class="main__title ff-title">hello, i'm cris paul, a professional photographer. </h1>
+
+    <picture class="main__img">
+      <source srcset="./images/showcase_image_lg.png" media="(min-width: 48em)">
+      <img src="./images/showcase_image_sm.png" alt="">
+    </picture>
+  </main>
+
+  <!-- WORKS -->
+  <section class="works container">
+    <h2 class="works__title ff-title fs-4 letter-spacing-1">my works</h2>
+    <div class="works__cards-container swiper my-swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/400x400" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/401x400" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/400x401" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/402x400" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/400x402" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/403x400" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/400x403" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/404x400" />
+      </div>
+
+      <div class="swiper-slide">
+        <img src="https://source.unsplash.com/400x404" />
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="services bg-dark">
+    <div class="services__container-top">
+      <h2 class="services__title ff-title fs-4 letter-spacing-1">services that i provide</h2>
+      <p class="services__text">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa dolor quod fugit maiores. Ullam natus porro est facere autem odit nemo, magnam eligendi reprehenderit eius?
+      </p>
+    </div>
+
+    <div class="services__container-bottom">
+      <picture class="services__img">
+        <img src="./images/cris_paul.png" alt="">
+      </picture>
+
+      <div class="services__cards-container">
+        <div class="services__card">
+          <i class="ri-camera-3-line"></i>
+          <h3 class="services__card-title ff-title fs-3 letter-spacing-1">photography</h3>
+          <p class="photography__card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat cum alias debitis inventore modi ab, impedit reiciendis tenetur veniam voluptas!</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

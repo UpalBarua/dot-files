@@ -22,7 +22,6 @@ set selection-clipboard clipboard
 
 #zoom settings
 set zoom-min 10
-set guioptions ""
 
-set font "SFMono Nerd Font 15"
-include solarized-dark
+set font "CodeNewRoman Nerd Font 12"
+include nord 

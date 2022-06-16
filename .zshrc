@@ -109,8 +109,9 @@ setopt no_auto_menu  # require an extra TAB press to open the completion menu
 
 ##--------------- Aliases --------------##
 # Navigation
-alias l="exa -bls type --icons"
-alias ll="exa -balGs type --icons"
+alias l="exa -lG --icons --no-user --sort=extension --group-directories-first"
+alias ll="exa -laG --icons --no-user --sort=extension --group-directories-first"
+alias lt="exa -laT --icons --no-user --sort=extension --group-directories-first --level=2"
 alias e="exit"
 alias k="killall -9"
 
@@ -185,3 +186,6 @@ alias roc='nvim ~/.config/rofi/config.rasi'
 alias zrc='nvim ~/.zshrc'
 alias vrc='nvim ~/.config/nvim/init.vim'
 alias lrc='nvim ~/.config/lf/lfrc'
+alias arc='nvim ~/.config/alacritty/alacritty.yml'
+
+# --------------- EOF --------------- #

@@ -7,7 +7,7 @@ set fileencoding=utf-8
 set number
 set relativenumber
 set cursorline
-set cursorcolumn
+" set cursorcolumn
 set shiftwidth=4
 set tabstop=2
 set expandtab
@@ -36,7 +36,6 @@ set noswapfile
 "--------------- Plugins ---------------"
 call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'mhinz/vim-startify'
-  Plug 'overcache/NeoSolarized'
   Plug 'tpope/vim-surround'
   Plug 'mg979/vim-visual-multi', {'branch': 'master'}
   Plug 'jiangmiao/auto-pairs'
@@ -51,11 +50,22 @@ call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'https://github.com/tpope/vim-commentary'
   Plug 'https://github.com/ryanoasis/vim-devicons'
   Plug 'liuchengxu/vim-which-key'
+  Plug 'arcticicestudio/nord-vim'
 call plug#end()
 
 "--------------- Colorscheme Settings ---------------"
-colorscheme NeoSolarized
+colorscheme nord
 lua require'colorizer'.setup()
+
+" Transparent background.
+hi Normal guibg=none ctermbg=none
+hi LineNr guibg=none ctermbg=none
+hi Folded guibg=none ctermbg=none
+hi NonText guibg=none ctermbg=none
+hi SpecialKey guibg=none ctermbg=none
+hi VertSplit guibg=none ctermbg=none
+hi SignColumn guibg=none ctermbg=none
+hi EndOfBuffer guibg=none ctermbg=none
 
 "--------------- Keybindings ---------------"
 let mapleader = " "

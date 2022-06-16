@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Code/Cris-paul"
+    },
+    {
+      "path": "../../../../04 - Array Cardio Day 1"
+    },
+    {
+      "path": "../../../.."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "04 - Array Cardio Day 1",
+    "liveSassCompile.settings.showOutputWindowOn": "None"
+  }
+}

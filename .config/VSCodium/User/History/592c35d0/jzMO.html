@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <title>CSS Vars</title>
+</head>
+<body>
+  <main class="main__container">
+    <h1 class="main__title">Update CSS variables with <span class="highlight">JS</span></h1>
+
+    <div class="main__controls">
+      <label for="spacing">spacing </label>
+      <input type="range" name="spacing" min="10" max="50" value="10" class="spacing-slider">
+
+      <label for="blur">blur </label>
+      <input type="range" name="blur" min="0" max="20" value="0" class="blur-slider">
+
+      <label for="color">spacing </label>
+      <input type="color" name="spacing" value="#247B7B" class="color-selector">
+    </div>
+
+    <img src="./main.jpg" alt="Main image" class="main__img">
+  </main>
+  
+  <script src="./index.js"></script>
+</body>
+</html>

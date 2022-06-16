@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Code/Javascript/JS30/cssVars"
+    },
+    {
+      "path": "../../../homepage"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "NewsFlash"
+  }
+}

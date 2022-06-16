@@ -1,0 +1,95 @@
+@import './variables';
+@import './mixins';
+@import './resets';
+@import './utils';
+@import './navbar';
+
+/*---------- MAIN ----------*/
+.main {
+  padding-top: 15rem;
+  padding-bottom: 8rem;
+  display: grid;
+  place-items: center;
+  text-align: center;
+
+  &__title {
+    font-size: clamp(2rem, 12vw + 1rem, 8rem);
+    line-height: 1.3;
+    letter-spacing: 1px;
+    background: url("../images/showcase_image_lg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 40%;
+    background-clip: text;
+    color: transparent;
+    z-index: 10;
+
+    @include for-tablet {
+      background-position: center 60%;
+    }
+  }
+
+  &__img {
+    transform: translateY(-5rem);
+
+    @include for-tablet {
+      transform: translateY(-7rem);
+    }
+  }
+}
+
+/*---------- WORKS ----------*/
+.works {
+  padding-block: 5rem;
+
+  &__title {
+    padding-bottom: 6rem;
+  }
+
+  .swiper {
+    &-slide {
+      display: grid;
+      place-items: center;
+      background-size: cover;
+      background-position: center;
+      height: auto;
+      width: auto;
+    }
+  }
+}
+
+/*---------- SERVICES ----------*/
+.services {
+  &__container {
+    padding-block: 5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+
+    @include for-tablet {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  &__text {
+    padding-block: 1.75rem;
+  }
+
+  &__img {
+    padding-block: 3rem;
+  }
+
+  &__cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2.65rem;
+  }
+
+  &__card > * {
+    padding-bottom: 1.65rem;
+  }
+}
+
+/*---------- EOF ----------*/
+/*---------- EOF ----------*/
+/*---------- EOF ----------*/
+

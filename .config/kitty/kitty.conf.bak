@@ -6,7 +6,7 @@
 #: individual font faces and even specify special fonts for particular
 #: characters.
 
-font_family      SFMono Nerd Font
+font_family      CodeNewRoman Nerd Font
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
@@ -217,7 +217,7 @@ cursor_underline_thickness 2.0
 
 #: Defines the thickness of the underline cursor (in pts)
 
-cursor_blink_interval 1.0 
+cursor_blink_interval 0.5 
 
 #: The interval (in seconds) at which to blink the cursor. Set to zero
 #: to disable blinking. Negative values mean use system default. Note
@@ -2033,6 +2033,6 @@ map opt+cmd+,    debug_config
 
 
 # BEGIN_KITTY_THEME
-# Dracula
+# Solarized Dark
 include current-theme.conf
 # END_KITTY_THEME

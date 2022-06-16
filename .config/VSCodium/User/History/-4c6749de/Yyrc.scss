@@ -1,0 +1,151 @@
+@import 'resets';
+@import 'variables';
+@import 'utils';
+@import 'mixins';
+
+/*---------- NAVBAR ----------*/
+.header {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  transition: box-shadow 100ms ease-in-out;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 2rem;
+  background-color: $clr-dark-alt;
+
+  &__logo-img {
+    transform: scale(1.2);
+  }
+
+  &__menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 60%;
+    transition: transform 300ms ease-in-out, opacity 400ms ease;
+    transform: translateX(-100%);
+    opacity: 0;
+    z-index: 999;
+
+    @include for-tablet() {
+      position: initial;
+      height: initial;
+      width: initial;
+      background-color: initial;
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  &__list-item {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid $clr-light;
+
+    @include for-tablet {
+      display: inline-block;
+      border: none;
+      padding: 0 0.75rem;
+    }
+  }
+
+  &__menu-toggle {
+    transform: scale(1.8);
+    margin-left: 2rem;
+  }
+}
+
+/*---------- MAIN ----------*/
+.main {
+  padding-top: 15rem;
+  padding-bottom: 8rem;
+  display: grid;
+  place-items: center;
+  text-align: center;
+
+  &__title {
+    font-size: clamp(2rem, 12vw + 1rem, 8rem);
+    line-height: 1.3;
+    letter-spacing: 1px;
+    background: url("../images/showcase_image_lg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 40%;
+    background-clip: text;
+    color: transparent;
+    z-index: 10;
+
+    @include for-tablet {
+      background-position: center 60%;
+    }
+  }
+
+  &__img {
+    transform: translateY(-5rem);
+
+    @include for-tablet {
+      transform: translateY(-7rem);
+    }
+  }
+}
+
+/*---------- WORKS ----------*/
+.works {
+  padding-block: 5rem;
+
+  &__title {
+    padding-bottom: 6rem;
+  }
+
+  .swiper {
+    &-slide {
+      display: grid;
+      place-items: center;
+      background-size: cover;
+      background-position: center;
+      height: auto;
+      width: auto;
+    }
+  }
+}
+
+/*---------- SERVICES ----------*/
+.services {
+  &__container {
+    padding-block: 15rem;
+    display: grid;
+    grid-template-columns: 1fr;
+
+    @include for-tablet {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  &__text {
+    padding-block: 1.75rem;
+  }
+
+  &__img {
+    padding-block: 3rem;
+  }
+
+  &__cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2.65rem;
+  }
+
+  &__card > * {
+    padding-bottom: 1.65rem;
+  }
+}
+
+/*---------- EOF ----------*/
+/*---------- EOF ----------*/
+/*---------- EOF ----------*/
+

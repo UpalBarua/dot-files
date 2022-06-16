@@ -1,0 +1,12 @@
+[2022-06-14 21:05:51.112] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-14 21:05:51.240] [main] [info] update#setState idle
+[2022-06-14 21:05:51.472] [main] [info] ExtensionHostStarterWorker created
+[2022-06-14 21:05:57.017] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-14 21:05:57.321] [main] [info] Starting extension host with pid 64700 (fork() took 18 ms).
+[2022-06-14 21:05:57.322] [main] [info] ExtensionHostStarterWorker.start() took 21 ms.
+[2022-06-14 21:06:05.755] [main] [info] Enabling inspect port on extension host with pid 64700.
+[2022-06-14 21:06:21.241] [main] [info] update#setState checking for updates
+[2022-06-14 21:06:21.806] [main] [info] update#setState available for download
+[2022-06-14 21:34:34.664] [main] [info] Extension host with pid 64700 exited with code: 0, signal: null.
+[2022-06-14 21:34:35.082] [main] [warning] [storage main] detected slow close() operation: Time: 615ms, DB size: 90112b, Large Keys: terminal.integrated.bufferState:27081, memento/workbench.editors.files.textFileEditor:20517, history.entries:4881, workbench.view.extensions.state:1811, __$__targetStorageMarker:1563
+[2022-06-14 21:34:35.096] [main] [warning] [storage main] detected slow close() operation: Time: 633ms, DB size: 487424b, Large Keys: iconThemeData:421981, colorThemeData:26441, workbench.activity.placeholderViewlets:3375, __$__targetStorageMarker:1790, workbench.view.extensions.state.hidden:1525

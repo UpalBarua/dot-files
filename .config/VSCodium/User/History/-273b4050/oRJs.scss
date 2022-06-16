@@ -1,0 +1,51 @@
+/*---------- GLOBAL RESETS ----------*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background-color: $clr-dark-alt;
+  color: $clr-light;
+  font-family: $ff-text;
+  line-height: 1.5;
+  font-size: 1.6rem;
+}
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+input,
+textarea,
+button,
+select {
+  font: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.1;
+}

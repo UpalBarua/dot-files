@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "/home/upalb/NewsFlash"
+    },
+    {
+      "path": "../../../../cssVars"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "cssVars"
+  }
+}

@@ -1,7 +1,7 @@
 @theme "/dev/null"
 
 * {
-  font: "SFMono Nerd Font 10";
+  font: "CodeNewRoman Nerd Font 11";
 
   bg: #002b36;
   fg: #839496;

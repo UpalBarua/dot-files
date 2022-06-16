@@ -1,0 +1,431 @@
+[2022-06-14 21:06:01.258] [exthost] [info] Extension host with pid 64700 started
+[2022-06-14 21:06:01.258] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-06-14 21:06:02.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-14 21:06:02.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-14 21:06:02.917] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-14 21:06:03.054] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-06-14 21:06:05.589] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-06-14 21:06:05.697] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-06-14 21:06:10.753] [exthost] [info] Not activating extension 'glenn2223.live-sass': Timed out while searching for 'workspaceContains' pattern **/*.s[ac]ss
+[2022-06-14 21:06:11.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-14 21:06:11.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-14 21:06:12.070] [exthost] [info] Eager extensions activated
+[2022-06-14 21:06:12.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:12.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:12.309] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:12.403] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:12.743] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:13.776] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:14.045] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:20.732] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-14 21:06:22.051] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1084
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.350] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:06:23.351] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:21.330] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-14 21:08:27.176] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:27.194] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:08:31.264] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1084
+[2022-06-14 21:08:36.473] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1083
+[2022-06-14 21:08:41.662] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1083
+[2022-06-14 21:08:46.861] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1083
+[2022-06-14 21:08:52.058] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1083
+[2022-06-14 21:08:57.259] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1083
+[2022-06-14 21:09:02.449] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1083
+[2022-06-14 21:09:07.672] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1083
+[2022-06-14 21:09:12.895] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1084
+[2022-06-14 21:09:18.096] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1085
+[2022-06-14 21:09:23.311] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1084
+[2022-06-14 21:09:28.505] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1084
+[2022-06-14 21:09:33.725] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1084
+[2022-06-14 21:09:38.974] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1085
+[2022-06-14 21:09:44.199] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1085
+[2022-06-14 21:09:49.420] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1085
+[2022-06-14 21:09:54.610] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:09:59.804] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:10:04.992] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:10:10.173] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:10:15.383] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:10:20.578] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:10:25.875] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:10:31.147] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:11:53.642] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:11:58.836] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:04.017] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:09.209] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:14.392] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:19.600] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:24.858] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:30.072] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:35.270] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:40.456] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:45.649] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:50.836] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:12:56.028] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:13:01.213] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:13:06.400] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:13:35.784] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:13:40.976] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+[2022-06-14 21:13:46.183] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1087
+[2022-06-14 21:14:04.899] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1087
+[2022-06-14 21:14:21.622] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1088
+[2022-06-14 21:14:26.809] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1089
+[2022-06-14 21:14:32.004] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1088
+[2022-06-14 21:14:37.185] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1088
+[2022-06-14 21:14:42.375] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1088
+[2022-06-14 21:14:47.613] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1088
+[2022-06-14 21:14:52.801] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1089
+[2022-06-14 21:14:58.002] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1089
+[2022-06-14 21:14:59.529] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/bspwm/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:14:59.529] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/bspwm/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:14:59.529] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/bspwm/scripts' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:15:03.197] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1089
+[2022-06-14 21:15:08.469] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:15:13.663] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:15:18.874] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:15:38.379] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:15:43.584] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:15:48.776] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:15:54.037] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:15:59.234] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1090
+[2022-06-14 21:16:04.417] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1091
+[2022-06-14 21:16:09.648] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1091
+[2022-06-14 21:16:14.836] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1091
+[2022-06-14 21:16:20.017] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1091
+[2022-06-14 21:16:25.197] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1091
+[2022-06-14 21:16:30.384] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1091
+[2022-06-14 21:16:35.601] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1092
+[2022-06-14 21:16:40.798] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1092
+[2022-06-14 21:16:46.103] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1092
+[2022-06-14 21:16:51.341] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1092
+[2022-06-14 21:16:56.584] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1094
+[2022-06-14 21:16:57.554] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:16:57.554] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:16:57.554] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:16:57.554] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:16:57.555] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:16:57.555] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:16:57.555] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:01.776] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1094
+[2022-06-14 21:17:06.988] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1092
+[2022-06-14 21:17:11.632] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:11.632] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:11.632] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:11.632] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:11.632] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:12.178] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1092
+[2022-06-14 21:17:13.567] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes/nord/nord-powermenu.rasi' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:13.571] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/rofi/themes/nord/nord-powermenu.rasi' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:17:17.363] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1092
+[2022-06-14 21:17:22.556] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1093
+[2022-06-14 21:17:27.800] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1094
+[2022-06-14 21:17:33.006] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1095
+[2022-06-14 21:17:38.241] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1094
+[2022-06-14 21:17:43.427] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1094
+[2022-06-14 21:17:48.620] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1094
+[2022-06-14 21:17:53.799] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1095
+[2022-06-14 21:17:58.987] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1098
+[2022-06-14 21:18:04.181] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1098
+[2022-06-14 21:18:09.377] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1098
+[2022-06-14 21:18:14.570] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:19.760] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:25.003] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:30.232] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:35.423] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:40.674] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:45.903] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:51.092] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:18:56.293] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:19:01.506] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:19:06.717] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:19:11.916] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+[2022-06-14 21:19:17.108] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1098
+[2022-06-14 21:19:22.294] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1098
+[2022-06-14 21:19:27.484] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:19:32.690] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:19:37.875] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:19:43.072] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:19:48.317] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:19:53.516] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:19:58.747] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:03.970] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:09.164] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:14.402] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:19.594] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:24.637] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/zathura/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:20:24.637] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/zathura/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:20:24.637] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/zathura/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:20:24.637] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/zathura/catpuccin' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:20:24.792] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:30.016] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:35.239] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:40.498] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:45.716] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:50.931] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:20:56.150] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:21:01.338] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:21:06.558] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:21:11.779] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:21:16.985] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:21:22.196] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:21:27.390] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+[2022-06-14 21:21:32.595] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:21:37.780] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:21:42.977] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:21:48.173] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:21:53.376] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:21:58.634] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:03.833] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:09.028] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:14.217] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:19.397] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:24.576] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:29.802] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:35.004] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:40.205] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:45.399] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:50.587] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:22:55.797] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:01.010] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:06.221] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:11.416] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:16.698] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:21.939] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:27.126] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:32.321] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:37.519] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:42.721] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:47.908] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:53.108] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:23:58.304] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:03.501] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:08.754] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:13.994] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:19.267] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:24.492] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:29.734] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:35.020] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:40.265] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:45.504] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:50.728] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:24:55.990] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:01.201] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:06.424] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:11.833] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:18.206] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:23.447] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:28.721] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:33.932] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+[2022-06-14 21:25:39.198] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1103
+[2022-06-14 21:25:44.396] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1103
+[2022-06-14 21:25:49.628] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1103
+[2022-06-14 21:25:54.829] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1103
+[2022-06-14 21:26:00.039] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1103
+[2022-06-14 21:26:05.235] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:26:10.421] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1103
+[2022-06-14 21:26:15.622] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1103
+[2022-06-14 21:26:20.816] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:26:32.290] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:26:37.479] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:26:42.689] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:26:47.894] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+[2022-06-14 21:26:53.106] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:26:58.306] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:03.569] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:08.845] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:14.043] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:19.231] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:24.427] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:29.651] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:34.869] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:40.066] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:45.254] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:50.449] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:27:55.653] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:28:00.850] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:28:06.037] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+[2022-06-14 21:28:11.254] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+[2022-06-14 21:28:16.438] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+[2022-06-14 21:28:21.665] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+[2022-06-14 21:28:26.912] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:28:32.133] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+[2022-06-14 21:28:37.336] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:28:42.538] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:28:47.740] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:28:52.933] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:28:58.121] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:03.315] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:08.564] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:13.775] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:18.978] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:24.249] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:29.456] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:34.642] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:39.901] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:45.112] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:50.310] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:29:55.577] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:00.783] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:05.979] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:11.336] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:17.423] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:22.620] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:27.815] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:33.007] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:38.261] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:43.482] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:48.705] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:54.065] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:30:59.266] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+[2022-06-14 21:31:04.550] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1109
+[2022-06-14 21:31:09.736] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1110
+[2022-06-14 21:31:14.922] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:20.135] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:25.322] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:30.550] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:35.748] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:40.940] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:46.139] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:51.338] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:31:56.588] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:01.794] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:06.979] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:12.225] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:17.451] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:20.861] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:32:20.861] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:32:20.861] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/polybar/config.ini' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:32:22.639] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:27.888] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:33.111] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:38.321] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:43.579] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:48.809] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:54.000] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:32:59.187] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:04.372] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:09.572] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:14.780] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:19.963] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:25.157] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:30.346] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:35.542] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:40.736] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:45.925] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:51.121] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:33:56.326] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:01.570] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:06.774] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:11.965] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:17.201] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:22.420] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:27.690] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.261] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.262] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.262] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:30.262] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/upalb/.config/alacritty/alacritty.yml.bk' is beyond a symbolic link\n","exitCode":128}
+[2022-06-14 21:34:32.897] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1108
+[2022-06-14 21:34:34.350] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-14 21:34:34.375] [exthost] [info] Extension host with pid 64700 exiting with code 0

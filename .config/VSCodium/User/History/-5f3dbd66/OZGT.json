@@ -1,0 +1,14 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Dracula",
+  "editor.fontSize": 17,
+  "editor.fontFamily": "'CodeNewRoman Nerd Font'",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.fontLigatures": true
+}

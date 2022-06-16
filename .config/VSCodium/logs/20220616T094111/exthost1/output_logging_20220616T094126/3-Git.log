@@ -1,0 +1,27 @@
+[2022-06-16T03:41:29.591Z] Log level: Info
+[2022-06-16T03:41:29.594Z] [info] Validating found git in: git
+[2022-06-16T03:41:30.150Z] [info] Using git 2.36.1 from git
+[2022-06-16T03:41:35.406Z] > git rev-parse --show-toplevel [5229ms]
+[2022-06-16T03:41:35.406Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-16T03:41:35.424Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-16T03:41:35.425Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-16T03:41:35.447Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-16T03:41:35.447Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-16T03:41:35.465Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-16T03:41:35.465Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-16T03:41:35.483Z] > git rev-parse --show-toplevel [8ms]
+[2022-06-16T03:41:35.483Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-16T03:41:35.496Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-16T03:41:35.496Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-16T03:41:35.509Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-16T03:41:35.509Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-16T03:41:35.525Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-16T03:41:35.525Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

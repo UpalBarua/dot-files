@@ -10,18 +10,17 @@ for your own machine.
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 - Shell: [Zsh](https://www.zsh.org/)
 - Bar: [Polybar](https://github.com/polybar/polybar)
-- Browser: [Brave](https://brave.com/)
 - Run Launcher: [Rofi](https://github.com/davatorium/rofi)
-- Fonts: [SFMono Nerd Font](https://github.com/ryanoasis/nerd-fonts) for general text and [Feather Icons](https://feathericons.com/) for icons
+- Fonts: [CodeNewRoman Nerd Font](https://github.com/ryanoasis/nerd-fonts) for general text and [Feather Icons](https://feathericons.com/) for icons
 - File manager: [Lf](https://github.com/gokcehan/lf)
-- Editor: [Neovim](https://neovim.io/)
+- Editor: [Neovim](https://neovim.io/) & [VSCodium](https://vscodium.com/)
 - Fetch: [Neofetch](https://github.com/dylanaraps/neofetch)
 - Notifications: [Dunst](https://github.com/dunst-project/dunst)
 - Compositor: [Picom](https://github.com/yshui/picom)
-- Colorscheme: [Solarized Dark](https://ethanschoonover.com/solarized/)
+- Colorscheme: [Nord](https://www.nordtheme.com)
 
 ## Screenshots 🖼️
 
 ![Image 1](./screenshots/img-1.png)
 ![Image 2](./screenshots/img-2.png)
-![Image 3](./screenshots/img-3.png)
+![Image 3](./screenshots/img-3.png
