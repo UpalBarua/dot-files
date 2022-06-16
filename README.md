@@ -21,6 +21,6 @@ for your own machine.
 
 ## Screenshots 🖼️
 
-![Image 1](./screenshots/img-1.png)
-![Image 2](./screenshots/img-2.png)
-![Image 3](./screenshots/img-3.png
+![Image 1](./screenshots/nord-1.png)
+![Image 2](./screenshots/nord-2.png)
+![Image 3](./screenshots/nord-3.png

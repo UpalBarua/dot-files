@@ -109,8 +109,8 @@ setopt no_auto_menu  # require an extra TAB press to open the completion menu
 
 ##--------------- Aliases --------------##
 # Navigation
-alias l="exa -lG --icons --no-user --sort=extension --group-directories-first"
-alias ll="exa -laG --icons --no-user --sort=extension --group-directories-first"
+alias l="exa -l --icons --no-user --sort=extension --group-directories-first"
+alias ll="exa -la --icons --no-user --sort=extension --group-directories-first"
 alias lt="exa -laT --icons --no-user --sort=extension --group-directories-first --level=2"
 alias e="exit"
 alias k="killall -9"
