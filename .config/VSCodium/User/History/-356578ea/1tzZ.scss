@@ -1,0 +1,44 @@
+/*---------- SERVICES ----------*/
+.services {
+  padding-block: 5rem;
+
+   &__text {
+    padding-block: 1.8rem;
+   }
+
+   &__img {
+    padding-block: 1.4rem;
+   }
+
+   &__container-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    @include for-tablet {
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+    }
+   }
+
+   &__cards-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+
+    @include for-tablet {
+      grid-template-columns: 1fr 1fr;
+      // grid-template-rows: ;
+
+      .services__card:nth-child(2) {
+        transform: translateY(50%);
+      }
+    }
+  }
+  
+  &__card > * {
+    padding-bottom: 1rem;
+  }
+   
+}

@@ -1,0 +1,43 @@
+/*---------- SERVICES ----------*/
+.services {
+  padding-block: 5rem;
+
+   &__text {
+    padding-block: 1.8rem;
+   }
+
+   &__img {
+    padding-block: 1.4rem;
+   }
+
+   &__container-bottom {
+    display: flex;
+    flex-direction: column;
+
+    @include for-tablet {
+      flex-direction: row;
+      align-items: center;
+    }
+   }
+
+   &__cards-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+
+    @include for-tablet {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(8, 1fr);
+      place-items: center;
+
+      .services__card:first-child {
+        
+      }
+    }
+  }
+  
+  &__card > * {
+    padding-bottom: 1rem;
+  }
+   
+}

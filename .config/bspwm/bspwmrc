@@ -1,19 +1,22 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 ##---------- Autostart programs ----------##
-# kill existing process
-killall -9 sxhkd picom dunst greenclip xidlehook;
+$HOME/.config/bspwm/scripts/autostart.sh; 
 
-sxhkd &
-$HOME/.fehbg &
-$HOME/.config/polybar/scripts/launch.sh &
-picom -b &
-dunst &
-greenclip daemon &
-$HOME/.config/bspwm/scripts/power-manager &
-$HOME/.config/bspwm/scripts/low-battery-notifier &
-/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
-xsetroot -cursor_name left_ptr &
+## kill existing process
+# killall -9 sxhkd picom dunst greenclip xidlehook;
+
+# # Start programs 
+# sxhkd &
+# $HOME/.fehbg &
+# $HOME/.config/polybar/scripts/launch.sh &
+# picom -b &
+# dunst &
+# greenclip daemon &
+# $HOME/.config/bspwm/scripts/power-manager &
+# $HOME/.config/bspwm/scripts/low-battery-notifier &
+# /usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
+# xsetroot -cursor_name left_ptr &
 
 ##---------- Bspwm configuration ----------## 
 bspc monitor -d 1 2 3 4 5 6

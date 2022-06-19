@@ -112,7 +112,7 @@ setopt no_auto_menu  # require an extra TAB press to open the completion menu
 alias l="exa -l --icons --no-user --sort=extension --group-directories-first"
 alias ll="exa -la --icons --no-user --sort=extension --group-directories-first"
 alias lt="exa -laT --icons --no-user --sort=extension --group-directories-first --level=2"
-alias e="exit"
+alias q="exit"
 alias k="killall -9"
 
 # Programs
@@ -128,11 +128,11 @@ alias fm="$HOME/.config/vifm/scripts/vifmrun"
 alias lf="lfub"
 alias nf="neofetch"
 alias pf="pfetch"
+alias yt="ytfzf -t"
 alias ytd="yt-dlp"
 alias yta="yt-dlp -f 140"
 alias ytv1="yt-dlp -f 140+137"
 alias ytv2="yt-dlp -f 140+299"
-alias yt="ytfzf -t"
 
 
 # pacman and paru
@@ -177,7 +177,6 @@ alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 
 # Configs
-function rc() { du -a $HOME/.config/* | awk '{print $2}' | fzf | xargs -r $EDITOR }
 alias bsc='nvim ~/.config/bspwm/bspwmrc'
 alias sxc='nvim ~/.config/sxhkd/sxhkdrc'
 alias poc='nvim ~/.config/polybar/config.ini'

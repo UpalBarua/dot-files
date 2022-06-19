@@ -1,0 +1,124 @@
+/*---------- UTILITY CLASSES ----------*/
+// Typography
+.ff-text {
+  font-family: $ff-text;
+}
+.ff-title {
+  font-family: $ff-title;
+}
+.fs-2 {
+  font-size: $fs-2;
+}
+.fs-3 {
+  font-size: $fs-3;
+}
+.fs-4 {
+  font-size: $fs-4;
+}
+.fs-5 {
+  font-size: $fs-5;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.letter-spacing-1 {
+  letter-spacing: 1px;
+}
+.letter-spacing-2 {
+  letter-spacing: 2px;
+}
+.letter-spacing-3 {
+  letter-spacing: 3px;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+
+// Colors
+.bg-dark {
+  background-color: $clr-dark;
+}
+.bg-dark-alt {
+  background-color: $clr-dark-alt;
+}
+.bg-light {
+  background-color: $clr-light;
+}
+.bg-light-alt {
+  background-color: $clr-light-alt;
+}
+
+.text-white {
+  color: $clr-white;
+}
+.text-dark {
+  color: $clr-dark;
+}
+.text-dark-alt {
+  color: $clr-dark-alt;
+}
+.text-light {
+  color: $clr-light;
+}
+.text-light-alt {
+  color: $clr-light-alt;
+}
+
+.container {
+  margin-inline: auto;
+  padding-inline: 2.5rem;
+  // max-width: 60rem;
+  max-width: max(75%, 60rem);
+
+  // @include for-tablet {
+  //   max-width: 100rem;
+  // }
+}
+
+.btn {
+  border: 0;
+  display: inline-flex;
+  place-items: center;
+  background-color: transparent;
+  position: relative;
+  cursor: pointer;
+}
+
+.underline {
+  position: relative;
+  display: inline-block;
+
+  &::after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 100%;
+    background-color: $clr-light;
+  }
+}
+
+
+.active {
+  transform: translateX(0) !important;
+  opacity: 1 !important;
+}
+
+.scroll-shadow {
+  // -webkit-box-shadow: 0px 50px 50px -8px hsla(0, 0%, 100%, 0.05);
+  // box-shadow: 0px 50px 50px -8px hsla(0, 0%, 100%, 0.05);
+
+  box-shadow: 
+  hsla(153, 18%, 78%, 20%) 0px 4px 8px -2px, 
+  hsla(153, 18%, 78%, 5%) 0px 0px 0px 1px;
+}
+
+.lg-hidden {
+  display: inline-block;
+
+  @include for-tablet {
+    display: none;
+  }
+}

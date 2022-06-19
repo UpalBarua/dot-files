@@ -1,0 +1,16 @@
+.about {
+  padding-block: 5rem;
+
+  &__title {
+    padding-bottom: 1.6rem;
+  }
+
+  &__text > p {
+    padding-bottom: 1.4rem;
+  }
+
+  &__btn {
+    background-color: $clr-light;
+    padding: .8rem 2rem;
+  }
+}

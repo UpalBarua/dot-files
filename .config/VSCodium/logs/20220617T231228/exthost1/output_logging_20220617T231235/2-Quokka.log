@@ -1,0 +1,4649 @@
+​​​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+con is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'random') 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | console.log(Math.random(); 
+    |                          ^ SyntaxError: Unexpected token (1:25) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.3104719362269339 ​​​​​at ​​​​​​​​Math.random()​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.1972485346842492 ​​​​​at ​​​​​​​​Math.random(1)​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.0033352961170118878
+  ​​​​​at ​​​​​​​​Math.random(1)​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.2968191473487003 ​​​​​at ​​​​​​​​Math.random(1, 5)​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.8424571328942108 ​​​​​at ​​​​​​​​Math.random(1, 6)​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.3087414266967077 ​​​​​at ​​​​​​​​Math.random()​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | console.log(Math.random() *); 
+    |                            ^ SyntaxError: Unexpected token (1:27) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.5702222712146205 ​​​​​at ​​​​​​​​Math.random() * 1​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+6.780265540334039 ​​​​​at ​​​​​​​​Math.random() * 10​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.32922511181315195 ​​​​​at ​​​​​​​​Math.random() * 1​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | console.log(Math.random() * ); 
+    |                             ^ SyntaxError: Unexpected token (1:28) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.7617463147518013 ​​​​​at ​​​​​​​​Math.random() * 1​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+5.217219678562448 ​​​​​at ​​​​​​​​Math.random() * 10​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+4.311752509965983 ​​​​​at ​​​​​​​​Math.random() * 10​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0.17112843488392926 ​​​​​at ​​​​​​​​Math.random() * 10​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Ma is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+{} ​​​​​at ​​​​​​​​Math​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | Math. 
+    |      ^ SyntaxError: Unexpected token (1:5) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Mar is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Marth is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+{} ​​​​​at ​​​​​​​​Math​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | Math. 
+    |      ^ SyntaxError: Unexpected token (1:5) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+M is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | Math.floor(Math.) 
+    |                 ^ SyntaxError: Unexpected token (1:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | Math.floor(Math.random() *) 
+    |                           ^ SyntaxError: Unexpected token (1:26) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | Math.floor(Math.random() * ) 
+    |                            ^ SyntaxError: Unexpected token (1:27) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const  Math.floor(Math.random() * 6) 
+    |            ^ SyntaxError: Unexpected token (1:11) 
+  2 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const nu Math.floor(Math.random() * 6) 
+    |          ^ SyntaxError: Unexpected token (1:9) 
+  2 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const number - Math.floor(Math.random() * 6) 
+    |              ^ SyntaxError: Unexpected token (1:13) 
+  2 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const number  Math.floor(Math.random() * 6) 
+    |               ^ SyntaxError: Unexpected token (1:14) 
+  2 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const number - Math.floor(Math.random() * 6) 
+    |              ^ SyntaxError: Unexpected token (1:13) 
+  2 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const number  Math.floor(Math.random() * 6) 
+    |               ^ SyntaxError: Unexpected token (1:14) 
+  2 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+conso is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+{ log: [λ],
+  warn: [λ],
+  dir: [λ],
+  time: [λ: time],
+  timeEnd: [λ: timeEnd],
+  timeLog: [λ: timeLog],
+  trace: [λ: trace],
+  assert: [λ: assert],
+  clear: [λ: clear],
+  count: [λ: count],
+  ... }
+  ​​​​​at ​​​​​​​​console​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+3 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+4 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+func is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected keyword 'const' (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function rnad 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function random 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function randomN 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function  
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected keyword 'const' (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function ge 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function get 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function getRandom 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function getRandom  
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function getRandom 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function getRandom() 
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function getRandom()  
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | function getRandom() P 
+    |                      ^ SyntaxError: Unexpected token (1:21) 
+  2 | const number = Math.floor(Math.random() * 6); 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function getRandom()  
+> 2 | const number = Math.floor(Math.random() * 6); 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 | console.log(number); 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+4 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+3 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+number is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+get is not defined 
+  ​​​​​at ​​​​​​quokka.js:6:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[λ: getRandom] ​​​​​at ​​​​​​​​getRandom​​​ ​quokka.js:6:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+2 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+3 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+3 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+4 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+5 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+2 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+5 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+4 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+4 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+2 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+2 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+3 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+5 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+2 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+2 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+4 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+5 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+1 ​​​​​at ​​​​​​​​number​​​ ​quokka.js:3:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+co is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const  
+    |       ^ SyntaxError: Unexpected token (1:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const stud 
+    |           ^ SyntaxError: Unexpected token (1:10) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const students  
+    |                ^ SyntaxError: Unexpected token (1:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const students =  
+    |                  ^ SyntaxError: Unexpected token (1:17) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const students = [ 
+  2 |   "upal", "abir", "tanvir"<  
+> 3 | ] 
+    | ^ SyntaxError: Unexpected token (3:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const students = [ 
+  2 |   "upal", "abir", "tanvir", "riyan", "sultana", "rumki"<  
+> 3 | ] 
+    | ^ SyntaxError: Unexpected token (3:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+co is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+student is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​students​​​ ​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+con is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+confirm is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | console. 
+    |         ^ SyntaxError: Unexpected token (5:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+{ log: [λ],
+  warn: [λ],
+  dir: [λ],
+  time: [λ: time],
+  timeEnd: [λ: timeEnd],
+  timeLog: [λ: timeLog],
+  trace: [λ: trace],
+  assert: [λ: assert],
+  clear: [λ: clear],
+  count: [λ: count],
+  ... }
+  ​​​​​at ​​​​​​​​console​​​ ​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | students. 
+    |          ^ SyntaxError: Unexpected token (5:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | students.sort(()) 
+    |                ^ SyntaxError: Unexpected token (5:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | students.sort((a, b) =) 
+    |                ^ SyntaxError: Assigning to rvalue (5:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | students.sort((a, b) => ) 
+    |                         ^ SyntaxError: Unexpected token (5:24) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | students.sort((a, b) => { 
+  6 |   if 
+> 7 | }); 
+    | ^ SyntaxError: Unexpected token (7:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+re is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+  ​​​​​at ​​​​​​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if  
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if a > 
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if a > b 
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if a  
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if  
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if () 
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if (a >b) 
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | students.sort((a, b) => { 
+> 6 |   return if (a > b) 
+    |          ^ SyntaxError: Unexpected token (6:9) 
+  7 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | students.sort((a, b) => { 
+  6 |   if (a > b) 
+> 7 | }); 
+    | ^ SyntaxError: Unexpected token (7:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | students.sort((a, b) => { 
+  6 |   if (a > b)  
+> 7 | }); 
+    | ^ SyntaxError: Unexpected token (7:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 |     return 1 
+  8 |   } else  
+> 9 | }); 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+reu is not defined 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+  ​​​​​at ​​​​​​quokka.js:8:10​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sorstudents.sort((a, b) => { 
+    |                  ^ SyntaxError: Unexpected token (5:17) 
+  6 |   if (a > b) { 
+  7 |     return 1 
+  8 |   } else return -1; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedstudents.sort((a, b) => { 
+    |                     ^ SyntaxError: Unexpected token (5:20) 
+  6 |   if (a > b) { 
+  7 |     return 1 
+  8 |   } else return -1; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedSstudents.sort((a, b) => { 
+    |                      ^ SyntaxError: Unexpected token (5:21) 
+  6 |   if (a > b) { 
+  7 |     return 1 
+  8 |   } else return -1; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudestudents.sort((a, b) => { 
+    |                          ^ SyntaxError: Unexpected token (5:25) 
+  6 |   if (a > b) { 
+  7 |     return 1 
+  8 |   } else return -1; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStustudents.sort((a, b) => { 
+    |                        ^ SyntaxError: Unexpected token (5:23) 
+  6 |   if (a > b) { 
+  7 |     return 1 
+  8 |   } else return -1; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudentsstudents.sort((a, b) => { 
+    |                             ^ SyntaxError: Unexpected token (5:28) 
+  6 |   if (a > b) { 
+  7 |     return 1 
+  8 |   } else return -1; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+con is not defined 
+  ​​​​​at ​​​​​​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   9 | }); 
+  10 |  
+> 11 | console. 
+     |         ^ SyntaxError: Unexpected token (11:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+r is not defined 
+  ​​​​​at ​​​​​​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+rs is not defined 
+  ​​​​​at ​​​​​​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+r is not defined 
+  ​​​​​at ​​​​​​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+s is not defined 
+  ​​​​​at ​​​​​​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sor is not defined 
+  ​​​​​at ​​​​​​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:11:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:10:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => {f (a > b) { 
+    |                                                           ^ SyntaxError: Unexpected token (5:58) 
+  6 |     return 1 
+  7 |   } else return -1; 
+  8 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => { (a > b) { 
+    |                                                          ^ SyntaxError: Unexpected token (5:57) 
+  6 |     return 1 
+  7 |   } else return -1; 
+  8 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | const sortedStudents = students.sort((a, b) => {  return 1 
+> 6 |   } else return -1; 
+    |     ^ SyntaxError: Unexpected token (6:4) 
+  7 | }); 
+  8 |  
+  9 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | const sortedStudents = students.sort((a, b) => { return 1 
+> 6 |   } else return -1; 
+    |     ^ SyntaxError: Unexpected token (6:4) 
+  7 | }); 
+  8 |  
+  9 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => {  } else return -1; 
+    |                                                     ^ SyntaxError: Unexpected token (5:52) 
+  6 | }); 
+  7 |  
+  8 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => { } else return -1; 
+    |                                                    ^ SyntaxError: Unexpected token (5:51) 
+  6 | }); 
+  7 |  
+  8 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => { else return -1; 
+    |                                                  ^ SyntaxError: Unexpected token (5:49) 
+  6 | }); 
+  7 |  
+  8 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => else return -1; 
+    |                                                ^ SyntaxError: Unexpected token (5:47) 
+  6 | }); 
+  7 |  
+  8 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) =>  return -1; 
+    |                                                 ^ SyntaxError: Unexpected token (5:48) 
+  6 | }); 
+  7 |  
+  8 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => 1; 
+    |                                                 ^ SyntaxError: Unexpected token (5:48) 
+  6 | }); 
+  7 |  
+  8 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => ; 
+    |                                                ^ SyntaxError: Unexpected token (5:47) 
+  6 | }); 
+  7 |  
+  8 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => }); 
+    |                                                ^ SyntaxError: Unexpected token (5:47) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => ); 
+    |                                                ^ SyntaxError: Unexpected token (5:47) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > ); 
+    |                                                    ^ SyntaxError: Unexpected token (5:51) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b ""); 
+    |                                                      ^ SyntaxError: Unexpected token (5:53) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b |); 
+    |                                                       ^ SyntaxError: Unexpected token (5:54) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b >); 
+    |                                                       ^ SyntaxError: Unexpected token (5:54) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+b is not a function 
+  ​​​​​at ​​​​​​quokka.js:5:1​
+  ​​​​​at ​​​​​​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b ""); 
+    |                                                      ^ SyntaxError: Unexpected token (5:53) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'upal', 'abir', 'tanvir', 'riyan', 'sultana', 'rumki', 'jahed' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b ?); 
+    |                                                       ^ SyntaxError: Unexpected token (5:54) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b ? ); 
+    |                                                        ^ SyntaxError: Unexpected token (5:55) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b ? 1); 
+    |                                                         ^ SyntaxError: Unexpected token (5:56) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b ? 1 ); 
+    |                                                          ^ SyntaxError: Unexpected token (5:57) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | ]; 
+  4 |  
+> 5 | const sortedStudents = students.sort((a, b) => a > b ? 1 :); 
+    |                                                           ^ SyntaxError: Unexpected token (5:58) 
+  6 |  
+  7 | console.log(sortedStudents); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:6:1​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+st is not defined 
+  ​​​​​at ​​​​​​quokka.js:6:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​students​​​ ​quokka.js:6:1​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[λ: sort] ​​​​​at ​​​​​​​​students.sort​​​ ​quokka.js:6:1​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​students.sort()​​​ ​quokka.js:6:1​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 |  
+  8 | console.log(sortedStudents); 
+> 9 | console. 
+    |         ^ SyntaxError: Unexpected token (9:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 |  
+  8 | console.log(sortedStudents); 
+> 9 | console. 
+    |         ^ SyntaxError: Unexpected token (9:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+stud is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​sortedStudents​​​ ​quokka.js:8:1​
+
+[ 'abir', 'jahed', 'riyan', 'rumki', 'sultana', 'tanvir', 'upal' ]
+  ​​​​​at ​​​​​​​​students​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+c is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const  
+    |       ^ SyntaxError: Unexpected token (1:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls 
+    |            ^ SyntaxError: Unexpected token (1:11) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls =  
+    |               ^ SyntaxError: Unexpected token (1:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls = ['1', '2', '6', '9', '4', 3'] 
+    |                                          ^ SyntaxError: Unterminated string constant (1:41) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls = ['1', '2', '6', '9', '4', 3' ] 
+    |                                          ^ SyntaxError: Unterminated string constant (1:41) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls = ['1', '2', '6', '9', '4', '3', 7'] 
+    |                                               ^ SyntaxError: Unterminated string constant (1:46) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ '1', '2', '6', '9', '4', '3', '7' ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+r is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ '1', '2', '6', '9', '4', '3', '7' ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = ['1', '2', '6', '9', '4', '3', '7']; 
+> 2 | rolls. 
+    |       ^ SyntaxError: Unexpected token (2:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ '1', '2', '6', '9', '4', '3', '7' ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+ro is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+co is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+roll is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ '1', '2', '3', '4', '6', '7', '9' ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls 
+    |            ^ SyntaxError: Unexpected token (1:11) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls =  
+    |               ^ SyntaxError: Unexpected token (1:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const rolls =  
+    |               ^ SyntaxError: Unexpected token (1:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+ro is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+rolls.length is not a function 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls. 
+    |       ^ SyntaxError: Unexpected token (2:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 10, 2, 9, 3, 8, 4, 7, 5, 6 ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+{ log: [λ],
+  warn: [λ],
+  dir: [λ],
+  time: [λ: time],
+  timeEnd: [λ: timeEnd],
+  timeLog: [λ: timeLog],
+  trace: [λ: trace],
+  assert: [λ: assert],
+  clear: [λ: clear],
+  count: [λ: count],
+  ... }
+  ​​​​​at ​​​​​​​​console​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+rol is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+roll is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls. 
+    |       ^ SyntaxError: Unexpected token (2:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 10, 2, 3, 4, 5, 6, 7, 8, 9 ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | rolls.sort(); 
+  3 |  
+> 4 | console.log(rolls)'' 
+    |                   ^ SyntaxError: Unexpected token (4:18) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 10, 2, 3, 4, 5, 6, 7, 8, 9 ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort(()); 
+    |             ^ SyntaxError: Unexpected token (2:12) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a,)); 
+    |               ^ SyntaxError: Unexpected token (2:14) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) -); 
+    |                    ^ SyntaxError: Unexpected token (2:19) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) =); 
+    |             ^ SyntaxError: Assigning to rvalue (2:12) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => ); 
+    |                      ^ SyntaxError: Unexpected token (2:21) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => if ); 
+    |                      ^ SyntaxError: Unexpected token (2:21) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+i is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 10, 2, 9, 3, 8, 4, 7, 5, 6 ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a >); 
+    |                         ^ SyntaxError: Unexpected token (2:24) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 10, 2, 9, 3, 8, 4, 7, 5, 6 ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a > b |); 
+    |                             ^ SyntaxError: Unexpected token (2:28) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 10, 2, 9, 3, 8, 4, 7, 5, 6 ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a > b ?); 
+    |                             ^ SyntaxError: Unexpected token (2:28) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a > b ? ); 
+    |                              ^ SyntaxError: Unexpected token (2:29) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a > b ? 1); 
+    |                               ^ SyntaxError: Unexpected token (2:30) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a > b ? 1 ); 
+    |                                ^ SyntaxError: Unexpected token (2:31) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a > b ? 1 :); 
+    |                                 ^ SyntaxError: Unexpected token (2:32) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const rolls = [1,10,2,9,3,8,4,7,5,6]; 
+> 2 | rolls.sort((a, b) => a > b ? 1 : ); 
+    |                                  ^ SyntaxError: Unexpected token (2:33) 
+  3 |  
+  4 | console.log(rolls); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+  ​​​​​at ​​​​​​​​rolls​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const  
+    |       ^ SyntaxError: Unexpected token (1:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sen 
+    |          ^ SyntaxError: Unexpected token (1:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const senten 
+    |             ^ SyntaxError: Unexpected token (1:12) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentence 
+    |               ^ SyntaxError: Unexpected token (1:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentence = 
+    |                 ^ SyntaxError: Unexpected token (1:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentence  
+    |                ^ SyntaxError: Unexpected token (1:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const  
+    |       ^ SyntaxError: Unexpected token (1:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sen 
+    |          ^ SyntaxError: Unexpected token (1:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const senta 
+    |            ^ SyntaxError: Unexpected token (1:11) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentac 
+    |             ^ SyntaxError: Unexpected token (1:12) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentance 
+    |               ^ SyntaxError: Unexpected token (1:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentance  
+    |                ^ SyntaxError: Unexpected token (1:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentance = 
+    |                 ^ SyntaxError: Unexpected token (1:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentance  
+    |                ^ SyntaxError: Unexpected token (1:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const se 
+    |         ^ SyntaxError: Unexpected token (1:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sen 
+    |          ^ SyntaxError: Unexpected token (1:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const sentence =  
+    |                  ^ SyntaxError: Unexpected token (1:17) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+se is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentence. 
+    |          ^ SyntaxError: Unexpected token (2:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Yo i am gonna learn JS! 
+  ​​​​​at ​​​​​​​​sentence​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+se is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Yo i am gonna learn JS! 
+  ​​​​​at ​​​​​​​​sentence​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sentenceA is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sentenceArray is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray - 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray = 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray =  
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+from is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray = from- 
+    |                      ^ SyntaxError: Unexpected token (2:21) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+from is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray =  
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sen is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray =  
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+from is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray = from. 
+    |                      ^ SyntaxError: Unexpected token (2:21) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+from is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray = from. 
+    |                      ^ SyntaxError: Unexpected token (2:21) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+from is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray =  
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Fr is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+From is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray = From. 
+    |                      ^ SyntaxError: Unexpected token (2:21) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+From is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray =  
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+> 2 | sentenceArray =  
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Arra is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not iterable (cannot read property Symbol(Symbol.iterator)) 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+co is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | console. 
+    |         ^ SyntaxError: Unexpected token (3:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+se is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Yo i am gonna learn JS! 
+  ​​​​​at ​​​​​​​​sentence​​​ ​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sentenceA is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Yo i am gonna learn JS! 
+  ​​​​​at ​​​​​​​​sentence​​​ ​quokka.js:3:1​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Yo i am gonna learn JS! 
+  ​​​​​at ​​​​​​​​sentence​​​ ​quokka.js:3:1​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y', 'o', ' ', 'i', ' ', 'a', 'm', ' ', 'g', 'o', ... ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:3:1​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | sentenceArray.reduce(()) 
+    |                       ^ SyntaxError: Unexpected token (3:22) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | sentenceArray.reduce((a,)) 
+    |                         ^ SyntaxError: Unexpected token (3:24) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | sentenceArray.reduce((a, b) 
+> 4 | console.log(sentenceArray); 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | sentenceArray.reduce(() 
+    |                       ^ SyntaxError: Unexpected token (3:22) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | sentenceArray.reduce) 
+    |                     ^ SyntaxError: Unexpected token (3:20) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+numsentenceArray is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+numbersentenceArray is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+numberOfsentenceArray is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+numberOfVosentenceArray is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+numberOfVowelssentenceArray is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | numberOfVowels sentenceArray. 
+    |                ^ SyntaxError: Unexpected token (3:15) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+numberOfVowels is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 |  = sentenceArray. 
+    |  ^ SyntaxError: Unexpected token (3:1) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'log') 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sentenceArray.filte is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(-) 
+    |                                   ^ SyntaxError: Unexpected token (3:34) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+el is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+elem is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+​​​"Element" looks like a browser global​​​
+​Install and use quokka browser plugin​
+​Open quokka browser plugin documentation​
+ 
+Element is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+el is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el =) 
+    |                                      ^ SyntaxError: Unexpected token (3:37) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ) 
+    |                                        ^ SyntaxError: Unexpected token (3:39) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+e is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+els is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ) 
+    |                                        ^ SyntaxError: Unexpected token (3:39) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+p is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ) 
+    |                                        ^ SyntaxError: Unexpected token (3:39) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+O is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ) 
+    |                                        ^ SyntaxError: Unexpected token (3:39) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ) 
+    |                                        ^ SyntaxError: Unexpected token (3:39) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+o is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].); 
+    |                                                                  ^ SyntaxError: Unexpected token (3:65) 
+  4 | console.log(sentenceArray); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+e is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'Y',
+  'o',
+  ' ',
+  'i',
+  ' ',
+  'a',
+  'm',
+  ' ',
+  'g',
+  'o',
+  'n',
+  'n',
+  'a',
+  ' ',
+  'l',
+  'e',
+  'a',
+  'r',
+  'n',
+  ' ',
+  'J',
+  'S',
+  '!' ]
+  ​​​​​at ​​​​​​​​sentenceArray​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+g is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+get is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+getV is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'o', 'i', 'a', 'o', 'a', 'e', 'a' ]
+  ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)).; 
+    |                                                                                ^ SyntaxError: Unexpected token (3:79) 
+  4 | console.log(getVowels); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sentenceArray.filter(...).lenght is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)).; 
+    |                                                                                ^ SyntaxError: Unexpected token (3:79) 
+  4 | console.log(getVowels); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'o', 'i', 'a', 'o', 'a', 'e', 'a' ]
+  ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+leng is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+length is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | console.log(length*); 
+    |                    ^ SyntaxError: Unexpected token (4:19) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+length is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | console.log(length(getVowels)); 
+> 5 | getVowels. 
+    |           ^ SyntaxError: Unexpected token (5:10) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+length is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+length is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | console.log(length getVowel)); 
+    |                    ^ SyntaxError: Unexpected token (4:19) 
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el).); 
+    |                                                                               ^ SyntaxError: Unexpected token (3:78) 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | sentenceArray = Array.from(sentence); 
+> 3 | getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el).); 
+    |                                                                               ^ SyntaxError: Unexpected token (3:78) 
+  4 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+conso is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+get is not defined 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'o', 'i', 'a', 'o', 'a', 'e', 'a' ]
+  ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+getVowels.length is not a function 
+  ​​​​​at ​​​​​​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | getVowels. 
+> 5 |  
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | getVowels. 
+> 5 |  
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | getVowels. 
+> 5 |  
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |  
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | co 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const get 
+> 5 | getVowels. 
+    | ^ SyntaxError: Unexpected token (5:0) 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels 
+> 5 | getVowels. 
+    | ^ SyntaxError: Unexpected token (5:0) 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels. 
+    |                ^ SyntaxError: Unexpected token (4:15) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels - s 
+    |                 ^ SyntaxError: Unexpected token (4:16) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels  
+> 5 | getVowels. 
+    | ^ SyntaxError: Unexpected token (5:0) 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels [] 
+    |                 ^ SyntaxError: Unexpected token (4:16) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels  
+> 5 | getVowels. 
+    | ^ SyntaxError: Unexpected token (5:0) 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sente 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray. 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.re 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce() 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce(()) 
+    |                                         ^ SyntaxError: Unexpected token (4:40) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((total)) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce((total, )) 
+    |                                                ^ SyntaxError: Unexpected token (4:47) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((total)) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce(()) 
+    |                                         ^ SyntaxError: Unexpected token (4:40) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((o)) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce((vowels')) 
+    |                                               ^ SyntaxError: Unterminated string constant (4:46) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, '')) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, 'el')) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce((vowels, )) 
+    |                                                 ^ SyntaxError: Unexpected token (4:48) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el)) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce((vowels, el) -) 
+    |                                                      ^ SyntaxError: Unexpected token (4:53) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce((vowels, el) =) 
+    |                                         ^ SyntaxError: Assigning to rvalue (4:40) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce((vowels, el) => ) 
+    |                                                        ^ SyntaxError: Unexpected token (4:55) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => P) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | sentenceArray = Array.from(sentence); 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+> 4 | const getVowels = sentenceArray.reduce((vowels, el) => ) 
+    |                                                        ^ SyntaxError: Unexpected token (4:55) 
+  5 | getVowels. 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => {}) 
+  5 | getVowels. 
+> 6 |  
+    | ^ SyntaxError: Unexpected token (6:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 | }) 
+  7 | getVowels. 
+> 8 |  
+    | ^ SyntaxError: Unexpected token (8:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if  
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if () 
+    |       ^ SyntaxError: Unexpected token (5:6) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if  
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if () 
+    |       ^ SyntaxError: Unexpected token (5:6) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (el ) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if () 
+    |       ^ SyntaxError: Unexpected token (5:6) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if (()) 
+    |        ^ SyntaxError: Unexpected token (5:7) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if () 
+    |       ^ SyntaxError: Unexpected token (5:6) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if ([]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if ([1]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if ([]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['1']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', '2']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', '']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', '']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', '8']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', '']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i',]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', '']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o',]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'a']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', '']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', E]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if (['a', 'e', 'i', 'o', 'u', 'A', E']) 
+    |                                       ^ SyntaxError: Unterminated string constant (5:38) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', '']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', I]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I',]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', O]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', '']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O',]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', U]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', ]) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].) 
+    |                                                          ^ SyntaxError: Unexpected token (5:57) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].co) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].) 
+    |                                                          ^ SyntaxError: Unexpected token (5:57) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].inc) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | // const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+> 5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes*) 
+    |                                                                   ^ SyntaxError: Unexpected token (5:66) 
+  6 | }) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes()) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes(el)) 
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes(el))  
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 | }) 
+  7 | getVowels. 
+> 8 |  
+    | ^ SyntaxError: Unexpected token (8:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 | const getVowels = sentenceArray.reduce((vowels, el) => { 
+  5 |   if (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes(el))  
+> 6 | }) 
+    | ^ SyntaxError: Unexpected token (6:0) 
+  7 | getVowels. 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 | }) 
+  7 | getVowels. 
+> 8 |  
+    | ^ SyntaxError: Unexpected token (8:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   8 | }) 
+   9 | getVowels. 
+> 10 |  
+     | ^ SyntaxError: Unexpected token (10:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   8 | }) 
+   9 | getVowels. 
+> 10 |  
+     | ^ SyntaxError: Unexpected token (10:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot read properties of undefined (reading 'ge') 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   8 | }) 
+   9 | getVowels. 
+> 10 |  
+     | ^ SyntaxError: Unexpected token (10:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+confirm is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+confirm is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+coso is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+ge is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+getVowels is not a function 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   6 |     return vowels++ 
+   7 |   } 
+>  8 | }, -) 
+     |     ^ SyntaxError: Unexpected token (8:4) 
+   9 | console.log(getVowels); 
+  10 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 'o', 'i', 'a', 'o', 'a', 'e', 'a' ]
+  ​​​​​at ​​​​​​​​getVowels​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   7 | //   } 
+   8 | // }, 0) 
+>  9 | console.log(getVowels.); 
+     |                       ^ SyntaxError: Unexpected token (9:22) 
+  10 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels.l​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels.lenght​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+undefined ​​​​​at ​​​​​​​​getVowels.leng​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+7 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+7 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | <fun>sentenceArray = Array.from(sentence);</fun> 
+> 3 | <fun>const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el));</fun> 
+    | ^ SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag (3:0) 
+  4 | <fun>console.log(getVowels.length);</fun> 
+  5 |  
+  6 | // const getVowels = sentenceArray.reduce((vowels, el) => { 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | <funt>sentenceArray = Array.from(sentence);</funt> 
+> 3 | <funt>const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el));</funt> 
+    | ^ SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag (3:0) 
+  4 | <funt>console.log(getVowels.length);</funt> 
+  5 |  
+  6 | // const getVowels = sentenceArray.reduce((vowels, el) => { 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+7 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:4:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+7 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function 
+> 3 | sentenceArray = Array.from(sentence); 
+    |               ^ SyntaxError: Unexpected token (3:14) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function  
+> 3 | sentenceArray = Array.from(sentence); 
+    |               ^ SyntaxError: Unexpected token (3:14) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function get 
+> 3 | sentenceArray = Array.from(sentence); 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function geta 
+> 3 | sentenceArray = Array.from(sentence); 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function get 
+> 3 | sentenceArray = Array.from(sentence); 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function getArray 
+> 3 | sentenceArray = Array.from(sentence); 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function getArray() 
+> 3 | sentenceArray = Array.from(sentence); 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function getArray(sentence) 
+> 3 | sentenceArray = Array.from(sentence); 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const sentence = 'Yo i am gonna learn JS!'; 
+  2 | function getArray(sentence)  
+> 3 | sentenceArray = Array.from(sentence); 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 | const getVowels = sentenceArray.filter(el => ['a', 'e', 'i', 'o', 'u'].includes(el)); 
+  5 | console.log(getVowels.length); 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+7 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:5:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+7 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+get is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[λ: getArray] ​​​​​at ​​​​​​​​getArray​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+getArray is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+g is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+get is not defined 
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[λ: getVowelNumber] ​​​​​at ​​​​​​​​getVowelNumber​​​ ​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not iterable (cannot read property Symbol(Symbol.iterator)) 
+  ​​​​​at ​​​​​​​​getVowelNumber​​​ ​quokka.js:4:3​
+  ​​​​​at ​​​​​​quokka.js:9:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+1 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+2 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+0 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+1 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+2 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+3 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+4 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+5 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+6 ​​​​​at ​​​​​​​​getVowels.length​​​ ​quokka.js:6:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const  
+    |       ^ SyntaxError: Unexpected token (1:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const and 
+    |          ^ SyntaxError: Unexpected token (1:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const an 
+    |         ^ SyntaxError: Unexpected token (1:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const anArray 
+    |              ^ SyntaxError: Unexpected token (1:13) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const anArray  
+    |               ^ SyntaxError: Unexpected token (1:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const anArray =  
+    |                 ^ SyntaxError: Unexpected token (1:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const anArray =  
+    |                 ^ SyntaxError: Unexpected token (1:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+and is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+an is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 2, 2, 3, 4, 5, 1, 6, 7, 6, ... ]
+  ​​​​​at ​​​​​​​​anArray​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+an is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 2, 2, 3, 4, 5, 1, 6, 7, 6, ... ]
+  ​​​​​at ​​​​​​​​anArray​​​ ​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray. 
+    |         ^ SyntaxError: Unexpected token (2:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce) 
+    |               ^ SyntaxError: Unexpected token (2:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce(()) 
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+t is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce(()) 
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+re is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce(()) 
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+no is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDU is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noD is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDui is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDu is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDup is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce((noDup, )) 
+    |                        ^ SyntaxError: Unexpected token (2:23) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDup is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce((noDup, el) -) 
+    |                             ^ SyntaxError: Unexpected token (2:28) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce((noDup, el) =) 
+    |                 ^ SyntaxError: Assigning to rvalue (2:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce((noDup, el) => ) 
+    |                               ^ SyntaxError: Unexpected token (2:30) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+P is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce((noDup, el) => ) 
+    |                               ^ SyntaxError: Unexpected token (2:30) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.reduce((noDup, el) => { 
+  3 |   if  
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.reduce((noDup, el) => { 
+  3 |   if 
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.reduce((noDup, el) => { 
+  3 |   if  
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noD 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup. 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.con 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, ) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, -) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, ) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, -) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, 09) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, 9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, ) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, p) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, ) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup. 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.con 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains() 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains(el) 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains(el.) 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains(el.con) 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce((noDup, el) => { 
+> 3 |   if noDup.contains(el.contains) 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+  4 | }, []) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+a is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+an is not defined 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray. 
+    |         ^ SyntaxError: Unexpected token (2:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.filter(el =) 
+    |                    ^ SyntaxError: Unexpected token (2:19) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.filter(el => ) 
+    |                      ^ SyntaxError: Unexpected token (2:21) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.filter(el => { 
+  3 |   if 
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.filter(el => { 
+  3 |   const  
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.filter(el => { 
+  3 |   const no 
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.filter(el => { 
+  3 |   const noD 
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.filter(el => { 
+  3 |   const noDup =  
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+anArray.d is not a function 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+anArray.re is not a function 
+  ​​​​​at ​​​​​​quokka.js:2:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 | anArray.reduce(el => { 
+> 3 |   const = []; 
+    |         ^ SyntaxError: Unexpected token (3:8) 
+  4 |  
+  5 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+1 ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+
+undefined ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+ 
+Only the first 10 values are automatically logged, use console.log(el) for the full output 
+  ​​​​​at ​​​​​​​​el​​​ ​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.reduce(el => { 
+  3 | el. 
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 | anArray.reduce(el => { 
+  3 | el. 
+> 4 | }) 
+    | ^ SyntaxError: Unexpected token (4:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+> 2 | anArray.reduce( => { 
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+  3 |  
+  4 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+an is not defined 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+ana is not defined 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+an is not defined 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+el is not defined 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | // }, []) 
+  6 |  
+> 7 | anArray.forEach(el =) 
+    |                     ^ SyntaxError: Unexpected token (7:20) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | // }, []) 
+  6 |  
+> 7 | anArray.forEach(el => ) 
+    |                       ^ SyntaxError: Unexpected token (7:22) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+P is not defined 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | // }, []) 
+  6 |  
+> 7 | anArray.forEach(el => ) 
+    |                       ^ SyntaxError: Unexpected token (7:22) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+on is not defined 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+  ​​​​​at ​​​​​​quokka.js:8:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 |  
+  7 | anArray.forEach(el => { 
+> 8 | ) 
+    | ^ SyntaxError: Unexpected token (8:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 |  
+  7 | anArray.forEach(el => { 
+> 8 |  
+    | ^ SyntaxError: Unexpected token (8:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+on is not defined 
+  ​​​​​at ​​​​​​quokka.js:7:1​
+  ​​​​​at ​​​​​​quokka.js:8:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | // }, []) 
+  6 | const  
+> 7 | anArray.forEach(el => {}) 
+    | ^ SyntaxError: Identifier 'anArray' has already been declared (7:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | // }, []) 
+  6 | const no  
+> 7 | anArray.forEach(el => {}) 
+    | ^ SyntaxError: Unexpected token (7:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | // }, []) 
+  6 | const no 
+> 7 | anArray.forEach(el => {}) 
+    | ^ SyntaxError: Unexpected token (7:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  5 | // }, []) 
+  6 | const noDup  
+> 7 | anArray.forEach(el => {}) 
+    | ^ SyntaxError: Unexpected token (7:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if  
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 | const noDup = []; 
+  7 | anArray.forEach(el => { 
+> 8 |   if no 
+    |      ^ SyntaxError: Unexpected token (8:5) 
+  9 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if  
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 | const noDup = []; 
+  7 | anArray.forEach(el => { 
+> 8 |   if * 
+    |      ^ SyntaxError: Unexpected token (8:5) 
+  9 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 | const noDup = []; 
+  7 | anArray.forEach(el => { 
+> 8 |   if () 
+    |       ^ SyntaxError: Unexpected token (8:6) 
+  9 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (no) 
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (noDup) 
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (noDup.con) 
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  6 | const noDup = []; 
+  7 | anArray.forEach(el => { 
+> 8 |   if (noDup.) 
+    |             ^ SyntaxError: Unexpected token (8:12) 
+  9 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (noDup.con) 
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (noDup.contains) 
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (noDup.contains()) 
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (noDup.contains(el)) 
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  7 | anArray.forEach(el => { 
+  8 |   if (noDup.contains(el))  
+> 9 | }) 
+    | ^ SyntaxError: Unexpected token (9:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDup.contains is not a function 
+  ​​​​​at ​​​​​​quokka.js:8:7​
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   8 |   if (noDup.contains(el)) { 
+   9 |     noDup. 
+> 10 |   } 
+     |   ^ SyntaxError: Unexpected token (10:2) 
+  11 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDup.contains is not a function 
+  ​​​​​at ​​​​​​quokka.js:8:7​
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   6 | const noDup = []; 
+   7 | anArray.forEach(el => { 
+>  8 |   if (noDup.(el)) { 
+     |             ^ SyntaxError: Unexpected token (8:12) 
+   9 |     noDup.push(el); 
+  10 |   } 
+  11 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noDup.inc is not a function 
+  ​​​​​at ​​​​​​quokka.js:8:7​
+  ​​​​​at ​​​​​​quokka.js:7:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   9 |     noDup.push(el); 
+  10 |   } else  
+> 11 | }) 
+     | ^ SyntaxError: Unexpected token (11:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  10 |     noDup.push(el); 
+  11 |   } else  
+> 12 | }) 
+     | ^ SyntaxError: Unexpected token (12:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   6 | const noDup = []; 
+   7 | const dup 
+>  8 | anArray.forEach(el => { 
+     | ^ SyntaxError: Unexpected token (8:0) 
+   9 |   if (noDup.includes(el)) { 
+  10 |     noDup.push(el); 
+  11 |   } else  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   6 | const noDup = []; 
+   7 | const d 
+>  8 | anArray.forEach(el => { 
+     | ^ SyntaxError: Unexpected token (8:0) 
+   9 |   if (noDup.includes(el)) { 
+  10 |     noDup.push(el); 
+  11 |   } else  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   6 | const noDup = []; 
+   7 | const dup  
+>  8 | anArray.forEach(el => { 
+     | ^ SyntaxError: Unexpected token (8:0) 
+   9 |   if (noDup.includes(el)) { 
+  10 |     noDup.push(el); 
+  11 |   } else  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  10 |     noDup.push(el); 
+  11 |   } else  
+> 12 | }) 
+     | ^ SyntaxError: Unexpected token (12:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  10 |     noDup.push(el); 
+  11 |   } else  
+> 12 | }) 
+     | ^ SyntaxError: Unexpected token (12:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+P is not defined 
+  ​​​​​at ​​​​​​quokka.js:8:1​
+  ​​​​​at ​​​​​​quokka.js:11:10​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  10 |     noDup.push(el); 
+  11 |   } else  
+> 12 | }) 
+     | ^ SyntaxError: Unexpected token (12:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+
+[] ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+ 
+Only the first 10 values are automatically logged, use console.log(dup) for the full output 
+  ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:12:5​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  11 |   } else { 
+  12 |     dup. 
+> 13 |   } 
+     |   ^ SyntaxError: Unexpected token (13:2) 
+  14 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:16:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4 ]
+  ​​​​​at ​​​​​​​​dup​​​ ​quokka.js:16:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:16:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+no is not defined 
+  ​​​​​at ​​​​​​quokka.js:16:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+noD is not defined 
+  ​​​​​at ​​​​​​quokka.js:16:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[] ​​​​​at ​​​​​​​​noDup​​​ ​quokka.js:16:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const  
+    |       ^ SyntaxError: Unexpected token (3:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dup 
+    |          ^ SyntaxError: Unexpected token (3:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dups 
+    |           ^ SyntaxError: Unexpected token (3:10) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dups =  
+    |              ^ SyntaxError: Unexpected token (3:13) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dups = if 
+    |              ^ SyntaxError: Unexpected token (3:13) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dups =  
+    |              ^ SyntaxError: Unexpected token (3:13) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dups = anArray. 
+    |                      ^ SyntaxError: Unexpected token (3:21) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dups = anArray.filter(el =-) 
+    |                                  ^ SyntaxError: Unexpected token (3:33) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const dups = anArray.filter(el =) 
+    |                                 ^ SyntaxError: Unexpected token (3:32) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | const dups = anArray.filter(el => { 
+  4 |   if 
+> 5 | }) 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+i is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:4:3​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 |  
+  3 | const dups = anArray.filter(el => { 
+> 4 |   if an 
+    |      ^ SyntaxError: Unexpected token (4:5) 
+  5 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | const dups = anArray.filter(el => { 
+  4 |   if  
+> 5 | }) 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 |  
+  3 | const dups = anArray.filter(el => { 
+> 4 |   if * 
+    |      ^ SyntaxError: Unexpected token (4:5) 
+  5 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 |  
+  3 | const dups = anArray.filter(el => { 
+> 4 |   if () 
+    |       ^ SyntaxError: Unexpected token (4:6) 
+  5 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | const dups = anArray.filter(el => { 
+  4 |   if  
+> 5 | }) 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | const dups = anArray.filter(el => { 
+  4 |   if 
+> 5 | }) 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 |  
+  3 | const dups = anArray.filter(el => { 
+> 4 |   if () 
+    |       ^ SyntaxError: Unexpected token (4:6) 
+  5 | }) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | const dups = anArray.filter(el => { 
+  4 |   if  
+> 5 | }) 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+an is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+[ 1, 2, 2, 3, 4, 5, 1, 6, 7, 6, ... ]
+  ​​​​​at ​​​​​​​​anArray​​​ ​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray. 
+    |         ^ SyntaxError: Unexpected token (3:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray.reduce) 
+    |               ^ SyntaxError: Unexpected token (3:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+dups is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray.reduce((dups, el) 
+    |                          ^ SyntaxError: Unexpected token (3:25) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray.reduce((dups, el)- 
+    |                           ^ SyntaxError: Unexpected token (3:26) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray.reduce((dups, el) 
+    |                          ^ SyntaxError: Unexpected token (3:25) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+dups is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray.reduce((dups, el) +) 
+    |                            ^ SyntaxError: Unexpected token (3:27) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray.reduce((dups, el) =) 
+    |                 ^ SyntaxError: Assigning to rvalue (3:16) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | anArray.reduce((dups, el) => ) 
+    |                              ^ SyntaxError: Unexpected token (3:29) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | anArray.reduce((dups, el) => { 
+  4 |   if 
+> 5 | }); 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | anArray.reduce((dups, el) => { 
+  4 |   if  
+> 5 | }); 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | anArray.reduce((dups, el) => { 
+  4 |   if 
+> 5 | }); 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 | anArray.reduce((dups, el) => { 
+  4 |   if  
+> 5 | }); 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 |  
+  3 | anArray.reduce((dups, el) => { 
+> 4 |   if * 
+    |      ^ SyntaxError: Unexpected token (4:5) 
+  5 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 |  
+  3 | anArray.reduce((dups, el) => { 
+> 4 |   if () 
+    |       ^ SyntaxError: Unexpected token (4:6) 
+  5 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  2 |  
+  3 | anArray.reduce((dups, el) => { 
+> 4 |   if (!) 
+    |        ^ SyntaxError: Unexpected token (4:7) 
+  5 | }); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const 
+    |      ^ SyntaxError: Unexpected token (3:5) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const  
+    |       ^ SyntaxError: Unexpected token (3:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const an 
+    |         ^ SyntaxError: Unexpected token (3:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const  
+    |       ^ SyntaxError: Unexpected token (3:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const red 
+    |          ^ SyntaxError: Unexpected token (3:9) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const refin 
+    |            ^ SyntaxError: Unexpected token (3:11) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const refined 
+    |              ^ SyntaxError: Unexpected token (3:13) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const refined  
+    |               ^ SyntaxError: Unexpected token (3:14) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const  
+    |       ^ SyntaxError: Unexpected token (3:6) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const no 
+    |         ^ SyntaxError: Unexpected token (3:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups =  
+    |                ^ SyntaxError: Unexpected token (3:15) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+an is not defined 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray. 
+    |                        ^ SyntaxError: Unexpected token (3:23) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+undefined is not a function 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el =) 
+    |                                   ^ SyntaxError: Unexpected token (3:34) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => ) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if ) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if no) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.con) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.inc) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.includes) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.includes()) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if *noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if {noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if (noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if (noDups.includes(el))) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if (noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const anArray = [1, 2, 2, 3, 4, 5, 1, 6, 7, 6, 6, 4]; 
+  2 |  
+> 3 | const noDups = anArray.filter(el => if noDups.includes(el)) 
+    |                                     ^ SyntaxError: Unexpected token (3:36) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+Cannot access 'noDups' before initialization 
+  ​​​​​at ​​​​​​quokka.js:3:1​
+  ​​​​​at ​​​​​​quokka.js:3:1​
+​

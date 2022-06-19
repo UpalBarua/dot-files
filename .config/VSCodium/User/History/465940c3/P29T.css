@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #282828;
+  color: #ffffff;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+.slides__container {
+  height: 100vh;
+  display: flex;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.875rem;
+  font-weight: 500;
+}
+
+.slide {
+  flex: 1;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide:first-child {background-image: url('./images/panel-img-1.jpg');}
+.slide:nth-child(2) {background-image: url('./images/panel-img-2.jpg');}
+.slide:nth-child(3) {background-image: url('./images/panel-img-3.jpg');}
+.slide:nth-child(4) {background-image: url('./images/panel-img-4.jpg');}
+.slide:last-child {background-image: url('./images/panel-img-5.jpg');}

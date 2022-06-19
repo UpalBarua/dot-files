@@ -1,0 +1,66 @@
+/*---------- NAVBAR ----------*/
+.header {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  transition: box-shadow 100ms ease-in-out;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 2rem;
+  background-color: $clr-dark-alt;
+
+  &__logo-img {
+    transform: scale(1.2);
+  }
+
+  &__menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 60%;
+    transition: transform 300ms ease-in-out, opacity 400ms ease;
+    transform: translateX(-100%);
+    opacity: 0;
+    z-index: 999;
+
+    @include for-tablet() {
+      position: initial;
+      height: initial;
+      width: initial;
+      background-color: initial;
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  &__list-item {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid $clr-light;
+
+    @include for-tablet {
+      display: inline-block;
+      border: none;
+      padding: 0 0.75rem;
+    }
+  }
+
+  &__menu-toggle {
+    transform: scale(1.8);
+    margin-left: 2rem;
+
+    &:hover,
+    &:focus {
+      opacity: 90%;
+    }
+  }
+
+  &__contact-btn:hover,
+  &__contact-btn:focus {
+    
+  }
+}

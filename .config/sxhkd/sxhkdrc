@@ -58,7 +58,7 @@ super + w
 
 # powermenu
 super + x
-    ~/.config/rofi/powermenu.sh
+    ~/.config/rofi/scripts/powermenu.sh
 
 # emoji
 super + e
@@ -74,7 +74,7 @@ super + c
 
 # rofi beats
 super + u 
-    ~/.config/rofi/rofi-beats.sh
+    ~/.config/rofi/scripts/rofi-beats.sh
 
 ## system controls ==========================================
 

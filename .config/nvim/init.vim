@@ -26,7 +26,7 @@ set hlsearch
 set history=1000
 set clipboard=unnamedplus
 set wildmenu
-set wildmode=list:longest
+set wildoptions=pum
 set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 set termguicolors
 set mouse=a
@@ -51,6 +51,7 @@ call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'https://github.com/ryanoasis/vim-devicons'
   Plug 'liuchengxu/vim-which-key'
   Plug 'arcticicestudio/nord-vim'
+  Plug 'folke/which-key.nvim'
 call plug#end()
 
 "--------------- Colorscheme Settings ---------------"
@@ -84,7 +85,7 @@ inoremap kj <Esc>
 nnoremap <leader>f :Files<CR>
 nnoremap <leader>w :w!<CR>
 nnoremap <leader>x :wq!<CR>
-nnoremap <leader>q :q!<CR>
+nnoremap <leader>qq :q!<CR>
 
 " Center the cursor vertically when moving to the next word during a search.
 nnoremap n nzz

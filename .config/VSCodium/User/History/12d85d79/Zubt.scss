@@ -1,0 +1,24 @@
+.footer {
+  padding-block: 4rem;
+  text-align: center;
+
+  &__logo {
+    margin-inline: auto;
+    padding-bottom: 2rem;
+  }
+
+  &__text {
+    padding-bottom: 2rem;
+  }
+
+  &__list {
+    display: flex;
+    place-content: center;
+    gap: 1rem;
+
+    &-item {
+      aspect-ratio: 1;
+      background-color: red;
+  }
+  }
+}

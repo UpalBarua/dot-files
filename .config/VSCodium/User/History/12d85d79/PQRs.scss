@@ -1,0 +1,42 @@
+.footer {
+  padding-block: 3rem;
+  text-align: center;
+
+  &__logo {
+    margin-inline: auto;
+    padding-bottom: 3rem;
+  }
+
+  &__text {
+    padding-bottom: 3rem;
+
+    @include for-tablet {
+      width: 60%;
+      margin-inline: auto;
+    }
+  }
+
+  &__list {
+    display: flex;
+    place-content: center;
+    gap: 1rem;
+    padding-bottom: 5rem;
+  }
+
+  &__link {
+    display: grid;
+    place-items: center;
+    height: 4rem;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    border: 1px solid $clr-light-alt;
+    font-size: 2.2rem;
+    transition: all 400ms ease;
+
+    &:hover,
+    &:focus {
+      background-color: $clr-light;
+      color: $clr-dark;
+    }
+  }
+}

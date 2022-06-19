@@ -2892,3 +2892,38 @@ Jun 16 14:45 : exception: Not playing
 Jun 16 14:45 : exception: Not playing
 Jun 16 14:45 : exception: Not playing
 Jun 16 14:45 : exception: Not playing
+Jun 19 13:08 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 13:08 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:45 : player: played "1 Bangladesh bands/About Dark/About Dark KonMohe.mp3"
+Jun 19 18:49 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:51 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:55 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:55 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:55 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:55 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:55 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:56 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:56 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 18:56 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:04 : player: played "3 Solo Artists/Shakira/Shakira_-_Hips_Don't_Lie_(Official_Music_Video)_ft._Wyclef_Jean(256k).mp3"
+Jun 19 19:05 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:10 : player: played "1 Bangladesh bands/Conclusion/Conclusion_-_Odyssey_(Official_Lyric_Video)(128kbps).mp3"
+Jun 19 19:10 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:14 : player: played "3 Solo Artists/Taylor swift/Taylor_Swift_-_Love_Story.mp3"
+Jun 19 19:18 : player: played "1 Bangladesh bands/Aurthohin/Bhabchhi Bose(Djjohal.Com).mp3"
+Jun 19 19:19 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:19 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:22 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:22 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:22 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:22 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:27 : player: played "3 Solo Artists/Nicki minaj/muzmo_ru_Nicki_Minaj_-_Ganja_Burns_b128f0d294.mp3"
+Jun 19 19:28 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:28 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:28 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:28 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:29 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:29 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 19:35 : player: played "4 Others/Villain(128k).mp3"
+Jun 19 19:38 : player: played "4 Others/Frank_Sinatra_Fly_Me_To_The_Moon(128k).mp3"
+Jun 19 19:42 : player: played "2 Foreign bands/Black Sabbath/1992 - Dehumanizer/09 - I.mp3"

@@ -1,0 +1,50 @@
+/*---------- SERVICES ----------*/
+.services {
+  padding-block: 5rem;
+
+   &__text {
+    padding-block: 1.8rem;
+   }
+
+   &__img {
+    padding-block: 1.4rem;
+   }
+
+   &__container-top {
+    @include for-tablet {
+      text-align: center;
+      margin-inline: auto;
+      width: 80%;
+    }
+   }
+
+   &__container-bottom {
+    display: grid;
+    justify-content: center;
+
+    @include for-tablet {
+      grid-template-columns: 1fr 1fr;
+      align-items: center;
+      justify-content: center;
+    }
+   }
+
+   &__cards-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4rem;
+
+    @include for-tablet {
+      grid-template-columns: 1fr 1fr;
+
+      .services__card:nth-child(2) {
+        transform: translateY(50%);
+      }
+    }
+  }
+  
+  &__card > * {
+    padding-bottom: 1rem;
+  }
+   
+}

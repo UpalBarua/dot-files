@@ -24,4 +24,4 @@ set selection-clipboard clipboard
 set zoom-min 10
 
 set font "CodeNewRoman Nerd Font 12"
-include nord 
+include themes/nord 

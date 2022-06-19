@@ -1,0 +1,46 @@
+.latest {
+  padding-block: 4rem;
+
+  &__title {
+    padding-bottom: 1.6rem;
+  }
+
+  &__text {
+    padding-bottom: 1.8rem;
+  }
+
+  &__link {
+    margin-bottom: 2.4rem;
+  }
+
+  &__metadata {
+    padding-bottom: 3rem;
+    @include for-tablet {
+      max-width: 70%;
+      text-align: center;
+      margin-inline: auto;
+    }
+  }
+
+  &__cards-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.6rem;
+
+    @include for-tablet {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .latest__card {
+    padding-bottom: 2rem;
+
+    &-img {
+      padding-bottom: 1.8rem;
+    }
+
+    &-title {
+      padding-bottom: 1.4rem;
+    }
+  }
+}

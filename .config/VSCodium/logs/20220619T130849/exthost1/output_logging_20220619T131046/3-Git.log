@@ -1,0 +1,48 @@
+[2022-06-19T07:10:47.042Z] Log level: Info
+[2022-06-19T07:10:47.044Z] [info] Validating found git in: git
+[2022-06-19T07:10:47.178Z] [info] Using git 2.36.1 from git
+[2022-06-19T07:10:47.386Z] > git rev-parse --show-toplevel [125ms]
+[2022-06-19T07:10:47.386Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:47.489Z] > git rev-parse --show-toplevel [68ms]
+[2022-06-19T07:10:47.489Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:47.837Z] > git rev-parse --show-toplevel [191ms]
+[2022-06-19T07:10:47.837Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:47.970Z] > git rev-parse --show-toplevel [111ms]
+[2022-06-19T07:10:47.970Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:48.137Z] > git rev-parse --show-toplevel [148ms]
+[2022-06-19T07:10:48.137Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:48.216Z] > git rev-parse --show-toplevel [56ms]
+[2022-06-19T07:10:48.216Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:49.242Z] > git rev-parse --show-toplevel [686ms]
+[2022-06-19T07:10:49.242Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:50.872Z] > git rev-parse --show-toplevel [55ms]
+[2022-06-19T07:10:50.872Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:53.529Z] > git rev-parse --show-toplevel [59ms]
+[2022-06-19T07:10:53.529Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:10:57.669Z] > git rev-parse --show-toplevel [8ms]
+[2022-06-19T07:10:57.669Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:11:56.754Z] > git rev-parse --show-toplevel [60ms]
+[2022-06-19T07:11:56.754Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:15:04.115Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-19T07:15:04.115Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:15:42.686Z] > git rev-parse --show-toplevel [6ms]
+[2022-06-19T07:15:42.686Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:17:30.376Z] > git rev-parse --show-toplevel [48ms]
+[2022-06-19T07:17:30.376Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-19T07:17:41.394Z] > git rev-parse --show-toplevel [5ms]
+[2022-06-19T07:17:41.394Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

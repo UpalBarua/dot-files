@@ -3,12 +3,12 @@ set shell sh
 set ignorecase true
 set icons true
 set drawbox
-set shellopts '-eu' # set '-eu' options for shell commands
-set ifs "\n" # set internal field separator (IFS) to "\n" for shell commands
-set scrolloff 10 # leave some space at the top and the bottom of the screen
+set shellopts '-eu'
+set ifs "\n"
+set scrolloff 10
 set preview true
-set cleaner '~/.config/lf/cleaner'
-set previewer '~/.config/lf/scope'
+set cleaner '~/.config/lf/scripts/cleaner'
+set previewer '~/.config/lf/scripts/scope'
 
 # Custom functions =====================
 # Making new folder
@@ -73,7 +73,7 @@ cmd tarbz2 %tar cjvf "$f.tar.bz2" "$f"
 
 # Settings image as wallpaper
 # cmd setwallpaper &nitrogen --set-scaled "$f" --save 
-cmd setwallpaper %feh --bg-scale "$f"
+cmd setwallpaper %feh --bg-fill "$f"
 cmd gonord %python src/cli.py --img="$f"
 cmd setlockscreen %betterlockscreen -u "$f" --fx 0 &
 cmd copyimg %xclip -selection clipboard -target image/png -i "$f"

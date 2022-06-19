@@ -1,0 +1,19 @@
+/*---------- WORKS ----------*/
+.works {
+  padding-block: 5rem;
+
+  &__title {
+    padding-bottom: 1.8rem;
+  }
+
+  .swiper {
+    &-slide {
+      display: grid;
+      place-items: center;
+      background-size: cover;
+      background-position: center;
+      height: auto;
+      width: auto;
+    }
+  }
+}

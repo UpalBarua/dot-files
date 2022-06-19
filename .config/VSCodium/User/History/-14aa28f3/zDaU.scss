@@ -1,0 +1,28 @@
+.latest {
+  &__title {
+    padding-bottom: 1.6rem;
+  }
+
+  &__text {
+    padding-bottom: 1.8rem;
+  }
+
+  &__link {
+    margin-bottom: 2.4rem;
+  }
+
+  &__cards-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+
+  }
+
+  .latest__card {
+    padding-bottom: 2rem;
+
+    &-img {
+      padding-bottom: 1.4rem;
+    }
+  }
+}
