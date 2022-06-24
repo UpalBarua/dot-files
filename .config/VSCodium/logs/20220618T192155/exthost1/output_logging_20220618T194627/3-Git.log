@@ -1,8 +1,0 @@
-[2022-06-18T13:46:29.626Z] Log level: Info
-[2022-06-18T13:46:29.634Z] [info] Validating found git in: git
-[2022-06-18T13:46:29.705Z] [info] Using git 2.36.1 from git
-[2022-06-18T13:47:06.797Z] > git rev-parse --show-toplevel [167ms]
-[2022-06-18T13:47:06.797Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul

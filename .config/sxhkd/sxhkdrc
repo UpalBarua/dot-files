@@ -20,30 +20,20 @@ super + alt + Return
     xfce4-terminal 
 
 # launching gui applications
-super + alt + {b, v, t, w, a, s, x, i, g, p, n, d} 
-    {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app, zathura}
+super + alt + {b, v, t, w, a, s, x, i, g, p, n, d, o} 
+    {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app, zathura, obsidian}
 
 # launching tui applications
 super + alt + {f, m, y, z, c, r}
-    $TERMINAL -e {lfub, ncmpcpp, btop, htop, nvim, newsboat}
+    $TERMINAL -e {lfub, cmus, btop, htop, nvim, newsboat}
 
 alt + t
     transmission-daemon;\
     notify-send "Transmission" "daemon started"
 
-alt + m
-    killall -9 mpd;\
-    mpd;\
-    notify-send "Music" "mpd started"
-
 super + alt + F12
     notify-send "Keyboard" "bangla keybord daemon started";\
     ibus-daemon -drxR
-
-# MPD controls
-super + alt + {comma, period, slash}
-   mpc {prev, next, toggle}
-
 
 
 ## Rofi launchers ===========================================

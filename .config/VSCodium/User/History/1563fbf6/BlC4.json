@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Code/Projects/manage-landing-page"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "04 - Array Cardio Day 1",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true
+  }
+}

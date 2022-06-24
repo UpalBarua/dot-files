@@ -1,0 +1,3010 @@
+["INFO" - 10:11:25 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:11:25 AM] Extension Version: 9.5.0.
+["INFO" - 10:33:09 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:33:10 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:33:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:33:10 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:33:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:33:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:33:10 AM] Formatting completed in 0.522ms.
+["INFO" - 10:45:03 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:45:03 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:45:03 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:45:03 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:45:03 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:45:03 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:45:03 AM] Formatting completed in 0.06ms.
+["INFO" - 10:45:47 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:45:47 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:45:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:45:47 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:45:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:45:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:45:47 AM] Formatting completed in 0.035ms.
+["INFO" - 10:48:57 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:48:57 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:48:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:48:57 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:48:57 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:48:57 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:48:57 AM] Formatting completed in 0.05ms.
+["INFO" - 10:49:01 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:49:01 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:49:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:49:01 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:49:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:49:01 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:49:01 AM] Formatting completed in 0.027ms.
+["INFO" - 10:49:03 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:49:03 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:49:03 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:49:03 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:49:03 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:49:03 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:49:03 AM] Formatting completed in 0.019ms.
+["INFO" - 10:54:45 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:54:45 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:54:45 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:54:45 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:54:45 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:54:45 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:54:46 AM] Formatting completed in 0.035ms.
+["INFO" - 10:55:57 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:55:57 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:55:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:55:57 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:55:57 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:55:57 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:55:57 AM] Formatting completed in 0.021ms.
+["INFO" - 10:56:44 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:56:44 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:56:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:56:44 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:56:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:56:44 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:56:44 AM] Formatting completed in 0.024ms.
+["INFO" - 10:59:55 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 10:59:55 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 10:59:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 10:59:55 AM] Parser not inferred, trying VS Code language.
+["INFO" - 10:59:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:59:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 10:59:55 AM] Formatting completed in 0.028ms.
+["INFO" - 11:00:07 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:00:07 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:00:07 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:00:07 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:00:07 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:00:07 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:00:07 AM] Formatting completed in 0.024ms.
+["INFO" - 11:00:28 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:00:28 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:00:28 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:00:28 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:00:28 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:00:28 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:00:28 AM] Formatting completed in 0.031ms.
+["INFO" - 11:00:42 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:00:42 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:00:42 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:00:42 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:00:42 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:00:42 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:00:42 AM] Formatting completed in 0.041ms.
+["INFO" - 11:00:50 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:00:50 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:00:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:00:50 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:00:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:00:50 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:00:50 AM] Formatting completed in 0.03ms.
+["INFO" - 11:05:14 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:05:14 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:05:14 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:05:14 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:05:14 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:14 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:05:14 AM] Formatting completed in 0.037ms.
+["INFO" - 11:05:16 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:05:16 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:05:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:05:16 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:05:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:16 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:05:16 AM] Formatting completed in 0.034ms.
+["INFO" - 11:05:30 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:05:30 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:05:30 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:05:30 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:05:30 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:30 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:05:30 AM] Formatting completed in 0.047ms.
+["INFO" - 11:06:02 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:06:02 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:06:02 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:06:02 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:06:02 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:06:02 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:06:02 AM] Formatting completed in 0.034ms.
+["INFO" - 11:06:24 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:06:24 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:06:24 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:06:24 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:06:24 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:06:24 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:06:24 AM] Formatting completed in 0.021ms.
+["INFO" - 11:06:59 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:06:59 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:06:59 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:06:59 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:06:59 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:06:59 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:06:59 AM] Formatting completed in 0.024ms.
+["INFO" - 11:07:17 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:17 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:17 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:17 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:17 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:17 AM] Formatting completed in 0.028ms.
+["INFO" - 11:07:21 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:21 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:21 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:21 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:21 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:21 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:21 AM] Formatting completed in 0.035ms.
+["INFO" - 11:07:29 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:29 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:29 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:29 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:29 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:29 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:29 AM] Formatting completed in 0.021ms.
+["INFO" - 11:07:33 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:33 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:33 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:33 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:33 AM] Formatting completed in 0.03ms.
+["INFO" - 11:07:38 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:38 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:38 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:38 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:38 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:38 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:38 AM] Formatting completed in 0.035ms.
+["INFO" - 11:07:43 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:43 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:43 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:43 AM] Formatting completed in 0.026ms.
+["INFO" - 11:07:46 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:46 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:46 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:46 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:46 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:46 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:46 AM] Formatting completed in 0.031ms.
+["INFO" - 11:07:49 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:49 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:49 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:49 AM] Formatting completed in 0.024ms.
+["INFO" - 11:07:52 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:52 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:52 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:52 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:52 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:52 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:52 AM] Formatting completed in 0.036ms.
+["INFO" - 11:07:55 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:07:55 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:07:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:07:55 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:07:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:07:55 AM] Formatting completed in 0.025ms.
+["INFO" - 11:08:21 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:21 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:21 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:21 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:21 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:21 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:21 AM] Formatting completed in 0.037ms.
+["INFO" - 11:08:27 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:27 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:27 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:27 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:27 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:27 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:27 AM] Formatting completed in 0.033ms.
+["INFO" - 11:08:31 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:31 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:31 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:31 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:31 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:31 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:31 AM] Formatting completed in 0.035ms.
+["INFO" - 11:08:36 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:36 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:36 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:36 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:36 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:36 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:36 AM] Formatting completed in 0.026ms.
+["INFO" - 11:08:41 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:41 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:41 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:41 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:41 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:41 AM] Formatting completed in 0.021ms.
+["INFO" - 11:08:44 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:44 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:44 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:44 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:44 AM] Formatting completed in 0.03ms.
+["INFO" - 11:08:55 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:55 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:55 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:55 AM] Formatting completed in 0.03ms.
+["INFO" - 11:08:57 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:08:57 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:08:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:08:57 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:08:57 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:08:57 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:08:57 AM] Formatting completed in 0.021ms.
+["INFO" - 11:09:18 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:09:18 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:09:18 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:09:18 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:09:18 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:09:18 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:09:18 AM] Formatting completed in 0.033ms.
+["INFO" - 11:09:22 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:09:22 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:09:22 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:09:22 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:09:22 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:09:22 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:09:22 AM] Formatting completed in 0.02ms.
+["INFO" - 11:09:39 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:09:39 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:09:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:09:39 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:09:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:09:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:09:39 AM] Formatting completed in 0.02ms.
+["INFO" - 11:09:49 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:09:49 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:09:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:09:49 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:09:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:09:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:09:49 AM] Formatting completed in 0.045ms.
+["INFO" - 11:10:19 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:10:19 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:10:19 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:10:19 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:10:19 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:10:19 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:10:19 AM] Formatting completed in 0.037ms.
+["INFO" - 11:10:55 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:10:55 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:10:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:10:55 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:10:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:10:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:10:55 AM] Formatting completed in 0.032ms.
+["INFO" - 11:11:09 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:11:09 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:11:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:11:09 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:11:09 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:11:09 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:11:09 AM] Formatting completed in 0.027ms.
+["INFO" - 11:11:15 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:11:15 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:11:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:11:15 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:11:15 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:11:15 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:11:15 AM] Formatting completed in 0.026ms.
+["INFO" - 11:13:25 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:13:25 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:13:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:13:25 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:13:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:13:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:13:25 AM] Formatting completed in 0.038ms.
+["INFO" - 11:13:32 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:13:32 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:13:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:13:32 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:13:32 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:13:32 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:13:32 AM] Formatting completed in 0.03ms.
+["INFO" - 11:13:58 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:13:58 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:13:58 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:13:58 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:13:58 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:13:58 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:13:58 AM] Formatting completed in 0.03ms.
+["INFO" - 11:14:25 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:14:25 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:14:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:14:25 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:14:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:14:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:14:25 AM] Formatting completed in 0.021ms.
+["INFO" - 11:14:27 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:14:27 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:14:27 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:14:27 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:14:27 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:14:27 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:14:27 AM] Formatting completed in 0.023ms.
+["INFO" - 11:14:34 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:14:34 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:14:34 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:14:34 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:14:34 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:14:34 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:14:34 AM] Formatting completed in 0.02ms.
+["INFO" - 11:15:00 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:15:00 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:15:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:15:00 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:15:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:15:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:15:00 AM] Formatting completed in 0.018ms.
+["INFO" - 11:15:00 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:15:00 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:15:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:15:00 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:15:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:15:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:15:00 AM] Formatting completed in 0.017ms.
+["INFO" - 11:16:25 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:16:25 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:16:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:16:25 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:16:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:16:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:16:25 AM] Formatting completed in 0.018ms.
+["INFO" - 11:16:49 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:16:49 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:16:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:16:49 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:16:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:16:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:16:49 AM] Formatting completed in 0.035ms.
+["INFO" - 11:17:14 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:17:14 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:17:14 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:17:14 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:17:14 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:17:14 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:17:14 AM] Formatting completed in 0.018ms.
+["INFO" - 11:17:36 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:17:36 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:17:36 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:17:36 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:17:36 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:17:36 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:17:36 AM] Formatting completed in 0.025ms.
+["INFO" - 11:18:13 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:18:13 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:18:13 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:18:13 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:18:13 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:18:13 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:18:13 AM] Formatting completed in 0.031ms.
+["INFO" - 11:18:38 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:18:38 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:18:38 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:18:38 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:18:38 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:18:38 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:18:38 AM] Formatting completed in 0.019ms.
+["INFO" - 11:18:43 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:18:43 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:18:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:18:43 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:18:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:18:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:18:43 AM] Formatting completed in 0.021ms.
+["INFO" - 11:18:54 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:18:54 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:18:54 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:18:54 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:18:54 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:18:54 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:18:54 AM] Formatting completed in 0.031ms.
+["INFO" - 11:19:30 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:19:30 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:19:30 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:19:30 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:19:30 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:19:30 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:19:30 AM] Formatting completed in 0.024ms.
+["INFO" - 11:20:11 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:20:11 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:20:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:20:11 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:20:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:20:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:20:11 AM] Formatting completed in 0.03ms.
+["INFO" - 11:20:12 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:20:12 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:20:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:20:12 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:20:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:20:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:20:12 AM] Formatting completed in 0.046ms.
+["INFO" - 11:20:22 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:20:22 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:20:22 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:20:22 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:20:22 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:20:22 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:20:22 AM] Formatting completed in 0.025ms.
+["INFO" - 11:20:33 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:20:33 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:20:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:20:33 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:20:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:20:33 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:20:33 AM] Formatting completed in 0.018ms.
+["INFO" - 11:20:37 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:20:37 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:20:37 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:20:37 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:20:37 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:20:37 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:20:37 AM] Formatting completed in 0.018ms.
+["INFO" - 11:20:43 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:20:43 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:20:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:20:43 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:20:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:20:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:20:43 AM] Formatting completed in 0.034ms.
+["INFO" - 11:20:52 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:20:52 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:20:52 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:20:52 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:20:52 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:20:52 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:20:52 AM] Formatting completed in 0.03ms.
+["INFO" - 11:21:11 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:21:11 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:21:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:21:11 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:21:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:21:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:21:11 AM] Formatting completed in 0.022ms.
+["INFO" - 11:21:18 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:21:18 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:21:18 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:21:18 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:21:18 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:21:18 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:21:18 AM] Formatting completed in 0.018ms.
+["INFO" - 11:21:26 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:21:26 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:21:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:21:26 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:21:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:21:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:21:26 AM] Formatting completed in 0.018ms.
+["INFO" - 11:21:32 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:21:32 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:21:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:21:32 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:21:32 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:21:32 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:21:32 AM] Formatting completed in 0.036ms.
+["INFO" - 11:21:50 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:21:50 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:21:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:21:50 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:21:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:21:50 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:21:50 AM] Formatting completed in 0.019ms.
+["INFO" - 11:25:38 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:25:38 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:25:38 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:25:38 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:25:38 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:25:38 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:25:38 AM] Formatting completed in 0.022ms.
+["INFO" - 11:25:54 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:25:54 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:25:54 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:25:54 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:25:54 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:25:54 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:25:54 AM] Formatting completed in 0.031ms.
+["INFO" - 11:26:02 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:26:02 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:26:02 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:26:02 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:26:02 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:26:02 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:26:02 AM] Formatting completed in 0.021ms.
+["INFO" - 11:26:43 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:26:43 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:26:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:26:43 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:26:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:26:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:26:43 AM] Formatting completed in 0.018ms.
+["INFO" - 11:27:07 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:27:07 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:27:07 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:27:07 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:27:07 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:27:07 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:27:07 AM] Formatting completed in 0.018ms.
+["INFO" - 11:27:12 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:27:12 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:27:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:27:12 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:27:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:27:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:27:12 AM] Formatting completed in 0.019ms.
+["INFO" - 11:27:16 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:27:16 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:27:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:27:16 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:27:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:27:16 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:27:16 AM] Formatting completed in 0.022ms.
+["INFO" - 11:27:33 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:27:33 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:27:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:27:33 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:27:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:27:33 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:27:33 AM] Formatting completed in 0.017ms.
+["INFO" - 11:27:57 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:27:57 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:27:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:27:57 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:27:57 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:27:57 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:27:57 AM] Formatting completed in 0.044ms.
+["INFO" - 11:28:13 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:28:13 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:28:13 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:28:13 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:28:13 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:28:13 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:28:13 AM] Formatting completed in 0.026ms.
+["INFO" - 11:28:46 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:28:46 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:28:46 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:28:46 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:28:46 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:28:46 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:28:46 AM] Formatting completed in 0.018ms.
+["INFO" - 11:28:48 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:28:48 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:28:48 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:28:48 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:28:48 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:28:48 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:28:48 AM] Formatting completed in 0.021ms.
+["INFO" - 11:28:59 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:28:59 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:28:59 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:28:59 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:28:59 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:28:59 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:28:59 AM] Formatting completed in 0.037ms.
+["INFO" - 11:29:08 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:29:08 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:29:08 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:29:08 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:29:08 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:29:08 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:29:08 AM] Formatting completed in 0.026ms.
+["INFO" - 11:29:11 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:29:11 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:29:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:29:11 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:29:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:29:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:29:11 AM] Formatting completed in 0.02ms.
+["INFO" - 11:29:17 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:29:17 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:29:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:29:17 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:29:17 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:29:17 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:29:17 AM] Formatting completed in 0.019ms.
+["INFO" - 11:46:20 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:46:20 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:46:20 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:46:20 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:46:20 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:46:20 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:46:20 AM] Formatting completed in 0.03ms.
+["INFO" - 11:46:27 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:46:27 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:46:27 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:46:27 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:46:27 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:46:27 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:46:27 AM] Formatting completed in 0.019ms.
+["INFO" - 11:47:14 AM] Formatting file:///home/upalb/Code/Projects/url-shortner/views/index.ejs
+["INFO" - 11:47:14 AM] Using ignore file (if present) at /home/upalb/Code/Projects/url-shortner/.prettierignore
+["INFO" - 11:47:14 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": null
+}
+["WARN" - 11:47:14 AM] Parser not inferred, trying VS Code language.
+["INFO" - 11:47:14 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:47:14 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Projects/url-shortner/views/index.ejs",
+  "parser": "angular"
+}
+["INFO" - 11:47:14 AM] Formatting completed in 0.027ms.

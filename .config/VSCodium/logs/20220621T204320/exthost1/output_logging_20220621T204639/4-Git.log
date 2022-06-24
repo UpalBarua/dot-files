@@ -1,0 +1,148 @@
+[2022-06-21T14:46:40.506Z] Log level: Info
+[2022-06-21T14:46:40.508Z] [info] Validating found git in: git
+[2022-06-21T14:46:40.599Z] [info] Using git 2.36.1 from git
+[2022-06-21T14:46:40.707Z] > git rev-parse --show-toplevel [51ms]
+[2022-06-21T14:46:40.707Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:47:34.595Z] > git rev-parse --show-toplevel [28ms]
+[2022-06-21T14:47:34.595Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:49:25.925Z] > git rev-parse --show-toplevel [16ms]
+[2022-06-21T14:49:25.925Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:49:54.265Z] > git rev-parse --show-toplevel [15ms]
+[2022-06-21T14:49:54.265Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:52:10.952Z] > git rev-parse --show-toplevel [17ms]
+[2022-06-21T14:52:10.952Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:52:46.718Z] > git rev-parse --show-toplevel [66ms]
+[2022-06-21T14:52:46.718Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:53:32.096Z] > git rev-parse --show-toplevel [17ms]
+[2022-06-21T14:53:32.096Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:53:50.564Z] > git rev-parse --show-toplevel [13ms]
+[2022-06-21T14:53:50.564Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:53:54.032Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-21T14:53:54.032Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:53:55.666Z] > git rev-parse --show-toplevel [12ms]
+[2022-06-21T14:53:55.666Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:59:35.034Z] > git rev-parse --show-toplevel [57ms]
+[2022-06-21T14:59:35.034Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/tailwind-landing-page' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/tailwind-landing-page
+[2022-06-21T14:59:36.183Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-21T14:59:36.183Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/tailwind-landing-page' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/tailwind-landing-page
+[2022-06-21T14:59:37.346Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-21T14:59:37.346Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/tailwind-landing-page' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/tailwind-landing-page
+[2022-06-21T15:00:43.589Z] > git rev-parse --show-toplevel [26ms]
+[2022-06-21T15:00:43.589Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:00:56.029Z] > git rev-parse --show-toplevel [65ms]
+[2022-06-21T15:00:56.029Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:01.311Z] > git rev-parse --show-toplevel [16ms]
+[2022-06-21T15:01:01.311Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:44.594Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-21T15:01:44.594Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:01:46.695Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-21T15:01:46.696Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:47.850Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-21T15:01:47.850Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:01:49.082Z] > git rev-parse --show-toplevel [21ms]
+[2022-06-21T15:01:49.082Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:53.637Z] > git rev-parse --show-toplevel [8ms]
+[2022-06-21T15:01:53.637Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:01:54.287Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-21T15:01:54.287Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:54.863Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-21T15:01:54.863Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:01:55.566Z] > git rev-parse --show-toplevel [14ms]
+[2022-06-21T15:01:55.567Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:56.644Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-21T15:01:56.644Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:01:57.696Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-21T15:01:57.696Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:58.145Z] > git rev-parse --show-toplevel [7ms]
+[2022-06-21T15:01:58.145Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:01:59.229Z] > git rev-parse --show-toplevel [7ms]
+[2022-06-21T15:01:59.229Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:01:59.882Z] > git rev-parse --show-toplevel [11ms]
+[2022-06-21T15:01:59.882Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:02:01.452Z] > git rev-parse --show-toplevel [8ms]
+[2022-06-21T15:02:01.452Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:02:02.525Z] > git rev-parse --show-toplevel [14ms]
+[2022-06-21T15:02:02.525Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:02:03.560Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-21T15:02:03.560Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:02:08.004Z] > git rev-parse --show-toplevel [14ms]
+[2022-06-21T15:02:08.004Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:02:09.763Z] > git rev-parse --show-toplevel [39ms]
+[2022-06-21T15:02:09.763Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:02:14.047Z] > git rev-parse --show-toplevel [19ms]
+[2022-06-21T15:02:14.047Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:16:11.603Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-21T15:16:11.603Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:16:22.763Z] > git rev-parse --show-toplevel [31ms]
+[2022-06-21T15:16:22.763Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T15:41:32.286Z] > git rev-parse --show-toplevel [30ms]
+[2022-06-21T15:41:32.286Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/manage-landing-page/COMPLETED
+[2022-06-21T15:41:42.654Z] > git rev-parse --show-toplevel [13ms]
+[2022-06-21T15:41:42.654Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

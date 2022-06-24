@@ -1,0 +1,9 @@
+[2022-06-21T14:16:36.567Z] Log level: Info
+[2022-06-21T14:16:36.570Z] [info] Validating found git in: git
+[2022-06-21T14:16:36.605Z] [info] Using git 2.36.1 from git
+[2022-06-21T14:16:36.804Z] > git rev-parse --show-toplevel [138ms]
+[2022-06-21T14:16:36.804Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-21T14:16:49.656Z] > git rev-parse --show-toplevel [12755ms]
+[2022-06-21T14:16:49.656Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

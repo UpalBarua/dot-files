@@ -1,0 +1,17 @@
+[2022-06-20 19:48:01.492] [main] [info] update#setState idle
+[2022-06-20 19:48:07.827] [main] [info] Starting extension host with pid 6139 (fork() took 18 ms).
+[2022-06-20 19:48:18.740] [main] [info] Enabling inspect port on extension host with pid 6139.
+[2022-06-20 19:48:31.493] [main] [info] update#setState checking for updates
+[2022-06-20 19:48:31.890] [main] [info] update#setState idle
+[2022-06-20 20:01:17.519] [main] [info] Starting extension host with pid 7441 (fork() took 11 ms).
+[2022-06-20 20:01:17.593] [main] [info] Extension host with pid 6139 exited with code: 0, signal: null.
+[2022-06-20 20:01:33.305] [main] [info] Starting extension host with pid 7551 (fork() took 21 ms).
+[2022-06-20 20:01:38.975] [main] [info] Enabling inspect port on extension host with pid 7551.
+[2022-06-20 20:01:40.096] [main] [info] Extension host with pid 7441 exited with code: 0, signal: null.
+[2022-06-20 20:14:33.645] [main] [error] CodeWindow: detected unresponsive
+[2022-06-20 20:48:34.074] [main] [info] update#setState checking for updates
+[2022-06-20 20:48:35.714] [main] [info] update#setState idle
+[2022-06-20 21:48:34.291] [main] [info] update#setState checking for updates
+[2022-06-20 21:48:39.671] [main] [info] update#setState idle
+[2022-06-20 21:53:11.987] [main] [info] Waiting for extension host with pid 7551 to exit.
+[2022-06-20 21:53:12.526] [main] [info] Extension host with pid 7551 exited with code: 0, signal: null.

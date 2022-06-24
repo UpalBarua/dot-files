@@ -85,7 +85,7 @@ cmd open-with %"$@" "$fx"
 cmd open ${{
     test -L $f && f=$(readlink -f $f)
     case $(file --mime-type $f -b) in
-        image/*) $HOME/.config/lf/rotdir $f | grep -i "\.\(png\|jpg\|jpeg\|gif\|webp\|tif\|ico\)\(_large\)*$" |
+        image/*) $HOME/.config/lf/scripts/rotdir $f | grep -i "\.\(png\|jpg\|jpeg\|gif\|webp\|tif\|ico\)\(_large\)*$" |
             setsid -f sxiv -aio 2>/dev/null | while read -r file; do
                 [ -z "$file" ] && continue
                 lf -remote "send select \"$file\""
