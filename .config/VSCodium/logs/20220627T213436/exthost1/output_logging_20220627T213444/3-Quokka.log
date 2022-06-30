@@ -1,0 +1,222 @@
+​​​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function sayName() { 
+> 2 |   console.log('My name is !); 
+    |               ^ SyntaxError: Unterminated string constant (2:14) 
+  3 | } 
+  4 |  
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function sayName() { 
+> 2 |   console.log('My name is !`); 
+    |               ^ SyntaxError: Unterminated string constant (2:14) 
+  3 | } 
+  4 |  
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | function sayName() { 
+> 2 |   console.log(`My name is ! ${}`); 
+    |                               ^ SyntaxError: Unexpected token (2:30) 
+  3 | } 
+  4 |  
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const name  
+> 2 | function sayName() { 
+    | ^ SyntaxError: Unexpected token (2:0) 
+  3 |   console.log(`My name is ! ${name}`); 
+  4 | } 
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const  
+  2 |  
+> 3 | const name = 'Abir'; 
+    | ^ SyntaxError: Unexpected keyword 'const' (3:0) 
+  4 |  
+  5 | function sayName() { 
+  6 |   console.log(`My name is ! ${name}`); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj 
+  2 |  
+> 3 | const name = 'Abir'; 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 |  
+  5 | function sayName() { 
+  6 |   console.log(`My name is ! ${name}`); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj  
+  2 |  
+> 3 | const name = 'Abir'; 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 |  
+  5 | function sayName() { 
+  6 |   console.log(`My name is ! ${name}`); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj =  
+  2 |  
+> 3 | const name = 'Abir'; 
+    | ^ SyntaxError: Unexpected token (3:0) 
+  4 |  
+  5 | function sayName() { 
+  6 |   console.log(`My name is ! ${name}`); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+  2 |  
+> 3 |   const name = 'Abir'; 
+    |   ^ SyntaxError: Unexpected keyword 'const' (3:2) 
+  4 | } 
+  5 |  
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   const name = 'Abir'; 
+    |   ^ SyntaxError: Unexpected keyword 'const' (2:2) 
+  3 |  
+  4 | } 
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   const name  'Abir'; 
+    |   ^ SyntaxError: Unexpected keyword 'const' (2:2) 
+  3 |  
+  4 | } 
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   const name : 'Abir'; 
+    |   ^ SyntaxError: Unexpected keyword 'const' (2:2) 
+  3 |  
+  4 | } 
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |    name : 'Abir'; 
+    |                 ^ SyntaxError: Unexpected token (2:16) 
+  3 |  
+  4 | } 
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |  
+  4 | } 
+  5 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |  
+  4 |   function sayName() { 
+  5 |     console.log(`My name is ! ${name}`); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   function sayName() { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |    sayName() { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   sayName() { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   sayName () { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   sayName :() { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   sayName : func() { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   sayName : function() { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   sayName : function 
+  4 |   () { 
+  5 |     console.log(`My name is ! ${name}`); 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+> 2 |   name : 'Abir'; 
+    |                ^ SyntaxError: Unexpected token (2:15) 
+  3 |   sayName : function() { 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+  2 |   name : 'Abir' 
+> 3 |   sayName : function() { 
+    |   ^ SyntaxError: Unexpected token (3:2) 
+  4 |     console.log(`My name is ! ${name}`); 
+  5 |   }; 
+  6 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   sayName : function() { 
+  4 |     console.log(`My name is ! ${name}`); 
+> 5 |   }; 
+    |    ^ SyntaxError: Unexpected token (5:3) 
+  6 |  
+  7 | } 
+  8 |  
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​

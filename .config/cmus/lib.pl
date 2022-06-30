@@ -1,571 +1,533 @@
-/home/upalb/Music/1 Bangladesh bands/About Dark/ABOUT_DARK_-_Kalo_Manush_[Official_Video](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/About Dark/About Dark Kalo Manush.mp3
-/home/upalb/Music/1 Bangladesh bands/About Dark/About Dark KonMohe.mp3
-/home/upalb/Music/1 Bangladesh bands/About Dark/About Dark Tumi.mp3
-/home/upalb/Music/1 Bangladesh bands/About Dark/About_Dark_-_KonMohe_[Official_Lyric_Video](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/About Dark/About_Dark_-_Tumi_[Official_Music_Video](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Adberb/Adverb_-_Ke_Tomake_Bashbe_Bhalo___কে_তোমাকে_বাসবে_ভালো___Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Adberb/Adverb_-_Kotodur___কত_দূর_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Adberb/Adverb_-_Oboshad___অবসাদ_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH DHOA.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH HOONGKAR.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH MATIR_ROUD.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH MOHO.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH ODHIKAR.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH ONNOGAAN.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH OSPRIHO.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH TUMI.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH UPOHAASH.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH UTHSHORGO.mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_DHOA_(LYRICS_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_HOONGKAR_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_ODHIKAR_(OFFICIAL_LYRICS_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_ONNOGAAN_(LYRICS_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_OSPRIHO_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_TUMI_(LYRICS_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_UPOHAASH_(LYRICS_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_-_UTHSHORGO_(LYRICS_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_l_MATIR_ROUD_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aftermath/AFTERMATH_l_MOHO_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus_-_Omanush.mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus_-_School.mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus___Chaya_Manush_-_Bangladeshi_Band.mp3
-/home/upalb/Music/1 Bangladesh bands/Ark/ARK_Band___Proshno___প্রশ্ন___BTV_Band_Show___Rock_N_Rolls_2015.mp3
-/home/upalb/Music/1 Bangladesh bands/Ark/Sweety_tumi_ar_kedo_na_-_Ark_(Hasan)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/ARTCELL____Utshober_Utshahe____Tribute____SELF_PORTRAIT(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell_-_Ei_Bristy_Veja_Rate_Lyrics(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell_-_Krittim__Manush.mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell_-_Obhoy_(Official_Lyric_Video)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell_Chile_kothar_shepai.mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Utshober_Utshaho(Artcell)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/ASHES --17 prishtha.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/Ashes_Ki R Hobe .mp3.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/Ayna(আয়না)__-_Ashes_Unreleased_track.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/Tamak_Pata_by_Ashes_(Album_Version).mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/ashes_pagol-gaza.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/ধুলাবালি_-_Dhulabali_By_Ashes_Band.mp3
-/home/upalb/Music/1 Bangladesh bands/Atavists/Atavists_-_Lohori_(''লহরী'')_Studio_Video_(Un-mastered)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Atavists/Atavists_-_Ominous_(Lyric_video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Attic/Attic_-_Echoes_In_Your_Attic_(Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Attic/Attic_-_Love_Or_Hate_(Acoustic)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Attic/Attic_-_Love_Or_Hate_(Lyric)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Attic/Attic_-_Time_Machine_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Gohine___by_Black___Album_Unomanush___Official_Music_Video.mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto-_Dhulo_Pora(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Aulikhito_Dukkho.mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Ekush_Niye(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Karigor(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Kothay(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Onupran(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Shesh_Abeg(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Shomadhir_Moto(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Aushruto_-_Whisper_to_Survive(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/Whisper to survive.mp3
-/home/upalb/Music/1 Bangladesh bands/Avash/Anath___Avash___Official_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avash/Avash___Avash___Official_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avash/Bastob___Avash___Official_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avash/Manush-1___Avash___Official_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/All_along_the_watchtower_by_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/All_along_the_watchtower_live_-_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Black_Hole_Sun_-_Rafa_(Cover)_[Sound_Garden](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Clocks_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Closer_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Don't_cry_cover_by_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Flight_Of_The_Icarus_-_Rafa_(Iron_Maiden_Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Forever_and_one_-_Rafa_(Unplugged)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Good_riddance_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Gravedigger_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Hurt_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/I'm_yours_-_Rafa_(Acoustic,_Beatbox_cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/I_Got_A_Name_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/I_want_to_break_free_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/In_loving_memory_-_Rafa_(Acoustic_cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Iris_-_Rafa_(cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Killing_in_the_name_(cover)_-_Rage_against_the_machine-_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Kiss_From_A_Rose_covered_by_Rafa_(Live)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Like_a_stone_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/LikenShare-_AvoidRafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Lucky_-_Rafa_&_Xefer_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Nijeke_Harabar_Bhoy_-_Shishir_ft._Rafa__নিজেকে_হারাবার_ভয়__Official_Music_Video(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Open_my_eyes_-_Rafa_(Cover)_[Rival_sons](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Painkiller_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Poonam_&_Rafa_-_Sway_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Pyro_-_Kings_of_leon_(Cover_by_Rafa)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Pyro_-_Rafa_(Acoustic)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Pyro_covered_by_Rafa_(Live)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Pyro_with_avoidRafa_and_Trio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Raef_Al_Hasan_Rafa-And_Rain(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Rafa-_Yellow_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Sex_On_Fire_-_Rafa_(cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Soldier_Of_Fortune_-_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Studio_Purple_with_Avoid_Rafa_-_Colours__FM_101.6(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Sweet_Child_O_Mine_-_Rafa_And_Elita_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Testify_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/The_Maze_Covered_by_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Through_glass_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/To_be_with_you_-_Rafa_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Tune_Factory__Haar_Kala_by_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Use_somebody_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Warfaze_-_Boshe_Achi_-_1080p_ft._Rafa,_Jamshed_and_Shakib____Rocknation_3(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Watch_over_you_-_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Where_are_you_going_-_Cover_(Rafa)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Wish_you_were_here_Cover(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Yellow_-_Rafa_(Piano_Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Yellow_-_avoidRafa_Trio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Yesterday_-_Rafa(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/You_and_Me_-_(Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Bay of Bengal/Bay_Of_Bengal_-_Jochona_Snan_(জোছনা_স্নান)_(Official_Audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Bay of Bengal/Bay_of_Bengal_(Underwater_Nature_Bangladesh_).mp3
-/home/upalb/Music/1 Bangladesh bands/Bay of Bengal/Bidroho_-_Bay_of_Bengal_(Remastered_Version)_(Official_Music_Video).mp3
-/home/upalb/Music/1 Bangladesh bands/Bay of Bengal/Ghum_-_Bay_of_Bengal_(Official_Video).mp3
-/home/upalb/Music/1 Bangladesh bands/Bay of Bengal/Mrittur_Bhugol_-_Bay_of_Bengal_(Official_Video).mp3
-/home/upalb/Music/1 Bangladesh bands/Black/Black___Andho_(Blind)_-_Bangladeshi_Band.mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Aha_Aji_E_Boshonte(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Akash_Aka(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Akash_Bole(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Bondhu(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Bondhu(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Kodom(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Maya(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Tomar_Chaya(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/Blue_Jeans___Vivid_Dream_of_a_Night___Instrumental(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/আবার_বাঁচবো___Abar_Bachbo_with_Milo_the_Singing_Dog_-_Blue_Jeans_(Quarantine_Song)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/Chirkutt_song_Duniya_-_from_Aynabaji.mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Firey_Esho_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Kothay_Tomar......__(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Manob_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Mohakashchari_(Audio)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Ondho_Porajoy_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Priyo_Ondhokar_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Purbo_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Shajo_Tumi_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Tin_Chaka_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Tiroshkar_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion-_Vertigo_(Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion_-_Auroop__Nirakar_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion_-_Odyssey_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion_-_Odyssey_(Official_Lyric_Video)(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Conclusion/Conclusion_-_Shajo_Tumi_(Official_Music_Video)(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Cryptic fate/Cryptic_Fate_-_Akromon_Official_Music_Video_2013__UNCENSORED.mp3
-/home/upalb/Music/1 Bangladesh bands/Cryptic fate/Cryptic_Fate_-_Bhoboghuray.mp3
-/home/upalb/Music/1 Bangladesh bands/Cryptic fate/Rong___Cryptic_Fate___Banglalink_presents_Legends_of_Rock.mp3
-/home/upalb/Music/1 Bangladesh bands/Dads in the park/Dads_In_The_Park___Afeenolove_ft._Maheyan_Hasan(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Dads in the park/Dads_In_The_Park___Lullaby_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Dads in the park/Dads_In_The_Park___Pareidolia_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Dads in the park/Dads_In_The_Park___Remembrance_(Official_Music_Video)___Live2web_Records(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Defy/Defy_-_Aloor_Chop_(আলুর_চপ)____Official_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Defy/Defy_-_Bhoy_(ভয়)____Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Defy/Defy_-_Onuronon_(অনুরণন)____Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Defy/Defy_-_Shawgokti_(স্বগোক্তি)____Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Defy/In_the_Studio__Onuronon(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Eida/EIDA_-_Aurora_Dreams_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Eida/EIDA_-_Find_Me__(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Eida/EIDA_-_In_the_Blind_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Eida/EIDA_-_Nightdriver_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Eida/EIDA_-_Relentless_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Eida/EIDA_-_What_It_Means_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/Encore_-_Grishsho(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/Encore_-_Maddhakorshon_____Official_Audio(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/Encore_-_Natai____Official_Audio(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/Encore_-_Prayshchitto____Official_Audio(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/Encore_-_Punorabritti_[Official_Music_Video](256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/Encore_-_Rokter_Dosh__(ft._Imran_Amrit)___Official_Audio(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Ending face/EF-SHESH_PROHOR___Official_Music_Video__2017___RM_Productions___RM_Music.mp3
-/home/upalb/Music/1 Bangladesh bands/Ending face/EF_-_Dusshopno.mp3
-/home/upalb/Music/1 Bangladesh bands/Ending face/EF_-_Nondito_Norok_(Official_Music_Video).mp3
-/home/upalb/Music/1 Bangladesh bands/Ending face/EF_-_Rononiti_(AUDIO).mp3
-/home/upalb/Music/1 Bangladesh bands/Golpo/Pothoshishu_(পথশিশু)_-_Golpo(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Golpo/Purono_Kahini_(পুরোনো_কাহিনী_)_-_Golpo(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/High way/Brihoshpoti_a_demo_track_by__High_Way.mp3
-/home/upalb/Music/1 Bangladesh bands/High way/GhorGari___ঘোরগাড়ী___By_Highway___ভবের_গান___Lyrical_Video.mp3
-/home/upalb/Music/1 Bangladesh bands/High way/Obosthan_Eather_official__Band__The_High_Ways.mp3
-/home/upalb/Music/1 Bangladesh bands/High way/Obosthan_by_Eather_Acoustic_2016.mp3
-/home/upalb/Music/1 Bangladesh bands/High way/Sesh_gaan_-_Ether.m4a
-/home/upalb/Music/1 Bangladesh bands/High way/Shakkhi(Official_Lyric_Video)___High_Way__(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Antonogor(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Canvas(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Deyalghori(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_ISD(Remastered)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Ke_Shunbe(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Obosheshe(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Obosheshe___OFFICIAL_MUSIC_VIDEO(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Olik(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Oshfut(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Oshfut(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Pathorer_Araler_Phool(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Plastic(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Pounopunik(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Sake(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Indalo/Indalo_-_Tomar_Shokal(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/Ionic_Bond_-_Crush_the_Iron_Dome_[Bangladesh]_[HD]_(_Lyrics)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/Ionic_Bond_-_Her_Icarus_(OFFICIAL_VIDEO)(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/Ionic_Bond_-_Hiraeth_[Video](128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/Ionic_Bond_-_Inis_Mona_[Eluveitie_cover](128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/Ionic_Bond_-_Searchlight_Kill(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/Ionic_Bond_Amvashya_Lore%21__m_(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/Victory_Song_-_Ionic_Bond(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Ionic Bond/[_Ionic_Bond_]_-_Making_Of___Amavashya_Lore______Part_-_2(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-Obantor(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Attotshorgo(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Bhognomonoskota(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Bhrom_(ভ্রম)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Bijatio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Bikrito_Drishti(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Cafuné(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Control_Room_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Control_Room___The_Movie_(OFFICIAL_VIDEO)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Gholate(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Mohomukti_মোহমুক্তি_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Montropaat(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Obadho(bashona)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Opodebota(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Osomo_12(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Otit(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Otopor_(অতঃপর)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Rirongsha_(রিরংসা)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Shadakalo_Rongdhonu(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Sheishob_Dinraatri_সেইসব_দিনরাত্রি_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Sobuj_Bagan(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-_Tader_Shopno(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-__Amar_Shotto(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-__Bhabnaar_Nil_Akash(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-__Bidhatar_Aahobaan(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-__Bikkhoto(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-__Durey(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-__Shesh_Prarthona_[Bonus_Track](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Karnival/Karnival_-__Tomay_(_Instrumental_)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/LRB/Ayub_Bachchu_-_মেয়ে.mp3
-/home/upalb/Music/1 Bangladesh bands/LRB/SHEI_TUMI_-_AYUB_BACCHU_with_TAPOSH___WIND_OF_CHANGE_[_PRE-SEASON_]_at_GAAN_BANG.mp3
-/home/upalb/Music/1 Bangladesh bands/LRB/_Sei_Tumi_Keno_Eto_Ochena_Hole__subtitled_by_Arindam_Dutta.mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_60's_LOVE(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_AAR_AMI(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_ALSHEMI_(LYRICAL)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_BEEP_FT_A.K_RATUL(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_GHOLATE_MEGH(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_OBOSHESHEY(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_ROOM_17(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_SHOTTO_MITHEY(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_SHUVRO_PROBHAT(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Level Five/LEVEL_FIVE_-_SHUVRO_PROBHAT_(acoustic)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Attoshur(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Barud(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Bibhrom(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Gobhir(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Mittha-Bicchinnota(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Opare(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Ostitter_Obokash(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Tomar_Itihash(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/BISSHOY_by_Mechanix_(official).mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Bodh_by_Mechanix_(Official_Lyric_Video)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Chile_Kothar_Shepai_(Cover)___Mechanix___Banglalink_presents_Legends_of_Rock.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Hawar_Namey_-_Mechanix.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Mechanix_-_Chinno_Prishtha(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Mechanix_-_Enemy_Within(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Mechanix_-_Shopner_Chorus_(Lyrics_Video)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Mechanix____Niyoti___নিয়তি____Official_Video__.mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/Meghdol___Esho_Amar_Shohore_(Official_Video)(128k) (1).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/Meghdol___Esho_Amar_Shohore_(Official_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/Meghdol___Maya_Cycle_(Official_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/Meghdol___Muthophone_-_Bangladeshi_Band(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/Meghdol___Na_Bola_Phul_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/Meghdol___Nefertiti_(2007)___Remastered(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/Meghdol___Tobu_Mon_(Official_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/পাথুরে_দেবী_-_মেঘদল(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Metrical/Firey_Esho_-_Metrical.mp3
-/home/upalb/Music/1 Bangladesh bands/Metrical/Gontobbo_Jekhane_-_Metrical_(GannaPK.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Metrical/Ke_Tumi_Amake_-_Metrical.mp3
-/home/upalb/Music/1 Bangladesh bands/Metrical/Kolponar_Majhe_-_Metrical___Official_Lyrical_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Metrical/Onuvuti_joto__-_Metrical.mp3
-/home/upalb/Music/1 Bangladesh bands/Metrical/Pret_(_প্রেত_)_-_Metrical__(Official_video)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Miles/Miles_-_Dhiki_Dhiki.mp3
-/home/upalb/Music/1 Bangladesh bands/Miles/Miles_-_Jala_Jala.mp3
-/home/upalb/Music/1 Bangladesh bands/Miles/Miles_-_Janiye_Dao_(Proticchobi_2015).mp3
-/home/upalb/Music/1 Bangladesh bands/Miles/Miles_-_Shopno_Vongo.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/MiNERVA_Tribute_Full_-_MiNERVA_Bangladesh.m4a
-/home/upalb/Music/1 Bangladesh bands/Mizan and brothers/Bondhu_-Mizan___Brothers(1).mp3
-/home/upalb/Music/1 Bangladesh bands/Mizan and brothers/Mizan___brothers_Bol_ki_re.mp3
-/home/upalb/Music/1 Bangladesh bands/Naoha/Pragata_Naoha___Sakib_Tonmoy___Kintu%2C_Jodi_Emon_Hoto____Official_Lyric_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Naoha/The_Graduation_Song_by_NAOHA___OFFICIAL_MUSIC_VIDEO(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Naoha/i_am_not_my_mind-_naoha(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Naoha/কালো_by_NAOHA___OFFICIAL_MUSIC_VIDEO___(Chul_Official_Soundtrack)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Naxal/Binidra_(বিনিদ্রা)_-_NAXAL___Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Naxal/Dorkar_Nai_(দরকার_নাই)_By_NAXAL(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Naxal/JAROZ___OFFICIAL_MUSIC_VIDEO___NAXAL(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Bir___Nemesis___Banglalink_presents's_Legends_of_Rock(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis-_Dhushor_vabona(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Abar_Dekha_Hobe___Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Ami___আমি___February_2019(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Egiye_Nao___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Kobe_(Official)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Kobe___Quarantine_Sessions_5(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Konodin___Official_Audio(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Nirbashon___Official_Audio(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Obocheton___Quarantine_Sessions_4(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Tomar_Kotha_Shune___Official_Music_Video(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Tomar_Kotha_Shune___Official_Music_Video.mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-_Tritio_Jatra___Official_Audio(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis_-__Shopnoshur___Official_Music_Video(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis___Biborno_Sroshtha_-_Bangladeshi_Band(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Nemesis___Ghuri_-_Bangladeshi_Band(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Nemesis/Obocheton_By_Nemesis___Album_Agontuk_2___Official_lyrical_Video(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Bhindeshi_Tara_by_Oblique_(#LateNightSessions_Cover)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/OBLIQUE-_কৈশোর_(Koishor)___Official_Lyric_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/OBLIQUE_-_Asshashon_(Official_Music_Video)(128k)(1).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/OBLIQUE_-_Asshashon_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/OBLIQUE_-_Bhondo_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/OBLIQUE_-_Golpogulo_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique-_Aloron_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique-_Bakshobondi_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique-_Bicchinno_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique-_Ojothai_(Album_Version)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique-_Paap_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique-_Stobdho_(Official_Live_Version)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique_-_Bhondo_(Studio_Version)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique_-_Mogno_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique_-_Ojothai_(#LateNightSessions_2015)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Oblique_-_স্তব্ধ_(Stobdho,_ATN_Bangla_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Oblique/Sharthopor_(The_Trap_Cover)_by_Oblique(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Amar_Dehokhan_(Live)___Odd_Signature___Unreleased(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Amar_Dehokhan_-_Odd_Signature_(Official)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Dusshopno_-_Odd_Signature(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Dusshopno_-_Odd_Signature_(Official)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Ghum_-_Odd_Signature_[Official](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Mondo_(মন্দ)_[_Unplugged_]_-_Odd_Signature(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Pantera_-_Goddamn_Electric_(2020_Terry_Date_Mix)_[Official_Audio](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Story_of_No_one_-_Odd_Signature(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Tumio_Paro_-_Odd_Signature_[Karaoke_Version](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Odd Signature/Tumio_Paro___Odd_Signature___Home_Recorded(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Bhabantor_-_Owned_Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Bhabantor___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Bisshono_Prohor___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Biyog___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Elect___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Lebash___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Niruddishto___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Oshikar___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Prapti___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned-Shomoyer_Sheshe___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_(O)Shobbho_Shomaj___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Amorsho_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Amorsho___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Ashokti(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Ashokti___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Bibhranto_(Experimental_music_video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Bibhranto___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Bondi(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Bondi_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Bondi___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Charkona_Shotto_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Charkona_Shotto__Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Dur-Onishto___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Dur_Onishto(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Gorbho(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Gorbho_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Gorbho___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Notun(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Notun___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_O_Shobbho_Shomaj(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Ohom___Official_Audio(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Omor_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Owned/Owned_-_Rated_Dead_(Lyric_Video___Homage_to_Deadpool)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Petty Never Grew/1._Petty_Never_Grew-_Banzai(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Petty Never Grew/2._Petty_Never_Grew-_The_Pink_Song(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Petty Never Grew/3._Petty_Never_Grew-_Signal(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Petty Never Grew/4._Petty_Never_Grew-_Ek(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Petty Never Grew/5._Petty_Never_Grew-_Rupantor(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Petty Never Grew/6._Petty_Never_Grew-_Ononto_Bikel(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Petty Never Grew/7._Petty_Never_Grew-_Deyal(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Ayna_-_Poizon_Green(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Ojana_Pother_Shesh_By_Poizon_Green___Album_Firing_Squad___Official_lyrical_V.mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Poizon_Green_-_Adhar_Nari_Shomipe(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Poizon_Green_-_Adhar_Nari_Shomipe(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Poizon_Green_-_Bhangchur_(HD)(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Poizon_Green_-_Lash_Kata_Ghor(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Poizon_Green_Shobuj_Beesh_Single_(2018)(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Poizon_Green_Tributes_to_Sweet_Venom(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Poizon_Green___Aartonad_(Cries_of_Despair)_-_Bangladeshi_Band(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Preyoshi___Poizon_Green___Album_Firing_Squad___Official_lyrical_Video(128kbp.mp3
-/home/upalb/Music/1 Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Bishonno_Shundor_(বিষণ্ণ_সুন্দর)_Official_Lyrics_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Karma_(কর্ম)_Official_Lyrics_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Morron_Iccha_(মরণইচ্ছা)_Official_Lyrics(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Mukho_Mukhi_(মুখোমুখি)_Official_Lyrics_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Oparthib_(অপার্থিব)_Official_Lyrics_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Thok_(ঠক)_Official_Lyrics_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Agnisnan_(Official_Music_Video)_[HD].mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Auprostut_Juddho_[Official_Audio_Stream](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Cancer_[Official_Audio_Stream)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Han'gor_[Official_Audio_Stream](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Mitther_Agrashon_[Official_Audio_Stream](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Powersurge_[Official_Audio_Stream](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Shadhinotar_Barta_[Official_Audio_Stream](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Shesh_Shimana_[Official_Audio_Stream](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge_-_Slogan_[Official_Audio_Stream](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/Powersurge____Aprostut_Juddho_-_Cancer.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Amio_Thaki_Jege_-_Recall_(_Album__Onnothay_)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Bhromor_-_Recall_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Etota_Bhalobashi_-_Recall_(_Album__Onnothay_)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Jodi_-_Recall_(_Album__Onnothay_)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Kono_Ek_Srabone_-_Recall_(_Album__Onnothay_)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Onnothay_-_Recall_(_Album__Onnothay_)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Prem_Shomachar_-_Recall_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-_Ashokto_(Official_Lyrics_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-_Bibekchuto_Manob_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-_Charidikey_(Album__Oporajito___Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-_Dirghoshash_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-_Ekhono_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-_Ghum_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-_Kokhono_Ki__(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall_-__Oporajito_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Smritir_Patay_-_Recall_(_Album__Onnothay_)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Bhool(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Dhrir(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Eka_Bikel(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Ghurate_Thakbe(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Let's_Dance(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Natai_Nai(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Protiniyoto(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/SIN/SIN_-_Shesh(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Bikkhob_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Jiboner_Utshobe_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Maya_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Neel_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Notun_Diner_Gan_(official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Odhikar_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Rod_Bristi_(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Ucchasher_Ghran(Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Upashona(_Official_Audio)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin___Ei_Obelay___Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin___Kashfuler_Shohor_Dekha___Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin_____E_Raat_E___Official_lyric_video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin_l_Cafeteria_Periye_l_Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-__লাল_নীল_গল্প_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-__শহরের_কথা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_অবাক_ভ্রমণ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_আততায়ী_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_আবার_হাসিমুখ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_কিছু_কথা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_ঘুম_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_চিঠি_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_জাহাজী__(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_নিশ্চুপ_আঁধার_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_পরী_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_বন্ধ_জানালা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_বাংলাদেশ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_বাস_স্টপেজ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_বুলেট_কিংবা_কবিতা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_বৃষ্টি_কাব্য_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_ভালোবাসা_মেঘ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_মিছিল_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_রোদ_ক্যানভাস_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_শনশন,_যদিও_কাশবন_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_শুভ্র_রঙিন_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_শূন্য_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_সুপ্রভাত_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/শিরোনামহীন_-_হাসিমুখ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Amader_Kotha_By_Shohojia(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Batha_dio_na_by_band_Shohojia-_Album__Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Boka_pakhi_By_Shohojia_(official_music_video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Boka_pakhi_by_band_Shohojia._Album_Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Chhoto_Pakhi_By_Band_Shohojia_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Chhoto_Pakhi_By_Shohojia(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Chocolate_By_Shohojia(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Chokhe_chokh_by_band_Shohojia,_Album__Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Chole_jao_by_Shohojia_(Official_Music_video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Chut_By_Shohojia(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Fera_by_Shohojia_&_Band_Lalon(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Ghora_By_Shohojia(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Jadukor_by_Shohojia_(official_music_video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Ma_by_band_Shohojia,_Album__Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Masranga_by_Shohojia_official_lyric_video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Opekkha_by_band_Shohojia._Album_Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Rongmistree_by_band_Shohojia,_Album__Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Shobnom_by_band_Shohojia,_Album__Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/Vor_Theke_Raat_By_Shohojia(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shohojia/khela_by_band_Shohojia,_Album__Rongmistree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/01._Hyena_Express_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/02._Mrittu_Utpadon_Karkhana_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/03._Ondho_Deyal_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/04._Shurjer_Ondhokar_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/05._Amar_Naam_Oshukh_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/06._Kromosho_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/07._Perfumer_Fele_Deya_Botol_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/08._Attohottar_Gaan_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shonar Bangal Circus/09._Epitaph_-_Shonar_Bangla_Circus(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/Jhoriye_Dao___SHUNNO___Fuad_Al_Muqtadir___RB_Pritom___Official_Music_Video___Par.mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/PRIYO_MA___SHUNNO___Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/PRIYO_MA_|_SHUNNO_|_Official_Music_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_"BEHULA"_(Official_MV)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_BEDONA___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_BEDONA_|_NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_JHORIYE_DAO___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_JHORIYE_DAO_|_NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_LOTTERY_[Official_Music_Video](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_RAJAHIN_RAJJO___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_RAJAHIN_RAJJO_|_NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_SRITIR_CHERA_PATA___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_SRITIR_CHERA_PATA_|_NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_Shudhu_Amar_ft._Apeiruss_[Official_Music_Video](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-_Sritir_Chera_Pata_[Official_Music_Video](128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_-__BEHULA__(Official_MV)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO____BIBIYA____Lyrics_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/SHUNNO_||_BIBIYA_||_Lyrics_Video(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/Shunno_-_Jiboner_Uthshob_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/Shunno_-_Rajahin_Rajjo.mp3
-/home/upalb/Music/1 Bangladesh bands/Stone/STONE_-_BHUL_SHOPNO_(OST)_Lyrical_Video(256k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Akkhep_noy_upohash___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Bhorer_golpo___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Brishtir_gaan___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Durotter_shonket___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Iccher_akash___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Nile_Abar_Ami___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Notun_Shomoy___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Oshomota_ba_boichitro___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Propose_song___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Shekorer_khoje___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Shesh_chirkut_ar_onuprerona____Bassbaba_Ft___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/The_Tree___Onno_Aloy___Official_lyric_video__(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmaad_-_The_Cage___Official_Music_Video(256kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Vibe/Vibe_-_Bidhatari_Ronge_Aka.mp3
-/home/upalb/Music/1 Bangladesh bands/Vibe/Vibe_-_Chena_Jogot.mp3
-/home/upalb/Music/1 Bangladesh bands/Vibe/Vibe_-_Nostalgia_(Bangla).mp3
-/home/upalb/Music/1 Bangladesh bands/Vibe/Vibe_-_Odhora_(with_lyrics).mp3
-/home/upalb/Music/1 Bangladesh bands/Vibe/Vibe___Shopnodev_-_Bangladeshi_Band.mp3
-/home/upalb/Music/1 Bangladesh bands/Vibe/dure_dure-_vibe.mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/Ekbar_Bolo___Vikings___Banglalink_presents_Legends_of_Rock(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/Kotha_Dao___Vikings___Banglalink_presents_Legends_of_Rock(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/Tor_Oi_Shohorey___ViKiNGS___Official_Video___2019(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/VIKINGS_-_BHALOBASHI_JARE(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/Vikings-_Aboshese(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/Vikings_-_Jiboner_Kolahol(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/10 - Warfaze - Asha (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Obak_Bhalobasha___Warfaze___Covered_by_Noble.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Cromosho.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Din Bodol.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Heyali.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Jibon Dhara.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Nishshobde.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Ojante.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Poth Chola.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Rupa Chand.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Bondi Niyoti.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Eke Eke Doi.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Jokhon.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Keu Nei Eka.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Nirbashon.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Ondho Jibon.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Onno Bhuban.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Shekano Bornona.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Bondhu.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Dhushor Manchitro.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Emon Dinee.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Keu Nai Aadhare.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Mohanogor.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Nei Proyojon.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Nirmegh Aakasher.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Oshamajik.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Oshoni Shonket.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Protichchobi.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Oshamajik - Rupali Shrote.MP3
+/home/upalb/Music/1  Bangladesh bands/About Dark/ABOUT_DARK_-_Kalo_Manush_[Official_Video](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/About Dark/About_Dark_-_KonMohe_[Official_Lyric_Video](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/About Dark/About_Dark_-_Tumi_[Official_Music_Video](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Adberb/Adverb - Zekhanei Zacchi Theme _ যেখানেই যাচ্ছি থেমে Official Music Video.m4a
+/home/upalb/Music/1  Bangladesh bands/Adberb/Adverb – Biday Belay _ বিদায় বেলায় Official Music Video.m4a
+/home/upalb/Music/1  Bangladesh bands/Adberb/Adverb_-_Ke_Tomake_Bashbe_Bhalo___কে_তোমাকে_বাসবে_ভালো___Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Adberb/Adverb_-_Kotodur___কত_দূর_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Adberb/Adverb_-_Oboshad___অবসাদ_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_DHOA_(LYRICS_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_HOONGKAR_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_ODHIKAR_(OFFICIAL_LYRICS_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_ONNOGAAN_(LYRICS_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_OSPRIHO_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_TUMI_(LYRICS_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_UPOHAASH_(LYRICS_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_-_UTHSHORGO_(LYRICS_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_l_MATIR_ROUD_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aftermath/AFTERMATH_l_MOHO_(OFFICIAL_MUSIC_VIDEO)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus_-_Omanush.mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus_-_School.mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus___Chaya_Manush_-_Bangladeshi_Band.mp3
+/home/upalb/Music/1  Bangladesh bands/Ark/ARK_Band___Proshno___প্রশ্ন___BTV_Band_Show___Rock_N_Rolls_2015.mp3
+/home/upalb/Music/1  Bangladesh bands/Ark/Sweety_tumi_ar_kedo_na_-_Ark_(Hasan)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell_-_Ei_Bristy_Veja_Rate_Lyrics(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell_-_Krittim__Manush.mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell_-_Obhoy_(Official_Lyric_Video)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell_Chile_kothar_shepai.mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Utshober_Utshaho(Artcell)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/ASHES --17 prishtha.mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/Ashes_Ki R Hobe .mp3.mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/Ayna(আয়না)__-_Ashes_Unreleased_track.mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/Tamak_Pata_by_Ashes_(Album_Version).mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/ashes_pagol-gaza.mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/ধুলাবালি_-_Dhulabali_By_Ashes_Band.mp3
+/home/upalb/Music/1  Bangladesh bands/Atavists/Atavists - Hire for Suicide [Official Music Video] _ Live2web Records.m4a
+/home/upalb/Music/1  Bangladesh bands/Atavists/Atavists_-_Lohori_(''লহরী'')_Studio_Video_(Un-mastered)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Atavists/Atavists_-_Ominous_(Lyric_video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Attic/Attic_-_Echoes_In_Your_Attic_(Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Attic/Attic_-_Love_Or_Hate_(Acoustic)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Attic/Attic_-_Love_Or_Hate_(Lyric)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Attic/Attic_-_Time_Machine_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/01 Aurthohin - Surza.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Boyosh(Aurthohin)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Boyosh_Holo_Amar_(Mahaan_Fahim_Ft._Bassbaba_Sumon)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Gohine___by_Black___Album_Unomanush___Official_Music_Video.mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto-_Dhulo_Pora(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Aulikhito_Dukkho.mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Ekush_Niye(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Karigor(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Kothay(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Onupran(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Shesh_Abeg(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Shomadhir_Moto(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Aushruto_-_Whisper_to_Survive(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/Whisper to survive.mp3
+/home/upalb/Music/1  Bangladesh bands/Avash/Anath___Avash___Official_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Avash/Avash___Avash___Official_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Avash/Bastob___Avash___Official_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Avash/Manush-1___Avash___Official_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Bay_Of_Bengal_-_Jochona_Snan_(জোছনা_স্নান)_(Official_Audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Bay_of_Bengal_(Underwater_Nature_Bangladesh_).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Bidroho_-_Bay_of_Bengal_(Remastered_Version)_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Bidroho_-_Bay_of_Bengal_(Remastered_Version)_(Official_Music_Video).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Bishonnotar_Gaan_-_Bay_of_Bengal_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Dhoritrir_Mohanayok_-_Bay_of_Bengal___Lyrical_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Ghum_-_Bay_of_Bengal_(Official_Video).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Je_Shohore_Ami_Nei_-_Bay_of_Bengal_(Official_video).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Laal_Shobujer_Ghran_-_Bay_of_Bengal___Bangladesh_Navy___Anirban_2019___Mission_Excellence_Theme_Song(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Mishe_Jay_Maa_-_Bay_of_Bengal_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Mrittur_Bhugol_-_Bay_of_Bengal_(Official_Video).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Opare_-_Bay_of_Bengal_(Official_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Shopnoghum_-_Bay_of_Bengal_(Official_Video).mp3
+/home/upalb/Music/1  Bangladesh bands/Black/Black___Andho_(Blind)_-_Bangladeshi_Band.mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Aha_Aji_E_Boshonte(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Akash_Aka(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Akash_Bole(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Bondhu(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Kodom(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Maya(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Tomar_Chaya(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Blue_Jeans___Vivid_Dream_of_a_Night___Instrumental(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/Ei_Ami___Blue_Jeans_New_Song_2020___Car_Live(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Blue jeans/আবার_বাঁচবো___Abar_Bachbo_with_Milo_the_Singing_Dog_-_Blue_Jeans_(Quarantine_Song)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/Chirkutt_song_Duniya_-_from_Aynabaji.mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Firey_Esho_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Kothay_Tomar......__(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Manob_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Mohakashchari_(Audio)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Ondho_Porajoy_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Priyo_Ondhokar_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Purbo_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Shajo_Tumi_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Tin_Chaka_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Tiroshkar_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion-_Vertigo_(Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion_-_Auroop__Nirakar_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion_-_Odyssey_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Conclusion/Conclusion_-_Shajo_Tumi_(Official_Music_Video)(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Cryptic fate/Cryptic_Fate_-_Akromon_Official_Music_Video_2013__UNCENSORED.mp3
+/home/upalb/Music/1  Bangladesh bands/Cryptic fate/Cryptic_Fate_-_Bhoboghuray.mp3
+/home/upalb/Music/1  Bangladesh bands/Cryptic fate/Rong___Cryptic_Fate___Banglalink_presents_Legends_of_Rock.mp3
+/home/upalb/Music/1  Bangladesh bands/Dads in the park/Dads_In_The_Park___Afeenolove_ft._Maheyan_Hasan(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Dads in the park/Dads_In_The_Park___Lullaby_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Dads in the park/Dads_In_The_Park___Pareidolia_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Dads in the park/Dads_In_The_Park___Remembrance_(Official_Music_Video)___Live2web_Records(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Dads in the park/dads_in_the_park___running_on_empty__official_music_video_(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Defy/Defy_-_Aloor_Chop_(আলুর_চপ)____Official_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Defy/Defy_-_Bhoy_(ভয়)____Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Defy/Defy_-_Onuronon_(অনুরণন)____Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Defy/Defy_-_Shawgokti_(স্বগোক্তি)____Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Eida/EIDA_-_Aurora_Dreams_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Eida/EIDA_-_Find_Me__(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Eida/EIDA_-_In_the_Blind_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Eida/EIDA_-_Nightdriver_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Eida/EIDA_-_Relentless_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Eida/EIDA_-_What_It_Means_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/Encore_-_Grishsho(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/Encore_-_Maddhakorshon_____Official_Audio(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/Encore_-_Natai____Official_Audio(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/Encore_-_Prayshchitto____Official_Audio(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/Encore_-_Punorabritti_[Official_Music_Video](256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/Encore_-_Rokter_Dosh__(ft._Imran_Amrit)___Official_Audio(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Ending face/EF-SHESH_PROHOR___Official_Music_Video__2017___RM_Productions___RM_Music.mp3
+/home/upalb/Music/1  Bangladesh bands/Ending face/EF_-_Dusshopno.mp3
+/home/upalb/Music/1  Bangladesh bands/Ending face/EF_-_Nondito_Norok_(Official_Music_Video).mp3
+/home/upalb/Music/1  Bangladesh bands/Ending face/EF_-_Rononiti_(AUDIO).mp3
+/home/upalb/Music/1  Bangladesh bands/Golpo/Pothoshishu_(পথশিশু)_-_Golpo(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Golpo/Purono_Kahini_(পুরোনো_কাহিনী_)_-_Golpo(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Antonogor(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Canvas(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Deyalghori(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_ISD(Remastered)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Ke_Shunbe(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Obosheshe(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Obosheshe___OFFICIAL_MUSIC_VIDEO(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Olik(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Oshfut(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Oshfut(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Pathorer_Araler_Phool(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Plastic(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Pounopunik(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Sake(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Indalo/Indalo_-_Tomar_Shokal(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Ionic Bond/Ionic_Bond_-_Crush_the_Iron_Dome_[Bangladesh]_[HD]_(_Lyrics)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Ionic Bond/Ionic_Bond_-_Her_Icarus_(OFFICIAL_VIDEO)(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Ionic Bond/Ionic_Bond_-_Hiraeth_[Video](128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Ionic Bond/Ionic_Bond_-_Inis_Mona_[Eluveitie_cover](128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Ionic Bond/Ionic_Bond_-_Searchlight_Kill(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Ionic Bond/Ionic_Bond_Amvashya_Lore%21__m_(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Ionic Bond/Victory_Song_-_Ionic_Bond(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-Obantor(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Attotshorgo(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Bhognomonoskota(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Bhrom_(ভ্রম)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Bijatio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Bikrito_Drishti(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Cafuné(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Control_Room_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Gholate(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Mohomukti_মোহমুক্তি_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Montropaat(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Obadho(bashona)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Opodebota(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Osomo_12(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Otit(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Otopor_(অতঃপর)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Rirongsha_(রিরংসা)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Shadakalo_Rongdhonu(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Sheishob_Dinraatri_সেইসব_দিনরাত্রি_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Sobuj_Bagan(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-_Tader_Shopno(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-__Amar_Shotto(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-__Bhabnaar_Nil_Akash(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-__Bidhatar_Aahobaan(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-__Bikkhoto(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-__Durey(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-__Shesh_Prarthona_[Bonus_Track](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Karnival/Karnival_-__Tomay_(_Instrumental_)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/LRB/Ayub_Bachchu_-_মেয়ে.mp3
+/home/upalb/Music/1  Bangladesh bands/LRB/SHEI_TUMI_-_AYUB_BACCHU_with_TAPOSH___WIND_OF_CHANGE_[_PRE-SEASON_]_at_GAAN_BANG.mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_60's_LOVE(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_AAR_AMI(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_ALSHEMI_(LYRICAL)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_BEEP_FT_A.K_RATUL(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_GHOLATE_MEGH(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_OBOSHESHEY(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_ROOM_17(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_SHOTTO_MITHEY(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_SHUVRO_PROBHAT(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Level Five/LEVEL_FIVE_-_SHUVRO_PROBHAT_(acoustic)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Attoshur(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Barud(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Bibhrom(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Gobhir(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Mittha-Bicchinnota(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Opare(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Ostitter_Obokash(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Liquid State Drive/Liquid_State_Drive_-_Tomar_Itihash(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/BISSHOY_by_Mechanix_(official).mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/Bodh_by_Mechanix_(Official_Lyric_Video)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/Chile_Kothar_Shepai_(Cover)___Mechanix___Banglalink_presents_Legends_of_Rock.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/Hawar_Namey_-_Mechanix.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/Mechanix_-_Chinno_Prishtha(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/Mechanix_-_Enemy_Within(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/Mechanix_-_Shopner_Chorus_(Lyrics_Video)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/Mechanix____Niyoti___নিয়তি____Official_Video__.mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/Meghdol___Esho_Amar_Shohore_(Official_Video)(128k) (1).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/Meghdol___Esho_Amar_Shohore_(Official_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/Meghdol___Maya_Cycle_(Official_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/Meghdol___Muthophone_-_Bangladeshi_Band(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/Meghdol___Na_Bola_Phul_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/Meghdol___Nefertiti_(2007)___Remastered(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/Meghdol___Tobu_Mon_(Official_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/পাথুরে_দেবী_-_মেঘদল(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Metrical/Firey_Esho_-_Metrical.mp3
+/home/upalb/Music/1  Bangladesh bands/Metrical/Gontobbo_Jekhane_-_Metrical_(GannaPK.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Metrical/Ke_Tumi_Amake_-_Metrical.mp3
+/home/upalb/Music/1  Bangladesh bands/Metrical/Kolponar_Majhe_-_Metrical___Official_Lyrical_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Metrical/Onuvuti_joto__-_Metrical.mp3
+/home/upalb/Music/1  Bangladesh bands/Metrical/Pret_(_প্রেত_)_-_Metrical__(Official_video)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Miles/Miles_-_Dhiki_Dhiki.mp3
+/home/upalb/Music/1  Bangladesh bands/Miles/Miles_-_Jala_Jala.mp3
+/home/upalb/Music/1  Bangladesh bands/Miles/Miles_-_Janiye_Dao_(Proticchobi_2015).mp3
+/home/upalb/Music/1  Bangladesh bands/Miles/Miles_-_Shopno_Vongo.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/MiNERVA_Tribute_Full_-_MiNERVA_Bangladesh.m4a
+/home/upalb/Music/1  Bangladesh bands/Mizan and brothers/Bondhu_-Mizan___Brothers(1).mp3
+/home/upalb/Music/1  Bangladesh bands/Mizan and brothers/Mizan___brothers_Bol_ki_re.mp3
+/home/upalb/Music/1  Bangladesh bands/Naxal/Binidra_(বিনিদ্রা)_-_NAXAL___Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Naxal/Dorkar_Nai_(দরকার_নাই)_By_NAXAL(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Naxal/JAROZ___OFFICIAL_MUSIC_VIDEO___NAXAL(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Bir___Nemesis___Banglalink_presents's_Legends_of_Rock(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis-_Dhushor_vabona(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Abar_Dekha_Hobe___Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Ami___আমি___February_2019(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Egiye_Nao___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Kobe_(Official)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Kobe___Quarantine_Sessions_5(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Konodin___Official_Audio(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Nirbashon___Official_Audio(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Obocheton___Quarantine_Sessions_4(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Tomar_Kotha_Shune___Official_Music_Video(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-_Tritio_Jatra___Official_Audio(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis_-__Shopnoshur___Official_Music_Video(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis___Biborno_Sroshtha_-_Bangladeshi_Band(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Nemesis___Ghuri_-_Bangladeshi_Band(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Obocheton_By_Nemesis___Album_Agontuk_2___Official_lyrical_Video(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Nemesis/Obocheton___Nemesis_ft_Jamshed___Banglalink_present_s_Legends_of_Rock(128k).m4a
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Amar_Proticchobi___Aurthohin_Cover(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Bhindeshi_Tara_by_Oblique_(#LateNightSessions_Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/OBLIQUE-_কৈশোর_(Koishor)___Official_Lyric_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/OBLIQUE_-_Asshashon_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/OBLIQUE_-_Bhondo_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/OBLIQUE_-_Golpogulo_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique-_Aloron_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique-_Bakshobondi_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique-_Bicchinno_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique-_Ojothai_(Album_Version)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique-_Paap_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique-_Stobdho_(Official_Live_Version)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique_-_Bhondo_(Studio_Version)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique_-_Mogno_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique_-_Ojothai_(#LateNightSessions_2015)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Oblique_-_স্তব্ধ_(Stobdho,_ATN_Bangla_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Oblique/Sharthopor_(The_Trap_Cover)_by_Oblique(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Amar_Dehokhan_-_Odd_Signature_(Official)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Dusshopno_-_Odd_Signature(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Dusshopno_-_Odd_Signature_(Official)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Ghum_-_Odd_Signature_[Official](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Mondo_(মন্দ)_[_Unplugged_]_-_Odd_Signature(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Prostab_-_Odd_Signature_(Official)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Story_of_No_one_-_Odd_Signature(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Odd Signature/Tumio_Paro___Odd_Signature___Home_Recorded(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Bhabantor_-_Owned_Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Bhabantor___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Bisshono_Prohor___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Biyog___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Elect___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Lebash___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Niruddishto___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Oshikar___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Prapti___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned-Shomoyer_Sheshe___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_(O)Shobbho_Shomaj___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Amorsho_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Amorsho___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Ashokti(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Ashokti___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Bibhranto_(Experimental_music_video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Bibhranto___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Bondi(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Bondi_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Bondi___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Charkona_Shotto_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Charkona_Shotto__Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Dur-Onishto___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Dur_Onishto(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Gorbho(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Gorbho_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Gorbho___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Notun(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Notun___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_O_Shobbho_Shomaj(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Ohom___Official_Audio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Omor_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Owned/Owned_-_Rated_Dead_(Lyric_Video___Homage_to_Deadpool)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Petty Never Grew/1._Petty_Never_Grew-_Banzai(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Petty Never Grew/2._Petty_Never_Grew-_The_Pink_Song(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Petty Never Grew/3._Petty_Never_Grew-_Signal(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Petty Never Grew/4._Petty_Never_Grew-_Ek(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Petty Never Grew/5._Petty_Never_Grew-_Rupantor(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Petty Never Grew/6._Petty_Never_Grew-_Ononto_Bikel(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Petty Never Grew/7._Petty_Never_Grew-_Deyal(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Ayna_-_Poizon_Green(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Ojana_Pother_Shesh_By_Poizon_Green___Album_Firing_Squad___Official_lyrical_V.mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Poizon_Green_-_Adhar_Nari_Shomipe(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Poizon_Green_-_Bhangchur_(HD)(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Poizon_Green_-_Lash_Kata_Ghor(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Poizon_Green_Shobuj_Beesh_Single_(2018)(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Poizon_Green___Aartonad_(Cries_of_Despair)_-_Bangladeshi_Band(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Preyoshi___Poizon_Green___Album_Firing_Squad___Official_lyrical_Video(128kbp.mp3
+/home/upalb/Music/1  Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Bishonno_Shundor_(বিষণ্ণ_সুন্দর)_Official_Lyrics_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Karma_(কর্ম)_Official_Lyrics_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Morron_Iccha_(মরণইচ্ছা)_Official_Lyrics(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Mukho_Mukhi_(মুখোমুখি)_Official_Lyrics_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Oparthib_(অপার্থিব)_Official_Lyrics_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Popeye/Popeye_(Bangladesh)_-_Thok_(ঠক)_Official_Lyrics_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Agnisnan_(Official_Music_Video)_[HD].mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Auprostut_Juddho_[Official_Audio_Stream](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Cancer_[Official_Audio_Stream)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Han'gor_[Official_Audio_Stream](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Mitther_Agrashon_[Official_Audio_Stream](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Powersurge_[Official_Audio_Stream](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Shadhinotar_Barta_[Official_Audio_Stream](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Shesh_Shimana_[Official_Audio_Stream](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge_-_Slogan_[Official_Audio_Stream](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Powersurge/Powersurge____Aprostut_Juddho_-_Cancer.mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/All_along_the_watchtower_by_Rafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Ami_Akash_Pathabo(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Another_day_by_Dream_Theater_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Black_Hole_Sun_-_Rafa_(Cover)_[Sound_Garden](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Clocks_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Closer_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Don't_cry_cover_by_Rafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Flight_Of_The_Icarus_-_Rafa_(Iron_Maiden_Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Forever_and_one_-_Rafa_(Unplugged)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Good_riddance_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Gravedigger_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Hurt_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/I'm_yours_-_Rafa_(Acoustic,_Beatbox_cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/I_Got_A_Name_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/I_want_to_break_free_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/In_loving_memory_-_Rafa_(Acoustic_cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Iris_-_Rafa_(cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Killing_in_the_name_(cover)_-_Rage_against_the_machine-_Rafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Kiss_From_A_Rose_covered_by_Rafa_(Live)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Like_a_stone_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/LikenShare-_AvoidRafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Lucky_-_Rafa_&_Xefer_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Nijeke_Harabar_Bhoy_-_Shishir_ft._Rafa__নিজেকে_হারাবার_ভয়__Official_Music_Video(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Odbhuture_Tumi(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Open_my_eyes_-_Rafa_(Cover)_[Rival_sons](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Painkiller_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Poonam_&_Rafa_-_Sway_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Pyro_-_Kings_of_leon_(Cover_by_Rafa)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Pyro_-_Rafa_(Acoustic)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Pyro_covered_by_Rafa_(Live)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Pyro_with_avoidRafa_and_Trio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Raef_Al_Hasan_Rafa-And_Rain(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Rafa-_Yellow_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Sex_On_Fire_-_Rafa_(cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Soldier_Of_Fortune_-_Rafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Studio_Purple_with_Avoid_Rafa_-_Colours__FM_101.6(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Sweet_Child_O_Mine_-_Rafa_And_Elita_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Testify_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/The_Maze_Covered_by_Rafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Through_glass_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/To_be_with_you_-_Rafa_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Use_somebody_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Watch_over_you_-_Rafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Where_are_you_going_-_Cover_(Rafa)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Wish_you_were_here_Cover(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Yellow_-_Rafa_(Piano_Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Yellow_-_avoidRafa_Trio(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Yesterday_-_Rafa(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/You_and_Me_-_(Cover)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Amio_Thaki_Jege_-_Recall_(_Album__Onnothay_)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Bhromor_-_Recall_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Etota_Bhalobashi_-_Recall_(_Album__Onnothay_)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Jodi_-_Recall_(_Album__Onnothay_)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Kono_Ek_Srabone_-_Recall_(_Album__Onnothay_)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Onnothay_-_Recall_(_Album__Onnothay_)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Prem_Shomachar_-_Recall_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-_Ashokto_(Official_Lyrics_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-_Bibekchuto_Manob_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-_Charidikey_(Album__Oporajito___Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-_Dirghoshash_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-_Ekhono_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-_Ghum_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-_Kokhono_Ki__(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall_-__Oporajito_(Album__Oporajito___Official_Lyrics_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Smritir_Patay_-_Recall_(_Album__Onnothay_)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Bhool(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Dhrir(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Eka_Bikel(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Ghurate_Thakbe(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Let's_Dance(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Natai_Nai(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Protiniyoto(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/SIN/SIN_-_Shesh(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Bikkhob_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Jiboner_Utshobe_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Maya_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Neel_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Notun_Diner_Gan_(official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Odhikar_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Rod_Bristi_(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Ucchasher_Ghran(Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/SELF_PORTRAIT_-_Upashona(_Official_Audio)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/Warfaze_(Dhushor_Manchitro)_Tribute_By_SELF_PORTRAIT(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin___Ei_Obelay___Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin___Kashfuler_Shohor_Dekha___Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin_____E_Raat_E___Official_lyric_video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin_l_Cafeteria_Periye_l_Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-__লাল_নীল_গল্প_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-__শহরের_কথা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_অবাক_ভ্রমণ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_আততায়ী_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_আবার_হাসিমুখ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_কিছু_কথা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_ঘুম_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_চিঠি_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_জাহাজী__(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_নিশ্চুপ_আঁধার_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_পরী_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_বন্ধ_জানালা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_বাংলাদেশ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_বাস_স্টপেজ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_বুলেট_কিংবা_কবিতা_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_বৃষ্টি_কাব্য_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_ভালোবাসা_মেঘ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_মিছিল_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_রোদ_ক্যানভাস_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_শনশন,_যদিও_কাশবন_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_শুভ্র_রঙিন_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_শূন্য_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_সুপ্রভাত_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/শিরোনামহীন_-_হাসিমুখ_(অফিশিয়াল_অডিও_ট্র্যাক)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Amader_Kotha_By_Shohojia(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Batha_dio_na_by_band_Shohojia-_Album__Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Boka_pakhi_by_band_Shohojia._Album_Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Chhoto_Pakhi_By_Shohojia(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Chocolate_By_Shohojia(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Chokhe_chokh_by_band_Shohojia,_Album__Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Chole_jao_by_Shohojia_(Official_Music_video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Chut_By_Shohojia(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Fera_by_Shohojia_&_Band_Lalon(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Ghora_By_Shohojia(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Jadukor_by_Shohojia_(official_music_video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Ma_by_band_Shohojia,_Album__Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Masranga_by_Shohojia_official_lyric_video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Opekkha_by_band_Shohojia._Album_Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Rongmistree_by_band_Shohojia,_Album__Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Shobnom_by_band_Shohojia,_Album__Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/Vor_Theke_Raat_By_Shohojia(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shohojia/khela_by_band_Shohojia,_Album__Rongmistree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/01._Hyena_Express_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/02._Mrittu_Utpadon_Karkhana_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/03._Ondho_Deyal_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/04._Shurjer_Ondhokar_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/05._Amar_Naam_Oshukh_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/06._Kromosho_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/07._Perfumer_Fele_Deya_Botol_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/08._Attohottar_Gaan_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shonar Bangal Circus/09._Epitaph_-_Shonar_Bangla_Circus(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/Jhoriye_Dao___SHUNNO___Fuad_Al_Muqtadir___RB_Pritom___Official_Music_Video___Par.mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/PRIYO_MA___SHUNNO___Official_Music_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-_BEDONA___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-_JHORIYE_DAO___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-_LOTTERY_[Official_Music_Video](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-_RAJAHIN_RAJJO___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-_SRITIR_CHERA_PATA___NESCAFÉ_presents_SHUNNO_Unplugged(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-_Shudhu_Amar_ft._Apeiruss_[Official_Music_Video](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-_Sritir_Chera_Pata_[Official_Music_Video](128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO_-__BEHULA__(Official_MV)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/SHUNNO____BIBIYA____Lyrics_Video(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/Shunno_-_Jiboner_Uthshob_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/Shunno_-_Rajahin_Rajjo.mp3
+/home/upalb/Music/1  Bangladesh bands/Stone/STONE_-_BHUL_SHOPNO_(OST)_Lyrical_Video(256k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Akkhep_noy_upohash___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Bhorer_golpo___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Brishtir_gaan___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Durotter_shonket___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Iccher_akash___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Nile_Abar_Ami___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Oshomota_ba_boichitro___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Propose_song___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Shekorer_khoje___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Shesh_chirkut_ar_onuprerona____Bassbaba_Ft___Lyric_video___Ei_shohor_theke___The_Tree(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/The_Tree___Onno_Aloy___Official_lyric_video__(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Brihoshpoti_a_demo_track_by__High_Way.mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/GhorGari___ঘোরগাড়ী___By_Highway___ভবের_গান___Lyrical_Video.mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Obosthan_Eather_official__Band__The_High_Ways.mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Obosthan_by_Eather_Acoustic_2016.mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Sesh_gaan_-_Ether.m4a
+/home/upalb/Music/1  Bangladesh bands/The high way/Shada_Golap(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Shakkhi(Official_Lyric_Video)___High_Way__(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Unplugged_unreleased_track_SHAKKHI(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Unplugged_unreleased_track__Bidaay_(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/The high way/Villain(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Trainwreck/Trainwreck_-_Almost_God_(Official_Visualizer_Track)(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmaad_-_The_Cage___Official_Music_Video(256kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Vibe/Vibe_-_Bidhatari_Ronge_Aka.mp3
+/home/upalb/Music/1  Bangladesh bands/Vibe/Vibe_-_Chena_Jogot.mp3
+/home/upalb/Music/1  Bangladesh bands/Vibe/Vibe_-_Nostalgia_(Bangla).mp3
+/home/upalb/Music/1  Bangladesh bands/Vibe/Vibe_-_Odhora_(with_lyrics).mp3
+/home/upalb/Music/1  Bangladesh bands/Vibe/Vibe___Shopnodev_-_Bangladeshi_Band.mp3
+/home/upalb/Music/1  Bangladesh bands/Vibe/dure_dure-_vibe.mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Ekbar_Bolo___Vikings___Banglalink_presents_Legends_of_Rock(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Ishwar___ঈশ্বর___ViKiNGS___Official_Music_Video___2019___Powered_by_IGLOO(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Kotha_Dao___Vikings___Banglalink_presents_Legends_of_Rock(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Krodh__I_ViKiNGS_I_Official_Video_I_2019(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Opekkha_Dwitiyo_Porbo_I_Vikings_I_Official_Music_Video_I_2018(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Purbo_Digonte___পূর্ব_দিগন্তে___A_Tribute_by_ViKiNGS___Powered_by_Igloo(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Tor_Oi_Shohorey___ViKiNGS___Official_Video___2019(128k).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Tor_Oi_Shohorey___ViKiNGS___Official_Video___2019(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/VIKINGS_-_BHALOBASHI_JARE(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Vikings-_Aboshese(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Vikings_-_Jiboner_Kolahol(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/10 - Warfaze - Asha (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Obak_Bhalobasha___Warfaze___Covered_by_Noble.mp3
 /home/upalb/Music/2 Foreign bands/ACDC/AC_DC_-_Rock_or_Bust___Official_Video_(128k).mp3
 /home/upalb/Music/2 Foreign bands/ACDC/AC_DC_1974_SHES_GOT_BALLS(128k).mp3
 /home/upalb/Music/2 Foreign bands/ACDC/AC__DC_-_Can_I_Sit_Next_To_You_Girl__1974_(128k).mp3
@@ -576,12 +538,10 @@
 /home/upalb/Music/2 Foreign bands/Alter Bridge/Alter_Bridge_-_Blackbird(128k).mp3
 /home/upalb/Music/2 Foreign bands/Alter Bridge/Alter_Bridge_-_Watch_Over_You(128k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_My_Apocalypse_(OFFICIAL_VIDEO)(128k).mp3
-/home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_Nemesis_(Live_at_Wacken_2016)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_Nemesis_(OFFICIAL_VIDEO)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_No_More_Regrets_(OFFICIAL_VIDEO)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_Reason_To_Believe_(OFFICIAL_VIDEO)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_Stolen_Life_(OFFICIAL_VIDEO)(128k).mp3
-/home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_The_Eagle_Flies_Alone_(OFFICIAL_VIDEO)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_The_Eagle_Flies_Alone_(OFFICIAL_VIDEO)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_The_World_Is_Yours_(OFFICIAL_VIDEO)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Arch enemy/ARCH_ENEMY_-_War_Eternal_(OFFICIAL_VIDEO)(128k).mp3
@@ -624,15 +584,6 @@
 /home/upalb/Music/2 Foreign bands/Cigarettes After Sex/Young_&_Dumb_-_Cigarettes_After_Sex(128k).mp3
 /home/upalb/Music/2 Foreign bands/Desolation/DESOLATION-Initial_Existence(256k).mp3
 /home/upalb/Music/2 Foreign bands/Desolation/Desolation_Band__Shelter_from_the_Storm_(256k).mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Downtown-2NcEPEPghMQ.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Flight-acEa39p9oSs.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Moires-0uX3MyxsfuU.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Riptide-yeIpHOD2fHc.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Safira-aLaPrdWnS4U.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Satellites-niWrDXdb2Sg.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Snowland-QSA0sRuWSb0.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - The Woods-SaxfCn2ARUE.mp3
-/home/upalb/Music/2 Foreign bands/Embrase In Snow/Embers In Snow - Ziva-mJUHXCiiLG4.mp3
 /home/upalb/Music/2 Foreign bands/Girlsschool/GIRLSCHOOL_-_RACE_WITH_THE_DEVIL_PROMO_VIDEO(256k).mp3
 /home/upalb/Music/2 Foreign bands/Girlsschool/GIRLSCHOOL_-_Take_It_Like_A_Band_(Official_Lyric_Video)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Girlsschool/Girlschool-Emergency(256k).mp3
@@ -644,7 +595,6 @@
 /home/upalb/Music/2 Foreign bands/Green day/Green_Day_-_American_Idiot_[OFFICIAL_VIDEO](256k).mp3
 /home/upalb/Music/2 Foreign bands/Green day/Green_Day_-_Basket_Case_[Official_Music_Video](128k).mp3
 /home/upalb/Music/2 Foreign bands/Green day/Green_Day_-_Last_Night_On_Earth_-_Lyrics(128k).mp3
-/home/upalb/Music/2 Foreign bands/Green day/Green_Day_-_Wake_Me_Up_When_September_Ends_[Official_Music_Video](128k).mp3
 /home/upalb/Music/2 Foreign bands/Green day/Green_Day_-_Wake_Me_Up_When_September_Ends_[Official_Music_Video](256k).mp3
 /home/upalb/Music/2 Foreign bands/Green day/Green_Day___Boulevard_Of_Broken_Dreams__-_[Official_Video](256k).mp3
 /home/upalb/Music/2 Foreign bands/Green day/Green_Day___Holiday__-_[Official_Video](128k).mp3
@@ -678,8 +628,6 @@
 /home/upalb/Music/2 Foreign bands/Me and the man/Me_and_That_Man_-_By_The_River_feat._Ihsahn_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Me and the man/Me_and_That_Man_-_Confession_feat._Niklas_Kvarforth_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Me and the man/Me_and_That_Man_-_Męstwo_(Official_Video)(128k).mp3
-/home/upalb/Music/2 Foreign bands/Metallica/Metallica-Master_Of_Puppets_(Lyrics).mp3
-/home/upalb/Music/2 Foreign bands/Metallica/Metallica_-_Nothing_Else_Matters_[Official_Music_Video].mp3
 /home/upalb/Music/2 Foreign bands/Morbid Angel/MORBID_ANGEL_-_Garden_Of_Disdain_(Official_Video)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Morbid Angel/Morbid_Angel_-_Blessed_Are_the_Sick_[Official_Video](256k).mp3
 /home/upalb/Music/2 Foreign bands/Morbid Angel/Morbid_Angel_-_God_of_Emptiness_(Official_Video)(256k).mp3
@@ -687,7 +635,6 @@
 /home/upalb/Music/2 Foreign bands/Morbid Angel/Morbid_Angel_-_Rapture_(Official_Video)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Morbid Angel/Morbid_Angel_-_Summoning_Redemption(256k).mp3
 /home/upalb/Music/2 Foreign bands/Morbid Angel/Morbid_Angel__-_Enshrined_By_Grace_(Official_Video)(256k).mp3
-/home/upalb/Music/2 Foreign bands/Morbid Angel/Nirghum___Adnan_Ashif___The_Team_ADNAN.mp3
 /home/upalb/Music/2 Foreign bands/Motorhead/Motorhead.mp3
 /home/upalb/Music/2 Foreign bands/Motorhead/Motorhead_-_Whorehouse_Blues(128k).mp3
 /home/upalb/Music/2 Foreign bands/Motorhead/Motorhead_-_the_game(128k).mp3
@@ -706,13 +653,14 @@
 /home/upalb/Music/2 Foreign bands/Nightwish/NIGHTWISH_-_Bye_Bye_Beautiful_(OFFICIAL_MUSIC_VIDEO)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/NIGHTWISH_-_Ghost_Love_Score_(OFFICIAL_LIVE)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/Nightwish-Last_Of_The_Wilds(256k).mp3
-/home/upalb/Music/2 Foreign bands/Nightwish/Nightwish_-_Amaranth_(OFFICIAL_VIDEO)(256k).mp3
-/home/upalb/Music/2 Foreign bands/Nightwish/Nightwish_-_Bye_Bye_Beautiful_(OFFICIAL_VIDEO)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/Nightwish_-_Nemo_[OFFICIAL_VIDEO](256k).mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/Nightwish_-_Sleeping_Sun_(OFFICIAL_VIDEO)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/Nightwish_-_The_Islander_(OFFICIAL_VIDEO)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/Nightwish_-_Élan_(OFFICIAL_VIDEO)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/Nightwish___The_Phantom_Of_The_Opera__with_lyrics(256k).mp3
+/home/upalb/Music/2 Foreign bands/Of Monsters and Men/Of_Monsters_And_Men_-_Dirty_Paws_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/2 Foreign bands/Of Monsters and Men/Of_Monsters_And_Men_-_Little_Talks_(Official_Video)(128k).mp3
+/home/upalb/Music/2 Foreign bands/Of Monsters and Men/Of_Monsters_And_Men_-_Yellow_Light_(Official_Lyric_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Otep/OTEP_-_Rise,_Rebel,_Resist(256k).mp3
 /home/upalb/Music/2 Foreign bands/Otep/OTEP_-_Shelter_In_Place_(Official_Video)___Napalm_Records(256k).mp3
 /home/upalb/Music/2 Foreign bands/Otep/OTEP_-_Smash_the_Control_Machine(256k).mp3
@@ -739,14 +687,13 @@
 /home/upalb/Music/2 Foreign bands/Pantera/Pantera_-_This_Love_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Pantera/Pantera_-_Walk_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Queen/Bohemian_Rhapsody.mp3
-/home/upalb/Music/2 Foreign bands/Queen/Halocene - We Will Rock You + Violet, Lauren, Cole, Audra, Daria, Jonathan, Caleb, Lollia, Ai Mori [T92m_-tSsxo].m4a
+/home/upalb/Music/2 Foreign bands/Queen/Halocene - We Will Rock You + Violet, Lauren, Cole, Audra, Daria, Jonathan, Caleb, Lollia, Ai Mori.m4a
 /home/upalb/Music/2 Foreign bands/Queen/Queen_-_Bohemian_Rhapsody_cover_by_@Halocene,_@First_To_Eleven,_@Violet_Orlandi,_@Lauren_Babic(128k).mp3
 /home/upalb/Music/2 Foreign bands/Queen/Queen_-_Killer_Queen_(Lyrics)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Queen/Queen_-_Love_Of_My_Life_(Official_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Queen/Queen_-_We_Are_The_Champions_(Official_Live_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_Burn_The_Witch(128k).mp3
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_Daydreaming(128k).mp3
-/home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_Fake_Plastic_Trees(128k) (2).mp3
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_Fake_Plastic_Trees(128k).mp3
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_High_and_Dry(128k).mp3
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_House_of_Cards(128k).mp3
@@ -760,8 +707,8 @@
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_Paranoid_Android(128k).mp3
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead_-_True_Love_Waits_(90s_band_version)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Radiohead/Radiohead__How_To_Disappear_Completely__Original_Music_Video_by_David_Herrera(128k).mp3
+/home/upalb/Music/2 Foreign bands/Sanam/Bulleya___Sanam_#SANAMrendition.m4a
 /home/upalb/Music/2 Foreign bands/Sanam/Ek_Ladki_Ko_Dekha_(Acoustic)__Sanam(256k).mp3
-/home/upalb/Music/2 Foreign bands/Sanam/Mere Mehboob Qayamat Hogi _ Sanam [M6Ul3ASaFLU].m4a
 /home/upalb/Music/2 Foreign bands/Sanam/Sanam_-_Garmi_Di_Tu_(Valentine_s_Day_Special).mp3
 /home/upalb/Music/2 Foreign bands/Sanam/Sanam___Tumi_Robe_Nirobe___Rabindra_Sangeet.mp3
 /home/upalb/Music/2 Foreign bands/Sanam/Tumi_robe_niroba_by_sanam_band_India.mp3
@@ -774,7 +721,6 @@
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/AC_DC_-_Back_in_Black__cover_by_Sershen_Zaritskaya_feat._Kim_and_Shturmak_(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/AC_DC_-_Highway_To_Hell_cover_by_Sershen_Zaritskaya__feat._Kim%2C_Ross_and_Shturmak_(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/AC_DC_-_Mistress_for_Christmas__cover_by_Sershen_Zaritskaya_feat._Kim_and_Shturmak_(128k).mp3
-/home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Alannah Myles - Black Velvet (cover by Sershen&Zaritskaya) [qLY4wyqbuX4].m4a
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Bee_Gees_-_Stayin'_Alive_(ROCK_COVER)_by_Sershen&Zaritskaya(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Billy_Idol_-_Rebel_Yell_(cover_by_Sershen&Zaritskaya_feat._Kim_and_Shturmak)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Deep_Purple_-_Soldier_of_Fortune_(cover_by_Sershen_&_Zaritskaya)(128k).mp3
@@ -791,15 +737,10 @@
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Metallica_Medley+Mashup_by_Sershen&Zaritskaya_(Enter_Sandman,_Sad_But_True,_Fuel_etc.)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Nick_Cave&Kylie_Minogue_-_Where_the_Wild_Roses_Grow_(by_Sershen&Zaritskaya_feat._Elijah_Skrebnyov)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Nirvana_-_Smells_Like_Teen_Spirit_(cover_by_Sershen&Zaritskaya_feat._Kim_and_Shturmak)(128k).mp3
+/home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Sershen&Zaritskaya_-_Dirty_Diana_(Michael_Jackson_cover)_feat._@Cole_Rolland(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Skid_Row_-_Youth_Gone_WIld_(cover_by_Sershen&Zaritskaya_feat._Kim_and_Shturmak)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/The_Pretty_Reckless_-_Oh_My_God_(acoustic_cover_by_Sershen_&_Zaritskaya)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Sershen Zaritskaya/Whitesnake_-_Is_This_Love_(acoustic_cover_by_Sershen&Zaritskaya)(128k).mp3
-/home/upalb/Music/2 Foreign bands/Shwan Mendes/Shawn_Mendes_-_Mercy(128k).mp3
-/home/upalb/Music/2 Foreign bands/Shwan Mendes/Shawn_Mendes_-_There's_Nothing_Holdin'_Me_Back(128k).mp3
-/home/upalb/Music/2 Foreign bands/Shwan Mendes/Shawn_Mendes_-_Treat_You_Better(128k).mp3
-/home/upalb/Music/2 Foreign bands/Slayer/Slayer-Disciple_(muzmo.co).mp3
-/home/upalb/Music/2 Foreign bands/Slayer/Slayer-MandatorySuicide(AlbumVersion)_(muzmo.co).mp3
-/home/upalb/Music/2 Foreign bands/Slayer/Slayer-RainingBlood(AlbumVersion)_(muzmo.co).mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_(515)_(Audio)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_(Sic)_(Audio)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_742617000027_(Audio)(128k).mp3
@@ -851,7 +792,6 @@
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_Surfacing_(Audio)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_Tattered_&_Torn_(Audio)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_The_Blister_Exists_(Audio)(128k).mp3
-/home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_The_Devil_In_I.mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_The_Devil_In_I_[OFFICIAL_VIDEO](128k).mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_The_Heretic_Anthem_(Audio)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Slipknot/Slipknot_-_The_Nameless_[OFFICIAL_VIDEO](128k).mp3
@@ -876,11 +816,9 @@
 /home/upalb/Music/2 Foreign bands/Steelheart/Steelheart_-_She's_Gone_(Official_Video)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Suicide Silence/SUICIDE_SILENCE.mp3
 /home/upalb/Music/2 Foreign bands/Suicide Silence/SUICIDE_SILENCE_-__Doris__(OFFICIAL_360°_VIDEO).mp3
-/home/upalb/Music/2 Foreign bands/Twenty One Pilots/twenty_one_pilots__Heathens_(from_Suicide_Squad__The_Album)_[OFFICIAL_VIDEO](128k) (1).mp3
+/home/upalb/Music/2 Foreign bands/Twenty One Pilots/_Stressed_Out_[OFFICIAL_VIDEO](256k).mp3
 /home/upalb/Music/2 Foreign bands/Twenty One Pilots/twenty_one_pilots__Heathens_(from_Suicide_Squad__The_Album)_[OFFICIAL_VIDEO](128k).mp3
-/home/upalb/Music/2 Foreign bands/Twenty One Pilots/twenty_one_pilots__Stressed_Out_[OFFICIAL_VIDEO](128k).mp3
 /home/upalb/Music/2 Foreign bands/Weapon/WEAPON_-__Crepuscular_Swamp__(Official_Lyric_Video)(256k).mp3
-/home/upalb/Music/2 Foreign bands/Weapon/WEAPON_-__Embers_and_Revelations__(Official_Music_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Weapon/WEAPON_-__Embers_and_Revelations__(Official_Music_Video)(256k).mp3
 /home/upalb/Music/2 Foreign bands/Weapon/WEAPON_-__Furor_Divinus__(Official_Music_Video)(128k).mp3
 /home/upalb/Music/2 Foreign bands/Weapon/Weapon_-_Lefthandpathyoga(256k).mp3
@@ -890,17 +828,14 @@
 /home/upalb/Music/2 Foreign bands/Weapon/Weapons_-_The_Rock_Starts_Here(256k).mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/Michael_Jackson_-_Bad_-_Just_Good_Friends(Ft._Stevie_Wonder)(256k).mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/Michael_Jackson_-_Human_Nature_HQ(256k).mp3
-/home/upalb/Music/3 Solo Artists/1 Michael Jackson/Michael_Jackson_-_Jam_(Official_Video)(128k).mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/Michael_Jackson_-_Liberian_Girl(256k).mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/Michael_Jackson_-_They_Don’t_Care_About_Us_(Brazil_Version)_(Official_Video)(128k).mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/Michael_Jackson_-_You_Are_Not_Alone_-_Live_Munich_1997_-_Widescreen_HD.mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/Sasha Piano - MJ - You rock my world (Mp3goo.com).mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/Alan_Walker,_K-391,_Tungevaag,_Mangoo_-_PLAY_(Alan_Walker's_Video)_-_(tomp3..mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/Alan_Walker_-_Glory.mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/Alan_Walker_-_The_Spectre(128k).mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/Alan_Walker_-_The_Spectre.mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/Alan_Walker_Style_-_AlexD_-_Far_Away_(256__kbps).mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/Alan_Walker_ft._Gavin_James_-_Tired(128k).mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2Pac - California Love feat. Dr. Dre (Dirty) (Music Video) HD.m4a
+/home/upalb/Music/3 Solo Artists/2Pac/2Pac_-_Hit_'Em_Up_(Dirty)_(Music_Video)_HD(128k).m4a
+/home/upalb/Music/3 Solo Artists/50 Cent/50 Cent - Many Men (Wish Death) (Dirty Version).m4a
+/home/upalb/Music/3 Solo Artists/50 Cent/50_Cent_-_In_Da_Club_(Official_Music_Video)(128k).m4a
 /home/upalb/Music/3 Solo Artists/Anupam Roy/Anupam Roy Bariye dao tomar haat.mp3
 /home/upalb/Music/3 Solo Artists/Anupam Roy/Autograph_Aamake_Aamar_Moto_Thaakte_Dao.mp3
 /home/upalb/Music/3 Solo Artists/Anupam Roy/Ekbar Bol - Anupam Roy Lyrics.mp3
@@ -922,8 +857,15 @@
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/Ed_Sheeran_-_Castle_On_The_Hill_[Official_Video](128k).mp3
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/Ed_Sheeran_-_Photograph_•_Me_Before_You(128k).mp3
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/Ed_Sheeran_-_Wayfaring_Stranger_(Live)(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_35___Acoustic(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_6th_September___Acoustic(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_Awdrishsho___Official_Audio(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_Moho_l_Official_Music_Video(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_Onukkhon___Acoustic(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_Shokarto_Upokul___Acoustic(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_Shukhi_Manusher_Kanna_l_Official_Music_Video(128k).mp3
+/home/upalb/Music/3 Solo Artists/Jon kabir/Jon_Kabir_-_Utshober_Por___Acoustic(128k).mp3
 /home/upalb/Music/3 Solo Artists/Justin Beibar/DJ_Snake_-_Let_Me_Love_You_ft._Justin_Bieber.mp3
-/home/upalb/Music/3 Solo Artists/Justin Beibar/Je_Shohore_Ami_Nei_-_Bay_of_Bengal_(Official_video).mp3
 /home/upalb/Music/3 Solo Artists/Justin Beibar/Justin_Bieber_-_I_ll_Show_You.mp3
 /home/upalb/Music/3 Solo Artists/Justin Beibar/Justin_Bieber_-_Never_Say_Never_ft._Jaden_Smith.mp3
 /home/upalb/Music/3 Solo Artists/Justin Beibar/Justin_Bieber_-_Sorry_(PURPOSE___The_Movement).mp3
@@ -935,11 +877,21 @@
 /home/upalb/Music/3 Solo Artists/Minar/MINAR___Ki_Tomar_Naam___Official_Music_Video___Angshu__Tune-Minar___Lyrics-Asif_.mp3
 /home/upalb/Music/3 Solo Artists/Minar/Minar_-_Abar_-_New_Music_Video_2017___Eid_Exclusive___Sangeeta.mp3
 /home/upalb/Music/3 Solo Artists/Minar/Minar___Duur_Theke___Afran_Nisho___Sharlin___Drama-_Jokhon_Boshonto___New_So.mp3
+/home/upalb/Music/3 Solo Artists/Naoha/Pragata_Naoha___Sakib_Tonmoy___Kintu%2C_Jodi_Emon_Hoto____Official_Lyric_Video(128k).mp3
+/home/upalb/Music/3 Solo Artists/Naoha/The_Graduation_Song_by_NAOHA___OFFICIAL_MUSIC_VIDEO(128k).mp3
+/home/upalb/Music/3 Solo Artists/Naoha/i_am_not_my_mind-_naoha(128k).mp3
+/home/upalb/Music/3 Solo Artists/Naoha/কালো_by_NAOHA___OFFICIAL_MUSIC_VIDEO___(Chul_Official_Soundtrack)(128k).mp3
+/home/upalb/Music/3 Solo Artists/Nick Cave/Nick_Cave_&_The_Bad_Seeds_-_Bring_It_On(128k).mp3
+/home/upalb/Music/3 Solo Artists/Nick Cave/Nick_Cave_And_The_Bad_Seeds_-_Red_Right_Hand_(Peaky_Blinders_OST)(128k).mp3
+/home/upalb/Music/3 Solo Artists/Nick Cave/brother,_my_cup_is_empty_-_nick_cave_and_the_bad_seeds(128k).mp3
 /home/upalb/Music/3 Solo Artists/P!nk/P!nk_-_Just_Give_Me_A_Reason_ft._Nate_Ruess(128k).mp3
 /home/upalb/Music/3 Solo Artists/P!nk/P!nk_-_What_About_Us_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/rockstar_marimba_ringtone.mp3
 /home/upalb/Music/3 Solo Artists/Rabindrashangit/Aami_Chini_Go_Chini_Tomare_I_Rabindra_Sangeet_I_Kushal_Paul.mp3
 /home/upalb/Music/3 Solo Artists/Shakira/Shakira_-_Hips_Don't_Lie_(Official_Music_Video)_ft._Wyclef_Jean(256k).mp3
+/home/upalb/Music/3 Solo Artists/Shwan Mendes/Shawn_Mendes_-_Mercy(128k).mp3
+/home/upalb/Music/3 Solo Artists/Shwan Mendes/Shawn_Mendes_-_There's_Nothing_Holdin'_Me_Back(128k).mp3
+/home/upalb/Music/3 Solo Artists/Shwan Mendes/Shawn_Mendes_-_Treat_You_Better(128k).mp3
 /home/upalb/Music/3 Solo Artists/Tahsan/Cheep Nouko _ Music Video _ Tahsan _ Kona _ Prince Mahmud _ Kheyal Poka.mp3
 /home/upalb/Music/3 Solo Artists/Tahsan/Tahsan_New_Song_2015_Prem_Tumi_(Eid_Special).m4a
 /home/upalb/Music/3 Solo Artists/Taylor swift/Look_What_You_Made_Me_Do.mp3
@@ -949,24 +901,20 @@
 /home/upalb/Music/3 Solo Artists/Taylor swift/Taylor_Swift_-_You_Belong_With_Me(256k).mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/Taylor_Swift_-_…Ready_For_It_.mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/Taylor_Swift_The_Story_Of_Us.mp3
-/home/upalb/Music/3 Solo Artists/Twinty one pilots/_Stressed_Out_[OFFICIAL_VIDEO](256k).mp3
+/home/upalb/Music/3 Solo Artists/Vance Joy/Vance_Joy_-_Riptide_(Lyrics)(128k).mp3
+/home/upalb/Music/4 Others/%E0%A6%86%E0%A6%AE%E0%A6%BF_%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A7%87%E0%A6%9B%E0%A6%BF_%E0%A6%B8%E0%A7%87%E0%A6%A6%E0%A6%BF%E0%A6%A8_-_%E0%A6%AE%E0%A7%8C%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%BF_%E0%A6%AD%E0%A7%8C%E0%A6%AE%E0%A6%BF%E(128k).m4a
 /home/upalb/Music/4 Others/'City_of_Stars'_(Duet_ft._Ryan_Gosling,_Emma_Stone)_-_La_La_Land_Original_Motion_Picture_Soundtrack(128k).mp3
 /home/upalb/Music/4 Others/A_Shundor_Prithiby(128k).mp3
 /home/upalb/Music/4 Others/A_Song_For_You_-_Raef(128k).mp3
 /home/upalb/Music/4 Others/Absentia_-_Bhrom_[Official_Audio](128k).mp3
 /home/upalb/Music/4 Others/Afterglow_(Cover)(128k).mp3
-/home/upalb/Music/4 Others/Alannah Myles - Black Velvet (Official Video) [tT4d1LQy4es].m4a
 /home/upalb/Music/4 Others/All_Of_Me_-_John_Legend___Lindsey_Stirling.mp3
-/home/upalb/Music/4 Others/All_along_the_watchtower_live_at_Chittagong(128k).mp3
 /home/upalb/Music/4 Others/Alt-J_(∆)_-_Taro(128k).mp3
-/home/upalb/Music/4 Others/Amar_Proticchobi___Aurthohin_Cover(128k).mp3
 /home/upalb/Music/4 Others/Amar_sadh_na_mitilo_acoustic_by_Eather(128k).mp3
 /home/upalb/Music/4 Others/Amay Dekona The Trap Banglalink presents Legends of Rock.mp3
-/home/upalb/Music/4 Others/Ami_Akash_Pathabo(128k).mp3
 /home/upalb/Music/4 Others/Angsho।_Shuru_Theke_Shesh_(Official_Audio)(128k).mp3
 /home/upalb/Music/4 Others/Angus_&_Julia_Stone_-_For_you(128k).mp3
 /home/upalb/Music/4 Others/Angus_&_Julia_Stone_-_Yellow_Brick_Road(128k).mp3
-/home/upalb/Music/4 Others/Another_day_by_Dream_Theater_(Cover)(128k).mp3
 /home/upalb/Music/4 Others/Anthony_Gonzalez,_Gael_García_Bernal_-_Un_Poco_Loco_(From__Coco_)(256k).mp3
 /home/upalb/Music/4 Others/Arash_-_Broken_Angel.mp3
 /home/upalb/Music/4 Others/Arekta_Rock_Band_-_Arekta_Rock_Gaan_(Official_Music_Video)(128k).mp3
@@ -979,8 +927,7 @@
 /home/upalb/Music/4 Others/Ben_Howard_-_Promise(128k).mp3
 /home/upalb/Music/4 Others/Bhaar(128k).mp3
 /home/upalb/Music/4 Others/Bidrohi(128k).mp3
-/home/upalb/Music/4 Others/Bidroho_-_Bay_of_Bengal_(Remastered_Version)_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/4 Others/Bishonnotar_Gaan_-_Bay_of_Bengal_(Official_Music_Video)(128k).mp3
+/home/upalb/Music/4 Others/Boshonto_Eshe_Geche_Song__Female__Bengali_Film__CHOTUSHKONE_(128k).m4a
 /home/upalb/Music/4 Others/Breaking_Benjamin_-_Here_We_Are_[HQ](128k).mp3
 /home/upalb/Music/4 Others/Breaking_Benjamin_-_You(128k).mp3
 /home/upalb/Music/4 Others/Britney_Spears_-_...Baby_One_More_Time_(Official_Video)(128k).mp3
@@ -994,6 +941,7 @@
 /home/upalb/Music/4 Others/Chader_Gaye_Chad(128k).mp3
 /home/upalb/Music/4 Others/Char_Dewal(128k).mp3
 /home/upalb/Music/4 Others/Charlie_Puth_-_One_Call_Away_[Official_Video](128k).mp3
+/home/upalb/Music/4 Others/Chera_Pata___%E0%A6%9B%E0%A7%87%E0%A7%9C%E0%A6%BE_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE___HIGHWAY(128k).mp3
 /home/upalb/Music/4 Others/Chhera_Pata(128k).mp3
 /home/upalb/Music/4 Others/Chol_Chol_Chol_-_Official_Music_Video_HD.mp3
 /home/upalb/Music/4 Others/Cholo_Arekbar_Uri(128k).mp3
@@ -1004,6 +952,7 @@
 /home/upalb/Music/4 Others/Clean_Bandit_-_Symphony_(feat._Zara_Larsson)_[Official_Video](128k).mp3
 /home/upalb/Music/4 Others/Coffee_Houser_sei_addata_full_HD_Video(128k).mp3
 /home/upalb/Music/4 Others/Coldplay_-_Viva_La_Vida_(Official_Video)(128k).mp3
+/home/upalb/Music/4 Others/Coolio - Gangsta_s Paradise (feat. L.V.) [Official Music Video].m4a
 /home/upalb/Music/4 Others/Creed_-_One_Last_Breath_(Official_Video)(256k).mp3
 /home/upalb/Music/4 Others/DH_FilesGarage.mp3
 /home/upalb/Music/4 Others/DJ_Khaled_-_I'm_The_One_ft._Justin_Bieber,_Quavo,_Chance_the_Rapper,_Lil_Wayne(128k).mp3
@@ -1013,7 +962,6 @@
 /home/upalb/Music/4 Others/Declaration_Of_Dependence(128k).mp3
 /home/upalb/Music/4 Others/Demi_Lovato_-_Let_It_Go_(from__Frozen_)_(Official_Video)(128k).mp3
 /home/upalb/Music/4 Others/Destroying_Me_by_Vinnie_Ferra_(Song)_Feat._Junior(128k).mp3
-/home/upalb/Music/4 Others/Dhoritrir_Mohanayok_-_Bay_of_Bengal___Lyrical_Video(128k).mp3
 /home/upalb/Music/4 Others/Doja_Cat_-_Say_So_(Audio)(128k).mp3
 /home/upalb/Music/4 Others/Don't_Go_Down_-_Elliott_Smith(128k).mp3
 /home/upalb/Music/4 Others/Doris_Day_-_Dream_A_Little_Dream_of_Me(128k).mp3
@@ -1021,7 +969,6 @@
 /home/upalb/Music/4 Others/Dua_Lipa_-_New_Rules_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/4 Others/E_Tumi_Kemon_Tumi_Jaatishwar_Lyric_Rupankar_Kabir_Suman(128k).mp3
 /home/upalb/Music/4 Others/Economic_Hitman_Extended(128k).mp3
-/home/upalb/Music/4 Others/Ei_Ami___Blue_Jeans_New_Song_2020___Car_Live(128k).mp3
 /home/upalb/Music/4 Others/Elliott_Smith_-_A_Distorted_Reality_Is_Now_A_Necessity_To...(128k).mp3
 /home/upalb/Music/4 Others/Elliott_Smith_-_Son_Of_Sam(128k).mp3
 /home/upalb/Music/4 Others/Fall_Out_Boy_-_Thanks_For_The_Memories___lyrics_with_song(128k).mp3
@@ -1050,7 +997,6 @@
 /home/upalb/Music/4 Others/I_wont_give_up_(cover)(128k).mp3
 /home/upalb/Music/4 Others/Imagine_Dragons_-_Thunder(128k).mp3
 /home/upalb/Music/4 Others/Isaac_Gracie_-_silhouettes_of_you_(Official_Music_Video)(128k).mp3
-/home/upalb/Music/4 Others/Ishwar___ঈশ্বর___ViKiNGS___Official_Music_Video___2019___Powered_by_IGLOO(128k).mp3
 /home/upalb/Music/4 Others/Jaago(128k).mp3
 /home/upalb/Music/4 Others/Jack_White_—__Love_Is_Blindness__—_The_Great_Gatsby_Soundtrack_(Official_Version)(128k).mp3
 /home/upalb/Music/4 Others/James_Arthur_-_Say_You_Won't_Let_Go(128k).mp3
@@ -1058,28 +1004,28 @@
 /home/upalb/Music/4 Others/Jeff_Buckley_-_Hallelujah_(Official_Video)(128k).mp3
 /home/upalb/Music/4 Others/John_Lennon_Nobody_Loves_You_(when_you're_down_and_out)_(acoustic_version)(128k).mp3
 /home/upalb/Music/4 Others/Jonas_Blue_-_Perfect_Strangers_ft._JP_Cooper_(Official_Video)(128k).mp3
+/home/upalb/Music/4 Others/KOMOLAY_NRITTO_KORE_-_TAPOSH_FEAT._JASMINE___RESHMI___OMZ_WIND_OF_CHANGE_%5B_S_03_%5D(128k).m4a
 /home/upalb/Music/4 Others/Ke bashi bajaire.mp3
 /home/upalb/Music/4 Others/Keaton_Henson_-_You(128k).mp3
 /home/upalb/Music/4 Others/Kew_kothaw_o_nay_-_SELF_PORTRAIT(128k).mp3
 /home/upalb/Music/4 Others/Ki_Name_Deke_Bolbo_Tomake_(Cover)___Kolkata_Videos_ft._Samantak_Sinha(128k).mp3
-/home/upalb/Music/4 Others/Ki_Name_Deke_Bolbo_Tomake_(Cover)_|_Kolkata_Videos_ft._Samantak_Sinha(128k).mp3
 /home/upalb/Music/4 Others/Kiss_from_a_rose_(Cover)(128k).mp3
 /home/upalb/Music/4 Others/Kodaline_-_High_Hopes_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/4 Others/Koishor(128k).mp3
 /home/upalb/Music/4 Others/Koshto(128k).mp3
-/home/upalb/Music/4 Others/Krodh__I_ViKiNGS_I_Official_Video_I_2019(128k).mp3
 /home/upalb/Music/4 Others/Kygo,_Selena_Gomez_–_It_Ain't_Me_(Lyrics)_🎵(128k).mp3
 /home/upalb/Music/4 Others/Kygo_-_This_Town_ft._Sasha_Sloan_(Official_Lyric_Video)(128k).mp3
 /home/upalb/Music/4 Others/LET_ME_LOVE_YOU_-_Justin_Bieber_-_ATC,_Alex_Goot,_&_KHS_Cover(128k).mp3
 /home/upalb/Music/4 Others/La_Vie_En_Rose(128k).mp3
-/home/upalb/Music/4 Others/Laal_Shobujer_Ghran_-_Bay_of_Bengal___Bangladesh_Navy___Anirban_2019___Mission_Excellence_Theme_Song(128k).mp3
 /home/upalb/Music/4 Others/Lana_Del_Rey_-_Cola(128k).mp3
 /home/upalb/Music/4 Others/Lauv_-_Reforget(128k).mp3
 /home/upalb/Music/4 Others/Liberty(128k).mp3
 /home/upalb/Music/4 Others/Light_'Em_Up_Fall_Out_Boy_Lyrics)(128k).mp3
+/home/upalb/Music/4 Others/Lokkhiti _ Drishtikone _ Prosenjit _ Rituparna _ Kaushik Ganguly _ Anupam Roy _ Paloma Majumder.m4a
 /home/upalb/Music/4 Others/Lorde_-_Hard_Feelings(128k).mp3
 /home/upalb/Music/4 Others/Louis_Tomlinson_-_Back_to_You_(Official_Video)_ft._Bebe_Rexha,_Digital_Farm_Animals(128k).mp3
 /home/upalb/Music/4 Others/Maanobi(128kbps).mp3
+/home/upalb/Music/4 Others/Mad_World_-Gary_Jules_(lyrics)(128k).mp3
 /home/upalb/Music/4 Others/Major_Lazer_-_Cold_Water_(feat._Justin_Bieber_&_MØ)_(Official_Lyric_Video)(128k).mp3
 /home/upalb/Music/4 Others/Mariah_Carey_-_All_I_Want_for_Christmas_Is_You_(Make_My_Wish_Come_True_Edition)(128k).mp3
 /home/upalb/Music/4 Others/Martin_Garrix_&_Dua_Lipa_-_Scared_To_Be_Lonely_(Official_Video)(128k).mp3
@@ -1087,27 +1033,21 @@
 /home/upalb/Music/4 Others/Michigan_-_The_Milk_Carton_Kids_Cover(128k).mp3
 /home/upalb/Music/4 Others/Mike_Perry_-_The_Ocean_(ft._Shy_Martin)_[Lyrics_CC](128k).mp3
 /home/upalb/Music/4 Others/Mike_Posner_-_I_Took_A_Pill_In_Ibiza_(Seeb_Remix)_(Explicit)(128k).mp3
-/home/upalb/Music/4 Others/Mishe_Jay_Maa_-_Bay_of_Bengal_(Official_Lyric_Video)(128k).mp3
 /home/upalb/Music/4 Others/Modhu_hoi_hoi_by_street_kid_Ja_1472573875635.mp3
 /home/upalb/Music/4 Others/Mon_Tore(128k).mp3
 /home/upalb/Music/4 Others/Mone_pore(128k).mp3
 /home/upalb/Music/4 Others/Morbid_Angel_-_Sworn_to_the_Black_-_Metro_Theater,_Sydney(128k).mp3
 /home/upalb/Music/4 Others/Mr._Sandman_-_The_Chordettes(128k).mp3
+/home/upalb/Music/4 Others/NIZAMUDDIN_AULIYA_-_TAPOSH_FEAT._OYSHEE___OMZ_WIND_OF_CHANGE_%5B_S_01_%5D(128k).m4a
 /home/upalb/Music/4 Others/Neshar_Bojha_Lyrics_Video__Popeye_(Bangladesh)(128k).m4a
-/home/upalb/Music/4 Others/Nick_Cave_&_The_Bad_Seeds_-_Bring_It_On(128k).mp3
-/home/upalb/Music/4 Others/Nick_Cave_And_The_Bad_Seeds_-_Red_Right_Hand_(Peaky_Blinders_OST)(128k).mp3
 /home/upalb/Music/4 Others/Nile_-_Kafir!(128k).mp3
 /home/upalb/Music/4 Others/Nirban(128k).mp3
+/home/upalb/Music/4 Others/Nirghum___Adnan_Ashif___The_Team_ADNAN.mp3
 /home/upalb/Music/4 Others/OLIRO_KOTHA_SHUNE___UNPLUGGED_COVER___HEMANTA_MUKHERJEE___TASNIM_ANIKA___TURJO___9_SOUND_STUDIO(128k).mp3
 /home/upalb/Music/4 Others/Obisriti____অবিস্মৃতি___By_HighWay___Lyrical_Video(128k).mp3
-/home/upalb/Music/4 Others/Odbhuture_Tumi(128k).mp3
-/home/upalb/Music/4 Others/Of_Monsters_And_Men_-_Dirty_Paws_(Official_Lyric_Video)(128k).mp3
-/home/upalb/Music/4 Others/Of_Monsters_And_Men_-_Little_Talks_(Official_Video)(128k).mp3
-/home/upalb/Music/4 Others/Of_Monsters_And_Men_-_Yellow_Light_(Official_Lyric_Video)(128k).mp3
+/home/upalb/Music/4 Others/Old Bangla Classics/01._Shagorer_Teer_Theke_-_Shahnaz_Rahmatullah(128k).mp3
 /home/upalb/Music/4 Others/Old_Dhaka_Diaries_-_Prohor_(Lyric_Video)(128k).mp3
 /home/upalb/Music/4 Others/Ondho_Jibon(128k).mp3
-/home/upalb/Music/4 Others/Opare_-_Bay_of_Bengal_(Official_Video)(128k).mp3
-/home/upalb/Music/4 Others/Opekkha_Dwitiyo_Porbo_I_Vikings_I_Official_Music_Video_I_2018(128k).mp3
 /home/upalb/Music/4 Others/Ore_Nil_Doriya_Lyric___Bangla_Song___Lyric_Music(128k).mp3
 /home/upalb/Music/4 Others/PAPRI KENO BOJHENa.mp3
 /home/upalb/Music/4 Others/PEACH_PIT_-_peach_pit(128k).mp3
@@ -1115,14 +1055,12 @@
 /home/upalb/Music/4 Others/Panic!_At_The_Disco__Say_Amen_(Saturday_Night)_[OFFICIAL_VIDEO](128k).mp3
 /home/upalb/Music/4 Others/Paolo_Nutini_-_Iron_Sky_[Abbey_Road_Live_Session](128k).mp3
 /home/upalb/Music/4 Others/Pataye_Pataye_Aanka_Ghuri_(Release_Video)(128k).mp3
-/home/upalb/Music/4 Others/Pharrell_Williams_-_Happy_(Official_Music_Video)(128k) (2).mp3
 /home/upalb/Music/4 Others/Pharrell_Williams_-_Happy_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/4 Others/Pitibull_Ft_Jennifer_Lopez_We_Are_One_Ole_Ola_The_Official_2014_Fifa_World_C.mp3
 /home/upalb/Music/4 Others/Porcupine_Tree_-_Blackest_Eyes_(studio_version,_with_lyrics)(128k).mp3
 /home/upalb/Music/4 Others/Porcupine_Tree_-_Normal_(Live)(128k).mp3
 /home/upalb/Music/4 Others/Porcupine_Tree___Arriving_somewhere_but_not_here(128k).mp3
 /home/upalb/Music/4 Others/Prithibita_Naki_Choto_Hote_Hote_-_Moheener_Ghoraguli_(Lyrics)(128k).mp3
-/home/upalb/Music/4 Others/Purbo_Digonte___পূর্ব_দিগন্তে___A_Tribute_by_ViKiNGS___Powered_by_Igloo(128k).mp3
 /home/upalb/Music/4 Others/Red_Hot_Chili_Peppers_-_Can't_Stop_[Official_Music_Video](128k).mp3
 /home/upalb/Music/4 Others/Red_Hot_Chili_Peppers_-_Dark_Necessities_[Official_Music_Video](128k).mp3
 /home/upalb/Music/4 Others/Rhye_-_Open_(Official_Video)(128k).mp3
@@ -1134,14 +1072,12 @@
 /home/upalb/Music/4 Others/SLAYER_Repentless_.mp3
 /home/upalb/Music/4 Others/Sab_Dhan_Maati_(Radio_Mix).mp3
 /home/upalb/Music/4 Others/Santana_-_While_My_Guitar_Gently_Weeps_(Official_Video)(128k).mp3
-/home/upalb/Music/4 Others/Shada_Golap(128k).mp3
 /home/upalb/Music/4 Others/Shadakalo_Shomoy___Moontasir_Rakib___A_song_for_90's_kids(128k).mp3
 /home/upalb/Music/4 Others/Shobhbhotar_Khela(128k).mp3
 /home/upalb/Music/4 Others/Shobuj_Kolponay(128k).mp3
 /home/upalb/Music/4 Others/Shona_Bondhu___সোনা_বন্ধু___شونا_باندھ___Noor_Jahaan___Adrit___Puja___Raj_Chakra.mp3
 /home/upalb/Music/4 Others/Shopner_opshori(128k).mp3
 /home/upalb/Music/4 Others/Shopno_Dekhar_Gaan(128k).mp3
-/home/upalb/Music/4 Others/Shopnoghum_-_Bay_of_Bengal_(Official_Video).mp3
 /home/upalb/Music/4 Others/Sia_-_Cheap_Thrills_(Lyric_Video)_ft._Sean_Paul(128k).mp3
 /home/upalb/Music/4 Others/Sia_-_The_Greatest(128k).mp3
 /home/upalb/Music/4 Others/Sing_Psalm_130_-_Scottish_Metrical_Psalms.mp3
@@ -1154,7 +1090,9 @@
 /home/upalb/Music/4 Others/Sweet_child_o_mine_(Cover)(128k).mp3
 /home/upalb/Music/4 Others/TENDER_-_Nadir(128k).mp3
 /home/upalb/Music/4 Others/TRIBUTE_to_IDOLS__SINHA_BROTHERS__Covers(128k).m4a
+/home/upalb/Music/4 Others/TUMI_HINA_-_FUAD_FEAT._FAIROOZ___OMZ_WIND_OF_CHANGE_%5BS_04%5D(128k).m4a
 /home/upalb/Music/4 Others/Take_A_Look_Around_-_Limp_Bizkit_(DRUM_COVER)(128k).mp3
+/home/upalb/Music/4 Others/Taylor_Swift_-_Back_To_December(128k).mp3
 /home/upalb/Music/4 Others/Taylor_Swift_-_Style(128k).mp3
 /home/upalb/Music/4 Others/The_Cardigans_-_Erase___Rewind_%E2%80%9CDirector_s_Cut%E2%80%9D(128k).mp3
 /home/upalb/Music/4 Others/The_Midnight_-_Lost_Boy(128k).mp3
@@ -1164,24 +1102,22 @@
 /home/upalb/Music/4 Others/The_silent_man_(Dream_Theater_Cover)(128k).mp3
 /home/upalb/Music/4 Others/Ties_that_bind_-_Alter_Bridge_(Vocal_cover)(128k).mp3
 /home/upalb/Music/4 Others/Tobu_Keno(128k).mp3
-/home/upalb/Music/4 Others/Tor_Oi_Shohorey___ViKiNGS___Official_Video___2019(128k).mp3
 /home/upalb/Music/4 Others/Trains_-_Porcupine_Tree(128k).mp3
 /home/upalb/Music/4 Others/Tribute_to_the_Deshi_Masterpieces_-_Moontasir_Rakib(128k).mp3
 /home/upalb/Music/4 Others/Troye_Sivan_-_My_My_My!_(Official_Video)(128k).mp3
+/home/upalb/Music/4 Others/Tumi Jake Bhalobasho _ Bangla Song Video _ তুমি যাকে ভালোবাসো _ Praktan _ Iman _ Anupam.m4a
+/home/upalb/Music/4 Others/Tumi_kon_kanoner_Phool___Nandita___Rabindrasangeet(128k).mp3
 /home/upalb/Music/4 Others/Ullashe_Mogno___Port_City_Sports_Forum_Theme_Song___Moontasir_Rakib(128k).mp3
-/home/upalb/Music/4 Others/Unplugged_unreleased_track_SHAKKHI(128k).mp3
-/home/upalb/Music/4 Others/Unplugged_unreleased_track__Bidaay_(128k).mp3
+/home/upalb/Music/4 Others/Vance_Joy_-__Riptide___Cover__By_Fairooz_Nazifa(128k).m4a
 /home/upalb/Music/4 Others/Vicarious_-_Tool_(DRUM_COVER)(128k).mp3
-/home/upalb/Music/4 Others/Villain(128k).mp3
-/home/upalb/Music/4 Others/Warfaze_(Dhushor_Manchitro)_Tribute_By_SELF_PORTRAIT(128k).mp3
 /home/upalb/Music/4 Others/Watch_Over_You_-_For_The_Cool_People_Of_Rocknation(128k).mp3
 /home/upalb/Music/4 Others/What_I've_Done_(Official_Video)_-_Linkin_Park(128k).mp3
 /home/upalb/Music/4 Others/Young_Magic__Sparkly_(128k).mp3
 /home/upalb/Music/4 Others/Zac_Brown_Band_-_Chicken_Fried_(Full_Version_Video)___The_Foundation(128k).mp3
 /home/upalb/Music/4 Others/Zedd,_Maren_Morris,_Grey_-_The_Middle_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/4 Others/[_Hand_in_Hand_]_1988_Seoul_Olympic_Official_Song__Ver.world(128k).mp3
-/home/upalb/Music/4 Others/brother,_my_cup_is_empty_-_nick_cave_and_the_bad_seeds(128k).mp3
 /home/upalb/Music/4 Others/gnash_-_i_hate_u,_i_love_u_ft._olivia_o'brien_(music_video)(128k).mp3
+/home/upalb/Music/4 Others/jokhon_porbe_na_mor_payer_chinno_ei_batte.mp3
 /home/upalb/Music/4 Others/muzmo.ru Pitbull - Timber (feat. Keha) muzmo.ru (zoop.su).mp3
 /home/upalb/Music/4 Others/muzmo_ru_Luis_Fonsi_-_Despacito_feat_Daddy_Yankee_b96f0d227.mp3
 /home/upalb/Music/4 Others/shine_cover(128k).mp3
@@ -1195,46 +1131,88 @@
 /home/upalb/Music/5 Theme songs/Thomas_Benjamin_Wild_Esq_-_I_ve_No_More_Fucks_To_Give_(mp3.pm).mp3
 /home/upalb/Music/5 Theme songs/Titanic_Theme_Song_•_My_Heart_Will_Go_On_•_Celine_Dion.mp3
 /home/upalb/Music/5 Theme songs/pirates_of_the_c.mp3
-/home/upalb/Music/7 Hindi/Bulleya___Sanam_#SANAMrendition.m4a
+/home/upalb/Music/6 Study Music/The Best of Mozart.m4a
+/home/upalb/Music/6 Study Music/code-fi___lofi_beats_to_code_relax_to(128k).m4a
+/home/upalb/Music/6 Study Music/lofi chill music (pomodoro session playlist).m4a
 /home/upalb/Music/7 Hindi/Duaa.mp3
 /home/upalb/Music/7 Hindi/Give_Me_Some_Sunshine_Lyrical_Video___3_Idiots___Aamir_Khan,_R._Madhavan,_Sh.mp3
 /home/upalb/Music/7 Hindi/Jab_Koi_Baat_-_DJ_Chetas.mp3
-/home/upalb/Music/7 Hindi/Mere Mehboob Qayamat Hogi _ Sanam [M6Ul3ASaFLU].m4a
-/home/upalb/Music/coding-session.mp3
-/home/upalb/Music/study-session.m4a
-/home/upalb/Music/3 Solo Artists/Alan Walker/y2mate.com - alan_walker_darkside_feat_aura_and_tomine_harket_M-P4QBt-FWw.mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus  - School (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus  - Shurjo (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus - Bhenge Felo (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus - Bondhur Lash (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus - Nilam (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus - Tomader Shommane (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus - Tomar Gaan (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/ashirbad-artcell-black-cryptic-fate-bangla-band-song-official-lyrical-video-2018.mp3
+/home/upalb/Music/7 Hindi/fuloka_taroka.m4a
+/home/upalb/Music/Alannah Myles - Black Velvet (Official Video) [tT4d1LQy4es].m4a
+/home/upalb/Music/Alannah Myles - Black Velvet (cover by Sershen&Zaritskaya) [qLY4wyqbuX4].m4a
+/home/upalb/Music/Mere Mehboob Qayamat Hogi _ Sanam [M6Ul3ASaFLU].m4a
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus  - School (official audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus  - Shurjo (official audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus - Bhenge Felo (official audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus - Bondhur Lash (official audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus - Nilam (official audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus - Tomader Shommane (official audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus - Tomar Gaan (official audio).mp3
 /home/upalb/Music/5 Theme songs/drew-mcintyre-theme-song-titantron-2012.mp3
 /home/upalb/Music/4 Others/come-on-come-on-turn-the-radio-on-remix.mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/elomelo-kromosh-by-vikings-hd-video-song-runout.mp3
 /home/upalb/Music/4 Others/ke-bashi-bajay-re-happy-akhand-movie-ghuddi-movie-song.mp3
 /home/upalb/Music/4 Others/khudro-aami-tucchho-aami-cactus-rock-band-artistaloud.mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/koshto-by-avoidrafa-www-avoidrafa-com.mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/krodh-i-vikings-i-official-video-i-2019.mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/meghdol-tobu-mon-official-video.mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/Michael Jackson - Give Thanks To Allah.mp3
-/home/upalb/Music/1 Bangladesh bands/High way/obosthan-eather-official_-band_-the-high-ways.mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/odvuture-tumi-by-avoidrafa-bhaar-album.mp3
 /home/upalb/Music/4 Others/panic-at-the-disco-hey-look-ma-i-made-it-official-video.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Recall - Jodi Dekhi Nil Akash.mp3
-/home/upalb/Music/1 Bangladesh bands/Shohortoli/shohortoli-jail-khanar-chithi-640x360-2.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/ashes_kemon-acho.mp3.mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/ashirbad-artcell-black-cryptic-fate-bangla-band-song-official-lyrical-video-2018.mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/elomelo-kromosh-by-vikings-hd-video-song-runout.mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/koshto-by-avoidrafa-www-avoidrafa-com.mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/krodh-i-vikings-i-official-video-i-2019.mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/meghdol-tobu-mon-official-video.mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/odvuture-tumi-by-avoidrafa-bhaar-album.mp3
+/home/upalb/Music/1  Bangladesh bands/Shohortoli/shohortoli-jail-khanar-chithi-640x360-2.mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/ashes_kemon-acho.mp3.mp3
 /home/upalb/Music/3 Solo Artists/Bruno Mars/Mark_Ronson_-_Uptown_Funk_ft._Bruno_Mars.mp3
 /home/upalb/Music/3 Solo Artists/Fuad/Kotodin dekhini Tomay-Fuad.mp3
 /home/upalb/Music/5 Theme songs/Friends Theme song with.mp3
-/home/upalb/Music/6 Study_Music/Crisp_Ocean_Waves-Mike_Koenig-1486046376.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-mithhe-brihospoti.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-mithhe-brihospoti.mp3
 /home/upalb/Music/3 Solo Artists/Marshmello/Marshmello_-_Summer_(Fortnite_Music_Video).mp3
-/home/upalb/Music/2 Foreign bands/Otep/Nikosh_Kalo_ei_Adhare.mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Recall - Jodi Dekhi Nil Akash.mp3
+/home/upalb/Music/4 Others/Nikosh_Kalo_ei_Adhare.mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/muzmo_ru_2_Chainz_Post_Malone_-_Money_Made_Me_Do_It_b128f0d224.mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/muzmo_ru_21_Savage_Post_Malone_-_rockstar_48871921.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Intro.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/If I Die 2Nite.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/So Many Tears.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Temptations.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Young Niggaz.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Lord Knows.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Dear Mama.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/It Ain't Easy.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Can U Get Away.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Old School.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Fuck The World.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Death Around The Corner.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/01 - Ambitionz Az A Ridah.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/02 - All Bout U.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/03 - Skandalouz.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/04 - Got My Mind Made Up.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/05 - How Do You Want It.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/06 - 2 Of Amerikaz Most Wanted.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/07 - No More Pain.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/08 - Heartz Of Men.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/09 - Life Goes On.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/10 - Only God Can Judge Me.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/11 - Tradin War Stories.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/12 - California Love.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/13 - I Ain't Mad At Cha.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd1/14 - What'z Ya Phone #.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/01 - Can't C Me.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/02 - Shorty Wanna Be a Thug.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/03 - Holla at Me.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/04 - Wonda Why They Call U Bytch.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/05 - When We Ride.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/06 - Thug Passion.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/07 - Picture Me Rollin'.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/08 - Check Out Time.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/09 - Ratha Be Ya Nigga.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/10 - All Eyez on Me.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/11 - Run Tha Streetz.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/12 - Ain't Hard 2 Find.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/[1996] All Eyez On Me/Cd2/13 - Heaven Ain't Hard 2 Find.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Me Against The World.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Outlaw.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/Me Against The World/Heavy In The Game.mp3
 /home/upalb/Music/4 Others/teeth-official-video (1).mp3
 /home/upalb/Music/3 Solo Artists/Youngblood/youngblood-official-video (1).mp3
 /home/upalb/Music/5 Theme songs/Give Me Freedom Give Me Fire.mp3
@@ -1243,7 +1221,6 @@
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Ashes_in_Your_Mouth_b128f0d370.mp3
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Wake_Up_Dead_b128f0d218.mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/muzmo_ru_Michael_Jackson_-_Heal_the_World_48021809.mp3
-/home/upalb/Music/2 Foreign bands/ACDC/back_in_black_acdc.mp3
 /home/upalb/Music/2 Foreign bands/ACDC/muzmo_ru_ACDC_-_Its_a_Long_Way_to_the_Top_If_You_Wanna_Rock_N_Roll_b128f0d301.mp3
 /home/upalb/Music/2 Foreign bands/ACDC/muzmo_ru_ACDC_-_Ride_On_b128f0d349.mp3
 /home/upalb/Music/2 Foreign bands/ACDC/muzmo_ru_ACDC_-_Whole_Lotta_Rosie_48614896.mp3
@@ -1258,15 +1235,10 @@
 /home/upalb/Music/2 Foreign bands/ACDC/muzmo_ru_ACDC_-_War_Machine_b128f0d189.mp3
 /home/upalb/Music/2 Foreign bands/ACDC/muzmo_ru_ACDC_-_Hells_Bells_b128f0d312.mp3
 /home/upalb/Music/4 Others/Adele_-_Hello.mp3
-/home/upalb/Music/1 Bangladesh bands/Adberb/kotodur-kt-duur-official-music-video.mp3
-/home/upalb/Music/1 Bangladesh bands/Adberb/oboshad-absaad-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/Akon/Right now (na na na)-akon.mp3
 /home/upalb/Music/3 Solo Artists/Akon/Akon_Ft._Eminem_-_Smack_That.mp3
 /home/upalb/Music/3 Solo Artists/Akon/Akon_ft_MJ_Hold_My_Hand.mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/muzmo_ru_Alan_Walker_-_Alone_b128f0d185.mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/muzmo_ru_Alan_Walker_-_Faded_b128f0d212.mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/muzmo_ru_Alan_Walker_-_Sing_Me_to_Sleep_b128f0d189.mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/muzmo_ru_Alan_Walker_Sabrina_Carpenter_Farruko_-_On_My_Way_b128f0d194.mp3
+/home/upalb/Music/4 Others/muzmo_ru_Alan_Walker_-_Faded_b128f0d212.mp3
 /home/upalb/Music/4 Others/let-me-down-slowly-lyrics.mp3
 /home/upalb/Music/4 Others/Aj_kothao_Full__Video_Song___Jorimana___Alienz___bangla_Band.mp3
 /home/upalb/Music/7 Hindi/Bulleya-(Mr-Jatt.com).mp3
@@ -1275,15 +1247,15 @@
 /home/upalb/Music/3 Solo Artists/Anne Marie/marie-ciao-adios-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Anupam Roy/Amar_Dukkhogulo-Anupam_Roy_FusionBD.Com.mp3
 /home/upalb/Music/4 Others/ekta-shohor-official-artwork-music-video.mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/Arbovirus - Mukhosh (official audio).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/01. Arbovirus - Jaalo Aagun Jaalo (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/02. Arbovirus - Roder Kinaray (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/03. Arbovirus - Hariye Jao (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/04. Arbovirus - Aw (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/05. Arbovirus - Durotto (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/06. Arbovirus - Sharthopor (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/07. Arbovirus - Prolaap (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Arbovirus/08. Arbovirus - Bodle Gechhe (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/Arbovirus - Mukhosh (official audio).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/01. Arbovirus - Jaalo Aagun Jaalo (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/02. Arbovirus - Roder Kinaray (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/03. Arbovirus - Hariye Jao (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/04. Arbovirus - Aw (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/05. Arbovirus - Durotto (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/06. Arbovirus - Sharthopor (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/07. Arbovirus - Prolaap (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Arbovirus/08. Arbovirus - Bodle Gechhe (music.com.bd).mp3
 /home/upalb/Music/4 Others/dont-fight-me-official-lyric-video.mp3
 /home/upalb/Music/4 Others/eden-official-music-video.mp3
 /home/upalb/Music/4 Others/shikari-aj-shikar-official-lyric-video.mp3
@@ -1296,153 +1268,161 @@
 /home/upalb/Music/3 Solo Artists/Ariana Grande/muzmo_ru_Ariana_Grande_-_7_rings_b128f0d179.mp3
 /home/upalb/Music/3 Solo Artists/Ariana Grande/muzmo_ru_Ariana_Grande_Social_House_-_boyfriend_b128f0d186.mp3
 /home/upalb/Music/7 Hindi/09.Heartless-Main_Dhoondne_Ko_Zamaane_Mein-Reprise.mp3
-/home/upalb/Music/1 Bangladesh bands/Ark/Ark - Jaare Jaa (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Ark/05 - Ark - Biday (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell-Dukkho_Bilash.mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Chayar Ninad (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Dhushor Shomoy (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Ghune Khawa Rodh (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Gontobbohin (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Leen (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Oniket Prantor (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Pathor Bagan (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Shohid Shoroni (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Smriti Sharok (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Artcell - Tomake (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/01 - Artcell - Onnoshomoy (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/02 - Artcell - Bhul Jonmo (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/03 - Artcell - Poth Chola (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/05 - Artcell - Mukhosh (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/06 - Artcell - Rahur Grash (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/07 - Artcell - Itihash (Shomoy-Odrishto) (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/08 - Artcell - Kritrim Manush (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/09 - Artcell - Obosh Onuvutir Deyal (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/10 - Artcell - Olosh Shomoyer Pare (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/09.Karar_Oi_Loho_Kopat-Artcell_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Obimrishshota-Artcell_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Artcell/Sporsher_Onubhuti-Artcell-Demo_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/Shey_Amare-Ashes_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/Charpoka_AnyMaza.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Ark/Ark - Jaare Jaa (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Ark/05 - Ark - Biday (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell-Dukkho_Bilash.mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Chayar Ninad (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Dhushor Shomoy (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Ghune Khawa Rodh (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Gontobbohin (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Leen (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Oniket Prantor (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Pathor Bagan (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Shohid Shoroni (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Smriti Sharok (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Artcell - Tomake (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/01 - Artcell - Onnoshomoy (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/02 - Artcell - Bhul Jonmo (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/03 - Artcell - Poth Chola (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/05 - Artcell - Mukhosh (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/06 - Artcell - Rahur Grash (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/07 - Artcell - Itihash (Shomoy-Odrishto) (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/08 - Artcell - Kritrim Manush (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/09 - Artcell - Obosh Onuvutir Deyal (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/10 - Artcell - Olosh Shomoyer Pare (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/09.Karar_Oi_Loho_Kopat-Artcell_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Obimrishshota-Artcell_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Artcell/Sporsher_Onubhuti-Artcell-Demo_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/Shey_Amare-Ashes_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/Charpoka_AnyMaza.Com.mp3
 /home/upalb/Music/4 Others/08.Grihopalito_Shovvota.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/01 Aurthohin - Surza.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/02 - Aurthohin - Chaite Paro 2 (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/07.Advut_Shob_Chelegulor_Gaan-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/karon-tumi-omanush-nikkrishto-revisited.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Adhare(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Alor Michhile(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Amader Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Epitaph-Aurthohin-17012014_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Aanmoney(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Aushomapto(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Chhera Shopno(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Fitasher Kanna(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Guti The Finale(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Jodi Konodin(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Kaadbe Bishmoye(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Nikkrishto(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shesh Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Amar Klanti(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Amar Protichchhobi(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ghum(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Guti 2(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Kolpona(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Mrittur Shohor(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Nirbodh(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Odbhut Shei Chheleti 2(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Premer Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Probash Theke(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Raater Train(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Tumi(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Amar Golpo(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Boka Manushta O Ek Shurer Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Brishti(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ditio Jibon(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Fulgulo Shob Gelo Kothai(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Gaanwala(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ghum Ashena(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ghumparani Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Jhor(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ke(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Nir(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Oviman(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Porajoy(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Protigga(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shesh(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shohor(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Tobu O(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ashte Sotto(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Bhabchhi Bose(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Bijoyer Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/E Gaan Amar(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ekti Gaan Dao(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Golpo Sheshe(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Guti From Hell(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Jodi(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Morichika(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Nil Pahar(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Rongdhonu(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ei Guitar (This Old Guitar)(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Kobita, Prarthona O Protigga (Poems, Prayers & Promises)(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Neel Akasher Pothey (Leaving On A Jet Plane)(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Bhranto Aami(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Hoy To Ba(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Jante Ichcha Kore(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Krishnochura(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Notun Diner Michilay(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Sat Din(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Teen Deayal(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Tomader Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ei Poth(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Funkedelic Fried Rice(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Hisebe Bhul Chhio(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Hotash Ridoy(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/Kannar Rong(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Onneson(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Osthirota(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Rupoker Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shopno Gulo Tomar Moto(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Arthohin(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Ekti Nokhotrer Gaan(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Hayenar Ottohashi(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Jokhon Charidike(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Kono Ek Nijhum Raate 2(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Majhraate(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Mission Accomplished(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Mone Koro(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shadhinota(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shey(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shopner Daar(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Tahader Kotha 71(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Tarar Pane(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Tomar Jonno Noy(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/03.Bhalobashte_Janina-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/01.Bichoron-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/08.Cancer_Er_Nishikabyo-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/02.Chaite_Paro-You_Have_To_Bujhte_Hobe-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/04.Guti_Punorjonmo-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/05.Neel_Paharer_Gaaye-Aurthohin._FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/06.Nikkrishto_3-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Aamjonota-Aurthohin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Aurthohin-Bedonar_Chorabali_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Aurthohin-Odvut_Shei_Cheleti_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aushruto/sporsho.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/02 - Aurthohin - Chaite Paro 2 (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/07.Advut_Shob_Chelegulor_Gaan-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/karon-tumi-omanush-nikkrishto-revisited.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Adhare(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Alor Michhile(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Amader Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Epitaph-Aurthohin-17012014_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Aanmoney(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Aushomapto(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Chhera Shopno(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Fitasher Kanna(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Guti The Finale(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Jodi Konodin(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Kaadbe Bishmoye(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Nikkrishto(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shesh Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Amar Klanti(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Amar Protichchhobi(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ghum(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Guti 2(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Kolpona(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Mrittur Shohor(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Nirbodh(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Odbhut Shei Chheleti 2(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Premer Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Probash Theke(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Raater Train(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Tumi(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Amar Golpo(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Boka Manushta O Ek Shurer Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Brishti(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ditio Jibon(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Fulgulo Shob Gelo Kothai(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Gaanwala(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ghum Ashena(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ghumparani Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Jhor(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ke(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Nir(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Oviman(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Porajoy(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Protigga(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shesh(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shohor(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Tobu O(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ashte Sotto(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Bhabchhi Bose(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Bijoyer Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/E Gaan Amar(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ekti Gaan Dao(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Golpo Sheshe(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Guti From Hell(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Jodi(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Morichika(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Nil Pahar(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Rongdhonu(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ei Guitar (This Old Guitar)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Kobita, Prarthona O Protigga (Poems, Prayers & Promises)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Neel Akasher Pothey (Leaving On A Jet Plane)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Bhranto Aami(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Hoy To Ba(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Jante Ichcha Kore(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Krishnochura(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Notun Diner Michilay(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Sat Din(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Teen Deayal(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Tomader Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ei Poth(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Funkedelic Fried Rice(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Hisebe Bhul Chhio(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Hotash Ridoy(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Kannar Rong(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Onneson(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Osthirota(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Rupoker Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shopno Gulo Tomar Moto(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Arthohin(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Ekti Nokhotrer Gaan(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Hayenar Ottohashi(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Jokhon Charidike(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Kono Ek Nijhum Raate 2(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Majhraate(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Mission Accomplished(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Mone Koro(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shadhinota(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shey(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shopner Daar(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Tahader Kotha 71(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Tarar Pane(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Tomar Jonno Noy(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/03.Bhalobashte_Janina-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/01.Bichoron-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/08.Cancer_Er_Nishikabyo-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/02.Chaite_Paro-You_Have_To_Bujhte_Hobe-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/04.Guti_Punorjonmo-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/05.Neel_Paharer_Gaaye-Aurthohin._FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/06.Nikkrishto_3-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Aamjonota-Aurthohin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Aurthohin-Bedonar_Chorabali_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Aurthohin-Odvut_Shei_Cheleti_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aushruto/sporsho.mp3
 /home/upalb/Music/4 Others/sweet-but-psycho-official-music-video.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/090. Avenged Sevenfold - Afterlife.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/026. Avenged Sevenfold - Nightmare.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/093. Avenged Sevenfold - So Far Away.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/095. Avenged Sevenfold - Welcome to the Family.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/019. Avenged Sevenfold - Hail to the King.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/079. Avenged Sevenfold - Shepherd of Fire.mp3
 /home/upalb/Music/4 Others/tough-love-ft-agnes-vargas-and-lagola.mp3
-/home/upalb/Music/1 Bangladesh bands/LRB/Ekhon-Onek-Raat-128kbps-DjBAAP.COM.mp3
+/home/upalb/Music/1  Bangladesh bands/LRB/Ekhon-Onek-Raat-128kbps-DjBAAP.COM.mp3
 /home/upalb/Music/3 Solo Artists/Drake/mia-video-oficial.mp3
-/home/upalb/Music/1 Bangladesh bands/Lalon/07.Boshonto_Batash-Band_Lalon_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Bay of Bengal/Bay of Bengal - Nirob Durbhikkho [2016]1518584303156.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/02. Alo R Adhar by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/08. Akasher Tara by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/01. Uru Uru Mon by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/03. Anmone 2 by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/04. Jak Na by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/05. Golper Shuru (Odbhut Shei Cheleti) by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/06. Majhe Majhe by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/07. Abar by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/09. Shurjo by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/10. Cancer by Aurthohin - BDmusicCafe.com.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/11. Nikkristo 2 by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/016. Bad Wolves - Remember When.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/009. Bad Wolves - Hear Me Now (feat. DIAMANTE).mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/004. Bad Wolves - Zombie.mp3
+/home/upalb/Music/1  Bangladesh bands/Lalon/07.Boshonto_Batash-Band_Lalon_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Bay of Bengal/Bay of Bengal - Nirob Durbhikkho [2016]1518584303156.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/02. Alo R Adhar by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/08. Akasher Tara by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/01. Uru Uru Mon by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/03. Anmone 2 by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/04. Jak Na by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/05. Golper Shuru (Odbhut Shei Cheleti) by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/06. Majhe Majhe by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/07. Abar by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/09. Shurjo by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/10. Cancer by Aurthohin - BDmusicCafe.com.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/11. Nikkristo 2 by Aurthohin - BDmusicCafe.com.mp3
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/muzmo_ru_Bebe_Rexha_-_FFF_Fuck_fake_friends_59005135.mp3
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/gateway-drug-audio.mp3
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/i-got-you-official-music-video.mp3
@@ -1465,11 +1445,11 @@
 /home/upalb/Music/4 Others/ora-pro-nobis-lucifer-official-video.mp3
 /home/upalb/Music/2 Foreign bands/Bahemoth/bartzabel-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Selena Gomez/i-cant-get-enough-official-music-video.mp3
-/home/upalb/Music/1 Bangladesh bands/D.O.T/days-of-tragedy-official-music-video.mp3
+/home/upalb/Music/1  Bangladesh bands/D.O.T/days-of-tragedy-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/Billie eilish/when-the-partys-over.mp3
 /home/upalb/Music/3 Solo Artists/Billie eilish/bad-guy (1).mp3
-/home/upalb/Music/1 Bangladesh bands/Black/Black - Bluse And Rod (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Black/01.Kar_Jonne-Black_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Black/Black - Bluse And Rod (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Black/01.Kar_Jonne-Black_FusionBD.Com.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1970a - Black Sabbath/1-01 - Black Sabbath.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1970a - Black Sabbath/1-02 - The Wizard.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1970a - Black Sabbath/1-03 - Behind the Wall of Sleep.mp3
@@ -1579,20 +1559,6 @@
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1981 - Mob Rules/07 - Slipping Away.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1981 - Mob Rules/08 - Falling Off the Edge of the World.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1981 - Mob Rules/09 - Over and Over.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-01 - E5150.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-02 - Neon Knights.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-03 - N.I.B.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-04 - Children of the Sea.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-05 - Voodoo.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-06 - Black Sabbath.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-07 - War Pigs.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/1-08 - Iron Man.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/2-01 - The Mob Rules.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/2-02 - Heaven and Hell.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/2-03 - The Sign of the Southern Cross - Heaven and Hell (Continued).mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/2-04 - Paranoid.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/2-05 - Children of the Grave.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1982 - Live Evil [Live]/2-06 - Fluff.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1983 - Born Again/01 - Trashed.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1983 - Born Again/02 - Stonehenge.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1983 - Born Again/03 - Disturbing the Priest.mp3
@@ -1660,20 +1626,6 @@
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1994 - Cross Purposes/09 - Cardinal Sin.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1994 - Cross Purposes/10 - Evil Eye.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1994 - Cross Purposes/11 - What's the Use (bonus track).mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/01 - Time Machine.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/02 - Children of the Grave.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/03 - I Witness.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/04 - Into the Void.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/05 - Black Sabbath.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/06 - Psychophobia.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/07 - The Wizard.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/08 - Cross of Thorns.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/09 - Symptom of the Universe.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/10 - Headless Cross (Drum Intro).mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/11 - Headless Cross.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/12 - Paranoid.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/13 - Iron Man.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Cross Purposes Live [Live]/14 - Sabbath Bloody Sabbath.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Forbidden/01 - The Illusion of Power.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Forbidden/02 - Get a Grip.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Forbidden/03 - Can't Get Close Enough.mp3
@@ -1685,24 +1637,6 @@
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Forbidden/09 - Forbidden.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Forbidden/10 - Kiss of Death.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/1995 - Forbidden/11 - Loser Gets It All (bonus track).mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-01 - War Pigs.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-02 - Behind the Wall of Sleep.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-03 - N.I.B.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-04 - Fairies Wear Boots.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-05 - Electric Funeral.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-06 - Sweet Leaf.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-07 - Spiral Architect.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-08 - Into the Void.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/1-09 - Snowblind.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-01 - Sabbath Bloody Sabbath.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-02 - Orchid-Lord of This World.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-03 - Dirty Women.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-04 - Black Sabbath.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-05 - Iron Man.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-06 - Children of the Grave.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-07 - Paranoid.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-08 - Psycho Man.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/1998 - Reunion [Live]/2-09 - Selling My Soul.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2002 - Past Lives [Live]/1-01 - Tomorrow's Dream.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2002 - Past Lives [Live]/1-02 - Sweet Leaf.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2002 - Past Lives [Live]/1-03 - Killing Yourself to Live.mp3
@@ -1721,20 +1655,6 @@
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2002 - Past Lives [Live]/2-07 - N.I.B.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2002 - Past Lives [Live]/2-08 - Behind the Wall of Sleep.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2002 - Past Lives [Live]/2-09 - Faries Wear Boots.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/01 - E5150.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/02 - Neon Knights.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/03 - N.I.B..mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/04 - Children of the Sea.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/05 - Country Girl.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/06 - Black Sabbath.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/07 - War Pigs.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/08 - Slipping Away.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/09 - Iron Man.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/10 - The Mob Rules.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/11 - Heaven and Hell.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/12 - Paranoid.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/13 - Voodoo.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2007 - Live at Hammersmith Odeon [Live]/14 - Children of the Grave.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2013b - 13/01 - End of the Beginning.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2013b - 13/02 - God Is Dead.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2013b - 13/03 - Loner.mp3
@@ -1747,16 +1667,6 @@
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2013b - 13/10 - Peace of Mind.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2013b - 13/11 - Pariah.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2013b - 13/12 - Naivete In Black (bonus track).mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/01 - War Pigs.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/02 - Loner.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/03 - Black Sabbath.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/04 - Methademic.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/05 - N.I.B..mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/06 - Iron Man.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/07 - End of the Beginning.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/08 - Fairies Wear Boots.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/09 - God Is Dead.mp3
-/home/upalb/Music/2 Foreign bands/Black Sabbath/2013a - Live... Gathered in Their Masses [Live]/10 - Sabbath Bloody Sabbath (Intro) - Paranoid.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2016 - The End [EP]/01 - Season of the Dead.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2016 - The End [EP]/02 - Cry All Night.mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2016 - The End [EP]/03 - Take Me Home.mp3
@@ -1765,8 +1675,7 @@
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2016 - The End [EP]/06 - Under the Sun (Live).mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2016 - The End [EP]/07 - End of the Beginning (Live).mp3
 /home/upalb/Music/2 Foreign bands/Black Sabbath/2016 - The End [EP]/08 - Age of Reason (Live).mp3
-/home/upalb/Music/1 Bangladesh bands/Blue jeans/kodom-blue-jeans-music-video-becm-night-2019.mp3
-/home/upalb/Music/1 Bangladesh bands/Bohemian/bangladeshi-band.mp3
+/home/upalb/Music/1  Bangladesh bands/Bohemian/bangladeshi-band.mp3
 /home/upalb/Music/2 Foreign bands/Bon jovi/Its_My_Life.mp3
 /home/upalb/Music/2 Foreign bands/Bon jovi/Bon_Jovi_-_I'll_Be_There_For_You_(Official_Music_Video)(128k).mp3
 /home/upalb/Music/3 Solo Artists/Bruno Mars/muzmo_ru_Bruno_Mars_-_Just_the_Way_You_Are_b256f0d220.mp3
@@ -1774,6 +1683,8 @@
 /home/upalb/Music/3 Solo Artists/Bruno Mars/muzmo_ru_Bruno_Mars_-_Thats_What_I_Like_48208271.mp3
 /home/upalb/Music/3 Solo Artists/Bruno Mars/muzmo_ru_Bruno_Mars_-_Finesse_52428218.mp3
 /home/upalb/Music/2 Foreign bands/Bullet for my valentine/Bullet_For_My_Valentine_-_Army_of_Noise_-_YouTube-mc.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/040. Bullet for My Valentine - Tears Don't Fall.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/085. Bullet for My Valentine - Your Betrayal.mp3
 /home/upalb/Music/3 Solo Artists/Calvin Harris/muzmo_ru_Calvin_Harris_-_Blame_b128f0d214.mp3
 /home/upalb/Music/3 Solo Artists/Calvin Harris/muzmo_ru_Calvin_Harris_-_Summer_b128f0d221.mp3
 /home/upalb/Music/3 Solo Artists/Calvin Harris/muzmo_ru_Calvin_Harris_and_Disciples_-_How_Deep_Is_Your_Love_b128f0d212.mp3
@@ -1787,46 +1698,75 @@
 /home/upalb/Music/3 Solo Artists/Charlie puth/charlie-puth-i-warned-myself-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Charlie puth/muzmo_ru_Charlie_Puth_-_Attention_b128f0d218.mp3
 /home/upalb/Music/3 Solo Artists/Charlie puth/Charlie_Puth_-_We_Don_t_Talk_Anymore_(feat._Selena_Gomez)_[Official_Video].mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/Ahare Jibon-Chirkutt-(MuzicBD.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/02.Bondhu_Go-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/04.Bristir_Gaan-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/12.Dhono_Dhanno_Puspo_Vora-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/01.Ekta_Chera_Din-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/08.Ey_Khey_Ne-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/03.Jadur_Shohor-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/11.Josonar_Gaan-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/07.Nai_Nai-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/06.Niranondo-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/10.Ontorale-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/05.Prothom_Preme_More_Jaoar_Gaan-Chirkutt_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Chirkutt/09.Tar_Chera-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/Ahare Jibon-Chirkutt-(MuzicBD.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/02.Bondhu_Go-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/04.Bristir_Gaan-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/12.Dhono_Dhanno_Puspo_Vora-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/01.Ekta_Chera_Din-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/08.Ey_Khey_Ne-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/03.Jadur_Shohor-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/11.Josonar_Gaan-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/07.Nai_Nai-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/06.Niranondo-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/10.Ontorale-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/05.Prothom_Preme_More_Jaoar_Gaan-Chirkutt_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Chirkutt/09.Tar_Chera-Chirkutt_FusionBD.Com.mp3
 /home/upalb/Music/4 Others/no-guidance-official-video-ft-drake.mp3
 /home/upalb/Music/4 Others/solo-feat-demi-lovato-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Anne Marie/rockabye-feat-sean-paul-and-anne-marie-official-video.mp3
 /home/upalb/Music/4 Others/Corey_Taylor_-_Snuff_(Acoustic)(128k).mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/Ondhokar_Ghore_(Cover)___Vikings___Banglalink_presents_Legends_of_Rock(128kb.mp3
-/home/upalb/Music/1 Bangladesh bands/Cryptic fate/07 - Cryptic Fate - Danob (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/D.O.T/andolon-official-video.mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/Ondhokar_Ghore_(Cover)___Vikings___Banglalink_presents_Legends_of_Rock(128kb.mp3
+/home/upalb/Music/1  Bangladesh bands/Cryptic fate/07 - Cryptic Fate - Danob (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/D.O.T/andolon-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Justin Beibar/10-000-hours-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/muzmo_ru_David_Guetta_-_Hey_Mama_b128f0d192.mp3
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/muzmo_ru_David_Guetta_J_Balvin_Bebe_Rexha_-_Say_My_Name_b128f0d199.mp3
 /home/upalb/Music/5 Theme songs/angel-of-the-morning.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/071. Dio - Rainbow in the Dark.mp3
 /home/upalb/Music/3 Solo Artists/Selena Gomez/muzmo_ru_DJ_Snake_-_Taki_Taki_feat_Selena_Gomez_Ozuna_Cardi_B_b128f0d210.mp3
-/home/upalb/Music/1 Bangladesh bands/Black/06. Black - Ajo[Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/01. Agami.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/02. Na.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/03. Rupkotha.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/04. Purnota.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/05. Jedin.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/06. Shotto.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/07. Projonmo 2012.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/08.+Jonsrot.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Somorpon -Warfaze_Khachar Bhitor Ochin Pakhi.mp3
-/home/upalb/Music/1 Bangladesh bands/James/02%20-%20Bheegi%20Bheegi%20-%20DownloadMing.SE.mp3
+/home/upalb/Music/1  Bangladesh bands/Black/06. Black - Ajo[Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/01. Agami.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/02. Na.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/03. Rupkotha.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/04. Purnota.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/05. Jedin.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/06. Shotto.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/07. Projonmo 2012.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/08.+Jonsrot.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Somorpon -Warfaze_Khachar Bhitor Ochin Pakhi.mp3
+/home/upalb/Music/1  Bangladesh bands/D.O.T/dot-apuurnntaay-puurnn.mp3
 /home/upalb/Music/3 Solo Artists/Eminem/Dr. Dre - The Next Episode ft. Snoop Dogg, Kurupt, Nate Dogg.mp3
 /home/upalb/Music/3 Solo Artists/Drake/muzmo_ru_Drake_-_Gods_Plan_b128f0d199.mp3
 /home/upalb/Music/3 Solo Artists/Drake/in-my-feelings.mp3
 /home/upalb/Music/2 Foreign bands/Dream theater/Dream-Theater-The-Silent-Man.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/01 Pull Me Under.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/02 Another Day.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/03 Take The Time.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/04 Surrounded.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/05 Metropolis Part 1_ The Miracle And The Sleeper.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/06 Under A Glass Moon.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/07 Wait For Sleep.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Images And Words/08 Learning To Live.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 01 Scene One- Regression Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 02 Scene Two- Overture 1928 Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 03 Strange Deja Vu Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 04 Scene Three- Through My Words Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 05 Fatal Tragedy Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 06 Scene Four- Beyond This Life Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 07 Scene Five- Through Her Eyes Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 08 Scene Six- Home Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 09 Scene Seven- The Dance of Eternity Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 10 One Last Time Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 11 Scene Eight- The Spirit Carries On Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Scenes from a Memory/Scenes from a Memory 12 Scene Nine- Finally Free Rock 320kbps Dream Theater.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/01. The Root Of All Evil.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/02. The Answer Lies Within.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/03. These Walls.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/04. I Walk Beside You.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/05. Panic Attack.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/06. Never Enough.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/07. Sacrificed Sons.mp3
+/home/upalb/Music/2 Foreign bands/Dream theater/Dream Theater - Octavarium/08. Octavarium.mp3
 /home/upalb/Music/3 Solo Artists/Dua lipa/swan-song-from-alita-battle-angel-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/Dua lipa/idgaf-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/best-part-of-me-feat-yebba-official-lyric-video.mp3
@@ -1840,10 +1780,10 @@
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/dive-official-audio.mp3
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/happier-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/i-dont-care-official-video.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Amar Baagan (Garden Song)(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Hoytoba Valobasha (Perhaps Love)(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Shopner Deshey (Dreamland Express)(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Tomar Jonno (Annies Song)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Amar Baagan (Garden Song)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Hoytoba Valobasha (Perhaps Love)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Shopner Deshey (Dreamland Express)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Tomar Jonno (Annies Song)(Djjohal.Com).mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/Love Me Like You Do - Fifty Shades of Gr.mp3
 /home/upalb/Music/3 Solo Artists/Ellie goulding/hate-me.mp3
 /home/upalb/Music/2 Foreign bands/Eluveitie/a-rose-for-epona-official-music-video.mp3
@@ -1857,33 +1797,37 @@
 /home/upalb/Music/3 Solo Artists/Eminem/muzmo_ru_Eminem_-_River_feat_Ed_Sheeran_The_Mafiamag_b128f0d221.mp3
 /home/upalb/Music/3 Solo Artists/Eminem/Eminem_Ft_Rihanna_The_Monster.mp3
 /home/upalb/Music/3 Solo Artists/Eminem/muzmo_ru_Eminem_Rihanna_-_Love_The_Way_You_Lie_b128f0d263.mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/cyanide-official-audio.mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/na-pawar-golpo.mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/srotoshinni-official-audio.mp3
-/home/upalb/Music/1 Bangladesh bands/Ending face/BAND EF SONG MUKHOSH.mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/cyanide-official-audio.mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/na-pawar-golpo.mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/srotoshinni-official-audio.mp3
+/home/upalb/Music/1  Bangladesh bands/Ending face/BAND EF SONG MUKHOSH.mp3
 /home/upalb/Music/2 Foreign bands/Europe/carrie-official-video.mp3
 /home/upalb/Music/2 Foreign bands/Europe/open-your-heart-official-video.mp3
 /home/upalb/Music/2 Foreign bands/Europe/muzmo_ru_Europe_-_The_Final_Countdown_Official_Video_65137370.mp3
-/home/upalb/Music/1 Bangladesh bands/Encore/srotoshinni-cover.mp3
+/home/upalb/Music/1  Bangladesh bands/Encore/srotoshinni-cover.mp3
 /home/upalb/Music/4 Others/gone-away-official-video.mp3
 /home/upalb/Music/2 Foreign bands/Fossils/Aro-Ekbar-128kbps-DjBAAP.COM.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/056. Fozzy - Judas.mp3
 /home/upalb/Music/4 Others/muzmo_ru_French_Montana_Post_Malone_Cardi_B_Rvssian_-_Writing_on_the_Wall_b128f0d201.mp3
 /home/upalb/Music/4 Others/Azam_Khan-Bangladesh.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/03.Bishmoy.mp3
 /home/upalb/Music/4 Others/04.Bodh.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/01.Kalo_Bikhkhov.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/10.Oporajeyo.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/09.Potaka.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/07.Prithibi_2011.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/05.Protipokhkho.mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/01.Rajahin_Rajjo.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/02.Vranto_Shopno.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/07.Prithibi_2011.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/03.Bishmoy.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/01.Kalo_Bikhkhov.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/10.Oporajeyo.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/09.Potaka.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/05.Protipokhkho.mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/01.Rajahin_Rajjo.mp3
+/home/upalb/Music/1  Bangladesh bands/Mechanix/02.Vranto_Shopno.mp3
 /home/upalb/Music/3 Solo Artists/Anupam Roy/Beche_Thakar_Gaan_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/10-Meghdol-Abar_Shohor_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/09-Meghdol-Dur_Prithibi_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/04-Meghdol-Kumari_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/11-Meghdol-Nirban_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/10-Meghdol-Abar_Shohor_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/09-Meghdol-Dur_Prithibi_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/04-Meghdol-Kumari_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/11-Meghdol-Nirban_FusionBD.Com.mp3
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/muzmo_ru_G-Eazy_-_Me_Myself_I_b128f0d252.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/030. Ghost - Dance Macabre.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/059. Ghost - Rats.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/087. Ghost - Faith.mp3
 /home/upalb/Music/2 Foreign bands/Guns N' Roses/november-rain.mp3
 /home/upalb/Music/4 Others/operation-searchlight-new-single.mp3
 /home/upalb/Music/3 Solo Artists/Halsey/without-me.mp3
@@ -1898,28 +1842,38 @@
 /home/upalb/Music/2 Foreign bands/Imagine Dragons/believer.mp3
 /home/upalb/Music/2 Foreign bands/Imagine Dragons/Imagine_Dragons_-_Whatever_It_Takes.mp3
 /home/upalb/Music/2 Foreign bands/Imagine Dragons/bad-liar.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/055. In This Moment - Black Wedding (feat. Rob Halford).mp3
 /home/upalb/Music/2 Foreign bands/Iron Maiden/muzmo_ru_Iron_Maiden_-_Fear_Of_The_Dark_b128f0d436.mp3
 /home/upalb/Music/2 Foreign bands/Iron Maiden/muzmo_ru_Iron_Maiden_-_The_Trooper_b128f0d251.mp3
 /home/upalb/Music/2 Foreign bands/Iron Maiden/muzmo_ru_Iron_Maiden_-_Aces_High_b128f0d270.mp3
 /home/upalb/Music/2 Foreign bands/Iron Maiden/muzmo_ru_Iron_Maiden_-_Run_To_The_Hills_b128f0d234.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/100. Iron Maiden - Run to the Hills (1998 Remaster).mp3
 /home/upalb/Music/2 Foreign bands/Iron Maiden/muzmo_ru_Iron_Maiden_-_Death_Or_Glory_b128f0d313.mp3
 /home/upalb/Music/3 Solo Artists/Ed Sheeran/shape-of-you-cover-by-j-fla.mp3
-/home/upalb/Music/1 Bangladesh bands/James/James - Amar Shonar Bangla (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/James/James - Baba (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/James/James - Maa (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/James/Taray_Taray-James-07012015_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/James/James - Amar Shonar Bangla (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/James/James - Baba (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/James/James - Maa (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/James/02%20-%20Bheegi%20Bheegi%20-%20DownloadMing.SE.mp3
+/home/upalb/Music/1  Bangladesh bands/James/Taray_Taray-James-07012015_FusionBD.Com.mp3
+/home/upalb/Music/4 Others/Bhalobeshe_shokhi_nibhrite___Jayati_Chakaraborty___Tagore_song(128k).mp3
 /home/upalb/Music/3 Solo Artists/Justin Beibar/Baby-Justin Bieber ft Ludacris[www.sound.mp3
 /home/upalb/Music/4 Others/muzmo_ru_John_Denver_-_Take_Me_Home_Country_Roads_b128f0d193.mp3
-/home/upalb/Music/1 Bangladesh bands/Joler gaan/10. Joler Gaan - Emon Jodi Hoto (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Joler gaan/10. Joler Gaan - Emon Jodi Hoto (music.com.bd).mp3
 /home/upalb/Music/4 Others/sucker.mp3
 /home/upalb/Music/5 Theme songs/I_Am_a_Poor_Wayfaring_Stranger_(From_1917)__1917_OST(256k).mp3
 /home/upalb/Music/4 Others/02.Valo_Achi_Valo_Theko-Joy_FusionBD.Com.mp3
-/home/upalb/Music/3 Solo Artists/Justin Beibar/13. Purpose - Justin Bieber (320kbps).mp3
-/home/upalb/Music/3 Solo Artists/Alan Walker/391-and-alan-walker-ignite-feat-julie-bergan-and-seungri.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/054. Judas Priest - Breaking the Law.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/078. Judas Priest - Living After Midnight.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/045. Judas Priest - You've Got Another Thing Coming.mp3
 /home/upalb/Music/4 Others/i-love-it-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/Katy perry/roar-official (1).mp3
 /home/upalb/Music/3 Solo Artists/Katy perry/never-really-over-official.mp3
 /home/upalb/Music/3 Solo Artists/Katy perry/muzmo_ru_Katy_Perry_Juicy_J_-_Dark_Horse_b128f0d215.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/066. Killswitch Engage - The End of Heartache.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/061. Killswitch Engage - Holy Diver.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/080. Killswitch Engage - My Curse.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/091. Killswitch Engage - I Am Broken Too.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/099. Killswitch Engage - Unleashed.mp3
 /home/upalb/Music/2 Foreign bands/Lamb of God/muzmo_ru_Lamb_Of_God_-_Black_Label_b128f0d292.mp3
 /home/upalb/Music/2 Foreign bands/Lamb of God/muzmo_ru_Lamb_Of_God_-_Walk_With_Me_in_Hell_b128f0d311.mp3
 /home/upalb/Music/2 Foreign bands/Lamb of God/muzmo_ru_Lamb_Of_God_-_Descending_b128f0d215.mp3
@@ -1936,8 +1890,21 @@
 /home/upalb/Music/2 Foreign bands/Linkin Park/muzmo_ru_Linkin_Park_-_Faint_b128f0d162.mp3
 /home/upalb/Music/2 Foreign bands/Linkin Park/muzmo_ru_Linkin_Park_-_Numb_b128f0d185.mp3
 /home/upalb/Music/2 Foreign bands/Linkin Park/muzmo_ru_Linkin_Park_-_Burn_It_Down_b128f0d231.mp3
-/home/upalb/Music/1 Bangladesh bands/LRB/A.B-Rupali Guitar.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/075. Lordi - Devilium.mp3
+/home/upalb/Music/1  Bangladesh bands/LRB/A.B-Rupali Guitar.mp3
 /home/upalb/Music/4 Others/muzmo_ru_Madonna_-_Turn_Up_The_Radio_b128f0d448.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 01 - Intro _ Bomb First (My Second Reply).mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 02 - Hail Mary.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 03 - Toss It Up.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 04 - To Live And Die In L.a..mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 05 - Blasphemy.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 06 - Life Of An Outlaw.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 07 - Just Like Daddy.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 08 - Krazy.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 09 - White Man'z World.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 10 - Me And My Girlfriend.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 11 - Hold Ya Head.mp3
+/home/upalb/Music/3 Solo Artists/2Pac/2PAC - Makavelli - The Don Killuminati The 7 Day Theory (1996).www.lokotorrents.com/Makaveli - The Don Killuminati_ The 7 Day Theory - 12 - Against All Odds.mp3
 /home/upalb/Music/2 Foreign bands/Maroon 5/memories.mp3
 /home/upalb/Music/2 Foreign bands/Maroon 5/muzmo_ru_Maroon_5_-_This_Love_b128f0d205.mp3
 /home/upalb/Music/2 Foreign bands/Maroon 5/muzmo_ru_Maroon_5_-_One_More_Night_b128f0d219.mp3
@@ -1949,10 +1916,17 @@
 /home/upalb/Music/3 Solo Artists/Marshmello/muzmo_ru_Marshmello_CHVRCHES_-_Here_With_Me_62668035.mp3
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/in-the-name-of-love-official-video.mp3
 /home/upalb/Music/4 Others/used-to-love-official-video.mp3
-/home/upalb/Music/6 Study_Music/01-White-Noise-10min.mp3
-/home/upalb/Music/6 Study_Music/25-Ocean-10min.mp3
-/home/upalb/Music/1 Bangladesh bands/Mechanix/05_-_Mechanix_-_Dhruboshor_(music.com.bd).mp3
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/01 Funeral Fog.flac
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/02 Freezing Moon.flac
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/03 Cursed in Eternity.flac
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/04 Pagan Fears.flac
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/05 Life Eternal.flac
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/06 From the Dark Past.flac
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/07 Buried by Time and Dust.flac
+/home/upalb/Music/2 Foreign bands/Mayhem/Mayhem De Mysteriis Dom Sathanas 1994 FLAC+CUE [RLG]/08 De Mysteriis dom Sathanas.flac
+/home/upalb/Music/1  Bangladesh bands/Mechanix/05_-_Mechanix_-_Dhruboshor_(music.com.bd).mp3
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Holy_WarsThe_Punishment_Due_b128f0d376.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/060. Megadeth - Symphony Of Destruction.mp3
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Symphony_Of_Destruction_b128f0d329.mp3
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_A_Tout_Le_Monde_b128f0d262.mp3
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Hangar_18_b128f0d311.mp3
@@ -1960,17 +1934,17 @@
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Tornado_Of_Souls_b128f0d319.mp3
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Peace_Sells_b128f0d408.mp3
 /home/upalb/Music/2 Foreign bands/Megadeath/muzmo_ru_Megadeth_-_Sweating_Bullets_b128f0d365.mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/01 - Meghdol - Chena Ochena (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/02 - Meghdol - Chelebela (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/04 - Meghdol - Akash Meghe Dhaka (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/05 - Meghdol - Crewshed (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/06 - Meghdol - Choturdike (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/07 - Meghdol - Janoki (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/08 - Meghdol - Beboched (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/09 - Meghdol - Kobial (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/10 - Meghdol - Megh (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Meghdol/11 - Meghdol - Ommm (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Tomar_Ronge_Gora_Oviman-Meraz-Recall-24012014_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/01 - Meghdol - Chena Ochena (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/02 - Meghdol - Chelebela (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/04 - Meghdol - Akash Meghe Dhaka (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/05 - Meghdol - Crewshed (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/06 - Meghdol - Choturdike (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/07 - Meghdol - Janoki (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/08 - Meghdol - Beboched (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/09 - Meghdol - Kobial (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/10 - Meghdol - Megh (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Meghdol/11 - Meghdol - Ommm (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Tomar_Ronge_Gora_Oviman-Meraz-Recall-24012014_FusionBD.Com.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Kill 'Em All (Remastered)/01 Hit The Lights.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Kill 'Em All (Remastered)/02 The Four Horsemen.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Kill 'Em All (Remastered)/03 Motorbreath.mp3
@@ -1981,8 +1955,6 @@
 /home/upalb/Music/2 Foreign bands/Metallica/Kill 'Em All (Remastered)/08 No Remorse.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Kill 'Em All (Remastered)/09 Seek & Destroy.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Kill 'Em All (Remastered)/10 Metal Militia.mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_Creeping_Death_b128f0d395.mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_For_Whom_The_Bell_Tolls_b128f0d310.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Ride The Lightning (Remastered)/01 Fight Fire With Fire.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Ride The Lightning (Remastered)/02 Ride The Lightning.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Ride The Lightning (Remastered)/03 For Whom The Bell Tolls.mp3
@@ -1991,8 +1963,6 @@
 /home/upalb/Music/2 Foreign bands/Metallica/Ride The Lightning (Remastered)/06 Escape.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Ride The Lightning (Remastered)/07 Creeping Death.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Ride The Lightning (Remastered)/08 The Call Of Ktulu.mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_Battery_b128f0d312.mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_Orion_b128f0d507.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Master Of Puppets (Remastered)/01 Battery.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Master Of Puppets (Remastered)/02 Master Of Puppets.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Master Of Puppets (Remastered)/03 The Thing That Should Not Be.mp3
@@ -2001,7 +1971,6 @@
 /home/upalb/Music/2 Foreign bands/Metallica/Master Of Puppets (Remastered)/06 Leper Messiah.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Master Of Puppets (Remastered)/07 Orion.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Master Of Puppets (Remastered)/08 Damage Inc.mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_One_b128f0d447.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica - ...And Justice for All (Remastered) (2018)/01. Blackened (Remastered).mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica - ...And Justice for All (Remastered) (2018)/02. ...And Justice for All (Remastered).mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica - ...And Justice for All (Remastered) (2018)/03. Eye of the Beholder (Remastered).mp3
@@ -2011,7 +1980,6 @@
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica - ...And Justice for All (Remastered) (2018)/07. The Frayed Ends of Sanity (Remastered).mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica - ...And Justice for All (Remastered) (2018)/08. To Live is to Die (Remastered).mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica - ...And Justice for All (Remastered) (2018)/09. Dyers Eve (Remastered).mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_Sad_But_True_b128f0d323.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica/01 Enter Sandman.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica/02 Sad But True.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Metallica/03 Holier Than Thou.mp3
@@ -2038,7 +2006,6 @@
 /home/upalb/Music/2 Foreign bands/Metallica/Load/12 Thorn Within.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Load/13 Ronnie.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Load/14 The Outlaw Torn.mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_Fuel_b128f0d269.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Reload/01 Fuel.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Reload/02 The Memory Remains.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Reload/03 Devil's Dance.mp3
@@ -2052,6 +2019,7 @@
 /home/upalb/Music/2 Foreign bands/Metallica/Reload/11 Low Man's Lyric.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Reload/12 Attitude.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Reload/13 Fixxxer.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/094. Metallica - Turn The Page.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/St. Anger/01 Frantic.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/St. Anger/02 St. Anger.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/St. Anger/03 Some Kind Of Monster.mp3
@@ -2073,7 +2041,7 @@
 /home/upalb/Music/2 Foreign bands/Metallica/Death Magnetic/08 The Judas Kiss.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Death Magnetic/09 Suicide & Redemption.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Death Magnetic/10 My Apocalypse.mp3
-/home/upalb/Music/2 Foreign bands/Metallica/muzmo_ru_Metallica_-_Seek_and_Destroy_b128f0d415.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/051. Metallica - Whiskey In The Jar.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Hardwired…To Self-Destruct/Disc 01/01 Hardwired.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Hardwired…To Self-Destruct/Disc 01/02 Atlas Rise!.mp3
 /home/upalb/Music/2 Foreign bands/Metallica/Hardwired…To Self-Destruct/Disc 01/03 Now That We’re Dead.mp3
@@ -2260,45 +2228,69 @@
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/muzmo_ru_Michael_Jackson_-_Black_or_White_b128f0d273.mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/muzmo_ru_Michael_Jackson_-_Dirty_Diana_b128f0d280.mp3
 /home/upalb/Music/3 Solo Artists/1 Michael Jackson/muzmo_ru_Michael_Jackson_Franck_van_der_Heijden_-_Love_Never_Felt_so_Good_b128f0d235.mp3
-/home/upalb/Music/1 Bangladesh bands/Miles/Miles - Firiye Dao (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/xrwedstkcr28fqmnl9o7oc2o.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/2g1htf4ebaoj1cixcqatwpmaa.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/457w1uxwi9vc3a6vtzr6kdcum.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/7i8ucp5zdu0043mgfednxqc7k.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/1dffpkneq3hy0x1tgundvf1lh.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/flfddonidz0jeea09v76il3b.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/02.Mrittur_Shesh_Choy-Minerva_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Minerva/3hzgol89d8v755yht69djyf8o.mp3
-/home/upalb/Music/1 Bangladesh bands/Mizan and brothers/ABHIMAN_(অভিমান)___MIZAN___EMON_CHOWDHURY___MEHEDI_HASAN_LIMON___LYRIC_VIDEO.mp3
+/home/upalb/Music/1  Bangladesh bands/Miles/Miles - Firiye Dao (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/xrwedstkcr28fqmnl9o7oc2o.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/2g1htf4ebaoj1cixcqatwpmaa.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/457w1uxwi9vc3a6vtzr6kdcum.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/7i8ucp5zdu0043mgfednxqc7k.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/1dffpkneq3hy0x1tgundvf1lh.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/flfddonidz0jeea09v76il3b.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/02.Mrittur_Shesh_Choy-Minerva_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Minerva/3hzgol89d8v755yht69djyf8o.mp3
+/home/upalb/Music/1  Bangladesh bands/Mizan and brothers/ABHIMAN_(অভিমান)___MIZAN___EMON_CHOWDHURY___MEHEDI_HASAN_LIMON___LYRIC_VIDEO.mp3
 /home/upalb/Music/4 Others/ma-ke-likha-chithi-official-audio.mp3
 /home/upalb/Music/5 Theme songs/muzmo_ru_Movie_Theme_Players_-_Rest_of_My_Life_From_Fast_Furious_6_48049952.mp3
-/home/upalb/Music/1 Bangladesh bands/Ashes/Ashes%20-%20Bhindeshi%20tara%20(chondrobindru%20cover).mp3
+/home/upalb/Music/1  Bangladesh bands/Ashes/Ashes%20-%20Bhindeshi%20tara%20(chondrobindru%20cover).mp3
 /home/upalb/Music/5 Theme songs/Stephanie McMahon - Welcome To The Queendom(Mp3Masti.In).mp3
 /home/upalb/Music/4 Others/ENGLISH SONG-On The Floor (Radio Edit).mp3
 /home/upalb/Music/4 Others/auposhongskriti-apsnskrti-official-lyrical-video.mp3
 /home/upalb/Music/3 Solo Artists/Fuad/Ektai Amar Tumi-Fuad.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Bohu Durey (Fly Away)(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Metho Poth (Take Me Home,Country Road)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Bohu Durey (Fly Away)(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Metho Poth (Take Me Home,Country Road)(Djjohal.Com).mp3
 /home/upalb/Music/4 Others/the-search.mp3
 /home/upalb/Music/4 Others/nice-to-meet-ya-official.mp3
 /home/upalb/Music/3 Solo Artists/Nicki minaj/bust-down-barbiana-lyrics.mp3
 /home/upalb/Music/3 Solo Artists/Nicki minaj/muzmo_ru_Nicki_Minaj_-_Ganja_Burns_b128f0d294.mp3
 /home/upalb/Music/2 Foreign bands/Nightwish/Nightwish_-_While_Your_Lips_Are_Still_Red_(OFFICIAL_VIDEO)(256k).mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/020. Nightwish - Nemo (Remastered).mp3
 /home/upalb/Music/2 Foreign bands/Nirvana/muzmo_ru_Nirvana_-_Smells_Like_Teen_Spirit_47829495.mp3
-/home/upalb/Music/2 Foreign bands/Nirvana/muzmo_ru_Nirvana_-_Smells_Like_Teen_Spirit_b128f0d301.mp3
 /home/upalb/Music/2 Foreign bands/Nirvana/muzmo_ru_Nirvana_-_Come_As_You_Are_47829250.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Opurnota___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Poradhin___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Shilpo_Amar___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Shohoj_Manush___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Tor-e_Shohore___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Tumi_Mukhosh___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Olosh_Prohor___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Nonta Biskut/Prithibi_Shundor___Nonta_Biskut.mp3
-/home/upalb/Music/1 Bangladesh bands/Old School/aaj-raate-kono-rupkotha-nei.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Opurnota___Nonta_Biskut.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Poradhin___Nonta_Biskut.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Shilpo_Amar___Nonta_Biskut.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Shohoj_Manush___Nonta_Biskut.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Tor-e_Shohore___Nonta_Biskut.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Tumi_Mukhosh___Nonta_Biskut.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Olosh_Prohor___Nonta_Biskut.mp3
+/home/upalb/Music/1  Bangladesh bands/Nonta Biskut/Prithibi_Shundor___Nonta_Biskut.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/01. Life After Death [intro].mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/02. Somebody's Gotta Die.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/03. Hypnotize.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/04. Kick in the Door.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/05. Fuck You.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/06. Last Day feat The Lox.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/07. I Love The Dough feat Jaÿ-Z & Angela Winbush.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/08. What's Beef.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/09. B.I.G. [interlude].mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/10. Mo Money Mo Problems feat Mase & Puff Daddy.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/11. Niggas Bleed.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/12. I Got A Story To Tell.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/13. Notorious Thugs.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/14. Miss U.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/15. Another (featuring Lil' Kim).mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/16. Going Back To Cali.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/17. Ten Crack Commandments.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/18. Playa Hater.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/19. Nasty Boy.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/20. Sky's The Limit (featuring 112).mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/21. The World Is Filled... (featuring Too Short and Puff Daddy).mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/22. My Downfall (featuring DMC).mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/23. Long Kiss Goodnight.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/Notorious Big - Life After Death/24. You're Nobody (Til Somebody Kills You).mp3
+/home/upalb/Music/1  Bangladesh bands/Old School/aaj-raate-kono-rupkotha-nei.mp3
 /home/upalb/Music/4 Others/04 18 - One Direction (320kbps).mp3
 /home/upalb/Music/4 Others/rescue-me-official-music-video (1).mp3
-/home/upalb/Music/1 Bangladesh bands/Golpo/golpo.mp3
+/home/upalb/Music/1  Bangladesh bands/Golpo/golpo.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/1995 - Orchid/01 In Mist She Was Standing.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/1995 - Orchid/02 Under The Weeping Moon.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/1995 - Orchid/03 Silhouette.mp3
@@ -2378,14 +2370,6 @@
 /home/upalb/Music/2 Foreign bands/Opeth/2011 - Heritage/08. The Lines in My Hand.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/2011 - Heritage/09. Folklore.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/2011 - Heritage/10. Marrow of the Earth.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 01 - Eternal Rains Will Come.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 02 - Cusp Of Eternity.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 03 - Moon Above, Sun Below.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 04 - Elysian Woes.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 05 - Goblin.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 06 - River.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 07 - Voice Of Treason.mp3
-/home/upalb/Music/2 Foreign bands/Opeth/2014 - Pale Communion/Opeth - Pale Communion - 08 - Faith In Others.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/2016 - Sorceress/opeth - sorceress - 01 - persephone.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/2016 - Sorceress/opeth - sorceress - 02 - sorceress.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/2016 - Sorceress/opeth - sorceress - 03 - the wilde flowers.mp3
@@ -2417,8 +2401,11 @@
 /home/upalb/Music/2 Foreign bands/Opeth/Opeth – In Cauda Venenum (2CD) [2019] [pradyutvam]/Opeth - In Cauda Venenum (English) [320] [pradyutvam]/208-opeth-the_garroter.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/Opeth – In Cauda Venenum (2CD) [2019] [pradyutvam]/Opeth - In Cauda Venenum (English) [320] [pradyutvam]/209-opeth-continuum.mp3
 /home/upalb/Music/2 Foreign bands/Opeth/Opeth – In Cauda Venenum (2CD) [2019] [pradyutvam]/Opeth - In Cauda Venenum (English) [320] [pradyutvam]/210-opeth-all_things_will_pass.mp3
-/home/upalb/Music/1 Bangladesh bands/D.O.T/dot-apuurnntaay-puurnn.mp3
-/home/upalb/Music/2 Foreign bands/Pantera/walk-official-music-video.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/069. Ozzy Osbourne - Bark at the Moon.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/092. Ozzy Osbourne - Shot in the Dark.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/064. Ozzy Osbourne - No More Tears.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/068. Pantera - Cemetery Gates.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/083. Pantera - Cowboys from Hell.mp3
 /home/upalb/Music/4 Others/ekbar-bole-jao.mp3
 /home/upalb/Music/4 Others/jokhoni-akashe.mp3
 /home/upalb/Music/4 Others/obosor-bhalobasa.mp3
@@ -2432,7 +2419,7 @@
 /home/upalb/Music/2 Foreign bands/Pink Floyd/muzmo_ru_Pink_Floyd_-_Shine_On_You_Crazy_Diamond_b128f0d814.mp3
 /home/upalb/Music/2 Foreign bands/Pink Floyd/muzmo_ru_Pink_Floyd_-_Wish_You_Were_Here_b128f0d334.mp3
 /home/upalb/Music/2 Foreign bands/Pink Floyd/muzmo_ru_Pink_Floyd_-_Echoes_b128f0d1584.mp3
-/home/upalb/Music/1 Bangladesh bands/Poizon green/Hurpori____Poizon_Green___(_sencored_virsion_for_Tv_)(128kbps).mp3
+/home/upalb/Music/1  Bangladesh bands/Poizon green/Hurpori____Poizon_Green___(_sencored_virsion_for_Tv_)(128kbps).mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/better-now.mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/muzmo_ru_Post_Malone_-_Candy_Paint_b128f0d229.mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/circles.mp3
@@ -2446,250 +2433,227 @@
 /home/upalb/Music/3 Solo Artists/Post Malone/muzmo_ru_Post_Malone_Future_Halsey_-_Die_For_Me_b128f0d245.mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/muzmo_ru_Post_Malone_Ozzy_Osbourne_Travis_Scott_-_Take_What_You_Want_b128f0d230.mp3
 /home/upalb/Music/3 Solo Artists/Post Malone/muzmo_ru_Post_Malone_Swae_Lee_-_Sunflower_b128f0d158.mp3
-/home/upalb/Music/1 Bangladesh bands/Powersurge/[Doridro.com] Powersurge - Mitther Agrashon.mp3
 /home/upalb/Music/2 Foreign bands/Queen/muzmo_ru_Queen_-_Bohemian_Rhapsody_b128f0d355.mp3
 /home/upalb/Music/2 Foreign bands/Queen/muzmo_ru_Queen_-_The_Show_Must_Go_On_b128f0d277.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/purano-shei-diner-kotha-bassbaba-sumon-featuring-peu.mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/Tune_Factory_Haar_Kala_by_Rafa.mp3
-/home/upalb/Music/1 Bangladesh bands/Avoidrafa/rafa.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Etota Bhalobashi.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/1Etota Bhalobashi - RECALL_tiAsh.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Charidikey-Recall_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Shohoj_Manush-Recall-Unreleased_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Jodi_Dekhi_Nil_Akash-Recall-19072014_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Recall/Smritir Patay(AnyMaza.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Reshmi mirza/02.Ninduker_Mukhe_Chai-Reshmi_Mirza_FusionBD.Com.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/049. Queensrÿche - Silent Lucidity (Remastered 2003).mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/purano-shei-diner-kotha-bassbaba-sumon-featuring-peu.mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/Tune_Factory_Haar_Kala_by_Rafa.mp3
+/home/upalb/Music/1  Bangladesh bands/Rafa/rafa.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/058. Rammstein - Du hast.mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Etota Bhalobashi.mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Charidikey-Recall_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Shohoj_Manush-Recall-Unreleased_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Recall/Jodi_Dekhi_Nil_Akash-Recall-19072014_FusionBD.Com.mp3
+/home/upalb/Music/3 Solo Artists/Reshmi mirza/02.Ninduker_Mukhe_Chai-Reshmi_Mirza_FusionBD.Com.mp3
 /home/upalb/Music/3 Solo Artists/Rihanna/muzmo_ru_Rihanna_-_Kiss_It_Better_b64f0d253.mp3
 /home/upalb/Music/3 Solo Artists/Rihanna/muzmo_ru_Rihanna_-_Umbrella_b128f0d242.mp3
 /home/upalb/Music/3 Solo Artists/Rihanna/muzmo_ru_Rihanna_-_Diamonds_48197562.mp3
 /home/upalb/Music/3 Solo Artists/Rihanna/muzmo_ru_Rihanna_feat_Calvin_Harris_-_We_found_love_b128f0d218.mp3
 /home/upalb/Music/2 Foreign bands/Maroon 5/muzmo_ru_Rihanna_Maroon_5_-_If_I_Never_See_Your_Face_Again_b128f0d198.mp3
 /home/upalb/Music/3 Solo Artists/Rihanna/muzmo_ru_Rihanna_NERD_Drake_-_Lemon_b128f0d226.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/008. Rob Zombie - Dragula.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/096. Rob Zombie - Living Dead Girl.mp3
 /home/upalb/Music/4 Others/06 - Mukti Dao (music.com.bd).mp3
 /home/upalb/Music/2 Foreign bands/Girlsschool/how-do-you-sleep-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Selena Gomez/muzmo_ru_Selena_Gomes_feat_Charlie_Puth_-_We_dont_talk_anymore_b128f0d209.mp3
 /home/upalb/Music/3 Solo Artists/Selena Gomez/lose-you-to-love-me-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/Selena Gomez/Same Old Love - Selena Gomez (320kbps).mp3
 /home/upalb/Music/3 Solo Artists/Selena Gomez/muzmo_ru_Selena_Gomez_Marshmello_-_Wolves_49981499.mp3
+/home/upalb/Music/1  Bangladesh bands/Self Portriat/ARTCELL____Utshober_Utshahe____Tribute____SELF_PORTRAIT(128k).mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/097. Sevendust - Denial.mp3
 /home/upalb/Music/4 Others/Shakira_-_Whenever_Wherever_b128f0d198.mp3
 /home/upalb/Music/5 Theme songs/Shane-McMahon-Here-Comes-The-Money.mp3
 /home/upalb/Music/3 Solo Artists/Shwan Mendes/nervous (1).mp3
 /home/upalb/Music/3 Solo Artists/Shwan Mendes/in-my-blood.mp3
 /home/upalb/Music/3 Solo Artists/Shwan Mendes/senorita.mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Atotaye By Shironamhin (Shironahmin).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Kichhu Kotha By Shironamhin (Shironahmin).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Michil By Shironamhin (Shironahmin).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Pori By Shironamhin (Shironahmin).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Rod Canvas By Shironamhin (Shironahmin).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Ahoto Kichhu Golpo By Shironamhin (Shironahmin).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Bristikabbyo By Shironamhin (Shironahmin).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/04 - Shironamhin - Shurjo (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin_-_JADUKOR_Official_Music_Video.mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin - Ghum (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin - Jahaji (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Shironamhin_-_Bohemian_Official_Music_Video.mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Cafeteria(Djjohal.Com).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Bondho_Janala-Shironamhin-16092014_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Podmo_Patar_Jol-Title_Track-Shironamhin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/01.Abar_Hashimukh-Shironamhin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Chithi-Shironamhin_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/1 - Gram Chara Oi Ranga Matir Poth [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/2 - Purano Sei Diner Kotha [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/3 - Shangon Gogone [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/4 - Fule Fule [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/5 - Kichu Bolbo Bole Eshechilam [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/6 - Jete Jete Ekla Pothe [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/7 - Shokatore Oi Kadhiche Sokole [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/8 - Tumi Ki Kebol E Chobi [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/9 - Sudhu Tomar bani Noy Go [Doridro.com].mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/03. Shironamhin - Godhuly.mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/Shunno - Pensive Love.mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/Shunno - Mon Tore.mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/Shunno - Arekbar.mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/01.Bhaago-Shunno_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Atotaye By Shironamhin (Shironahmin).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Kichhu Kotha By Shironamhin (Shironahmin).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Michil By Shironamhin (Shironahmin).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Pori By Shironamhin (Shironahmin).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Rod Canvas By Shironamhin (Shironahmin).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Ahoto Kichhu Golpo By Shironamhin (Shironahmin).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Bristikabbyo By Shironamhin (Shironahmin).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/04 - Shironamhin - Shurjo (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin_-_JADUKOR_Official_Music_Video.mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin - Ghum (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin - Jahaji (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Shironamhin_-_Bohemian_Official_Music_Video.mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Cafeteria(Djjohal.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Bondho_Janala-Shironamhin-16092014_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Podmo_Patar_Jol-Title_Track-Shironamhin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/01.Abar_Hashimukh-Shironamhin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Chithi-Shironamhin_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/1 - Gram Chara Oi Ranga Matir Poth [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/2 - Purano Sei Diner Kotha [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/3 - Shangon Gogone [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/4 - Fule Fule [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/5 - Kichu Bolbo Bole Eshechilam [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/6 - Jete Jete Ekla Pothe [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/7 - Shokatore Oi Kadhiche Sokole [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/8 - Tumi Ki Kebol E Chobi [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/9 - Sudhu Tomar bani Noy Go [Doridro.com].mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/03. Shironamhin - Godhuly.mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/Shunno - Pensive Love.mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/Shunno - Mon Tore.mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/Shunno - Arekbar.mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/01.Bhaago-Shunno_FusionBD.Com.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/01 - Evil Has No Boundaries.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/02 - The Antichrist.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/03 - Die By The Sword.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/04 - Fight Till Death.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/05 - Metalstorm_Face The Slayer.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/06 - Aggressive Perfector.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/07 - Black Magic.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/08 - Tormentor.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/09 - The Final Command.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/10 - Crionics.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1983] Show No Mercy (Japanese Edition)/11 - Show No Mercy.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1985] Hell Awaits/01 - Hell Awaits.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1985] Hell Awaits/02 - Kill Again.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1985] Hell Awaits/03 - At Dawn They Sleep.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1985] Hell Awaits/04 - Praise Of Death.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1985] Hell Awaits/05 - Necrophiliac.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1985] Hell Awaits/06 - Crypts Of Eternity.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1985] Hell Awaits/07 - Hardening Of The Arteries.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/01 - Angel Of Death.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/02 - Piece By Piece.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/03 - Necrophobic.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/04 - Altar Of Sacrifice.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/05 - Jesus Saves.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/06 - Criminally Insane.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/07 - Reborn.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/08 - Epidemic.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/09 - Postmortem.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1986] Reign In Blood (1994 Reissue)/10 - Raining Blood.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/01 - South Of Heaven.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/02 - Silent Scream.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/03 - Live Undead.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/04 - Behind The Crooked Cross.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/06 - Ghosts Of War.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/05 - Mandatory Suicide.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/07 - Read Between The Lies.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/08 - Cleanse The Soul.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/09 - Dissident Aggressor (Judas Priest cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1988] South Of Heaven (1994 Reissue)/10 - Spill The Blood.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/01 - War Ensemble.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/02 - Blood Red.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/03 - Spirit In Black.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/04 - Expendable Youth.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/05 - Dead Skin Mask.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/06 - Hallowed Point.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/07 - Skeletons Of Society.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/08 - Temptation.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/09 - Born Of Fire.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1990] Seasons In The Abyss/10 - Seasons In The Abyss.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/01 - Killing Fields.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/02 - Sex. Murder. Art..mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/03 - Fictional Reality.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/04 - Dittohead.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/05 - Divine Intervention.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/06 - Circle Of Beliefs.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/07 - SS-3.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/08 - Serenity In Murder.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/09 - 213.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1994] Divine Intervention/10 - Mind Control.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/01 - Disintegration_Free Money (Verbal Abuse cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/02 - Verbal Abuse_Leeches (Verbal Abuse cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/03 - Abolish Government_Superficial Love (T.S.O.L. cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/04 - Can't Stand You.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/05 - Ddamm.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/06 - Guilty Of Being White (Minor Threat cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/07 - I Hate You (Verbal Abuse cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/08 - Filler_I Don't Want To Hear It (Minor Threat cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/09 - Spiritual Law (D.I. cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/10 - Sick Boy (G.B.H. cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/11 - Mr. Freeze (Dr. Know cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/12 - Violent Pacification (D.R.I. cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/13 - Memories Of Tomorrow (Suicidal Tendencies cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/14 - Richard Hung Himself (D.I. cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/15 - I'm Gonna Be Your God (parody tribute of I Wanna Be Your Dog) (The Stooges cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1996] Undisputed Attitude (Japanese Edition)/16 - Gemini.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/01 - Bitter Peace.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/02 - Death's Head.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/03 - Stain Of Mind.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/04 - Overt Enemy.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/05 - Perversions Of Pain.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/06 - Love To Hate.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/07 - Desire.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/08 - In The Name Of God.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/09 - Scrum.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/10 - Screaming From The Sky.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/11 - Wicked.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[1998] Diabolus In Musica/12 - Point.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/01 - Darkness Of Christ.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/02 - Disciple.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/03 - God Send Death.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/04 - New Faith.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/05 - Cast Down.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/06 - Threshold.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/07 - Exile.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/08 - Seven Faces.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/09 - Bloodline.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/10 - Deviance.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/11 - War Zone.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/12 - Here Comes The Pain.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2001] God Hates Us All/13 - Payback.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/01 - Flesh Storm.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/02 - Catalyst.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/03 - Skeleton Christ.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/04 - Eyes Of The Insane.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/05 - Jihad.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/06 - Consfearacy.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/07 - Catatonic.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/08 - Black Serenade.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/09 - Cult.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2006] Christ Illusion/10 - Supremist.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/01 - World Painted Blood.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/02 - Unit 731.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/03 - Snuff.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/04 - Beauty Through Order.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/05 - Hate Worldwide.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/06 - Public Display Of Dismemberment.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/07 - Human Strain.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/08 - Americon.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/09 - Psychopathy Red.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/10 - Playing With Dolls.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2009] World Painted Blood/11 - Not Of This God.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/01 - Piece By Piece (Studio Rough Mix_Outtake).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/02 - Aggressive Perfector (Fast Version).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/03 - Criminally Insane (Remix).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/04 - In-A-Gadda-Da-Vida (Iron Butterfly Cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/05 - Seasons In The Abyss (Alternative Mix).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/06 - Disorder (feat. Ice-T).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/07 - Sick Boy (GBH Cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/08 - Memories Of Tomorrow (Suicidal Tendencies Cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/09 - No Remorse (I Wanna Die) (feat. Atari Teenage Riot).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/10 - Human Disease.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/11 - Unguarded Instinct.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/12 - Wicked.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/13 - Hand Of Doom (Black Sabbath Cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/14 - Scarstruck.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/15 - Addict.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/16 - Born To Be Wild (Steppenwolf Cover).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/17 - Cult (Radio Version).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/18 - Jihad (Radio Version).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/19 - Black Serenade (Alternate Version).mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/20 - Final Six.mp3
+/home/upalb/Music/2 Foreign bands/Slayer/[2013] B-Sides & Rarities (Compilation)/21 - Atrocity Vendor.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/014. Slipknot - Snuff.mp3
 /home/upalb/Music/4 Others/lay-low.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/aurthohin.mp3
-/home/upalb/Music/1 Bangladesh bands/Stone/bhul-shopno-ost-lyrical-video.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.09.27 - Sugar/01 - Sugar (Album Version).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.09.27 - Sugar/03 - Storaged.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/01 - Suite-Pee.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/02 - Know.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/03 - Sugar.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/04 - Suggestions.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/05 - Spiders.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/06 - DDevil.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/07 - Soil.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/08 - War.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/09 - Mind.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/10 - Peephole.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/11 - CUBErt.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/12 - Darts.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/1998.06.30 - System of a Down (Limited Edition)/13 - P.L.U.C.K.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2000 - Limited Edition Tour CD/01 - Suite-Pee.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2000 - Limited Edition Tour CD/02 - War.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2000 - Limited Edition Tour CD/03 - Suggestions.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.08.xx - Chop Suey!/01 - Chop Suey.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.08.xx - Chop Suey!/02 - Johnny.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.08.xx - Chop Suey! (UK CD1)/01 - Chop Suey!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.08.xx - Chop Suey! (UK CD1)/02 - Johnny.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001 - Johnny (Promo)/01 - Johnny.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Prison Song & X (Promo)/01 - Prison Song.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Prison Song & X (Promo)/02 - X.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/01 - Prison Song.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/01 - Prison Song.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/02 - Needles.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/02 - Needles.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/03 - Deer Dance.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/03 - Deer Dance.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/04 - Jet Pilot.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/04 - Jet Pilot.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/05 - X.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/06 - Chop Suey!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/06 - Chop Suey!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/06 - X.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/07 - Bounce.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/07 - Bounce.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/08 - Forest.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/08 - Forest.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/09 - ATWA.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/09 - ATWA.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/10 - Science.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/10 - Science.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/11 - Shimmy.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/11 - Shimmy.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/12 - Toxicity.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/12 - Toxicity.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/13 - Psycho.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/13 - Psycho.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity (Limited Edition)/CD1/14 - Aerials.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2001.09.04 - Toxicity [Vinyl]/14 - Aerials.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.06.11 - Aerials (CD2)/01 - Aerials.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.06.11 - Aerials (Maxi-Single)/01 - Aerials.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.06.11 - Aerials (CD2)/02 - Streamline (Alternate Version).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.06.11 - Aerials (Maxi-Single)/02 - Toxicity (Live).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.06.11 - Aerials (Maxi-Single)/03 - Sugar (Live).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.06.11 - Aerials (Maxi-Single)/04 - P.L.U.C.K. (Live).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/01 - Chic 'N' Stu.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/02 - Innervision.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/03 - Bubbles.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/04 - Boom!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/05 - Nuguns.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/06 - A.D.D.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/07 - Mr. Jack.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/08 - I-E-A-I-A-I-O.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/09 - 36.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/10 - Pictures.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/11 - Highway Song.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/12 - Fuck the System.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/13 - Ego Brain.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/14 - Thetawaves.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/15 - Roulette.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album!/16 - Streamline.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/01 - Chic 'N' Stu.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/02 - Inner Vision.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/03 - Bubbles.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/04 - Boom!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/05 - Nuguns.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/06 - A.D.D.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/07 - Mr. Jack.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/08 - I-E-A-I-A-I-O.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/09 - 36.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/10 - Pictures.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/11 - Highway Song.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/12 - Fuck the System.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/13 - Ego Brain.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/14 - Thetawaves.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/15 - Roulette.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.11.26 - Steal This Album! (Clean Version)/16 - Streamline.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (CD1)/01 - Toxicity.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (CD1)/02 - X (Live).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (Maxi-Single)/01 - Toxicity.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (Maxi-Single)/02 - X (live).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (Maxi-Single)/03 - Suggestions (live).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (Maxi-Single)/04 - Marmalade.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (CD2)/01 - Toxicity.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (CD2)/02 - Marmalade.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2002.01.23 - Toxicity (CD2)/03 - Metro (Berlin cover).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/01 - Attack.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/02 - Dreaming.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/03 - Kill Rock 'n Roll.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/04 - Hypnotize.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/05 - Stealing Society.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/06 - Tentative.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/07 - U-Fig.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/08 - Holy Mountains.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/09 - Vicinity of Obscenity.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/10 - She's Like Heroin.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/11 - Lonely Day.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize/12 - Soldier Side.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005 - Hypnotize (CD1)/01 - Hypnotize.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/01 - Attack.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/02 - Dreaming.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/03 - Kill Rock 'n Roll.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/04 - Hypnotize.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/05 - Stealing Society.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/06 - Tentative.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/07 - U-Fig.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/08 - Holy Mountains.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/09 - Vicinity of Obscenity.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/10 - She's Like Heroin.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/11 - Lonely Day.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.11.22 - Hypnotize (Clean Version)/12 - Soldier Side.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005 - Hypnotize (CD2)/01 - Hypnotize (Album Version).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/01 - Soldier Side (intro).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/02 - B.Y.O.B.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/03 - Revenga.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/04 - Cigaro.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/05 - Radio-Video.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/06 - This Cocaine Makes Me Feel Like I'm on This Song.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/07 - Violent Pornography.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/08 - Question!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/09 - Sad Statue.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/10 - Old School Hollywood.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize/11 - Lost in Hollywood.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/01 - Soldier Side (Intro).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/02 - B.Y.O.B.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/03 - Revenga.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/04 - Cigaro.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/05 - Radio-Video.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/06 - This Cocaine Makes Me Feel Like I'm on This Song.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/07 - Violent Pornography.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/08 - Question!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/09 - Sad Statue.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/10 - Old School Hollywood.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.05.16 - Mezmerize (Clean Version)/11 - Lost in Hollywood.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.08.xx - Question! (UK)/01 - Question!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.08.xx - Question!/01 - Question!.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2005.08.23 - B.Y.O.B/01 - B.Y.O.B. (Explicit Album Version).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2006 - Lonely Day (Promo)/01 - Lonely Day.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2006 - Lonely Day/01 - Lonely Day.mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2006 - Lonely Day/02 - Shame (Wu-Tang Clan cover, feat. RZA).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2006 - Lonely Day/03 - Snowblind (Black Sabbath Cover).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2006 - Lonely Day/04 - Metro (Berlin Cover).mp3
-/home/upalb/Music/2 Foreign bands/System of a Down/2006 - Lonely Day/05 - Marmalade (Japan B-Side).mp3
-/home/upalb/Music/3 Solo Artists/Travis scot/power-is-power-official-video.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/aurthohin.mp3
+/home/upalb/Music/1  Bangladesh bands/Stone/bhul-shopno-ost-lyrical-video.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/003. System of a Down - Chop Suey!.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/023. System of a Down - Toxicity.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/032. System of a Down - Aerials.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/046. System of a Down - B.Y.O.B.mp3
 /home/upalb/Music/3 Solo Artists/Tahsan/01 - Tahsan - Alo (music.com.bd).mp3
 /home/upalb/Music/3 Solo Artists/Tahsan/Kalponik_Prem-Tahsan-23012014_FusionBD.Com.mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/me-feat-brendon-urie-of-panic-at-the-disco.mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/muzmo_ru_Taylor_Swift_-_Back_to_December_b32f0d294.mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/Taylor_Swift_Last_Kiss.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/1  ...Ready For It_.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/2 End Game.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/3 I Did Something Bad.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/4 Don't Blame Me.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/5 Delicate.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/6 Look What You Made Me Do.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/7 So It Goes.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/8 Gorgeous.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/9 Getaway Car.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/10 King Of My Heart.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/11 Dancing With Our Hands Tied.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/13 This Is Why We Can't Have Nice Things.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/12 Dress.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/14 Call It What You Want.mp3
-/home/upalb/Music/3 Solo Artists/Taylor swift/15 New Year's Day.mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/muzmo_ru_Taylor_Swift_Ed_Sheeran_Future_-_End_Game_b128f0d244.mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/muzmo_ru_Taylor_Swift_Zayn_-_I_Dont_Wanna_Live_Forever_b128f0d245.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/063. Tesla - Love Song.mp3
 /home/upalb/Music/2 Foreign bands/Beatles/muzmo_ru_The_Beatles_-_In_My_Life_b128f0d147.mp3
 /home/upalb/Music/2 Foreign bands/Beatles/muzmo_ru_The_Beatles_-_Strawberry_Fields_Forever_b128f0d248.mp3
 /home/upalb/Music/2 Foreign bands/Beatles/muzmo_ru_The_Beatles_-_Yesterday_b128f0d125.mp3
@@ -2709,99 +2673,164 @@
 /home/upalb/Music/3 Solo Artists/Chainsmokers/takeaway-official-video-ft-lennon-stella (1).mp3
 /home/upalb/Music/3 Solo Artists/Chainsmokers/muzmo_ru_The_Chainsmokers_Kelsea_Ballerini_-_This_Feeling_b128f0d198.mp3
 /home/upalb/Music/3 Solo Artists/Chainsmokers/muzmo_ru_The_Chainsmokers_Ty_Dolla_ign_Blow_-_Do_You_Mean_b128f0d193.mp3
-/home/upalb/Music/1 Bangladesh bands/The Tree/Notun_Shomoy_-_The_Tree(128kbps).mp3
-/home/upalb/Music/1 Bangladesh bands/Yaatri/topu-yaatri.mp3
-/home/upalb/Music/3 Solo Artists/Travis scot/sicko-mode-ft-drake-official-video.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/01 The Notorious B.I.G - Intro.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/02 The Notorious B.I.G - Things Done Changed.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/03 The Notorious B.I.G - Gimme the Loot.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/04 The Notorious B.I.G - Machine Gun Funk (Parliament Sample Removed).mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/05 The Notorious B.I.G - Warning.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/06 The Notorious B.I.G - Ready to Die (Bridgeport Sample Removed).mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/07 The Notorious B.I.G - One More Chance.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/08 The Notorious B.I.G - #!-@ Me.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/09 The Notorious B.I.G - The What (Featuring Method Man).mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/10 The Notorious B.I.G - Juicy.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/11 The Notorious B.I.G - Everyday Struggle.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/12 The Notorious B.I.G - Me & My B-tch.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/13 The Notorious B.I.G - Big Poppa.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/14 The Notorious B.I.G - Respect.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/15 The Notorious B.I.G - Friend of Mine.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/16 The Notorious B.I.G - Unbelievable.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/17 The Notorious B.I.G - Suicidal Thoughts.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/18 The Notorious B.I.G - Who Shot Ya.mp3
+/home/upalb/Music/3 Solo Artists/The Notorious B.I.G/The Notorious BIG - Ready To Die/19 The Notorious B.I.G - Just Playing (Dreams).mp3
+/home/upalb/Music/1  Bangladesh bands/The Tree/Notun_Shomoy_-_The_Tree(128kbps).mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/007. TOOL - Sober.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/038. TOOL - Prison Sex.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/015. TOOL - Forty Six & 2.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/017. TOOL - Stinkfist.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/025. TOOL - Ænema.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/029. TOOL - H.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/035. TOOL - Eulogy.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/081. TOOL - Hooker With A Penis.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/088. TOOL - Pushit.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/011. TOOL - Schism.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/027. TOOL - Lateralus.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/047. TOOL - Parabola.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/052. TOOL - The Grudge.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/086. TOOL - The Patient.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/021. TOOL - The Pot.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/031. TOOL - Vicarious.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/044. TOOL - Jambi.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/084. TOOL - Right In Two.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/033. TOOL - Mockingbeat.mp3
+/home/upalb/Music/1  Bangladesh bands/Yaatri/topu-yaatri.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/098. Trivium - The Heart from Your Hate.mp3
 /home/upalb/Music/3 Solo Artists/Ariana Grande/dance-to-this-ft-ariana-grande (3).mp3
-/home/upalb/Music/3 Solo Artists/Twinty one pilots/chlorine-official-video.mp3
+/home/upalb/Music/2 Foreign bands/Twenty One Pilots/chlorine-official-video.mp3
 /home/upalb/Music/3 Solo Artists/Taylor swift/Delicate.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_joyride_.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_love_remains_forever.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad__roll_the_dice.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_run_to_bahaddarhat.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_suicide_note.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_the_cage.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_thunder_god.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_toothpick.mp3
-/home/upalb/Music/1 Bangladesh bands/Unmad/Unmad_i_saw_that_coming.mp3
-/home/upalb/Music/1 Bangladesh bands/Aurthohin/Bhalo Lage Na - Bassbaba Sumon (OST).mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/aboshese.mp3
-/home/upalb/Music/1 Bangladesh bands/Vikings/01.Opekkha-Vikings-Movie_Songs_FusionBD.Com.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Amon Diney.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Asha Chilo.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Batha.MP3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Mukti Chai.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Nodi Tire.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 01.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 02.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 03.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 04.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 05.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 06.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 07.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 08.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 09.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Alo - Track 10.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Dhun - Mone Pore.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Bangalira Aar Koto Dekhbe.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Boshonto.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Hariye Tomake.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Herecho.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Shopno Tumi Nou.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Moharaj.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Otit.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Shesh Prohor.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Shukh.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Moharaj - Cyclone.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/01 - Warfaze - Boshey Achi (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/02 - Warfaze - Tomake (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/03 - Warfaze - Omanush (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/04 - Warfaze - Obak Bhalobasha (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/05 - Warfaze - Hotasha (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/06 - Warfaze - Nei Proyojon (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/07 - Warfaze - Shadhikhar (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/08 - Warfaze - Joto Dure (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/09 - Warfaze - Dhushor Manchitro (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/12 - Warfaze - Oshamajik (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/13 - Warfaze - Pothchola (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/01 - Warfaze - Ekti Chelay (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/02 - Warfaze - Boshe Aachi (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/03 - Warfaze - Bichchinno Aabeg (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/04 - Warfaze - Sadhikar (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/05 - Warfaze - Nistobdhota (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/06 - Warfaze - Koishore (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/07 - Warfaze - Asha (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/08 - Warfaze - Ratri (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/09 - Warfaze - Brishti Nemeche (music.com.bd).mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Obak Bhalobasha.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Dhup Chaya.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Jononi.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Mounota.mp3
-/home/upalb/Music/1 Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Tumi.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-krodh.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-obhishap.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-juddher-chorus.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-joygaan.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-sesh-biday.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-dushito-shotta-2.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-war-for-peace.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-hate.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/warsite_warsite-otiter-mohakal.mp3
-/home/upalb/Music/1 Bangladesh bands/Warsite/02.Dushito_Shotta-Warsite.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_i_saw_that_coming.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_joyride_.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_love_remains_forever.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad__roll_the_dice.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_run_to_bahaddarhat.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_suicide_note.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_the_cage.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_thunder_god.mp3
+/home/upalb/Music/1  Bangladesh bands/Unmad/Unmad_toothpick.mp3
+/home/upalb/Music/1  Bangladesh bands/Aurthohin/Bhalo Lage Na - Bassbaba Sumon (OST).mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/aboshese.mp3
+/home/upalb/Music/1  Bangladesh bands/Vikings/01.Opekkha-Vikings-Movie_Songs_FusionBD.Com.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Amon Diney.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Asha Chilo.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Batha.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Mukti Chai.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Nodi Tire.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 01.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 02.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 03.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 04.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 05.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 06.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 07.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 08.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 09.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Alo - Track 10.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Dhun - Mone Pore.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Cyclone.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Herecho.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Moharaj.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Shesh Prohor.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Shopno Tumi Nou.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Shukh.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Bangalira Aar Koto Dekhbe.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Boshonto.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Hariye Tomake.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Moharaj - Otit.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/01 - Warfaze - Boshey Achi (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/02 - Warfaze - Tomake (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/03 - Warfaze - Omanush (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/04 - Warfaze - Obak Bhalobasha (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/05 - Warfaze - Hotasha (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/06 - Warfaze - Nei Proyojon (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/07 - Warfaze - Shadhikhar (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/08 - Warfaze - Joto Dure (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/09 - Warfaze - Dhushor Manchitro (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/12 - Warfaze - Oshamajik (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/13 - Warfaze - Pothchola (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/01 - Warfaze - Ekti Chelay (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/02 - Warfaze - Boshe Aachi (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/03 - Warfaze - Bichchinno Aabeg (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/04 - Warfaze - Sadhikar (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/05 - Warfaze - Nistobdhota (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/06 - Warfaze - Koishore (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/07 - Warfaze - Asha (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/08 - Warfaze - Ratri (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/09 - Warfaze - Brishti Nemeche (music.com.bd).mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Bondi Niyoti.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Eke Eke Doi.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Jokhon.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Keu Nei Eka.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Nirbashon.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Obak Bhalobasha.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Ondho Jibon.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Onno Bhuban.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Obaak Bhalobasha - Shekano Bornona.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Bondhu.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Cromosho.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Dhup Chaya.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Din Bodol.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Heyali.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Jibon Dhara.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Jononi.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Mounota.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Nishshobde.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Ojante.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Poth Chola.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Rupa Chand.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Jibon Dhara - Tumi.mp3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Dhushor Manchitro.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Emon Dinee.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Keu Nai Aadhare.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Mohanogor.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Nei Proyojon.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Nirmegh Aakasher.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Oshamajik.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Oshoni Shonket.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Protichchobi.MP3
+/home/upalb/Music/1  Bangladesh bands/Warfaze/Warfaze - Oshamajik - Rupali Shrote.MP3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-krodh.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-obhishap.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-juddher-chorus.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-joygaan.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-sesh-biday.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-dushito-shotta-2.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-war-for-peace.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-hate.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/warsite_warsite-otiter-mohakal.mp3
+/home/upalb/Music/1  Bangladesh bands/Warsite/02.Dushito_Shotta-Warsite.mp3
 /home/upalb/Music/3 Solo Artists/Welshly arms/legendary-official-video.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/076. White Zombie - Thunder Kiss '65.mp3
 /home/upalb/Music/3 Solo Artists/Why dont we/what-am-i-official-video.mp3
 /home/upalb/Music/5 Theme songs/muzmo_ru_Wiz_Khalifa_2_Chainz_-_We_Own_It_Fast_Furious_b128f0d227.mp3
-/home/upalb/Music/3 Solo Artists/1 Michael Jackson/Beat It(bossmobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Barud Shomudro-Shironamhin-(MyBDmusic.Com).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Barud Shomudro-Shironamhin-(MyBDmusic.Com).mp3
 /home/upalb/Music/7 Hindi/Bhare_Naina(sumirbd.mobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Bullet_Kingba_Kobita(sumirbd.mobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Eka(sumirbd.mobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Ichche_Ghuri(sumirbd.mobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Pakhi(sumirbd.mobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Shironamhin/Saharer_Kotha(sumirbd.mobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Joler gaan/Bokul_Phool-Joler_Gaan(sumirbd.mobi).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Bullet_Kingba_Kobita(sumirbd.mobi).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Eka(sumirbd.mobi).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Ichche_Ghuri(sumirbd.mobi).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Pakhi(sumirbd.mobi).mp3
+/home/upalb/Music/1  Bangladesh bands/Shironamhin/Saharer_Kotha(sumirbd.mobi).mp3
+/home/upalb/Music/1  Bangladesh bands/Joler gaan/Bokul_Phool-Joler_Gaan(sumirbd.mobi).mp3
 /home/upalb/Music/3 Solo Artists/Anupam Roy/Bezubaan-Anupam_Roy(sumirbd.mobi).mp3
-/home/upalb/Music/1 Bangladesh bands/Shunno/Shono_Mohajon-Shunno(sumirbd.mobi).mp3
+/home/upalb/Music/1  Bangladesh bands/Shunno/Shono_Mohajon-Shunno(sumirbd.mobi).mp3
 /home/upalb/Music/3 Solo Artists/Brayn adams/Summer_Of_69(sumirbd.mobi).mp3
 /home/upalb/Music/2 Foreign bands/Fossils/(webmusic.in)_Ekla-Ghar.mp3
 /home/upalb/Music/2 Foreign bands/Fossils/(webmusic.in)_Hasnuhana.mp3
@@ -2811,7 +2840,7 @@
 /home/upalb/Music/3 Solo Artists/Bebe Rexha/moonlight-official-music-video.mp3
 /home/upalb/Music/3 Solo Artists/xxxtentacion/sad.mp3
 /home/upalb/Music/3 Solo Artists/xxxtentacion/arms-around-you-official-music-video.mp3
-/home/upalb/Music/1 Bangladesh bands/Yaatri/yaatri.mp3
+/home/upalb/Music/1  Bangladesh bands/Yaatri/yaatri.mp3
 /home/upalb/Music/3 Solo Artists/Ariana Grande/01 In Your Hands.mp3
 /home/upalb/Music/3 Solo Artists/Ariana Grande/02 Fiesta.mp3
 /home/upalb/Music/3 Solo Artists/Ariana Grande/03 Cadillac.mp3
@@ -2824,3 +2853,4 @@
 /home/upalb/Music/3 Solo Artists/Ariana Grande/10 Ridiculous.mp3
 /home/upalb/Music/3 Solo Artists/Zyan malik/muzmo_ru_Zayn_Malik_feat_Sia_-_Dusk_Till_Dawn_b128f0d239.mp3
 /home/upalb/Music/3 Solo Artists/Zyan malik/a-whole-new-world-end-title-from-aladdin.mp3
+/home/upalb/Music/4 Others/VA - The Top 100 Most Played꞉ Metal (2022) Mp3 320kbps [PMEDIA] ⭐️/073. Ghost - Square Hammer.mp3

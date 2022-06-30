@@ -14,4 +14,4 @@ $HOME/.local/bin/power-manager &
 $HOME/.local/bin/low-battery-notifier &
 /usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
 xsetroot -cursor_name left_ptr &
-sleep 2 && if [[ ! $(pgrep -f brave) ]]; then brave; fi &
+# sleep 2 && if [[ ! $(pgrep -f brave) ]]; then brave; fi &

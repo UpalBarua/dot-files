@@ -19,6 +19,7 @@ window {
   width: 35%;
   border: 2px;
   border-color: @ac;
+ // border-radius: 5px;
 }
 
 element {

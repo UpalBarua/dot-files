@@ -1,0 +1,240 @@
+​​​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+con is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+conso is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+Hwllo ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+Hello  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+Hello world ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | console.log('Hello world) 
+    |             ^ SyntaxError: Unterminated string constant (1:12) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+Hello world ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+{} ​​​​​at ​​​​​​​​this​​​ ​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const ob 
+    |         ^ SyntaxError: Unexpected token (1:8) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const obj  
+    |           ^ SyntaxError: Unexpected token (1:10) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+> 1 | const obj = 
+    |            ^ SyntaxError: Unexpected token (1:11) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+name is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+  2 |   name = 
+> 3 | } 
+    | ^ SyntaxError: Unexpected token (3:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+  2 |   name : 
+> 3 | } 
+    | ^ SyntaxError: Unexpected token (3:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+  2 |   name :  
+> 3 | } 
+    | ^ SyntaxError: Unexpected token (3:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+ag is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+age is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  1 | const obj = { 
+  2 |   name : 'upal barua', 
+> 3 |   age : 20; 
+    |           ^ SyntaxError: Unexpected token (3:10) 
+  4 | } 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+func is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+s is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+say is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sayN is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sayName is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName() 
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName()  
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName(  
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+sayName is not defined 
+  ​​​​​at ​​​​​​quokka.js:1:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName :  
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName : function 
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName : function  
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName : function() 
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName : function()  
+> 5 | } 
+    | ^ SyntaxError: Unexpected token (5:0) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  4 |   sayName : function() { 
+  5 |     console. 
+> 6 |   } 
+    |   ^ SyntaxError: Unexpected token (6:2) 
+  7 | } 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName : function() { 
+> 5 |     console.log(this.) 
+    |                      ^ SyntaxError: Unexpected token (5:21) 
+  6 |   } 
+  7 | } 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+{ name: 'upal barua', age: 20, sayName: [λ: sayName] }
+  ​​​​​at ​​​​​​​​obj​​​ ​quokka.js:10:1​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+   8 | } 
+   9 |  
+> 10 | obj. 
+     |     ^ SyntaxError: Unexpected token (10:4) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+upal barua ​​​​​at ​​​​​​​​this.name​​​ ​quokka.js:5:5​
+
+{ name: 'upal barua', age: 20, sayName: [λ: sayName] }
+  ​​​​​at ​​​​​​​​this​​​ ​quokka.js:6:5​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  3 |   age : 20, 
+  4 |   sayName : function() { 
+> 5 |     console.log(.name); 
+    |                 ^ SyntaxError: Unexpected token (5:16) 
+  6 |     console.log(this); 
+  7 |   } 
+  8 | } 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+name is not defined 
+  ​​​​​at ​​​​​​quokka.js:10:1​
+  ​​​​​at ​​​​​​​​Object.sayName​​​ ​quokka.js:5:5​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+
+upal barua ​​​​​at ​​​​​​​​this.name​​​ ​quokka.js:5:5​
+
+{ name: 'upal barua', age: 20, sayName: [λ: sayName] }
+  ​​​​​at ​​​​​​​​this​​​ ​quokka.js:6:5​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+thisname is not defined 
+  ​​​​​at ​​​​​​quokka.js:10:1​
+  ​​​​​at ​​​​​​​​Object.sayName​​​ ​quokka.js:5:5​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+name is not defined 
+  ​​​​​at ​​​​​​quokka.js:10:1​
+  ​​​​​at ​​​​​​​​Object.sayName​​​ ​quokka.js:5:5​
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+Failed to instrument quokka.js 
+  10 | obj.sayName() 
+  11 |  
+> 12 | / 
+     |  ^ SyntaxError: Unexpected token (12:1) 
+​​​​​Quokka 'Untitled-1.js' (node: v18.3.0)​​​​
+ 
+name is not defined 
+  ​​​​​at ​​​​​​quokka.js:10:1​
+  ​​​​​at ​​​​​​​​Object.sayName​​​ ​quokka.js:5:5​
+​

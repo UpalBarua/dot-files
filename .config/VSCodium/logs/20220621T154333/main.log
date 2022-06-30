@@ -1,7 +1,0 @@
-[2022-06-21 15:43:35.395] [main] [info] update#setState idle
-[2022-06-21 15:43:41.674] [main] [info] Starting extension host with pid 1305 (fork() took 23 ms).
-[2022-06-21 15:43:51.882] [main] [info] Enabling inspect port on extension host with pid 1305.
-[2022-06-21 15:44:05.398] [main] [info] update#setState checking for updates
-[2022-06-21 15:44:05.756] [main] [info] update#setState idle
-[2022-06-21 19:19:14.560] [main] [info] Waiting for extension host with pid 1305 to exit.
-[2022-06-21 19:19:14.655] [main] [info] Extension host with pid 1305 exited with code: 0, signal: null.

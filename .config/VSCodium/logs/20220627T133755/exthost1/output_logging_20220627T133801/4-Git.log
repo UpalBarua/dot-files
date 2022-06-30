@@ -1,0 +1,30 @@
+[2022-06-27T07:38:06.528Z] Log level: Info
+[2022-06-27T07:38:06.533Z] [info] Validating found git in: git
+[2022-06-27T07:38:06.598Z] [info] Using git 2.36.1 from git
+[2022-06-27T07:38:06.683Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-27T07:38:06.683Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T07:38:06.747Z] > git rev-parse --show-toplevel [5ms]
+[2022-06-27T07:38:06.790Z] > git rev-parse --git-dir --git-common-dir [7ms]
+[2022-06-27T07:38:06.817Z] [info] Open repository: /home/upalb/.config
+[2022-06-27T07:38:06.963Z] > git rev-parse --show-toplevel [37ms]
+[2022-06-27T07:38:06.963Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T07:38:07.019Z] > git rev-parse --show-toplevel [18ms]
+[2022-06-27T07:38:07.019Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T07:38:07.080Z] > git rev-parse --show-toplevel [20ms]
+[2022-06-27T07:38:07.080Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T07:38:09.506Z] > git status -z -uall [2647ms]
+[2022-06-27T07:38:09.507Z] > git rev-parse --show-toplevel [466ms]
+[2022-06-27T07:38:09.507Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T07:38:09.512Z] > git symbolic-ref --short HEAD [9ms]
+[2022-06-27T07:38:09.986Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [450ms]
+[2022-06-27T07:38:10.063Z] > git remote --verbose [32ms]
+[2022-06-27T07:38:10.064Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [50ms]
+[2022-06-27T07:38:10.752Z] > git rev-parse --show-toplevel [780ms]
+[2022-06-27T07:38:10.752Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T07:38:17.545Z] > git config --get commit.template [276ms]

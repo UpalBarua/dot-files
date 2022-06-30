@@ -35,6 +35,8 @@ super + alt + F12
     notify-send "Keyboard" "bangla keybord daemon started";\
     ibus-daemon -drxR
 
+super + ctrl + m
+    tdrop -ma -w 50% -h 50% -y 25% -x 25% -n 0 alacritty --class=tdrop -e cmus 
 
 ## Rofi launchers ===========================================
 

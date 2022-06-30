@@ -1,0 +1,25 @@
+[2022-06-27T09:46:33.924Z] Log level: Info
+[2022-06-27T09:46:33.925Z] [info] Validating found git in: git
+[2022-06-27T09:46:35.873Z] [info] Using git 2.36.1 from git
+[2022-06-27T09:46:36.239Z] > git rev-parse --show-toplevel [245ms]
+[2022-06-27T09:46:36.239Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T09:46:36.574Z] > git rev-parse --show-toplevel [312ms]
+[2022-06-27T09:46:36.596Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-06-27T09:46:36.606Z] [info] Open repository: /home/upalb/.config
+[2022-06-27T09:46:36.921Z] > git rev-parse --show-toplevel [164ms]
+[2022-06-27T09:46:36.921Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T09:46:37.080Z] > git rev-parse --show-toplevel [14ms]
+[2022-06-27T09:46:37.080Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T09:46:37.329Z] > git rev-parse --show-toplevel [113ms]
+[2022-06-27T09:46:37.329Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-27T09:46:37.572Z] > git check-ignore -v -z --stdin [250ms]
+[2022-06-27T09:46:52.767Z] > git status -z -uall [16139ms]
+[2022-06-27T09:46:52.769Z] > git symbolic-ref --short HEAD [4ms]
+[2022-06-27T09:46:52.822Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+[2022-06-27T09:46:52.856Z] > git remote --verbose [8ms]
+[2022-06-27T09:46:52.857Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+[2022-06-27T09:47:00.303Z] > git config --get commit.template [95ms]

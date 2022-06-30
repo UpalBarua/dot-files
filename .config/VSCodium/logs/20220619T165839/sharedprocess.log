@@ -1,4 +1,0 @@
-[2022-06-19 16:58:52.230] [sharedprocess] [info] Starting worker process with pid 14864 (type: fileWatcher, window: 1).
-[2022-06-19 16:58:56.446] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
-[2022-06-19 17:03:08.499] [sharedprocess] [info] Starting worker process with pid 16053 (type: fileWatcher, window: 3).
-[2022-06-19 17:03:39.817] [sharedprocess] [info] Worker process with pid 16053 terminated normally (type: fileWatcher, window: 3).

@@ -50,8 +50,8 @@ call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'https://github.com/tpope/vim-commentary'
   Plug 'https://github.com/ryanoasis/vim-devicons'
   Plug 'liuchengxu/vim-which-key'
-  Plug 'arcticicestudio/nord-vim'
   Plug 'folke/which-key.nvim'
+  Plug 'arcticicestudio/nord-vim'
 call plug#end()
 
 "--------------- Colorscheme Settings ---------------"

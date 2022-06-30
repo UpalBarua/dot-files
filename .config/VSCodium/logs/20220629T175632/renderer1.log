@@ -1,0 +1,275 @@
+[2022-06-29 17:56:38.893] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'visualstudioexptteam.vscodeintellicode-completions' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.945] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.946] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.947] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.949] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.949] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.950] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.951] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.952] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.952] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.953] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.954] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.954] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.955] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'tabs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:38.956] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 17:56:40.859] [renderer1] [warning] Skipping extension /home/upalb/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17 with lower version 1.0.17.
+[2022-06-29 17:56:40.859] [renderer1] [warning] Skipping extension /home/upalb/.vscode-oss/extensions/ms-vscode.references-view-0.0.89 with lower version 0.0.89.
+[2022-06-29 17:56:53.976] [renderer1] [error] [Extension Host] [31mError: listen EADDRINUSE: address already in use 0.0.0.0:5500[39m
+[2022-06-29 17:56:56.159] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.tokenizeLine (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at T.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:104937)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12173)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 17:57:38.190] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 17:57:39.811] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-29 17:57:39.932] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.LiveServer' took 97% of 2140.462ms, saved PROFILE here: 'file:///tmp/exthost-bd847c.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":1250,"percentage":0},{"id":"esbenp.prettier-vscode","total":642,"percentage":0},{"id":"program","total":4884,"percentage":0},{"id":"redwan-hossain.auto-rename-tag-clone","total":5241,"percentage":0},{"id":"ritwickdey.LiveServer","total":2069291,"percentage":97},{"id":"self","total":52876,"percentage":2},{"id":"streetsidesoftware.code-spell-checker","total":1363,"percentage":0},{"id":"vscode.html-language-features","total":3639,"percentage":0},{"id":"vscode.json-language-features","total":320,"percentage":0},{"id":"vscode.merge-conflict","total":355,"percentage":0},{"id":"vscode.typescript-language-features","total":155,"percentage":0},{"id":"WallabyJs.quokka-vscode","total":159,"percentage":0}]
+[2022-06-29 17:58:25.147] [renderer1] [warning] {"name":"Canceled","message":"Canceled"}
+[2022-06-29 18:00:22.997] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-29 18:00:25.102] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 18:01:10.865] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at T.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:104937)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12173)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 18:01:14.781] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.tokenizeLine (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at T.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:104937)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12173)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 18:01:16.946] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.tokenizeLine (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at T.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:104937)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12173)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 18:01:18.036] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.tokenizeLine (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at T.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:104937)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12173)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 18:01:19.088] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.tokenizeLine (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at T.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:104937)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12173)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 18:01:20.116] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.tokenizeLine (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at T.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:104937)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12173)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)

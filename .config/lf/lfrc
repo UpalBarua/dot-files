@@ -150,6 +150,7 @@ map C clear
 map TC trash-clear
 map f fzf_jump 
 map ` push :open-with<space>
+map br $vimv $fx
 
  # Directory jumps
 map gh cd ~/

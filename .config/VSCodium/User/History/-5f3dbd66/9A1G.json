@@ -1,0 +1,25 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Catppuccin",
+  "editor.fontSize": 17,
+  // "editor.fontFamily": "'CodeNewRoman Nerd Font'",
+  "editor.fontFamily": "'Caskadyia Code'",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.fontLigatures": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "html.format.enable": false,
+  "liveServer.settings.donotShowInfoMsg": true
+}

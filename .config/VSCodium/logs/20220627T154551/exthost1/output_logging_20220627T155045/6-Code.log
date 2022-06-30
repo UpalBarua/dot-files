@@ -1,0 +1,69 @@
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+method_overloading.java:1: error: class PrintHelloWorld is public, should be declared in a file named PrintHelloWorld.java
+public class PrintHelloWorld 
+       ^
+1 error
+
+[Done] exited with code=1 in 5.373 seconds
+
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+method_overloading.java:1: error: class, interface, enum, or record expected
+public Class PrintHelloWorld 
+       ^
+method_overloading.java:3: error: class, interface, enum, or record expected
+  public static void main(String[] args) 
+                ^
+method_overloading.java:7: error: class, interface, enum, or record expected
+  }
+  ^
+3 errors
+
+[Done] exited with code=1 in 1.102 seconds
+
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+method_overloading.java:1: error: class PrintHelloWorld is public, should be declared in a file named PrintHelloWorld.java
+public class PrintHelloWorld 
+       ^
+1 error
+
+[Done] exited with code=1 in 2.028 seconds
+
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+method_overloading.java:1: error: class Main is public, should be declared in a file named Main.java
+public class Main {
+       ^
+1 error
+
+[Done] exited with code=1 in 1.903 seconds
+
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+Error: Could not find or load main class method_overloading
+Caused by: java.lang.ClassNotFoundException: method_overloading
+
+[Done] exited with code=1 in 2.278 seconds
+
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+Error: Could not find or load main class method_overloading
+Caused by: java.lang.ClassNotFoundException: method_overloading
+
+[Done] exited with code=1 in 2.406 seconds
+
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+Error: Could not find or load main class method_overloading
+Caused by: java.lang.ClassNotFoundException: method_overloading
+
+[Done] exited with code=1 in 1.777 seconds
+
+[Running] cd "/home/upalb/Java/" && javac method_overloading.java && java method_overloading
+method_overloading.java:1: error: class HelloWorld is public, should be declared in a file named HelloWorld.java
+public class HelloWorld {
+       ^
+1 error
+
+[Done] exited with code=1 in 1.45 seconds
+
+[Running] cd "/home/upalb/Java/" && javac HelloWorld.java && java HelloWorld
+Hello world..!!!
+
+[Done] exited with code=0 in 1.938 seconds
+

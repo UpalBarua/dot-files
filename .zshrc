@@ -116,6 +116,8 @@ alias q="exit"
 alias k="killall -9"
 alias md="mkdir"
 alias mf="touch"
+alias ge.="cd /run/media/upalb"
+
 
 # Programs
 alias x="startx"
@@ -173,6 +175,7 @@ alias pscpu10='ps auxf | sort -nr -k 3 | head -10'
 alias cp="cp -i"
 alias mv='mv -i'
 alias rm='rm -i'
+alias rmf='rm -rf -i'
 
 # Colorize grep output (good for log files)
 alias grep='grep --color=auto'
@@ -189,5 +192,8 @@ alias zrc='nvim ~/.zshrc'
 alias vrc='nvim ~/.config/nvim/init.vim'
 alias lrc='nvim ~/.config/lf/lfrc'
 alias arc='nvim ~/.config/alacritty/alacritty.yml'
+
+# Startup
+pfetch
 
 # --------------- EOF --------------- #

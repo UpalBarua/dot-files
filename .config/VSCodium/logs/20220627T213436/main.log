@@ -1,0 +1,7 @@
+[2022-06-27 21:34:37.874] [main] [info] update#setState idle
+[2022-06-27 21:34:41.882] [main] [info] Starting extension host with pid 11008 (fork() took 39 ms).
+[2022-06-27 21:34:56.500] [main] [info] Enabling inspect port on extension host with pid 11008.
+[2022-06-27 21:35:07.877] [main] [info] update#setState checking for updates
+[2022-06-27 21:35:08.257] [main] [info] update#setState idle
+[2022-06-27 21:37:45.950] [main] [info] Waiting for extension host with pid 11008 to exit.
+[2022-06-27 21:37:46.222] [main] [info] Extension host with pid 11008 exited with code: 0, signal: null.

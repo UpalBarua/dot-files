@@ -1,9 +1,0 @@
-[2022-06-22 09:47:49.889] [sharedprocess] [info] Starting worker process with pid 4751 (type: fileWatcher, window: 1).
-[2022-06-22 10:39:44.227] [sharedprocess] [info] Getting Manifest... digitalbrainstem.javascript-ejs-support
-[2022-06-22 10:39:44.491] [sharedprocess] [info] Installing extension: digitalbrainstem.javascript-ejs-support
-[2022-06-22 10:39:46.296] [sharedprocess] [info] Downloaded extension: digitalbrainstem.javascript-ejs-support /home/upalb/.config/VSCodium/CachedExtensionVSIXs/digitalbrainstem.javascript-ejs-support-1.3.1
-[2022-06-22 10:39:46.512] [sharedprocess] [info] Extracted extension to /home/upalb/.vscode-oss/extensions/.70dd2908-b75c-4414-aa9c-f6c2ec11ff62: digitalbrainstem.javascript-ejs-support
-[2022-06-22 10:39:46.522] [sharedprocess] [info] Renamed to /home/upalb/.vscode-oss/extensions/digitalbrainstem.javascript-ejs-support-1.3.1
-[2022-06-22 10:39:46.524] [sharedprocess] [info] Extracting completed. digitalbrainstem.javascript-ejs-support
-[2022-06-22 10:39:46.530] [sharedprocess] [info] Extension installed successfully: digitalbrainstem.javascript-ejs-support
-[2022-06-22 11:44:37.482] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
