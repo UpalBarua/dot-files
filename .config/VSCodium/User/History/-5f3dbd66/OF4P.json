@@ -1,0 +1,27 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Dracula",
+  "editor.fontSize": 14,
+  // "editor.fontFamily": "'CodeNewRoman Nerd Font'",
+  // "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  // "editor.fontFamily": "Iosevka Nerd Font",
+  "editor.fontFamily": "FiraCode Nerd Font",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.fontLigatures": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "html.format.enable": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true
+}

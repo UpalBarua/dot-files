@@ -1,0 +1,15 @@
+[2022-07-05 21:22:47.037] [main] [info] update#setState idle
+[2022-07-05 21:22:54.829] [main] [info] Starting extension host with pid 855 (fork() took 18 ms).
+[2022-07-05 21:23:11.602] [main] [info] Enabling inspect port on extension host with pid 855.
+[2022-07-05 21:23:17.043] [main] [info] update#setState checking for updates
+[2022-07-05 21:23:17.559] [main] [info] update#setState idle
+[2022-07-05 21:23:46.706] [main] [info] Starting extension host with pid 1191 (fork() took 22 ms).
+[2022-07-05 21:23:48.760] [main] [info] Extension host with pid 855 exited with code: 0, signal: null.
+[2022-07-05 21:27:20.680] [main] [info] Extension host with pid 1191 exited with code: 0, signal: null.
+[2022-07-05 21:27:23.372] [main] [info] Starting extension host with pid 2064 (fork() took 19 ms).
+[2022-07-05 21:28:00.734] [main] [info] Extension host with pid 2064 exited with code: 0, signal: null.
+[2022-07-05 21:28:00.841] [main] [info] Starting extension host with pid 2476 (fork() took 23 ms).
+[2022-07-05 21:28:22.191] [main] [info] Extension host with pid 2476 exited with code: 0, signal: null.
+[2022-07-05 21:28:22.392] [main] [info] Starting extension host with pid 2624 (fork() took 39 ms).
+[2022-07-05 22:21:39.309] [main] [info] Waiting for extension host with pid 2624 to exit.
+[2022-07-05 22:21:40.214] [main] [info] Extension host with pid 2624 exited with code: 0, signal: null.

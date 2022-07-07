@@ -1,0 +1,188 @@
+["INFO" - 11:38:20 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 11:38:20 AM] Extension Version: 9.5.0.
+["INFO" - 11:39:01 AM] Formatting file:///run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent%201/index.html
+["INFO" - 11:39:01 AM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/.prettierignore
+["INFO" - 11:39:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:39:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:39:01 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html",
+  "parser": "html"
+}
+["INFO" - 11:39:02 AM] Formatting completed in 0.84ms.
+["INFO" - 11:39:14 AM] Formatting file:///run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent%201/index.html
+["INFO" - 11:39:14 AM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/.prettierignore
+["INFO" - 11:39:14 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:39:14 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:39:14 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html",
+  "parser": "html"
+}
+["INFO" - 11:39:14 AM] Formatting completed in 0.201ms.
+["INFO" - 11:39:20 AM] Formatting file:///run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent%201/index.html
+["INFO" - 11:39:20 AM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/.prettierignore
+["INFO" - 11:39:20 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:39:20 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:39:20 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html",
+  "parser": "html"
+}
+["INFO" - 11:39:20 AM] Formatting completed in 0.197ms.
+["INFO" - 11:39:42 AM] Formatting file:///run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent%201/index.html
+["INFO" - 11:39:42 AM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/.prettierignore
+["INFO" - 11:39:42 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:39:42 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:39:42 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html",
+  "parser": "html"
+}
+["INFO" - 11:39:42 AM] Formatting completed in 0.321ms.
+["INFO" - 11:40:09 AM] Formatting file:///run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent%201/index.html
+["INFO" - 11:40:09 AM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/.prettierignore
+["INFO" - 11:40:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:40:09 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:40:09 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html",
+  "parser": "html"
+}
+["INFO" - 11:40:09 AM] Formatting completed in 0.228ms.
+["INFO" - 11:40:11 AM] Formatting file:///run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent%201/index.html
+["INFO" - 11:40:12 AM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/.prettierignore
+["INFO" - 11:40:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:40:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:40:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html",
+  "parser": "html"
+}
+["INFO" - 11:40:12 AM] Formatting completed in 0.204ms.

@@ -1,0 +1,92 @@
+/* ##### Global resets. ##### */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.5;
+}
+
+/* ##### Utility classes. ##### */
+.container {
+  max-width: 90%;
+  margin-inline: auto;
+  padding: 1rem;
+}
+
+.flow > *:where(:not(:first-child)) {
+  margin-top: var(--flow, 1.25rem);
+}
+
+.text-orange {
+  color: hsl(39, 100%, 50%);
+}
+
+.btn {
+  display: inline-flex;
+  place-items: center;
+  text-decoration: none;
+  color: #fff;
+  padding: .675rem 1.125rem;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  background: linear-gradient(salmon, tomato);
+}
+
+/* ##### Welcome section. ##### */
+.welcome__section {
+  background-image: url(./images/top-banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome__section > .container,
+.dream__section > .container {
+  display: flex;
+  flex-direction: column-reverse;
+  text-align: center;
+  gap: 1.25rem;
+}
+
+.welcome__title > h1,
+.dream__title > h1 {
+  font-size: clamp(2.45rem, 5vw + .5rem, 4rem);
+  line-height: 1.2;
+}
+
+.welcome__title > h3,
+.dream__title > h3 {
+  font-size: 1.25rem;
+  padding-top: .75rem;
+}
+
+/* ##### Media querries ##### */
+@media (min-width: 45em) {
+  .welcome__section > .container,
+  .dream__section > .container {
+    flex-direction: row;
+    text-align: start;
+    align-items: center;
+    gap: 3rem;
+  }
+
+  .dream__section > .container {
+    flex-direction: row-reverse;
+  }
+
+  .welcome__section .container > *,
+  .dream__section .container > *{
+    flex: 1;
+  }
+}

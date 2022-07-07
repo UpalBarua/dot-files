@@ -1,0 +1,57 @@
+[2022-07-05 21:17:30.454] [sharedprocess] [info] Starting worker process with pid 21772 (type: fileWatcher, window: 1).
+[2022-07-05 21:17:31.557] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:17:31.588] [sharedprocess] [info] Worker process with pid 21772 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:17:31.588] [sharedprocess] [info] Starting worker process with pid 21787 (type: fileWatcher, window: 1).
+[2022-07-05 21:17:33.151] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:17:33.164] [sharedprocess] [info] Worker process with pid 21787 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:17:33.165] [sharedprocess] [info] Starting worker process with pid 21830 (type: fileWatcher, window: 1).
+[2022-07-05 21:17:33.924] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:17:33.924] [sharedprocess] [info] Worker process with pid 21830 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:17:33.953] [sharedprocess] [info] Starting worker process with pid 21889 (type: fileWatcher, window: 1).
+[2022-07-05 21:17:34.414] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:17:34.426] [sharedprocess] [info] Worker process with pid 21889 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:17:34.433] [sharedprocess] [info] Starting worker process with pid 21926 (type: fileWatcher, window: 1).
+[2022-07-05 21:17:34.866] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:17:34.866] [sharedprocess] [info] Worker process with pid 21926 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:17:34.878] [sharedprocess] [info] Starting worker process with pid 21943 (type: fileWatcher, window: 1).
+[2022-07-05 21:17:56.149] [sharedprocess] [info] Uninstalling extension: ritwickdey.liveserver
+[2022-07-05 21:17:57.377] [sharedprocess] [info] Successfully uninstalled extension: ritwickdey.liveserver
+[2022-07-05 21:18:11.504] [sharedprocess] [info] Worker process with pid 21943 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:14.352] [sharedprocess] [info] Starting worker process with pid 22047 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:16.736] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:18:16.737] [sharedprocess] [info] Worker process with pid 22047 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:16.769] [sharedprocess] [info] Starting worker process with pid 22074 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:18.583] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:18:18.595] [sharedprocess] [info] Worker process with pid 22074 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:18.596] [sharedprocess] [info] Starting worker process with pid 22095 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:19.434] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:18:19.442] [sharedprocess] [info] Worker process with pid 22095 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:19.444] [sharedprocess] [info] Starting worker process with pid 22122 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:20.887] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:18:20.889] [sharedprocess] [info] Worker process with pid 22122 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:20.906] [sharedprocess] [info] Starting worker process with pid 22153 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:21.571] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:18:21.572] [sharedprocess] [info] Worker process with pid 22153 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:21.590] [sharedprocess] [info] Starting worker process with pid 22172 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:25.285] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-07-05 21:18:25.629] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-07-05 21:18:41.888] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/upalb/.config/VSCodium/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-07-05 21:18:42.058] [sharedprocess] [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+[2022-07-05 21:18:42.105] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-07-05 21:18:51.458] [sharedprocess] [info] Worker process with pid 22172 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:54.228] [sharedprocess] [info] Starting worker process with pid 22260 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:57.206] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:18:57.206] [sharedprocess] [info] Worker process with pid 22260 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:57.239] [sharedprocess] [info] Starting worker process with pid 22288 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:58.215] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:18:58.268] [sharedprocess] [info] Worker process with pid 22288 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:18:58.270] [sharedprocess] [info] Starting worker process with pid 22316 (type: fileWatcher, window: 1).
+[2022-07-05 21:18:59.985] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:19:00.002] [sharedprocess] [info] Worker process with pid 22316 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:19:00.130] [sharedprocess] [info] Starting worker process with pid 22347 (type: fileWatcher, window: 1).
+[2022-07-05 21:19:00.930] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:19:00.939] [sharedprocess] [info] Worker process with pid 22347 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:19:00.954] [sharedprocess] [info] Starting worker process with pid 22362 (type: fileWatcher, window: 1).
+[2022-07-05 21:19:01.305] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-07-05 21:19:01.305] [sharedprocess] [info] Worker process with pid 22362 terminated normally (type: fileWatcher, window: 1).
+[2022-07-05 21:19:01.318] [sharedprocess] [info] Starting worker process with pid 22381 (type: fileWatcher, window: 1).

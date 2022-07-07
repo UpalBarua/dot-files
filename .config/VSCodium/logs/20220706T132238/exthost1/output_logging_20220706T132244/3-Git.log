@@ -1,0 +1,43 @@
+[2022-07-06T07:22:50.730Z] Log level: Info
+[2022-07-06T07:22:50.733Z] [info] Validating found git in: git
+[2022-07-06T07:22:50.794Z] [info] Using git 2.37.0 from git
+[2022-07-06T07:22:51.511Z] > git rev-parse --show-toplevel [689ms]
+[2022-07-06T07:22:51.511Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:03.075Z] > git rev-parse --show-toplevel [11543ms]
+[2022-07-06T07:23:03.476Z] > git rev-parse --git-dir --git-common-dir [351ms]
+[2022-07-06T07:23:03.491Z] [info] Open repository: /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1
+[2022-07-06T07:23:03.599Z] > git rev-parse --show-toplevel [62ms]
+[2022-07-06T07:23:03.599Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:03.683Z] > git status -z -uall [164ms]
+[2022-07-06T07:23:03.732Z] > git rev-parse --show-toplevel [81ms]
+[2022-07-06T07:23:03.732Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:03.965Z] > git symbolic-ref --short HEAD [236ms]
+[2022-07-06T07:23:04.156Z] > git rev-parse --show-toplevel [245ms]
+[2022-07-06T07:23:04.156Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:04.429Z] > git rev-parse --show-toplevel [60ms]
+[2022-07-06T07:23:04.429Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:04.490Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [378ms]
+[2022-07-06T07:23:04.596Z] > git rev-parse --show-toplevel [107ms]
+[2022-07-06T07:23:04.596Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:04.676Z] > git rev-parse --show-toplevel [39ms]
+[2022-07-06T07:23:04.676Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:04.819Z] > git rev-parse --show-toplevel [108ms]
+[2022-07-06T07:23:04.819Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:04.862Z] > git remote --verbose [333ms]
+[2022-07-06T07:23:04.939Z] > git check-ignore -v -z --stdin [346ms]
+[2022-07-06T07:23:04.944Z] > git rev-parse --show-toplevel [95ms]
+[2022-07-06T07:23:04.944Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-06T07:23:05.310Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [802ms]
+[2022-07-06T07:23:05.391Z] > git ls-files --stage -- /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/style.css [355ms]
+[2022-07-06T07:23:05.650Z] > git config --get commit.template [272ms]
+[2022-07-06T07:23:05.775Z] > git show --textconv :style.css [777ms]
+[2022-07-06T07:23:06.009Z] > git cat-file -s 4cece37ea50f6b8c1e3b378007bf243b7efae7c9 [596ms]

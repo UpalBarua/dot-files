@@ -2033,6 +2033,6 @@ map opt+cmd+,    debug_config
 
 
 # BEGIN_KITTY_THEME
-# Catppuccin
+# Dracula
 include current-theme.conf
 # END_KITTY_THEME

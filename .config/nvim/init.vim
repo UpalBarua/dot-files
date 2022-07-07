@@ -51,11 +51,11 @@ call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'https://github.com/ryanoasis/vim-devicons'
   Plug 'liuchengxu/vim-which-key'
   Plug 'folke/which-key.nvim'
-  Plug 'arcticicestudio/nord-vim'
+  Plug 'dracula/vim', { 'as': 'dracula' }
 call plug#end()
 
 "--------------- Colorscheme Settings ---------------"
-colorscheme nord
+colorscheme dracula
 lua require'colorizer'.setup()
 
 " Transparent background.

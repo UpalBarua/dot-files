@@ -1,0 +1,12 @@
+[2022-07-05 23:13:56.805] [main] [info] update#setState idle
+[2022-07-05 23:14:02.075] [main] [info] Starting extension host with pid 5104 (fork() took 19 ms).
+[2022-07-05 23:14:17.669] [main] [info] Enabling inspect port on extension host with pid 5104.
+[2022-07-05 23:14:26.807] [main] [info] update#setState checking for updates
+[2022-07-05 23:14:27.985] [main] [info] update#setState idle
+[2022-07-05 23:27:33.411] [main] [error] Blocked vscode-webview request vscode-webview://1n2r78hgpd5nubils35o36q1ot6cft1tb69slpdv9go7notcvj0m/index.html?id=abe1384d-f753-4016-af69-38478e71badd&origin=77ca7495-508e-4074-958c-aa9369a5b8c4&swVersion=4&extensionId=vscode.markdown-language-features&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+[2022-07-06 00:14:26.881] [main] [info] update#setState checking for updates
+[2022-07-06 00:14:34.044] [main] [info] update#setState idle
+[2022-07-06 01:14:27.097] [main] [info] update#setState checking for updates
+[2022-07-06 01:14:33.790] [main] [info] update#setState idle
+[2022-07-06 02:11:36.998] [main] [info] Waiting for extension host with pid 5104 to exit.
+[2022-07-06 02:11:37.685] [main] [info] Extension host with pid 5104 exited with code: 0, signal: null.

@@ -1,0 +1,9 @@
+{
+  "folders": [],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "visymo.job-website",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

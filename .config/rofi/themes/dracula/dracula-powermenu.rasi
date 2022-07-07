@@ -1,7 +1,7 @@
 @theme "/dev/null"
 
 * {
-  font: "CodeNewRoman Nerd Font 11";
+  font: "CaskaydiaCove Nerd Font 10";
   bg: #282a36;
   fg: #f8f8f2;
   ac: #bd93f9;
@@ -18,7 +18,7 @@ window {
   width: 20%;
   border-radius: 0;
   border: 2px;
-  border-radius: 8px;
+  // border-radius: 8px;
   border-color: @ac;
 }
 

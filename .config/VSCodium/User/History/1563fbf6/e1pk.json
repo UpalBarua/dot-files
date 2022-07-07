@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../../../../run/media/upalb/Miscellaneous/Code/Programming-Hero"
+    },
+    {
+      "path": "../../../../downloads/visymo.job-website"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "04 - Array Cardio Day 1",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

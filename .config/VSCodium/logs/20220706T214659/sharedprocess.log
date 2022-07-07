@@ -1,0 +1,11 @@
+[2022-07-06 21:47:26.148] [sharedprocess] [info] Starting worker process with pid 1209 (type: fileWatcher, window: 1).
+[2022-07-06 23:16:00.032] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-07 01:43:25.548] [sharedprocess] [info] Getting Manifest... hookyqr.beautify
+[2022-07-07 01:43:25.818] [sharedprocess] [info] Installing extension: hookyqr.beautify
+[2022-07-07 01:43:31.367] [sharedprocess] [info] Downloaded extension: hookyqr.beautify /home/upalb/.config/VSCodium/CachedExtensionVSIXs/hookyqr.beautify-1.4.11
+[2022-07-07 01:43:31.933] [sharedprocess] [info] Extracted extension to /home/upalb/.vscode-oss/extensions/.1ddd44c3-a61d-445e-9f1c-5557b74ed69a: hookyqr.beautify
+[2022-07-07 01:43:31.983] [sharedprocess] [info] Renamed to /home/upalb/.vscode-oss/extensions/hookyqr.beautify-1.4.11
+[2022-07-07 01:43:31.985] [sharedprocess] [info] Extracting completed. hookyqr.beautify
+[2022-07-07 01:43:32.002] [sharedprocess] [info] Extension installed successfully: hookyqr.beautify
+[2022-07-07 01:43:46.050] [sharedprocess] [info] Uninstalling extension: esbenp.prettier-vscode
+[2022-07-07 01:43:47.302] [sharedprocess] [info] Successfully uninstalled extension: esbenp.prettier-vscode

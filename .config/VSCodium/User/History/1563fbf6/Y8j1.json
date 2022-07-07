@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../../../../../../run/media/upalb/Miscellaneous/Code/Programming-Hero"
+    },
+    {
+      "path": "../../../../downloads/visymo.job-website"
+    },
+    {
+      "path": "../../../../../../run/media/upalb/Miscellaneous/Code"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "visymo.job-website",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

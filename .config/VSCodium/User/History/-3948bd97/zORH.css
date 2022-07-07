@@ -1,0 +1,24 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.text-accent {
+  color: blue;
+}
+
+.top__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 5rem;
+}
+
+.top__title {
+  font-size: 3.25rem;
+  color: rgba(0, 0, 0, 0.80);
+}
+
+.top__text {
+  color: rgba(0, 0, 0, 0.60);
+  font-size: 1.2rem;
+}

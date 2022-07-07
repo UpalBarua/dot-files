@@ -1,9 +1,0 @@
-[2022-06-29 17:43:16.326] [main] [info] update#setState idle
-[2022-06-29 17:43:20.123] [main] [info] Starting extension host with pid 6123 (fork() took 22 ms).
-[2022-06-29 17:43:46.338] [main] [info] update#setState checking for updates
-[2022-06-29 17:43:46.691] [main] [info] update#setState idle
-[2022-06-29 17:53:20.612] [main] [info] Extension host with pid 6123 exited with code: 0, signal: null.
-[2022-06-29 17:53:20.667] [main] [info] Starting extension host with pid 6743 (fork() took 12 ms).
-[2022-06-29 17:53:29.079] [main] [info] Enabling inspect port on extension host with pid 6743.
-[2022-06-29 17:53:32.762] [main] [info] Starting extension host with pid 6804 (fork() took 16 ms).
-[2022-06-29 17:53:32.805] [main] [info] Extension host with pid 6743 exited with code: 0, signal: null.

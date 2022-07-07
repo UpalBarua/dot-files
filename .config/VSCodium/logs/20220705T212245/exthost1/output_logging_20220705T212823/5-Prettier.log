@@ -1,0 +1,157 @@
+["INFO" - 9:28:26 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 9:28:26 PM] Extension Version: 9.5.0.
+["INFO" - 9:32:24 PM] Formatting file:///run/media/upalb/Miscellaneous/Code/Learning%20Flexbox/index.html
+["INFO" - 9:32:24 PM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/.prettierignore
+["INFO" - 9:32:24 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:32:24 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:24 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Learning Flexbox/index.html",
+  "parser": "html"
+}
+["INFO" - 9:32:24 PM] Formatting completed in 0.104ms.
+["INFO" - 9:32:36 PM] Formatting file:///run/media/upalb/Miscellaneous/Code/Learning%20Flexbox/index.html
+["INFO" - 9:32:36 PM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/.prettierignore
+["INFO" - 9:32:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:32:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Learning Flexbox/index.html",
+  "parser": "html"
+}
+["INFO" - 9:32:36 PM] Formatting completed in 0.024ms.
+["INFO" - 9:32:45 PM] Formatting file:///run/media/upalb/Miscellaneous/Code/Learning%20Flexbox/index.html
+["INFO" - 9:32:45 PM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/.prettierignore
+["INFO" - 9:32:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:32:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Learning Flexbox/index.html",
+  "parser": "html"
+}
+["INFO" - 9:32:45 PM] Formatting completed in 0.033ms.
+["INFO" - 9:35:59 PM] Formatting file:///run/media/upalb/Miscellaneous/Code/Learning%20Flexbox/index.html
+["INFO" - 9:35:59 PM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/.prettierignore
+["INFO" - 9:35:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:35:59 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:35:59 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Learning Flexbox/index.html",
+  "parser": "html"
+}
+["INFO" - 9:35:59 PM] Formatting completed in 0.035ms.
+["INFO" - 9:36:29 PM] Formatting file:///run/media/upalb/Miscellaneous/Code/Learning%20Flexbox/index.html
+["INFO" - 9:36:29 PM] Using ignore file (if present) at /run/media/upalb/Miscellaneous/Code/.prettierignore
+["INFO" - 9:36:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:36:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:36:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/run/media/upalb/Miscellaneous/Code/Learning Flexbox/index.html",
+  "parser": "html"
+}
+["INFO" - 9:36:29 PM] Formatting completed in 0.03ms.

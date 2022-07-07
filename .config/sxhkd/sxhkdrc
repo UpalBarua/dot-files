@@ -99,7 +99,7 @@ super + Print
 
 # changing a random wallpaper
 alt + r
-    feh --bg-fill --randomize $HOME/Pictures/Wallpapers/Nord\ Wallpapers/*
+    feh --bg-fill --randomize $HOME/Pictures/Wallpapers/*
 
 
 ## wm independent hotkeys ===============================

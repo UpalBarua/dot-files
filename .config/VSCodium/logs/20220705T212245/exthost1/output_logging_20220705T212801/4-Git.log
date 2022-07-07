@@ -1,0 +1,16 @@
+[2022-07-05T15:28:02.600Z] Log level: Info
+[2022-07-05T15:28:02.604Z] [info] Validating found git in: git
+[2022-07-05T15:28:02.682Z] [info] Using git 2.37.0 from git
+[2022-07-05T15:28:02.714Z] > git rev-parse --show-toplevel [9ms]
+[2022-07-05T15:28:02.739Z] > git rev-parse --git-dir --git-common-dir [5ms]
+[2022-07-05T15:28:02.754Z] [info] Open repository: /run/media/upalb/Miscellaneous/Code/Programming-Hero/Module-04.5_eat-healthy/Eat-Healthy
+[2022-07-05T15:28:03.274Z] > git status -z -uall [491ms]
+[2022-07-05T15:28:03.307Z] > git ls-files --stage -- /run/media/upalb/Miscellaneous/Code/Programming-Hero/Module-04.5_eat-healthy/Eat-Healthy/index.html [469ms]
+[2022-07-05T15:28:03.410Z] > git symbolic-ref --short HEAD [126ms]
+[2022-07-05T15:28:03.475Z] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [155ms]
+[2022-07-05T15:28:03.484Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [58ms]
+[2022-07-05T15:28:03.533Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+[2022-07-05T15:28:03.540Z] > git remote --verbose [25ms]
+[2022-07-05T15:28:03.573Z] > git show --textconv :index.html [44ms]
+[2022-07-05T15:28:03.583Z] > git config --get commit.template [11ms]
+[2022-07-05T15:28:03.786Z] > git check-ignore -v -z --stdin [3ms]

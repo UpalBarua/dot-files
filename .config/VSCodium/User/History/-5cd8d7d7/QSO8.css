@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #282828;
+  color: #ffffff;
+  font-family: sans-serif;
+  padding: 3rem;
+  overflow: hidden;
+}
+
+ul {
+  padding-block: 3rem;
+}
+
+li {
+  list-style: none;
+  background-color: lightblue;
+  color: #000000;
+  padding: 1rem;
+  width: max-content;
+}
+
