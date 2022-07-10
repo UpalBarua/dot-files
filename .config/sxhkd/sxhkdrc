@@ -19,6 +19,9 @@ super + shift + Return
 super + alt + Return
     xfce4-terminal 
 
+super + ctrl + Return
+    st
+
 # launching gui applications
 super + alt + {b, v, t, w, a, s, x, i, g, p, n, d, o} 
     {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app, zathura, obsidian}
@@ -98,8 +101,10 @@ super + Print
     notify-send "Screenshot" "screenshot saved"
 
 # changing a random wallpaper
-alt + r
-    feh --bg-fill --randomize $HOME/Pictures/Wallpapers/*
+# alt + r
+XF86Mail
+    feh --bg-fill --randomize $HOME/Pictures/Wallpapers/*;\
+    notify-send "Wallpapers" "changing wallpaper"
 
 
 ## wm independent hotkeys ===============================

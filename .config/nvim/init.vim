@@ -2,7 +2,7 @@
 set nocompatible
 filetype on
 syntax on
-set showtabline=2
+" set showtabline=2
 set fileencoding=utf-8
 set number
 set relativenumber
@@ -51,11 +51,12 @@ call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'https://github.com/ryanoasis/vim-devicons'
   Plug 'liuchengxu/vim-which-key'
   Plug 'folke/which-key.nvim'
-  Plug 'dracula/vim', { 'as': 'dracula' }
+  Plug 'olimorris/onedarkpro.nvim'
+  Plug 'joshdick/onedark.vim'
 call plug#end()
 
 "--------------- Colorscheme Settings ---------------"
-colorscheme dracula
+colorscheme onedarkpro 
 lua require'colorizer'.setup()
 
 " Transparent background.

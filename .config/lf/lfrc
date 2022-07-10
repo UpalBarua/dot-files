@@ -74,6 +74,7 @@ cmd tarbz2 %tar cjvf "$f.tar.bz2" "$f"
 # Settings image as wallpaper
 # cmd setwallpaper &nitrogen --set-scaled "$f" --save 
 cmd setwallpaper %feh --bg-fill "$f"
+cmd pywal %wal -i $f
 cmd gonord %python src/cli.py --img="$f"
 cmd setlockscreen %betterlockscreen -u "$f" --fx 0 &
 cmd copyimg %xclip -selection clipboard -target image/png -i "$f"

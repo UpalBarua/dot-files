@@ -9,10 +9,10 @@
             "backupPath": "/home/upalb/.config/VSCodium/Backups/fa84a96756ee31e53c73910e76cc5e69",
             "uiState": {
                 "mode": 1,
-                "x": 8,
-                "y": 38,
-                "width": 1350,
-                "height": 722
+                "x": 7,
+                "y": 37,
+                "width": 704,
+                "height": 724
             }
         },
         "openedWindows": []
@@ -55,8 +55,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -403,7 +402,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Primary Side Bar"
+                                    "label": "Show &&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -959,7 +959,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1523,25 +1524,25 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#282a36",
+    "themeBackground": "#282c34",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#f8f8f2",
-            "background": "#282a36",
-            "editorBackground": "#282a36",
-            "titleBarBackground": "#21222c",
-            "activityBarBackground": "#343746",
-            "sideBarBackground": "#21222c",
-            "statusBarBackground": "#191a21",
-            "statusBarNoFolderBackground": "#191a21"
+            "foreground": "#cccccc",
+            "background": "#282c34",
+            "editorBackground": "#282c34",
+            "titleBarBackground": "#282c34",
+            "activityBarBackground": "#282c34",
+            "sideBarBackground": "#21252b",
+            "statusBarBackground": "#21252b",
+            "statusBarNoFolderBackground": "#21252b"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 0,
-            "sideBarWidth": 0,
+            "sideBarWidth": 206,
             "statusBarHeight": 0,
             "windowBorder": false
         }

@@ -1,0 +1,126 @@
+[2022-07-10 16:17:38.256] [exthost] [info] Extension host with pid 3039 started
+[2022-07-10 16:17:38.256] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-07-10 16:17:38.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-10 16:17:38.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-10 16:17:38.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-10 16:17:39.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-10 16:17:39.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-10 16:17:39.689] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-10 16:17:41.109] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+[2022-07-10 16:17:44.461] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-07-10 16:17:46.133] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-10 16:17:46.235] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-07-10 16:17:46.287] [exthost] [info] Not activating extension 'glenn2223.live-sass': Timed out while searching for 'workspaceContains' pattern **/*.s[ac]ss
+[2022-07-10 16:17:49.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-10 16:17:49.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-10 16:17:49.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-10 16:17:50.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:50.252] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:50.353] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:50.493] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:51.806] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:51.896] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:58.039] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:58.206] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:17:59.276] [exthost] [info] Eager extensions activated
+[2022-07-10 16:18:26.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:26.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:26.894] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:27.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:27.981] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-10 16:18:28.046] [exthost] [info] Extension host with pid 3039 exiting with code 0
+[2022-07-10 16:18:29.237] [exthost] [info] Extension host with pid 3222 started
+[2022-07-10 16:18:29.237] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-07-10 16:18:29.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-10 16:18:29.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-10 16:18:29.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-10 16:18:29.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:29.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:29.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:29.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:29.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-10 16:18:29.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-10 16:18:29.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-10 16:18:29.468] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-10 16:18:29.487] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+[2022-07-10 16:18:29.530] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-07-10 16:18:29.560] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-10 16:18:29.568] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-07-10 16:18:30.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-10 16:18:30.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-10 16:18:31.127] [exthost] [info] Eager extensions activated
+[2022-07-10 16:18:31.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:31.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:31.206] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:31.222] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:31.265] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:31.283] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:31.448] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:31.517] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:33.039] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-10 16:18:33.102] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-10 16:18:33.202] [exthost] [info] Extension host with pid 3222 exiting with code 0
+[2022-07-10 16:18:34.090] [exthost] [info] Extension host with pid 3328 started
+[2022-07-10 16:18:34.090] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-07-10 16:18:34.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-10 16:18:34.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-10 16:18:34.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-10 16:18:34.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:34.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:34.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:34.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:18:34.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-10 16:18:34.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.313] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.342] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.397] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.426] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.436] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-10 16:18:34.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-10 16:18:35.534] [exthost] [info] Eager extensions activated
+[2022-07-10 16:18:35.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:35.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:35.651] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:35.677] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:35.734] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:35.761] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:35.979] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:18:36.030] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:16.278] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-10 16:19:16.366] [exthost] [info] Extension host with pid 3328 exiting with code 0
+[2022-07-10 16:19:16.902] [exthost] [info] Extension host with pid 3484 started
+[2022-07-10 16:19:16.902] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-07-10 16:19:16.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-10 16:19:16.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-10 16:19:17.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-10 16:19:17.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:19:17.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:19:17.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:19:17.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 16:19:17.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.112] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-10 16:19:17.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.121] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.139] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.183] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.218] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.231] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-10 16:19:17.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-10 16:19:18.061] [exthost] [info] ExtensionService#_doActivateExtension glenn2223.live-sass, startup: true, activationEvent: 'workspaceContains:**/*.s[ac]ss'
+[2022-07-10 16:19:18.951] [exthost] [info] Eager extensions activated
+[2022-07-10 16:19:19.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:19.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:19.051] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:19.069] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:19.115] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:19.137] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:19.393] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:19:19.451] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 16:26:03.069] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-10 16:26:03.166] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-10 16:26:03.190] [exthost] [info] Extension host with pid 3484 exiting with code 0

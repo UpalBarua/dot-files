@@ -1,7 +1,0 @@
-[2022-07-06 13:22:38.703] [main] [info] update#setState idle
-[2022-07-06 13:22:41.882] [main] [info] Starting extension host with pid 13282 (fork() took 17 ms).
-[2022-07-06 13:22:47.806] [main] [info] Enabling inspect port on extension host with pid 13282.
-[2022-07-06 13:23:08.708] [main] [info] update#setState checking for updates
-[2022-07-06 13:23:09.063] [main] [info] update#setState idle
-[2022-07-06 13:32:17.064] [main] [info] Waiting for extension host with pid 13282 to exit.
-[2022-07-06 13:32:17.211] [main] [info] Extension host with pid 13282 exited with code: 0, signal: null.

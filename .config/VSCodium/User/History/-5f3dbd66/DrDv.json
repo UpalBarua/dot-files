@@ -1,0 +1,26 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.activityBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Monokai",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  // "editor.fontLigatures": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "html.format.enable": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "workbench.statusBar.visible": false
+  // "editor.glyphMargin": false,
+}

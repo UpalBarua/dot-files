@@ -1,9 +1,0 @@
-[2022-07-06 11:37:55.758] [sharedprocess] [info] Starting worker process with pid 8907 (type: fileWatcher, window: 1).
-[2022-07-06 11:37:58.434] [sharedprocess] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/upalb/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-2.2.5
-[2022-07-06 11:38:07.064] [sharedprocess] [info] Getting Manifest... dbaeumer.vscode-eslint
-[2022-07-06 11:38:10.716] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
-[2022-07-06 11:38:13.466] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/upalb/.config/VSCodium/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.6
-[2022-07-06 11:38:13.596] [sharedprocess] [info] Extracted extension to /home/upalb/.vscode-oss/extensions/.07b3811f-b6d4-4b08-af3d-e25f5f9083cd: dbaeumer.vscode-eslint
-[2022-07-06 11:38:13.658] [sharedprocess] [info] Renamed to /home/upalb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.2.6
-[2022-07-06 11:38:13.662] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
-[2022-07-06 11:38:13.730] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint

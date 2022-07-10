@@ -1,0 +1,8 @@
+[2022-07-09 19:52:04.814] [sharedprocess] [info] Starting worker process with pid 29964 (type: fileWatcher, window: 1).
+[2022-07-09 19:52:21.907] [sharedprocess] [info] Getting Manifest... catppuccin.catppuccin-vsc
+[2022-07-09 19:52:22.118] [sharedprocess] [info] Installing extension: catppuccin.catppuccin-vsc
+[2022-07-09 19:52:22.614] [sharedprocess] [info] Downloaded extension: catppuccin.catppuccin-vsc /home/upalb/.config/VSCodium/CachedExtensionVSIXs/catppuccin.catppuccin-vsc-1.0.6
+[2022-07-09 19:52:22.925] [sharedprocess] [info] Extracted extension to /home/upalb/.vscode-oss/extensions/.4cf796a4-06dd-42d2-9119-45cda73cb2b9: catppuccin.catppuccin-vsc
+[2022-07-09 19:52:23.062] [sharedprocess] [info] Renamed to /home/upalb/.vscode-oss/extensions/catppuccin.catppuccin-vsc-1.0.6
+[2022-07-09 19:52:23.064] [sharedprocess] [info] Extracting completed. catppuccin.catppuccin-vsc
+[2022-07-09 19:52:23.069] [sharedprocess] [info] Extension installed successfully: catppuccin.catppuccin-vsc

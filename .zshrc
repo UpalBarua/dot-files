@@ -176,6 +176,8 @@ alias cp="cp -i"
 alias mv='mv -i'
 alias rm='rm -i'
 alias rmf='rm -rf -i'
+alias cpr="rsync -av --progress"
+
 
 # Colorize grep output (good for log files)
 alias grep='grep --color=auto'
@@ -194,6 +196,6 @@ alias lrc='nvim ~/.config/lf/lfrc'
 alias arc='nvim ~/.config/alacritty/alacritty.yml'
 
 # Startup
-pfetch
+# pfetch
 
 # --------------- EOF --------------- #

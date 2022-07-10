@@ -8,7 +8,7 @@ bspc monitor -d 1 2 3 4 5
 
 bspc config border_radius                 0
 bspc config border_width                  2
-bspc config window_gap                    6
+bspc config window_gap                    5
 
 bspc config top_padding                   30
 bspc config bottom_padding                0
@@ -35,10 +35,10 @@ bspc config pointer_action2 resize_side
 bspc config pointer_action3 resize_corner
 
 # Border colors
-bspc config normal_border_color "#44475a"
-bspc config active_border_color "#44475a"
-bspc config focused_border_color "#bd93f9"
-bspc config presel_feedback_color "#bd93f9"
+bspc config normal_border_color "#7F848E"
+bspc config active_border_color "#7F848E"
+bspc config focused_border_color "#61afef"
+bspc config presel_feedback_color "#61afef"
 
 ##---------- Bspc rules ----------##
 bspc rule -a Chromium desktop='^2'

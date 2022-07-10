@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../../../../../../run/media/upalb/Miscellaneous/Code"
+    },
+    {
+      "path": "../../../../../../run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1"
+    },
+    {
+      "path": "../../../../.vscode-oss/extensions"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Code",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

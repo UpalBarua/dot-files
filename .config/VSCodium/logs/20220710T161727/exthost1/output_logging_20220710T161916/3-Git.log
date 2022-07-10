@@ -1,0 +1,108 @@
+[2022-07-10T10:19:17.955Z] Log level: Info
+[2022-07-10T10:19:17.957Z] [info] Validating found git in: git
+[2022-07-10T10:19:18.830Z] [info] Using git 2.37.0 from git
+[2022-07-10T10:19:19.480Z] > git rev-parse --show-toplevel [561ms]
+[2022-07-10T10:19:19.480Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:19.595Z] > git rev-parse --show-toplevel [82ms]
+[2022-07-10T10:19:19.595Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:19.762Z] > git rev-parse --show-toplevel [127ms]
+[2022-07-10T10:19:19.762Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:19.831Z] > git rev-parse --show-toplevel [38ms]
+[2022-07-10T10:19:19.831Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:19.914Z] > git rev-parse --show-toplevel [39ms]
+[2022-07-10T10:19:19.914Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:20.023Z] > git rev-parse --show-toplevel [73ms]
+[2022-07-10T10:19:20.024Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:21.197Z] > git rev-parse --show-toplevel [67ms]
+[2022-07-10T10:19:21.198Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:27.563Z] > git rev-parse --show-toplevel [546ms]
+[2022-07-10T10:19:27.563Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:51.500Z] > git rev-parse --show-toplevel [67ms]
+[2022-07-10T10:19:51.500Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:55.162Z] > git rev-parse --show-toplevel [48ms]
+[2022-07-10T10:19:55.163Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:55.706Z] > git rev-parse --show-toplevel [28ms]
+[2022-07-10T10:19:55.706Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:19:58.200Z] > git rev-parse --show-toplevel [33ms]
+[2022-07-10T10:19:58.200Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:02.327Z] > git rev-parse --show-toplevel [34ms]
+[2022-07-10T10:20:02.327Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:04.897Z] > git rev-parse --show-toplevel [67ms]
+[2022-07-10T10:20:04.897Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:06.611Z] > git rev-parse --show-toplevel [87ms]
+[2022-07-10T10:20:06.611Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:11.916Z] > git rev-parse --show-toplevel [81ms]
+[2022-07-10T10:20:11.916Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:17.030Z] > git rev-parse --show-toplevel [123ms]
+[2022-07-10T10:20:17.031Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:18.501Z] > git rev-parse --show-toplevel [24ms]
+[2022-07-10T10:20:18.501Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:20.539Z] > git rev-parse --show-toplevel [41ms]
+[2022-07-10T10:20:20.539Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:22.330Z] > git rev-parse --show-toplevel [35ms]
+[2022-07-10T10:20:22.330Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul
+[2022-07-10T10:20:25.834Z] > git rev-parse --show-toplevel [76ms]
+[2022-07-10T10:20:25.834Z] fatal: unsafe repository ('/run/media/upalb/Miscellaneous/Code/Projects/Cris-paul' is owned by someone else)
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /run/media/upalb/Miscellaneous/Code/Projects/Cris-paul

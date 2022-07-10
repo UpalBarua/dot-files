@@ -12,25 +12,28 @@ wallpaper_cmd="feh --bg-fill"
 quiet=false
 
 # default theme
-# loginshadow=00000000
-loginbox=002b3600
-locktext="Device is locked."
-font="CodeNewRoman Nerd Font"
-ringcolor=D8DEE9FF
-insidecolor=8FBCBB00
-separatorcolor=00000000
-ringvercolor=81A1C1FF
-insidevercolor=00000000
-ringwrongcolor=BF616AFF
-insidewrongcolor=BF616AFF
-timecolor=D8DEE9FF
+loginbox=282c3400
+loginshadow=00000000
+bgcolor=000000ff
+locktext="Enter password!"
+font="Cascadia Code"
 time_format="%I:%M %p"
-greetercolor=D8DEE9ff
-layoutcolor=D8DEE9ff
-keyhlcolor=81A1C1FF
-bshlcolor=BF616AFF
-verifcolor=ffffff00
-wrongcolor=BF616AFF
-modifcolor=8FBCBBFF
-bgcolor=2E3440FF
 
+# Text colors.
+timecolor=abb2bfff
+greetercolor=abb2bfff
+verifcolor=00000000
+wrongcolor=00000000
+layoutcolor=abb2bfff
+
+# Ring colors.
+keyhlcolor=61afefff
+bshlcolor=e06c75ff
+ringcolor=abb2bfff
+insidecolor=00000000
+separatorcolor=00000000
+ringvercolor=61afefff
+insidevercolor=00000000
+ringwrongcolor=e06c75ff
+insidewrongcolor=00000000
+modifcolor=61afefff

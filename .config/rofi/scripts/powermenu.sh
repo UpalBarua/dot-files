@@ -15,7 +15,7 @@ $reboot
 $shutdown" | rofi -dmenu\
                   -i\
                   -p "Power"\
-                  -config "~/.config/rofi/themes/dracula/dracula-powermenu.rasi"\
+                  -config "~/.config/rofi/themes/one-dark/one-dark-powermenu.rasi"\
                   -width "15"\
                   -lines 5\
                   -line-margin 3\

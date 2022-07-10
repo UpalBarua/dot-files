@@ -1,6 +1,6 @@
 ##--------------- Alacritty config ---------------##
 import:
-  - ~/.config/alacritty/colorschemes/dracula.yml
+  - ~/.config/alacritty/colorschemes/one-dark.yml
 
 env:
   TERM: alacritty
@@ -19,7 +19,7 @@ window:
     y: 6 
 
   dynamic_padding: false
-  opacity: 1.0
+  opacity: 0.90
 
   # Window title
   title: Alacritty

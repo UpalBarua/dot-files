@@ -4,26 +4,39 @@ Xft.rgba: rgb
 Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 
-Sxiv.background: #282A36
-Sxiv.foreground: #BD93F9
+Sxiv.background: #282C34
+Sxiv.foreground: #61AFEF
 Sxiv.font: CaskaydiaCove Nerd Font:size=10
 
-! Dracula Xresources palette
-*.foreground: #F8F8F2
-*.background: #282A36
-*.color0:     #000000
-*.color8:     #4D4D4D
-*.color1:     #FF5555
-*.color9:     #FF6E67
-*.color2:     #50FA7B
-*.color10:    #5AF78E
-*.color3:     #F1FA8C
-*.color11:    #F4F99D
-*.color4:     #BD93F9
-*.color12:    #CAA9FA
-*.color5:     #FF79C6
-*.color13:    #FF92D0
-*.color6:     #8BE9FD
-*.color14:    #9AEDFE
-*.color7:     #BFBFBF
-*.color15:    #E6E6E6
+! One Dark
+*.foreground:    #ABB2BF
+*.background:    #282C34
+*.cursorColor:   #5C6370
+*.highlightColor:#3A3F4B
+
+! Negro y gris
+*.color0:        #1E2127
+*.color8:        #5C6370
+! Rojos
+*.color1:        #E06C75
+*.color9:        #E06C75
+! Verde
+*.color2:        #98C379
+*.color10:       #98C379
+! Amarillo
+*.color3:        #D19A66
+*.color11:       #D19A66
+! Azul
+*.color4:        #61AFEF
+*.color12:       #61AFEF
+! Magenta
+*.color5:        #C678DD
+*.color13:       #C678DD
+! Cyan
+*.color6:        #56B6C2
+*.color14:       #56B6C2
+! Blanco
+*.color7:        #ABB2BF
+*.color15:       #FFFFFF
+
+

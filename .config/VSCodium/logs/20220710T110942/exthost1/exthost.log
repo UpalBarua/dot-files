@@ -1,0 +1,29 @@
+[2022-07-10 11:09:53.640] [exthost] [info] Extension host with pid 9466 started
+[2022-07-10 11:09:53.640] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-07-10 11:09:54.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-10 11:09:54.485] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-10 11:09:54.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-10 11:09:54.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-10 11:09:54.630] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-10 11:09:55.493] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+[2022-07-10 11:09:57.190] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-07-10 11:09:58.992] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-10 11:09:59.183] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-07-10 11:10:01.882] [exthost] [info] Not activating extension 'glenn2223.live-sass': Timed out while searching for 'workspaceContains' pattern **/*.s[ac]ss
+[2022-07-10 11:10:02.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-10 11:10:02.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-10 11:10:03.629] [exthost] [info] Eager extensions activated
+[2022-07-10 11:10:03.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:03.989] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:04.238] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:04.413] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:06.691] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:06.788] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:14.746] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:14.971] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-10 11:10:17.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 11:10:18.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 11:10:18.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 11:10:18.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-10 11:11:39.292] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-10 11:11:39.400] [exthost] [info] Extension host with pid 9466 exiting with code 0

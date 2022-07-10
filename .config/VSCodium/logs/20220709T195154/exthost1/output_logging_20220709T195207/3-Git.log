@@ -1,0 +1,55 @@
+[2022-07-09T13:52:33.446Z] Log level: Info
+[2022-07-09T13:52:33.447Z] [info] Validating found git in: git
+[2022-07-09T13:52:33.735Z] [info] Using git 2.37.0 from git
+[2022-07-09T13:52:34.834Z] > git rev-parse --show-toplevel [1054ms]
+[2022-07-09T13:52:34.834Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:35.005Z] > git rev-parse --show-toplevel [139ms]
+[2022-07-09T13:52:35.582Z] > git rev-parse --git-dir --git-common-dir [529ms]
+[2022-07-09T13:52:35.596Z] [info] Open repository: /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1
+[2022-07-09T13:52:35.937Z] > git rev-parse --show-toplevel [188ms]
+[2022-07-09T13:52:35.937Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:36.100Z] > git rev-parse --show-toplevel [110ms]
+[2022-07-09T13:52:36.100Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:36.322Z] > git rev-parse --show-toplevel [154ms]
+[2022-07-09T13:52:36.322Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:36.565Z] > git rev-parse --show-toplevel [226ms]
+[2022-07-09T13:52:36.565Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:36.691Z] > git rev-parse --show-toplevel [59ms]
+[2022-07-09T13:52:36.692Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:37.015Z] > git rev-parse --show-toplevel [302ms]
+[2022-07-09T13:52:37.015Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:37.137Z] > git check-ignore -v -z --stdin [785ms]
+[2022-07-09T13:52:37.279Z] > git rev-parse --show-toplevel [182ms]
+[2022-07-09T13:52:37.279Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:37.611Z] > git rev-parse --show-toplevel [235ms]
+[2022-07-09T13:52:37.611Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:38.115Z] > git ls-files --stage -- /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/style.css [448ms]
+[2022-07-09T13:52:38.571Z] > git show --textconv :style.css [943ms]
+[2022-07-09T13:52:38.717Z] > git status -z -uall [3089ms]
+[2022-07-09T13:52:38.794Z] > git cat-file -s 17b3b034ba21ee13587fa09de2b18ae08a6ed46b [626ms]
+[2022-07-09T13:52:39.973Z] > git symbolic-ref --short HEAD [1227ms]
+[2022-07-09T13:52:40.435Z] > git ls-files --stage -- /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html [579ms]
+[2022-07-09T13:52:41.226Z] > git show --textconv :index.html [1445ms]
+[2022-07-09T13:52:41.812Z] > git cat-file -s e342112bc28d2a3ab56f787bef46424c5714e3fb [1274ms]
+[2022-07-09T13:52:41.813Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1752ms]
+[2022-07-09T13:52:42.314Z] > git remote --verbose [423ms]
+[2022-07-09T13:52:42.788Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [917ms]
+[2022-07-09T13:52:42.952Z] > git config --get commit.template [120ms]
+[2022-07-09T13:52:46.024Z] > git ls-files --stage -- /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/style.css [610ms]
+[2022-07-09T13:52:46.357Z] > git show --textconv :style.css [1034ms]
+[2022-07-09T13:52:46.358Z] > git cat-file -s 17b3b034ba21ee13587fa09de2b18ae08a6ed46b [316ms]
+[2022-07-09T13:52:50.224Z] > git rev-parse --show-toplevel [177ms]
+[2022-07-09T13:52:50.224Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-09T13:52:53.749Z] > git ls-files --stage -- /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1/index.html [486ms]
+[2022-07-09T13:52:53.843Z] > git show --textconv :index.html [625ms]
+[2022-07-09T13:52:54.359Z] > git cat-file -s e342112bc28d2a3ab56f787bef46424c5714e3fb [592ms]

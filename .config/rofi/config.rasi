@@ -146,4 +146,4 @@ configuration {
   }
 }
 
-@import "~/.config/rofi/themes/dracula/dracula.rasi"
+@import "~/.config/rofi/themes/one-dark/one-dark.rasi"

@@ -8,7 +8,7 @@
     offset = 5x20
     scale = 2
     notification_limit = 0
-    highlight = "#bd93f9"
+    highlight = "#d19a66"
     indicate_hidden = yes
     transparency = 0 
     separator_height = 1
@@ -16,9 +16,11 @@
     horizontal_padding = 8
     text_icon_padding = 0
     frame_width = 0
-    frame_color = "#bd93f9"
+    frame_color = "#7F848E"
     separator_color = auto 
     sort = yes
+    gaps = true
+    gap_size = 5
 
     # Progress bar
     progress_bar = true
@@ -29,7 +31,7 @@
 
     ### Text ###
     font = CaskaydiaCove Nerd Font 10
-    line_height = 1.5 
+    line_height = 2.8 
     markup = full
     format = "<b>%s</b>\n%b"
     alignment = left
@@ -76,21 +78,21 @@
 
 
 [urgency_low]
-    background = "#282a36"
-    foreground = "#f8f8f2"
+    background = "#282c34"
+    foreground = "#abb2bf"
     timeout = 10
     default_icon = /home/upalb/.config/dunst/icons/bell.svg
 
 [urgency_normal]
-    background = "#282a36"
-    foreground = "#f8f8f2"
+    background = "#282c34"
+    foreground = "#abb2bf"
     timeout = 10
     default_icon = /home/upalb/.config/dunst/icons/bell.svg
 
 [urgency_critical]
     background = "#282a36"
-    foreground = "#ff5555"
-    frame_color = "ff5555"
+    foreground = "#e06c75"
+    frame_color = "#e06c75""
     timeout = 0
     default_icon = $HOME/.config/dunst/icons/alert.svg
 

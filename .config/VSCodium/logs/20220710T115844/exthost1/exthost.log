@@ -1,0 +1,18 @@
+[2022-07-10 11:58:50.040] [exthost] [info] Extension host with pid 12494 started
+[2022-07-10 11:58:50.045] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-07-10 11:58:50.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-10 11:58:50.567] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-10 11:58:50.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-10 11:58:50.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-10 11:58:50.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-10 11:58:50.774] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-10 11:58:50.843] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+[2022-07-10 11:58:51.016] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-07-10 11:58:51.109] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-10 11:58:51.150] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-07-10 11:58:56.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-10 11:58:57.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-10 11:58:58.809] [exthost] [info] ExtensionService#_doActivateExtension glenn2223.live-sass, startup: true, activationEvent: 'workspaceContains:**/*.s[ac]ss'
+[2022-07-10 11:59:02.329] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-10 11:59:02.949] [exthost] [info] Eager extensions activated
+[2022-07-10 11:59:03.119] [exthost] [info] Extension host with pid 12494 exiting with code 0
