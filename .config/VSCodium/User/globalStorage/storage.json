@@ -10,9 +10,9 @@
             "uiState": {
                 "mode": 1,
                 "x": 7,
-                "y": 37,
-                "width": 704,
-                "height": 724
+                "y": 35,
+                "width": 1352,
+                "height": 726
             }
         },
         "openedWindows": []
@@ -49,13 +49,14 @@
                         "label": "Open Wor&&kspace from File..."
                     },
                     {
-                        "id": "submenuitem.36",
+                        "id": "submenuitem.37",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -127,8 +128,22 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "submenuitem.39",
+                        "label": "Share",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -138,7 +153,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.35",
+                        "id": "submenuitem.36",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -377,7 +392,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.25",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -402,8 +417,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Primary Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -429,7 +443,7 @@
                                     "label": "&&Move Primary Side Bar Right"
                                 },
                                 {
-                                    "id": "submenuitem.34",
+                                    "id": "submenuitem.35",
                                     "label": "Panel Position",
                                     "submenu": {
                                         "items": [
@@ -450,7 +464,7 @@
                                     }
                                 },
                                 {
-                                    "id": "submenuitem.33",
+                                    "id": "submenuitem.34",
                                     "label": "Align Panel",
                                     "submenu": {
                                         "items": [
@@ -493,7 +507,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.31",
+                        "id": "submenuitem.32",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -653,7 +667,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.38",
+                        "id": "submenuitem.40",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -702,7 +716,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.39",
+                        "id": "submenuitem.41",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -904,7 +918,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.33",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -959,8 +973,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1542,7 +1555,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 0,
-            "sideBarWidth": 206,
+            "sideBarWidth": 0,
             "statusBarHeight": 0,
             "windowBorder": false
         }

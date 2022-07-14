@@ -1,0 +1,18 @@
+.choose {
+  &__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  &__title {
+    color: green;
+  }
+
+  &__text {
+    color: $clr-light-alt;
+  }
+}

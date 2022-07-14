@@ -76,12 +76,13 @@ selection:
 
 cursor:
   style:
-    shape: Block
+    shape: Beam
     blinking: Always
 
   vi_mode_style: None
   blink_interval: 750
-  unfocused_hollow: true
+  unfocused_hollow: false
+  thickness: 0.2
 
 live_config_reload: true
 

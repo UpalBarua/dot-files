@@ -1,9 +1,0 @@
-[2022-07-10T10:18:30.370Z] Log level: Info
-[2022-07-10T10:18:30.387Z] [info] Validating found git in: git
-[2022-07-10T10:18:30.998Z] [info] Using git 2.37.0 from git
-[2022-07-10T10:18:31.548Z] > git rev-parse --show-toplevel [424ms]
-[2022-07-10T10:18:31.730Z] > git rev-parse --git-dir --git-common-dir [150ms]
-[2022-07-10T10:18:31.739Z] [info] Open repository: /run/media/upalb/Miscellaneous/Code/Programming-Hero/Assigmnent 1
-[2022-07-10T10:18:32.343Z] > git status -z -uall [435ms]
-[2022-07-10T10:18:32.616Z] > git symbolic-ref --short HEAD [254ms]
-[2022-07-10T10:18:32.684Z] > git check-ignore -v -z --stdin [234ms]

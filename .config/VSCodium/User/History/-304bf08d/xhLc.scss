@@ -1,0 +1,37 @@
+// GLOBAL RESETS
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+  font-family: $ff-sans;
+}
+
+h1,h2,h3,h4 {
+  line-height: 1.1;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button, input {
+  font: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

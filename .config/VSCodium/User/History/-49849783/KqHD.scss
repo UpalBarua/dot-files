@@ -1,0 +1,71 @@
+.hero {
+  &__container {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 1fr;
+    margin-block: 2rem;
+    margin-bottom: 8rem;
+
+    @include for-desktop {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  &__container-top {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    @include for-tablet {
+      align-items: flex-start;
+      text-align: left;
+    }
+  }
+
+  &__more-container {
+    align-items: center;
+    background-color: $clr-light;
+    border-radius: 5rem;
+    color: $clr-accent;
+    display: flex;
+    font-weight: 500;
+    gap: 1rem;
+    justify-content: center;
+    padding: 1.2rem 1.8rem;
+    width: max-content;
+    box-shadow: $box-shadow;
+  }
+
+  &__btn-group {
+    align-items: center;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+
+    & .hero__btn {
+      box-shadow: $box-shadow;
+
+      &:nth-child(2) {
+        align-items: center;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        width: 6.4rem;
+      }
+  
+      &:last-child {
+        background-color: transparent;
+        border: none;
+        color: $clr-dark;
+  
+        &:hover,
+        &:focus {
+          opacity: 70%;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+.hero {
+  text-align: center;
+
+  &__more-container {
+    background-color: $clr-light;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $clr-accent;
+    gap: 1rem;
+    font-weight: 500;
+    padding: 1.2rem 1.8rem;
+    width: max-content;
+    margin-inline: auto;
+    border-radius: 5rem;
+  }
+
+  &__btn-group {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    .hero__btn:nth-child(2) {
+      border: 2px solid lime;
+      box-shadow: $box-shadow;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 6.4rem;
+      aspect-ratio: 1;
+    }
+    
+  }
+}

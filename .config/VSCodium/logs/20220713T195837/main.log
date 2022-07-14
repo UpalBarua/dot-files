@@ -1,0 +1,9 @@
+[2022-07-13 19:58:42.910] [main] [info] update#setState idle
+[2022-07-13 19:59:02.091] [main] [info] Starting extension host with pid 1187 (fork() took 20 ms).
+[2022-07-13 19:59:10.314] [main] [info] Enabling inspect port on extension host with pid 1187.
+[2022-07-13 19:59:12.912] [main] [info] update#setState checking for updates
+[2022-07-13 19:59:15.133] [main] [info] update#setState available for download
+[2022-07-13 21:32:53.200] [main] [info] Waiting for extension host with pid 1187 to exit.
+[2022-07-13 21:32:54.770] [main] [info] Extension host with pid 1187 exited with code: 0, signal: null.
+[2022-07-13 21:32:55.418] [main] [warning] [storage main] detected slow close() operation: Time: 2216ms, DB size: 110592b, Large Keys: memento/workbench.editors.files.textFileEditor:31917, history.entries:16677, terminal.integrated.bufferState:15532, memento/workbench.parts.editor:3167, __$__targetStorageMarker:2041
+[2022-07-13 21:32:55.623] [main] [warning] [storage main] detected slow close() operation: Time: 2424ms, DB size: 516096b, Large Keys: iconThemeData:423714, colorThemeData:33905, workbench.activity.placeholderViewlets:3833, __$__targetStorageMarker:2088, commandPalette.mru.cache:1844

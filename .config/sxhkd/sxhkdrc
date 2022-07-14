@@ -23,8 +23,8 @@ super + ctrl + Return
     st
 
 # launching gui applications
-super + alt + {b, v, t, w, a, s, x, i, g, p, n, d, o} 
-    {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app, zathura, obsidian}
+super + alt + {b, v, t, w, a, s, x, i, g, p, n, d} 
+    {$BROWSER, vscodium, thunar, nitrogen, anki, stacer, firefox, timeshift-launcher, gpick, pavucontrol, notion-app, zathura}
 
 # launching tui applications
 super + alt + {f, m, y, z, c, r}
@@ -53,6 +53,9 @@ super + w
 
 # powermenu
 super + x
+    ~/.config/rofi/scripts/powermenu.sh
+
+XF86PowerOff
     ~/.config/rofi/scripts/powermenu.sh
 
 # emoji

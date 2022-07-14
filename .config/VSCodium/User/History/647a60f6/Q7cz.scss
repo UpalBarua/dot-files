@@ -1,0 +1,79 @@
+// SERVE
+.serve {
+  background-color: $clr-light;
+  padding-block: 4rem;
+  text-align: center;
+
+  &__title {
+    color: $clr-accent;
+  }
+
+  &__card-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+
+    @include for-tablet {
+      flex-direction: row;
+    }
+  }
+
+  &__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: $clr-white;
+    flex: 1;
+    padding: 4rem .5rem;
+    border-radius: 1.4rem;
+    max-width: 25rem;
+    box-shadow: $box-shadow;
+    position: relative;
+    z-index: 1000;
+
+    &-text {
+      color: $clr-light-alt;
+      font-size: 1.4rem;
+      width: 30ch;
+    }
+
+    &-img {
+      width: 10rem;
+      height: 10rem;
+      padding-bottom: 2.5rem;
+    }
+
+    &::before {
+      content: '';
+      // display: block;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      border-radius: 1.4rem;
+      background-color: $clr-accent;
+      z-index: -10;
+    }
+
+    &::after {
+      content: '';
+      // display: block;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      border-radius: 1.4rem;
+      background-color: $clr-white;
+      z-index: -10;
+    }
+
+    &:hover::before {
+      transform: rotate(-5deg) scale(1.05);
+      transform-origin: top left;
+
+    }
+  }
+
+
+}

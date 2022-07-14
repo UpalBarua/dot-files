@@ -1,0 +1,18 @@
+.choose {
+  &__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  &__title {
+    color: green;
+    text-transform: uppercase;
+  }
+
+  &__text {
+    color: $clr-light-alt;
+  }
+}

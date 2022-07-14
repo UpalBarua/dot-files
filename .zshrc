@@ -106,6 +106,8 @@ alias ls="${aliases[ls]:-ls} -A"
 setopt glob_dots     # no special treatment for file names with a leading dot
 setopt no_auto_menu  # require an extra TAB press to open the completion menu
 
+[[ -s /home/upalb/.autojump/etc/profile.d/autojump.sh ]] && source /home/upalb/.autojump/etc/profile.d/autojump.sh
+autoload -U compinit && compinit -u
 
 ##--------------- Aliases --------------##
 # Navigation
@@ -194,6 +196,7 @@ alias zrc='nvim ~/.zshrc'
 alias vrc='nvim ~/.config/nvim/init.vim'
 alias lrc='nvim ~/.config/lf/lfrc'
 alias arc='nvim ~/.config/alacritty/alacritty.yml'
+
 
 # Startup
 # pfetch

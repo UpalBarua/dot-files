@@ -1,0 +1,1 @@
+const menuToggle = document.querySelector('#navbar__menu-toggle')

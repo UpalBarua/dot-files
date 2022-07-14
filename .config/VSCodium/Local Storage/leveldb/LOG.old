@@ -1,3 +1,3 @@
-2022/07/10-15:51:28.985 699 Reusing MANIFEST /home/upalb/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
-2022/07/10-15:51:29.211 699 Recovering log #3
-2022/07/10-15:51:29.273 699 Reusing old log /home/upalb/.config/VSCodium/Local Storage/leveldb/000003.log 
+2022/07/14-08:08:15.217 3cc Reusing MANIFEST /home/upalb/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
+2022/07/14-08:08:15.262 3cc Recovering log #3
+2022/07/14-08:08:15.311 3cc Reusing old log /home/upalb/.config/VSCodium/Local Storage/leveldb/000003.log 

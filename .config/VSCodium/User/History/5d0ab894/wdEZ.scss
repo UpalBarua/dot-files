@@ -1,0 +1,48 @@
+// UTILITY CLASSES
+.container {
+  max-width: 90%;
+  margin-inline: auto;
+  padding: 1rem;
+}
+
+.flow-1 > *:where(:not(:first-child)) {
+  margin-top: 1rem;
+}
+
+.flow-2 > *:where(:not(:first-child)) {
+  margin-top: 2rem;
+}
+
+.flow-3 > *:where(:not(:first-child)) {
+  margin-top: 3.2rem;
+}
+
+.title {
+  font-size: 3.2rem; //
+  // letter-spacing: 1px;
+}
+
+.text {
+  color: $clr-light-alt;
+}
+
+.text-accent {
+  color: $clr-accent;
+}
+
+.btn {
+  font-size: 1.2rem;
+  background-color: $clr-accent;
+  color: $clr-white;
+  padding: 1.6rem 2rem;
+  border-radius: 1.4rem;
+  border: 1px solid transparent;
+  transition: all .25s ease;
+
+  &:hover,
+  &:focus {
+    background-color: transparent;
+    border-color: $clr-accent;
+    color: $clr-accent;
+  }
+}

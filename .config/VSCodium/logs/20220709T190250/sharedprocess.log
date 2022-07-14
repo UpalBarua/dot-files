@@ -1,5 +1,0 @@
-[2022-07-09 19:03:06.778] [sharedprocess] [info] Starting worker process with pid 19314 (type: fileWatcher, window: 1).
-[2022-07-09 19:12:04.796] [sharedprocess] [info] Worker process with pid 19314 terminated normally (type: fileWatcher, window: 1).
-[2022-07-09 19:12:09.230] [sharedprocess] [info] Starting worker process with pid 20454 (type: fileWatcher, window: 1).
-[2022-07-09 19:12:31.843] [sharedprocess] [info] Worker process with pid 20454 terminated normally (type: fileWatcher, window: 1).
-[2022-07-09 19:12:33.249] [sharedprocess] [info] Starting worker process with pid 20529 (type: fileWatcher, window: 1).

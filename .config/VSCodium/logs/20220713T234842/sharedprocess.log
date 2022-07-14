@@ -1,0 +1,4 @@
+[2022-07-13 23:49:07.684] [sharedprocess] [info] Deleted from disk ms-vscode.references-view /home/upalb/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-07-13 23:49:07.692] [sharedprocess] [info] Deleted from disk ms-vscode.js-debug-companion /home/upalb/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-07-13 23:49:09.244] [sharedprocess] [info] Starting worker process with pid 1196 (type: fileWatcher, window: 1).
+[2022-07-13 23:49:12.014] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

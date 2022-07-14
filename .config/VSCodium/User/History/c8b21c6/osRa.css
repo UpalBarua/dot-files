@@ -1,0 +1,58 @@
+/* RESETS */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  font: inherit;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #282828;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+
+/* MAIN */
+.player__cover {
+  border-radius: 50%;
+  width: 10rem;
+}
+
+.player__cover-container {
+  position: relative;
+}
+
+.player__cover-container::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  height: 2rem;
+  width: 2rem;
+  background-color: white;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.player__bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.player__controls {
+  display: flex;
+  font-size: 2.5rem;
+}

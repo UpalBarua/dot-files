@@ -1,8 +1,0 @@
-[2022-07-10 09:44:19.193] [sharedprocess] [info] Starting worker process with pid 3830 (type: fileWatcher, window: 1).
-[2022-07-10 09:44:20.307] [sharedprocess] [info] Deleted from disk glenn2223.live-sass /home/upalb/.vscode-oss/extensions/glenn2223.live-sass-5.4.0
-[2022-07-10 10:22:33.681] [sharedprocess] [info] Worker process with pid 3830 terminated normally (type: fileWatcher, window: 1).
-[2022-07-10 10:22:36.616] [sharedprocess] [info] Starting worker process with pid 6624 (type: fileWatcher, window: 1).
-[2022-07-10 10:35:05.517] [sharedprocess] [info] Worker process with pid 6624 terminated normally (type: fileWatcher, window: 1).
-[2022-07-10 10:35:08.253] [sharedprocess] [info] Starting worker process with pid 6963 (type: fileWatcher, window: 1).
-[2022-07-10 10:47:55.690] [sharedprocess] [info] Worker process with pid 6963 terminated normally (type: fileWatcher, window: 1).
-[2022-07-10 10:47:58.257] [sharedprocess] [info] Starting worker process with pid 7455 (type: fileWatcher, window: 1).

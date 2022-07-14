@@ -1,0 +1,59 @@
+[2022-07-13 19:58:59.529] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'visualstudioexptteam.vscodeintellicode-completions' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.586] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.587] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.589] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.590] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.591] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.592] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.593] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.594] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.596] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.597] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.598] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.599] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.600] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'tabs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:58:59.601] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:59:02.234] [renderer1] [warning] Skipping extension /home/upalb/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17 with lower version 1.0.17.
+[2022-07-13 19:59:02.235] [renderer1] [warning] Skipping extension /home/upalb/.vscode-oss/extensions/ms-vscode.references-view-0.0.89 with lower version 0.0.89.
+[2022-07-13 19:59:02.237] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-13 19:59:11.513] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-13 19:59:12.186] [renderer1] [error] [Extension Host] (node:1187) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2022-07-13 19:59:13.740] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-13 19:59:14.086] [renderer1] [warning] UNRESPONSIVE extension host: 'WallabyJs.quokka-vscode' took 46% of 2454.154ms, saved PROFILE here: 'file:///tmp/exthost-b4dc7a.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":188135,"percentage":8},{"id":"gc","total":34482,"percentage":1},{"id":"glenn2223.live-sass","total":2321,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":830013,"percentage":34},{"id":"program","total":1647,"percentage":0},{"id":"redwan-hossain.auto-rename-tag-clone","total":30212,"percentage":1},{"id":"self","total":194239,"percentage":8},{"id":"vscode.css-language-features","total":33780,"percentage":1},{"id":"vscode.debug-auto-launch","total":317,"percentage":0},{"id":"vscode.git-base","total":174,"percentage":0},{"id":"vscode.ipynb","total":665,"percentage":0},{"id":"WallabyJs.quokka-vscode","total":1137910,"percentage":46}]
+[2022-07-13 19:59:21.208] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-13 19:59:26.425] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.LiveServer' took 100% of 5332.103ms, saved PROFILE here: 'file:///tmp/exthost-158c14.cpuprofile' [{"id":"gc","total":6705,"percentage":0},{"id":"ritwickdey.LiveServer","total":5325181,"percentage":100}]
+[2022-07-13 21:28:07.677] [renderer1] [error] Cannot read properties of undefined (reading 'find'): TypeError: Cannot read properties of undefined (reading 'find')
+    at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/opt/vscodium-bin/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:187362)
+    at t.DefaultCompletionItemProvider.provideCompletionItems (/opt/vscodium-bin/resources/app/extensions/emmet/dist/node/emmetNodeMain.js:1:185715)
+    at ie.provideCompletionItems (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:143269)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:168258
+    at te._withAdapter (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:158424)
+    at te.$provideCompletionItems (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:168233)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)

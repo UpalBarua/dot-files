@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Code/Projects/Music Player"
+    },
+    {
+      "path": "../../../../Code/Learning Flexbox"
+    },
+    {
+      "path": "../../../../Grover"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Grover",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

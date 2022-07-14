@@ -1,0 +1,69 @@
+.hero {
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+
+    @include for-desktop {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  &__container-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    @include for-tablet {
+      align-items: flex-start;
+      text-align: left;
+    }
+  }
+
+  &__more-container {
+    background-color: $clr-light;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $clr-accent;
+    gap: 1rem;
+    font-weight: 500;
+    padding: 1.2rem 1.8rem;
+    width: max-content;
+    // margin-inline: auto;
+    border-radius: 5rem;
+  }
+
+  &__btn-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+
+    & .hero__btn:nth-child(2) {
+      box-shadow: $box-shadow;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 6.4rem;
+      aspect-ratio: 1;
+    }
+
+    & .hero__btn:last-child {
+      background-color: transparent;
+      color: $clr-dark;
+      border: none;
+
+
+      &:hover,
+      &:focus {
+        opacity: 70%;
+      }
+
+    }
+    
+  }
+}

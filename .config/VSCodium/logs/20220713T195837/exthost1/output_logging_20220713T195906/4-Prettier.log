@@ -1,0 +1,250 @@
+["INFO" - 7:59:29 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:59:29 PM] Extension Version: 9.5.0.
+["INFO" - 9:28:09 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:28:09 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:28:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:28:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:28:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:28:09 PM] Formatting completed in 0.354ms.
+["INFO" - 9:30:02 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:30:02 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:30:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:30:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:30:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:30:02 PM] Formatting completed in 0.066ms.
+["INFO" - 9:30:26 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:30:26 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:30:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:30:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:30:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:30:26 PM] Formatting completed in 0.049ms.
+["INFO" - 9:31:20 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:31:20 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:31:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:31:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:31:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:31:20 PM] Formatting completed in 0.066ms.
+["INFO" - 9:31:42 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:31:42 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:31:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:31:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:31:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:31:42 PM] Formatting completed in 0.045ms.
+["INFO" - 9:31:46 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:31:46 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:31:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:31:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:31:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:31:46 PM] Formatting completed in 0.032ms.
+["INFO" - 9:32:41 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:32:41 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:32:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:32:41 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:41 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:32:41 PM] Formatting completed in 0.034ms.
+["INFO" - 9:32:44 PM] Formatting file:///home/upalb/Grover/index.html
+["INFO" - 9:32:44 PM] Using ignore file (if present) at /home/upalb/Grover/.prettierignore
+["INFO" - 9:32:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:32:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Grover/index.html",
+  "parser": "html"
+}
+["INFO" - 9:32:44 PM] Formatting completed in 0.028ms.

@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #282828;
+  color: #ffffff;
+  font-family: sans-serif;
+  padding: 3rem;
+  overflow: hidden;
+}
+
+h1 {
+  padding-bottom: 3rem;
+}
+
+.flex > div {
+  padding: 2rem;
+  background-color: lightblue;
+  font-size: 3rem;
+  color: black;
+  max-height: 10rem;
+}
+
+.flex > div:first-of-type {
+  min-height: 20rem;
+}
+
+
+.flex {
+  display: flex;
+  gap: 1rem;
+}
