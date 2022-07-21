@@ -1,0 +1,42 @@
+[2022-07-19T15:56:03.177Z] Log level: Info
+[2022-07-19T15:56:03.178Z] [info] Validating found git in: git
+[2022-07-19T15:56:17.668Z] [info] Using git 2.37.1 from git
+[2022-07-19T15:56:18.509Z] > git rev-parse --show-toplevel [740ms]
+[2022-07-19T15:56:18.509Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-19T15:56:18.660Z] > git rev-parse --show-toplevel [97ms]
+[2022-07-19T15:56:19.105Z] > git rev-parse --git-dir --git-common-dir [367ms]
+[2022-07-19T15:56:19.112Z] [info] Open repository: /run/media/upalb/Miscellaneous/Code/Programming-Hero/Milestone 2 Practice
+[2022-07-19T15:56:20.125Z] > git rev-parse --show-toplevel [860ms]
+[2022-07-19T15:56:20.125Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-19T15:56:20.363Z] > git rev-parse --show-toplevel [134ms]
+[2022-07-19T15:56:20.363Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-19T15:56:20.794Z] > git rev-parse --show-toplevel [144ms]
+[2022-07-19T15:56:20.794Z] fatal: not a git repository (or any parent up to mount point /run/media/upalb)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-19T15:56:21.040Z] > git rev-parse --show-toplevel [139ms]
+[2022-07-19T15:56:21.177Z] > git rev-parse --show-toplevel [11ms]
+[2022-07-19T15:56:21.329Z] > git status -z -uall [2155ms]
+[2022-07-19T15:56:21.395Z] > git symbolic-ref --short HEAD [52ms]
+[2022-07-19T15:56:21.853Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [321ms]
+[2022-07-19T15:56:21.976Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [112ms]
+[2022-07-19T15:56:21.988Z] > git remote --verbose [62ms]
+[2022-07-19T15:56:22.312Z] > git config --get commit.template [121ms]
+[2022-07-19T15:56:22.585Z] > git status -z -uall [250ms]
+[2022-07-19T15:56:22.835Z] > git symbolic-ref --short HEAD [100ms]
+[2022-07-19T15:56:22.914Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [61ms]
+[2022-07-19T15:56:22.975Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [46ms]
+[2022-07-19T15:56:23.045Z] > git remote --verbose [72ms]
+[2022-07-19T15:56:23.069Z] > git config --get commit.template [3ms]
+[2022-07-19T15:56:30.062Z] > git config --global user.email [29ms]
+[2022-07-19T15:56:30.109Z] > git config --global user.name [19ms]
+[2022-07-19T15:56:30.462Z] > git status -z -uall [333ms]
+[2022-07-19T15:56:30.527Z] > git symbolic-ref --short HEAD [47ms]
+[2022-07-19T15:56:30.733Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [181ms]
+[2022-07-19T15:56:30.879Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [48ms]
+[2022-07-19T15:56:30.892Z] > git remote --verbose [45ms]
+[2022-07-19T15:56:30.943Z] > git config --get commit.template [20ms]
+[2022-07-19T15:56:31.176Z] > git show -s --format=%an <%ae> [%ai] 2facb8bc50e094d9cf0e02b8a436153c8267d35b [206ms]
+[2022-07-19T15:56:31.354Z] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 2facb8bc50e094d9cf0e02b8a436153c8267d35b [164ms]

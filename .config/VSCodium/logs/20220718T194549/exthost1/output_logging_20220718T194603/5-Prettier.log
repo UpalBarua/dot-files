@@ -1,0 +1,92 @@
+["INFO" - 7:46:38 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:46:38 PM] Extension Version: 9.5.0.
+["INFO" - 7:50:12 PM] Formatting file:///home/upalb/.config/VSCodium/Workspaces/1654163437602/workspace.json
+["INFO" - 7:50:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 7:50:13 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:13 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/Workspaces/1654163437602/workspace.json",
+  "parser": "json"
+}
+["INFO" - 7:50:13 PM] Formatting completed in 1.261ms.
+["INFO" - 7:52:36 PM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 7:52:36 PM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 7:52:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 7:52:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:52:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 7:53:14 PM] Formatting vscode-userdata:/home/upalb/.config/VSCodium/User/settings.json
+["INFO" - 7:53:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 7:53:14 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:53:14 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 7:53:14 PM] Formatting completed in 0.081ms.

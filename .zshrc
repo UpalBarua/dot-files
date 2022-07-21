@@ -174,7 +174,7 @@ alias pscpu='ps auxf | sort -nr -k 3'
 alias pscpu10='ps auxf | sort -nr -k 3 | head -10'
 
 # confirm before overwriting something
-alias cp="cp -i"
+alias cp="cp -iv"
 alias mv='mv -i'
 alias rm='rm -i'
 alias rmf='rm -rf -i'
@@ -197,8 +197,8 @@ alias vrc='nvim ~/.config/nvim/init.vim'
 alias lrc='nvim ~/.config/lf/lfrc'
 alias arc='nvim ~/.config/alacritty/alacritty.yml'
 
-
 # Startup
+colorscript random
 # pfetch
 
 # --------------- EOF --------------- #

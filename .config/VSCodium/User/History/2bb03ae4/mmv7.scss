@@ -1,0 +1,48 @@
+.app {
+  background-color: $clr-light;
+  padding-block: 4rem;
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+
+    @include for-desktop {
+      grid-template-columns: 1fr 1fr;
+      text-align: left;
+    }
+  }
+
+  &__title {
+    color: $clr-accent;
+  }
+
+  &__text {
+    color: $clr-dark-alt;
+  }
+
+  &__btn-group {
+    display: flex;
+    gap: 2rem;
+    margin-top: 5rem;
+    justify-content: center;
+
+    @include for-desktop {
+      justify-content: flex-start;
+    }
+  }
+
+  &__btn {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid $clr-dark;
+    border-radius: 1rem;
+    padding: 1rem 1.6rem;
+    font-weight: 600;
+    box-shadow: $box-shadow;
+  }
+}

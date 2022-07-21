@@ -1,0 +1,39 @@
+.choose {
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+
+    @include for-desktop {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  &__metadata {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    @include for-tablet {
+      align-items: flex-start;
+      text-align: start;
+    }
+
+    @include for-desktop {
+      width: 80%;
+    }
+  }
+
+  &__title {
+    color: green;
+  }
+
+  &__text {
+    color: $clr-light-alt;
+    padding-bottom: 2rem;
+  }
+}

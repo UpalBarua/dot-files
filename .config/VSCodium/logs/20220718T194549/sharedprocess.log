@@ -1,0 +1,11 @@
+[2022-07-18 19:46:04.815] [sharedprocess] [info] Starting worker process with pid 15039 (type: fileWatcher, window: 1).
+[2022-07-18 19:46:07.693] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-18 19:46:16.737] [sharedprocess] [info] Getting Manifest... streetsidesoftware.code-spell-checker
+[2022-07-18 19:46:21.965] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2022-07-18 19:47:15.686] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/upalb/.config/VSCodium/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.3.1
+[2022-07-18 19:47:16.636] [sharedprocess] [info] Extracted extension to /home/upalb/.vscode-oss/extensions/.8b3d0252-525a-4138-92a5-92f6030cab81: streetsidesoftware.code-spell-checker
+[2022-07-18 19:47:16.749] [sharedprocess] [info] Renamed to /home/upalb/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-2.3.1
+[2022-07-18 19:47:16.754] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2022-07-18 19:47:17.062] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2022-07-18 19:53:28.562] [sharedprocess] [info] Worker process with pid 15039 terminated normally (type: fileWatcher, window: 1).
+[2022-07-18 19:53:33.911] [sharedprocess] [info] Starting worker process with pid 16215 (type: fileWatcher, window: 1).

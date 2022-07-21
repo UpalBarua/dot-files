@@ -1,0 +1,9 @@
+{
+  "folders": [],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Milestone 2 Practice",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

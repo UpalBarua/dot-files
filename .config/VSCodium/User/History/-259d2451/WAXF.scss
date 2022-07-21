@@ -1,0 +1,35 @@
+.choose {
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+
+    @include for-desktop {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  &__metadata {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+
+    @include for-tablet {
+      align-items: flex-start;
+      text-align: start;
+    }
+  }
+
+  &__title {
+    color: green;
+  }
+
+  &__text {
+    color: $clr-light-alt;
+  }
+}

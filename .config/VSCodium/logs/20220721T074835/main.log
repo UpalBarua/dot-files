@@ -1,0 +1,7 @@
+[2022-07-21 07:48:41.205] [main] [info] update#setState idle
+[2022-07-21 07:49:00.886] [main] [info] Starting extension host with pid 1415 (fork() took 17 ms).
+[2022-07-21 07:49:09.711] [main] [info] Enabling inspect port on extension host with pid 1415.
+[2022-07-21 07:49:11.212] [main] [info] update#setState checking for updates
+[2022-07-21 07:49:14.658] [main] [info] update#setState available for download
+[2022-07-21 10:00:20.164] [main] [info] Extension host with pid 1415 exited with code: 0, signal: null.
+[2022-07-21 10:00:21.137] [main] [info] Waiting for extension host with pid 1415 to exit.

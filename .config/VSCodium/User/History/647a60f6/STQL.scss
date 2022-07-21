@@ -1,0 +1,82 @@
+// SERVE
+.serve {
+  background-color: $clr-light;
+  text-align: center;
+  padding-block: 6rem;
+
+  &__title {
+    color: $clr-accent;
+  }
+
+  &__card-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    margin-top: 6rem;
+
+    @include for-tablet {
+      flex-direction: row;
+    }
+  }
+
+  &__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: $clr-white;
+    flex: 1;
+    padding: 4rem 0.8rem;
+    border-radius: 1.4rem;
+    box-shadow: $box-shadow;
+    position: relative;
+    z-index: 1000;
+    width: 100%;
+
+    @include for-desktop {
+      max-width: 25rem;
+    }
+
+    &-text {
+      color: $clr-light-alt;
+      font-size: 1.4rem;
+      width: 30ch;
+    }
+
+    &-img {
+      width: 10rem;
+      height: 10rem;
+      padding-bottom: 2.5rem;
+    }
+
+    &::before {
+      content: '';
+      // display: block;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      border-radius: 1.4rem;
+      background-color: $clr-accent;
+      z-index: -10;
+      transition: transform 0.25s ease-in-out;
+      transform-origin: top left;
+    }
+
+    &::after {
+      content: '';
+      // display: block;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      border-radius: 1.4rem;
+      background-color: $clr-white;
+      z-index: -10;
+    }
+
+    &:hover::before {
+      transform: rotate(-3deg);
+    }
+  }
+}

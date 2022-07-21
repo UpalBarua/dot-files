@@ -1,0 +1,1614 @@
+["INFO" - 10:28:15 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:28:15 AM] Extension Version: 9.5.0.
+["INFO" - 10:28:16 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:28:16 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:28:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:28:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:28:16 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:28:17 AM] Formatting completed in 0.911ms.
+["INFO" - 10:30:49 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:30:49 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:30:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:30:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:30:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:30:49 AM] Formatting completed in 0.121ms.
+["INFO" - 10:30:52 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:30:52 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:30:52 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:30:52 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:30:52 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:30:52 AM] Formatting completed in 0.047ms.
+["INFO" - 10:30:57 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:30:57 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:30:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:30:57 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:30:57 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:30:57 AM] Formatting completed in 0.039ms.
+["INFO" - 10:31:12 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:31:12 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:31:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:31:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:31:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:31:12 AM] Formatting completed in 0.038ms.
+["INFO" - 10:36:22 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:36:22 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:36:22 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:36:22 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:36:22 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:36:22 AM] Formatting completed in 0.096ms.
+["INFO" - 10:37:00 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:37:00 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:37:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:37:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:37:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:37:00 AM] Formatting completed in 0.051ms.
+["INFO" - 10:38:49 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:38:49 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:38:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:38:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:38:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:38:49 AM] Formatting completed in 0.055ms.
+["INFO" - 10:38:53 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:38:53 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:38:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:38:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:38:53 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:38:53 AM] Formatting completed in 0.047ms.
+["INFO" - 10:42:26 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:42:26 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:42:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:42:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:42:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:42:26 AM] Formatting completed in 0.052ms.
+["INFO" - 10:43:11 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:43:11 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:43:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:43:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:43:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:43:11 AM] Formatting completed in 0.033ms.
+["INFO" - 10:43:26 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:43:26 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:43:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:43:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:43:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:43:26 AM] Formatting completed in 0.036ms.
+["INFO" - 10:43:31 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:43:31 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:43:31 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:43:31 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:43:31 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:43:31 AM] Formatting completed in 0.038ms.
+["INFO" - 10:44:00 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:44:00 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:44:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:44:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:44:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:44:00 AM] Formatting completed in 0.03ms.
+["INFO" - 10:44:10 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:44:10 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:44:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:44:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:44:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:44:10 AM] Formatting completed in 0.026ms.
+["INFO" - 10:44:16 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:44:16 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:44:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:44:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:44:16 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:44:16 AM] Formatting completed in 0.026ms.
+["INFO" - 10:44:51 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:44:51 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:44:51 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:44:51 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:44:51 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:44:51 AM] Formatting completed in 0.044ms.
+["INFO" - 10:45:05 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:45:05 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:45:05 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:45:05 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:45:05 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:45:05 AM] Formatting completed in 0.028ms.
+["INFO" - 10:45:25 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:45:25 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:45:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:45:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:45:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:45:25 AM] Formatting completed in 0.074ms.
+["INFO" - 10:45:31 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:45:31 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:45:31 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:45:31 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:45:31 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:45:31 AM] Formatting completed in 0.033ms.
+["INFO" - 10:45:56 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:45:56 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:45:56 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:45:56 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:45:56 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:45:56 AM] Formatting completed in 0.032ms.
+["INFO" - 10:46:43 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:46:43 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:46:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:46:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:46:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:46:43 AM] Formatting completed in 0.05ms.
+["INFO" - 10:47:03 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:47:03 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:47:03 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:47:03 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:47:03 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:47:03 AM] Formatting completed in 0.066ms.
+["INFO" - 10:47:26 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:47:26 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:47:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:47:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:47:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:47:26 AM] Formatting completed in 0.045ms.
+["INFO" - 10:48:19 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:48:19 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:48:19 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:48:19 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:48:19 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:48:19 AM] Formatting completed in 0.036ms.
+["INFO" - 10:48:23 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:48:23 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:48:23 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:48:23 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:48:23 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:48:23 AM] Formatting completed in 0.038ms.
+["INFO" - 10:48:47 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:48:47 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:48:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:48:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:48:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:48:47 AM] Formatting completed in 0.028ms.
+["INFO" - 10:48:55 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:48:55 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:48:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:48:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:48:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:48:55 AM] Formatting completed in 0.034ms.
+["INFO" - 10:49:00 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:49:00 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:49:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:49:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:49:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:49:00 AM] Formatting completed in 0.028ms.
+["INFO" - 10:49:15 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:49:15 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:49:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:49:15 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:49:15 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:49:15 AM] Formatting completed in 0.025ms.
+["INFO" - 10:49:20 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:49:20 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:49:20 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:49:20 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:49:20 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:49:20 AM] Formatting completed in 0.029ms.
+["INFO" - 10:49:29 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:49:29 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:49:29 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:49:29 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:49:29 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:49:29 AM] Formatting completed in 0.039ms.
+["INFO" - 10:49:32 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:49:32 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:49:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:49:32 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:49:32 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:49:32 AM] Formatting completed in 0.024ms.
+["INFO" - 10:50:12 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:50:12 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:50:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:50:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:50:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:50:12 AM] Formatting completed in 0.039ms.
+["INFO" - 10:50:21 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:50:21 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:50:21 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:50:21 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:50:21 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:50:21 AM] Formatting completed in 0.034ms.
+["INFO" - 10:50:35 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:50:35 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:50:35 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:50:35 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:50:35 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:50:35 AM] Formatting completed in 0.027ms.
+["INFO" - 10:50:40 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:50:40 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:50:40 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:50:40 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:50:40 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:50:40 AM] Formatting completed in 0.03ms.
+["INFO" - 10:50:44 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:50:44 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:50:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:50:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:50:44 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:50:45 AM] Formatting completed in 0.025ms.
+["INFO" - 10:50:55 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:50:55 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:50:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:50:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:50:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:50:55 AM] Formatting completed in 0.027ms.
+["INFO" - 10:51:47 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:51:47 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:51:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:51:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:51:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:51:47 AM] Formatting completed in 0.03ms.
+["INFO" - 10:52:00 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:52:00 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:52:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:52:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:52:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:52:00 AM] Formatting completed in 0.03ms.
+["INFO" - 10:52:13 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:52:13 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:52:13 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:52:13 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:52:13 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:52:13 AM] Formatting completed in 0.033ms.
+["INFO" - 10:52:32 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:52:32 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:52:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:52:32 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:52:32 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:52:32 AM] Formatting completed in 0.034ms.
+["INFO" - 10:53:51 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:53:51 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:53:51 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:53:51 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:53:51 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:53:51 AM] Formatting completed in 0.032ms.
+["INFO" - 10:54:01 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/index.html
+["INFO" - 10:54:01 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:54:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:54:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:54:01 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html",
+  "parser": "html"
+}
+["INFO" - 10:54:01 AM] Formatting completed in 0.06ms.
+["INFO" - 10:54:28 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:54:28 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:54:28 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:54:28 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:54:28 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:54:28 AM] Formatting completed in 0.031ms.
+["INFO" - 10:54:37 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:54:37 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:54:37 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:54:37 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:54:37 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:54:37 AM] Formatting completed in 0.045ms.
+["INFO" - 10:55:46 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:55:46 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:55:46 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:55:46 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:55:46 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:55:46 AM] Formatting completed in 0.069ms.
+["INFO" - 10:56:15 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:56:15 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:56:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:56:15 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:56:15 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:56:15 AM] Formatting completed in 0.031ms.
+["INFO" - 10:56:25 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:56:25 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:56:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:56:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:56:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:56:25 AM] Formatting completed in 0.035ms.
+["INFO" - 10:56:41 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:56:41 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:56:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:56:41 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:56:41 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:56:41 AM] Formatting completed in 0.055ms.
+["INFO" - 10:57:01 AM] Formatting file:///home/upalb/Code/Programming-Hero/Milestone%202%20Practice/css/style.css
+["INFO" - 10:57:01 AM] Using ignore file (if present) at /home/upalb/Code/Programming-Hero/Milestone 2 Practice/.prettierignore
+["INFO" - 10:57:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 10:57:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:57:01 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/Programming-Hero/Milestone 2 Practice/css/style.css",
+  "parser": "css"
+}
+["INFO" - 10:57:01 AM] Formatting completed in 0.047ms.

@@ -1,0 +1,8 @@
+[2022-07-20 23:03:32.781] [main] [info] update#setState idle
+[2022-07-20 23:03:38.093] [main] [info] Starting extension host with pid 22514 (fork() took 22 ms).
+[2022-07-20 23:03:45.797] [main] [info] Enabling inspect port on extension host with pid 22514.
+[2022-07-20 23:03:45.906] [main] [info] Enabling inspect port on extension host with pid 22514.
+[2022-07-20 23:04:02.785] [main] [info] update#setState checking for updates
+[2022-07-20 23:04:02.897] [main] [info] update#setState available for download
+[2022-07-21 01:03:18.106] [main] [info] Waiting for extension host with pid 22514 to exit.
+[2022-07-21 01:03:18.233] [main] [info] Extension host with pid 22514 exited with code: 0, signal: null.

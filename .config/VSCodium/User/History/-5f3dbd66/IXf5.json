@@ -1,0 +1,30 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.activityBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  // "editor.fontLigatures": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "html.format.enable": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "workbench.statusBar.visible": false,
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorBlinking": "expand",
+  "emmet.triggerExpansionOnTab": true
+  // "editor.glyphMargin": false,
+}

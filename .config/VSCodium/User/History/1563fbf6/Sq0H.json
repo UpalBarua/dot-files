@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Code/React/first-react-app"
+    },
+    {
+      "path": "../../../../Code/Programming-Hero/Milestone 2 Practice"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Grover",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

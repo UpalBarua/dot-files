@@ -1,0 +1,9 @@
+.app {
+  background-color: $clr-light;
+  padding-block: 4rem;
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}

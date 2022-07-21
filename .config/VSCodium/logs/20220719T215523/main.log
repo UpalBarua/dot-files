@@ -1,0 +1,40 @@
+[2022-07-19 21:55:28.176] [main] [info] update#setState idle
+[2022-07-19 21:55:46.314] [main] [info] Starting extension host with pid 1269 (fork() took 20 ms).
+[2022-07-19 21:55:58.179] [main] [info] update#setState checking for updates
+[2022-07-19 21:56:01.905] [main] [info] update#setState available for download
+[2022-07-19 22:25:43.168] [main] [info] Extension host with pid 1269 exited with code: 0, signal: null.
+[2022-07-19 22:25:44.228] [main] [info] Starting extension host with pid 3897 (fork() took 11 ms).
+[2022-07-19 22:25:47.061] [main] [info] Extension host with pid 3897 exited with code: 0, signal: null.
+[2022-07-19 22:25:52.840] [main] [error] [uncaught exception in main]: Error: Settings Profiles are disabled. Enable them via the 'workbench.experimental.settingsProfiles.enabled' setting.
+[2022-07-19 22:25:52.841] [main] [error] Error: Settings Profiles are disabled. Enable them via the 'workbench.experimental.settingsProfiles.enabled' setting.
+    at bt.unsetWorkspace (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:69:70201)
+    at o.deleteUntitledWorkspaceSync (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:76:26367)
+    at o.deleteUntitledWorkspace (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:76:26467)
+    at D.deleteUntitledWorkspace (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:77:55486)
+    at Object.call (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:24:8273)
+    at c.onPromise (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:23:4866)
+    at c.onRawMessage (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:23:4261)
+    at /opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:23:3553
+    at m.invoke (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at g.fire (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at /opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:17:18598
+    at m.invoke (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at g.fire (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at /opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:17:18774
+    at m.invoke (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at g.fire (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at N (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:17:20668)
+    at IpcMainImpl.f (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:16:33377)
+    at IpcMainImpl.emit (node:events:390:28)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:161:10780)
+    at EventEmitter.emit (node:events:390:28)
+[2022-07-19 22:25:58.036] [main] [info] Starting extension host with pid 3928 (fork() took 15 ms).
+[2022-07-19 22:26:14.282] [main] [info] Enabling inspect port on extension host with pid 3928.
+[2022-07-20 00:54:07.330] [main] [info] Waiting for extension host with pid 3928 to exit.
+[2022-07-20 00:54:12.194] [main] [info] Extension host with pid 3928 exited with code: 0, signal: null.
+[2022-07-20 00:54:12.234] [main] [warning] [storage main] detected slow close() operation: Time: 5021ms, DB size: 24576b, Large Keys: memento/workbench.editors.files.textFileEditor:1274, __$__targetStorageMarker:1194, memento/workbench.parts.editor:836, workbench.view.debug.state:528, terminal.integrated.environmentVariableCollections:489
+[2022-07-20 00:54:12.884] [main] [warning] [storage main] detected slow close() operation: Time: 5674ms, DB size: 131072b, Large Keys: memento/workbench.editors.files.textFileEditor:39674, history.entries:18923, terminal.integrated.bufferState:12141, memento/workbench.parts.editor:2090, __$__targetStorageMarker:2032
+[2022-07-20 00:54:12.920] [main] [warning] [storage main] detected slow close() operation: Time: 5709ms, DB size: 516096b, Large Keys: iconThemeData:423714, colorThemeData:33905, workbench.activity.placeholderViewlets:3871, commandPalette.mru.cache:2099, __$__targetStorageMarker:2088

@@ -19,7 +19,7 @@ window:
     y: 6 
 
   dynamic_padding: false
-  opacity: 0.90
+  opacity: 1.0
 
   # Window title
   title: Alacritty

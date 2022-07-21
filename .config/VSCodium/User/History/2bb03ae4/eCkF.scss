@@ -1,0 +1,20 @@
+.app {
+  background-color: $clr-light;
+  padding-block: 4rem;
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    align-items: center;
+
+    @include for-desktop {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  &__img {
+    border-radius: 4.4rem;
+    box-shadow: $box-shadow;
+  }
+}

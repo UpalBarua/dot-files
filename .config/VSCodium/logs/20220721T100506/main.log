@@ -1,0 +1,10 @@
+[2022-07-21 10:05:08.536] [main] [info] update#setState idle
+[2022-07-21 10:05:15.892] [main] [info] Starting extension host with pid 10128 (fork() took 20 ms).
+[2022-07-21 10:05:23.006] [main] [info] Enabling inspect port on extension host with pid 10128.
+[2022-07-21 10:05:38.539] [main] [info] update#setState checking for updates
+[2022-07-21 10:05:38.557] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7169)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-07-21 10:05:38.558] [main] [info] update#setState idle
+[2022-07-21 10:10:09.216] [main] [info] Waiting for extension host with pid 10128 to exit.
+[2022-07-21 10:10:09.333] [main] [info] Extension host with pid 10128 exited with code: 0, signal: null.

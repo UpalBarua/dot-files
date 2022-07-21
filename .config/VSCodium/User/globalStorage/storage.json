@@ -3,10 +3,10 @@
     "windowsState": {
         "lastActiveWindow": {
             "workspaceIdentifier": {
-                "id": "fa84a96756ee31e53c73910e76cc5e69",
-                "configURIPath": "file:///home/upalb/.config/VSCodium/Workspaces/1654163437602/workspace.json"
+                "id": "b67e51b30a1438d37863ced5ea89ee2e",
+                "configURIPath": "file:///home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json"
             },
-            "backupPath": "/home/upalb/.config/VSCodium/Backups/fa84a96756ee31e53c73910e76cc5e69",
+            "backupPath": "/home/upalb/.config/VSCodium/Backups/b67e51b30a1438d37863ced5ea89ee2e",
             "uiState": {
                 "mode": 1,
                 "x": 7,
@@ -65,6 +65,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/upalb/Assignment-2",
+                                        "path": "/home/upalb/Assignment-2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Assignment-2"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/upalb/downloads/visymo.job-website",
                                         "path": "/home/upalb/downloads/visymo.job-website",
                                         "scheme": "file"
@@ -82,6 +93,31 @@
                                     },
                                     "enabled": true,
                                     "label": "~/NewsFlash"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/upalb/.config/homepage/index.html",
+                                        "path": "/home/upalb/.config/homepage/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/homepage/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/upalb/.config/homepage/style.css",
+                                        "path": "/home/upalb/.config/homepage/style.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/homepage/style.css"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -128,7 +164,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1537,18 +1574,18 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#282c34",
+    "themeBackground": "#23272e",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
-            "background": "#282c34",
-            "editorBackground": "#282c34",
-            "titleBarBackground": "#282c34",
-            "activityBarBackground": "#282c34",
-            "sideBarBackground": "#21252b",
-            "statusBarBackground": "#21252b",
-            "statusBarNoFolderBackground": "#21252b"
+            "background": "#23272e",
+            "editorBackground": "#23272e",
+            "titleBarBackground": "#23272e",
+            "activityBarBackground": "#23272e",
+            "sideBarBackground": "#1e2227",
+            "statusBarBackground": "#1e2227",
+            "statusBarNoFolderBackground": "#1e2227"
         },
         "layoutInfo": {
             "sideBarSide": "left",

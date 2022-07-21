@@ -1,9 +1,0 @@
-Compilation Error
-Error: expected "+", "-", "*", "/", ",", or ")".
-   ╷
-34 │   font-size: clamp(2.2rem, 4vw - .5rem 3rem); //2.2
-   │                                        ^
-   ╵
-  Grover/scss/_utils.scss 34:40  @import
-  Grover/scss/style.scss 4:9     root stylesheet
---------------------

@@ -1,0 +1,3776 @@
+["INFO" - 11:17:40 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 11:17:40 AM] Extension Version: 9.5.0.
+["INFO" - 11:22:00 AM] Formatting file:///home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json
+["INFO" - 11:22:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 11:22:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:22:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json",
+  "parser": "json"
+}
+["INFO" - 11:22:00 AM] Formatting completed in 0.131ms.
+["INFO" - 11:22:27 AM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 11:22:27 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:22:27 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:22:27 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:22:27 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["INFO" - 11:22:27 AM] Formatting completed in 0.209ms.
+["INFO" - 11:22:30 AM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 11:22:30 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:22:30 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:22:30 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:22:30 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 11:22:30 AM] Formatting completed in 0.111ms.
+["INFO" - 11:22:40 AM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 11:22:40 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:22:40 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:22:40 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:22:40 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["INFO" - 11:22:40 AM] Formatting completed in 0.092ms.
+["INFO" - 11:23:07 AM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 11:23:07 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:23:07 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:23:07 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:23:07 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 11:23:07 AM] Formatting completed in 0.039ms.
+["INFO" - 11:23:30 AM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 11:23:30 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:23:30 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:23:30 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:23:30 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 11:23:30 AM] Formatting completed in 0.051ms.
+["INFO" - 11:25:06 AM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 11:25:06 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:25:06 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:25:06 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:25:06 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["INFO" - 11:25:07 AM] Formatting completed in 0.086ms.
+["INFO" - 11:25:20 AM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 11:25:20 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:25:20 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:25:20 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:25:20 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 11:25:20 AM] Formatting completed in 0.063ms.
+["INFO" - 11:25:41 AM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 11:25:41 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:25:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:25:41 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:25:41 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 11:25:41 AM] Formatting completed in 0.041ms.
+["INFO" - 11:25:48 AM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 11:25:48 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:25:48 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:25:48 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:25:48 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 11:25:48 AM] Formatting completed in 0.027ms.
+["INFO" - 11:27:00 AM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 11:27:00 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:27:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:27:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:27:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["INFO" - 11:27:00 AM] Formatting completed in 0.05ms.
+["INFO" - 11:31:00 AM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 11:31:01 AM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 11:31:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:31:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:31:01 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["ERROR" - 11:31:01 AM] Error formatting document.
+["ERROR" - 11:31:01 AM] Unexpected character "<" (142:9)
+  140 |         <a href=""></a>
+  141 |         <a href=""></a
+> 142 |         <a href=""></a>
+      |         ^
+  143 |     </div>
+  144 |
+  145 |     <!-- cards section -->
+SyntaxError: Unexpected character "<" (142:9)
+  140 |         <a href=""></a>
+  141 |         <a href=""></a
+> 142 |         <a href=""></a>
+      |         ^
+  143 |     </div>
+  144 |
+  145 |     <!-- cards section -->
+    at t (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/upalb/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at N.provideDocumentFormattingEdits (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:45332)
+["INFO" - 11:31:01 AM] Formatting completed in 0.191ms.
+["INFO" - 11:37:03 AM] Formatting file:///home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json
+["INFO" - 11:37:03 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 11:37:03 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:37:03 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json",
+  "parser": "json"
+}
+["INFO" - 11:37:03 AM] Formatting completed in 0.041ms.
+["INFO" - 11:37:11 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:37:11 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:37:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:37:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:37:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:37:11 AM] Formatting completed in 0.137ms.
+["INFO" - 11:41:41 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:41:41 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:41:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:41:41 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:41:41 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:41:41 AM] Formatting completed in 0.073ms.
+["INFO" - 11:42:09 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:42:09 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:42:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:42:09 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:42:09 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:42:09 AM] Formatting completed in 0.065ms.
+["INFO" - 11:42:39 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:42:39 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:42:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:42:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:42:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:42:39 AM] Formatting completed in 0.053ms.
+["INFO" - 11:42:55 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:42:55 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:42:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:42:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:42:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:42:55 AM] Formatting completed in 0.1ms.
+["INFO" - 11:43:05 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:43:05 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:43:05 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:43:05 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:43:05 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:43:05 AM] Formatting completed in 0.074ms.
+["INFO" - 11:43:43 AM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 11:43:43 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:43:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:43:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:43:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 11:43:43 AM] Formatting completed in 0.089ms.
+["INFO" - 11:44:53 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:44:53 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:44:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:44:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:44:53 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:44:53 AM] Formatting completed in 0.108ms.
+["INFO" - 11:45:26 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:45:26 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:45:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:45:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:45:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:45:26 AM] Formatting completed in 0.069ms.
+["INFO" - 11:46:32 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:46:32 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:46:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:46:32 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:46:32 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:46:32 AM] Formatting completed in 0.07ms.
+["INFO" - 11:48:07 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:48:07 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:48:07 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:48:07 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:48:07 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:48:07 AM] Formatting completed in 0.138ms.
+["INFO" - 11:48:50 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:48:50 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:48:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:48:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:48:50 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:48:50 AM] Formatting completed in 0.1ms.
+["INFO" - 11:48:58 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:48:58 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:48:58 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:48:58 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:48:58 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:48:58 AM] Formatting completed in 0.085ms.
+["INFO" - 11:49:09 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:09 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:09 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:09 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:09 AM] Formatting completed in 0.073ms.
+["INFO" - 11:49:11 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:11 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:11 AM] Formatting completed in 0.064ms.
+["INFO" - 11:49:13 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:13 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:13 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:13 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:13 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:13 AM] Formatting completed in 0.068ms.
+["INFO" - 11:49:25 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:25 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:26 AM] Formatting completed in 0.112ms.
+["INFO" - 11:49:28 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:28 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:28 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:28 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:28 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:28 AM] Formatting completed in 0.057ms.
+["INFO" - 11:49:45 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:45 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:45 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:45 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:45 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:46 AM] Formatting completed in 0.064ms.
+["INFO" - 11:49:49 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:49 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:49 AM] Formatting completed in 0.061ms.
+["INFO" - 11:49:51 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:49:51 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:49:51 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:49:51 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:49:51 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:49:51 AM] Formatting completed in 0.074ms.
+["INFO" - 11:50:35 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:50:37 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:50:37 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:50:37 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:50:37 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:50:37 AM] Formatting completed in 1.377ms.
+["INFO" - 11:52:36 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:52:36 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:52:36 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:52:36 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:52:36 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:52:36 AM] Formatting completed in 0.236ms.
+["INFO" - 11:52:42 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:52:42 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:52:42 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:52:42 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:52:42 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:52:42 AM] Formatting completed in 0.091ms.
+["INFO" - 11:52:47 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:52:47 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:52:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:52:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:52:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:52:48 AM] Formatting completed in 0.059ms.
+["INFO" - 11:53:55 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:53:55 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:53:55 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:53:55 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:53:55 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:53:56 AM] Formatting completed in 0.064ms.
+["INFO" - 11:54:34 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:54:34 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:54:34 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:54:34 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:54:34 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:54:34 AM] Formatting completed in 0.07ms.
+["INFO" - 11:54:41 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:54:41 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:54:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:54:41 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:54:41 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:54:41 AM] Formatting completed in 0.054ms.
+["INFO" - 11:54:45 AM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 11:54:45 AM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 11:54:45 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 11:54:45 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:54:45 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 11:54:45 AM] Formatting completed in 0.06ms.
+["INFO" - 12:17:48 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:17:48 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:17:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:17:48 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:17:48 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:17:48 PM] Formatting completed in 0.154ms.
+["INFO" - 12:23:09 PM] Formatting file:///home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json
+["INFO" - 12:23:10 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 12:23:10 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:23:10 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json",
+  "parser": "json"
+}
+["INFO" - 12:23:10 PM] Formatting completed in 0.154ms.
+["INFO" - 12:24:04 PM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 12:24:04 PM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 12:24:04 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:24:04 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:24:04 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["INFO" - 12:24:04 PM] Formatting completed in 0.19ms.
+["INFO" - 12:24:07 PM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 12:24:07 PM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 12:24:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:24:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:24:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["INFO" - 12:24:07 PM] Formatting completed in 0.075ms.
+["INFO" - 12:24:09 PM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 12:24:09 PM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 12:24:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:24:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:24:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 12:24:09 PM] Formatting completed in 0.071ms.
+["INFO" - 12:24:11 PM] Formatting file:///home/upalb/downloads/second-asignment/index.css
+["INFO" - 12:24:11 PM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 12:24:11 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:24:11 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:24:11 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.css",
+  "parser": "css"
+}
+["INFO" - 12:24:11 PM] Formatting completed in 0.087ms.
+["INFO" - 12:24:21 PM] Formatting file:///home/upalb/downloads/second-asignment/index.html
+["INFO" - 12:24:21 PM] Using ignore file (if present) at /home/upalb/downloads/second-asignment/.prettierignore
+["INFO" - 12:24:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:24:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:24:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/downloads/second-asignment/index.html",
+  "parser": "html"
+}
+["INFO" - 12:24:21 PM] Formatting completed in 0.07ms.
+["INFO" - 12:32:57 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:32:57 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:32:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:32:57 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:32:57 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:32:57 PM] Formatting completed in 0.062ms.
+["INFO" - 12:33:39 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:33:39 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:33:39 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:33:39 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:33:39 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:33:39 PM] Formatting completed in 0.087ms.
+["INFO" - 12:33:44 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:33:44 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:33:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:33:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:33:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:33:44 PM] Formatting completed in 0.046ms.
+["INFO" - 12:33:46 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:33:46 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:33:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:33:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:33:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:33:46 PM] Formatting completed in 0.067ms.
+["INFO" - 12:33:50 PM] Formatting file:///home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json
+["INFO" - 12:33:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 12:33:50 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:33:50 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/Workspaces/1658294238948/workspace.json",
+  "parser": "json"
+}
+["INFO" - 12:33:50 PM] Formatting completed in 0.03ms.
+["INFO" - 12:34:13 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:34:13 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:34:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:34:13 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:34:13 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:34:13 PM] Formatting completed in 0.066ms.
+["INFO" - 12:34:50 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:34:50 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:34:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:34:50 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:34:50 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:34:50 PM] Formatting completed in 0.044ms.
+["INFO" - 12:35:36 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:35:36 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:35:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:35:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:35:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:35:36 PM] Formatting completed in 0.075ms.
+["INFO" - 12:35:51 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:35:51 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:35:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:35:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:35:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:35:51 PM] Formatting completed in 0.053ms.
+["INFO" - 12:36:07 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:36:07 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:36:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:36:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:36:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:36:07 PM] Formatting completed in 0.056ms.
+["INFO" - 12:36:17 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:36:17 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:36:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:36:17 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:36:17 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:36:17 PM] Formatting completed in 0.043ms.
+["INFO" - 12:36:19 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:36:19 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:36:19 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:36:19 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:36:19 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:36:19 PM] Formatting completed in 0.074ms.
+["INFO" - 12:36:20 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:36:20 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:36:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:36:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:36:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:36:20 PM] Formatting completed in 0.052ms.
+["INFO" - 12:36:31 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:36:31 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:36:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:36:31 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:36:31 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:36:31 PM] Formatting completed in 0.052ms.
+["INFO" - 12:36:46 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:36:46 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:36:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:36:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:36:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:36:46 PM] Formatting completed in 0.058ms.
+["INFO" - 12:36:57 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:36:57 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:36:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:36:57 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:36:57 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:36:58 PM] Formatting completed in 0.085ms.
+["INFO" - 12:37:06 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:37:06 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:37:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:37:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:37:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:37:06 PM] Formatting completed in 0.05ms.
+["INFO" - 12:37:21 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:37:21 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:37:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:37:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:37:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:37:21 PM] Formatting completed in 0.082ms.
+["INFO" - 12:38:20 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:38:20 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:38:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:38:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:38:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:38:20 PM] Formatting completed in 0.046ms.
+["INFO" - 12:38:51 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:38:51 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:38:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:38:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:38:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:38:51 PM] Formatting completed in 0.051ms.
+["INFO" - 12:38:52 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:38:52 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:38:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:38:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:38:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:38:52 PM] Formatting completed in 0.047ms.
+["INFO" - 12:40:10 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:40:10 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:40:10 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:40:10 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:40:10 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:40:10 PM] Formatting completed in 0.06ms.
+["INFO" - 12:41:06 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:41:06 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:41:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:41:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:41:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:41:06 PM] Formatting completed in 0.067ms.
+["INFO" - 12:41:26 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:41:26 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:41:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:41:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:41:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:41:26 PM] Formatting completed in 0.076ms.
+["INFO" - 12:41:47 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:41:47 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:41:47 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:41:47 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:41:47 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:41:47 PM] Formatting completed in 0.054ms.
+["INFO" - 12:41:52 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:41:52 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:41:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:41:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:41:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:41:52 PM] Formatting completed in 0.051ms.
+["INFO" - 12:42:15 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:42:15 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:42:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:42:15 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:42:15 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:42:15 PM] Formatting completed in 0.066ms.
+["INFO" - 12:42:37 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:42:37 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:42:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:42:37 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:42:37 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:42:37 PM] Formatting completed in 0.086ms.
+["INFO" - 12:42:41 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:42:41 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:42:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:42:41 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:42:41 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:42:41 PM] Formatting completed in 0.066ms.
+["INFO" - 12:42:44 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:42:44 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:42:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:42:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:42:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:42:44 PM] Formatting completed in 0.072ms.
+["INFO" - 12:42:52 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:42:52 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:42:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:42:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:42:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:42:52 PM] Formatting completed in 0.08ms.
+["INFO" - 12:43:00 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:43:00 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:43:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:43:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:43:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:43:00 PM] Formatting completed in 0.067ms.
+["INFO" - 12:43:08 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:43:08 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:43:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:43:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:43:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:43:08 PM] Formatting completed in 0.076ms.
+["INFO" - 12:43:58 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:43:58 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:43:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:43:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:43:58 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:43:58 PM] Formatting completed in 0.048ms.
+["INFO" - 12:45:03 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:45:03 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:45:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:45:03 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:45:03 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:45:03 PM] Formatting completed in 0.046ms.
+["INFO" - 12:45:15 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:45:15 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:45:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:45:15 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:45:15 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:45:15 PM] Formatting completed in 0.065ms.
+["INFO" - 12:45:21 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:45:21 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:45:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:45:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:45:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:45:21 PM] Formatting completed in 0.049ms.
+["INFO" - 12:45:33 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:45:33 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:45:33 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:45:33 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:45:33 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:45:33 PM] Formatting completed in 0.06ms.
+["INFO" - 12:46:02 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:46:02 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:46:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:46:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:46:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:46:02 PM] Formatting completed in 0.056ms.
+["INFO" - 12:47:00 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 12:47:00 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 12:47:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 12:47:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:47:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 12:47:00 PM] Formatting completed in 0.059ms.
+["INFO" - 1:14:13 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:14:13 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:14:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:14:13 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:14:13 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:14:13 PM] Formatting completed in 0.055ms.
+["INFO" - 1:15:40 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:15:40 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:15:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:15:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:15:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:15:40 PM] Formatting completed in 0.07ms.
+["INFO" - 1:17:56 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:17:56 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:17:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:17:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:17:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:17:56 PM] Formatting completed in 0.049ms.
+["INFO" - 1:19:27 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:19:27 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:19:27 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:19:27 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:19:27 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:19:27 PM] Formatting completed in 0.054ms.
+["INFO" - 1:19:48 PM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 1:19:48 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:19:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:19:48 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:19:48 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 1:19:48 PM] Formatting completed in 0.059ms.
+["INFO" - 1:20:09 PM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 1:20:09 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:20:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:20:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:20:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 1:20:09 PM] Formatting completed in 0.038ms.
+["INFO" - 1:20:25 PM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 1:20:25 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:20:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:20:25 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:20:25 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 1:20:25 PM] Formatting completed in 0.038ms.
+["INFO" - 1:23:56 PM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 1:23:56 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:23:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:23:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:23:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 1:23:56 PM] Formatting completed in 0.045ms.
+["INFO" - 1:23:59 PM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 1:23:59 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:23:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:23:59 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:23:59 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 1:23:59 PM] Formatting completed in 0.035ms.
+["INFO" - 1:25:21 PM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 1:25:21 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:25:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:25:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:25:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 1:25:21 PM] Formatting completed in 0.054ms.
+["INFO" - 1:25:45 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:25:45 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:25:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:25:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:25:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:25:45 PM] Formatting completed in 0.11ms.
+["INFO" - 1:26:28 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:26:28 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:26:28 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:26:28 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:26:28 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:26:28 PM] Formatting completed in 0.044ms.
+["INFO" - 1:28:46 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:28:46 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:28:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:28:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:28:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:28:46 PM] Formatting completed in 0.044ms.
+["INFO" - 1:29:04 PM] Formatting vscode-userdata:/home/upalb/.config/VSCodium/User/settings.json
+["INFO" - 1:29:04 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:29:04 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:29:04 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:29:04 PM] Formatting completed in 0.06ms.
+["INFO" - 1:30:54 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:30:54 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:30:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:30:54 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:30:54 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:30:54 PM] Formatting completed in 0.073ms.
+["INFO" - 1:32:39 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:32:39 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:32:39 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:32:39 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:32:39 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:32:40 PM] Formatting completed in 0.104ms.
+["INFO" - 1:32:46 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:32:46 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:32:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:32:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:32:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:32:46 PM] Formatting completed in 0.066ms.
+["INFO" - 1:32:55 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:32:55 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:32:55 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:32:55 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:32:55 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:32:55 PM] Formatting completed in 0.055ms.
+["INFO" - 1:32:59 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:32:59 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:32:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:32:59 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:32:59 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:32:59 PM] Formatting completed in 0.084ms.
+["INFO" - 1:33:05 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:33:05 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:33:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:33:05 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:33:05 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:33:05 PM] Formatting completed in 0.068ms.
+["INFO" - 1:33:36 PM] Formatting vscode-userdata:/home/upalb/.config/VSCodium/User/settings.json
+["INFO" - 1:33:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:33:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:33:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/.config/VSCodium/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:33:36 PM] Formatting completed in 0.027ms.
+["INFO" - 1:34:03 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:34:03 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:34:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:34:03 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:34:03 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:34:03 PM] Formatting completed in 0.03ms.
+["INFO" - 1:34:34 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:34:35 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:34:35 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:34:35 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:34:35 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:34:35 PM] Formatting completed in 0.026ms.
+["INFO" - 1:35:07 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:35:07 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:35:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:35:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:35:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:35:07 PM] Formatting completed in 0.032ms.
+["INFO" - 1:36:13 PM] Formatting file:///home/upalb/Assignment-2/upcoming-match.html
+["INFO" - 1:36:13 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:36:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:36:13 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:36:13 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/upcoming-match.html",
+  "parser": "html"
+}
+["INFO" - 1:36:13 PM] Formatting completed in 0.024ms.
+["INFO" - 1:38:14 PM] Formatting file:///home/upalb/Assignment-2/index.html
+["INFO" - 1:38:14 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:38:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:38:14 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:38:14 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/index.html",
+  "parser": "html"
+}
+["INFO" - 1:38:14 PM] Formatting completed in 0.062ms.
+["INFO" - 1:39:01 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:39:01 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:39:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:39:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:39:01 PM] Formatting completed in 0.062ms.
+["INFO" - 1:39:04 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:39:04 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:39:04 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:39:04 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:04 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:39:04 PM] Formatting completed in 0.048ms.
+["INFO" - 1:39:29 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:39:29 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:39:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:39:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:39:29 PM] Formatting completed in 0.046ms.
+["INFO" - 1:39:34 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:39:34 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:39:34 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:39:34 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:34 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:39:34 PM] Formatting completed in 0.08ms.
+["INFO" - 1:39:37 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:39:37 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:39:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:39:37 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:39:37 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:39:37 PM] Formatting completed in 0.047ms.
+["INFO" - 1:41:11 PM] Formatting file:///home/upalb/Assignment-2/css/style.css
+["INFO" - 1:41:11 PM] Using ignore file (if present) at /home/upalb/Assignment-2/.prettierignore
+["INFO" - 1:41:11 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:41:11 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:41:11 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Assignment-2/css/style.css",
+  "parser": "css"
+}
+["INFO" - 1:41:11 PM] Formatting completed in 0.049ms.

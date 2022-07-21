@@ -1,0 +1,50 @@
+.feature {
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    justify-items: center;
+    gap: 2rem;
+
+    &:first-child .feature__title {
+      color: limegreen;
+    }
+
+    &:last-child .feature__title {
+      color: orange;
+    }
+
+    @include for-desktop {
+      grid-template-columns: 1fr 1fr;
+
+      &:last-child .feature__body {
+        order: -1;
+      }
+    }
+  }
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    @include for-tablet {
+      align-items: flex-start;
+      text-align: start;
+    }
+
+    @include for-desktop {
+      width: 80%;
+    }
+  }
+
+  &__text {
+    color: $clr-light-alt;
+    padding-bottom: 2.5rem;
+  }
+
+  &__btn {
+    box-shadow: $box-shadow;
+  }
+}

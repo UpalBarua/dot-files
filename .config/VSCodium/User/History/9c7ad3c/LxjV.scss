@@ -1,0 +1,35 @@
+.footer {
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    text-align: center;
+
+    @include for-desktop {
+      grid-template-columns: repeat(4, 1fr);
+      text-align: left;
+    }
+  }
+
+  &__col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__text {
+    color: $clr-dark-alt;
+    margin-block: 2rem;
+  }
+
+  &__list {
+    list-style: none;
+    & > * {
+      margin-top: 1rem;
+    }
+
+    &-link {
+      display: none;
+    }
+  }
+}

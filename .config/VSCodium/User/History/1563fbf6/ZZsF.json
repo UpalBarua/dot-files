@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Code/React/first-react-app"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Grover",
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501
+  }
+}

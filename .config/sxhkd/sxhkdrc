@@ -14,10 +14,10 @@ super + Return
     $TERMINAL
 
 super + shift + Return
-    kitty 
+    rofi -show drun
 
 super + alt + Return
-    xfce4-terminal 
+    kitty 
 
 super + ctrl + Return
     st
@@ -44,7 +44,7 @@ super + ctrl + m
 ## Rofi launchers ===========================================
 
 # run launcher
-super + @space 
+super + r
     rofi -show drun
 
 # window switcher

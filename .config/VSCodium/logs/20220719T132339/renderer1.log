@@ -1,0 +1,136 @@
+[2022-07-19 13:23:44.937] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'visualstudioexptteam.vscodeintellicode-completions' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.958] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.959] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.959] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.960] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.961] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.962] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.962] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.963] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.964] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.964] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.965] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.965] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.966] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.966] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.967] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'tabs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:44.967] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:47.629] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 13:23:52.462] [renderer1] [error] Unable to read file '/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html' (Error: File not modified since): Error: Unable to read file '/home/upalb/Code/Programming-Hero/Milestone 2 Practice/index.html' (Error: File not modified since)
+    at h.doReadFileStream (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20036)
+    at async p.doRead (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:42357)
+    at async p.readStream (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:42032)
+    at async Ir.resolveFromFile (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:66789)
+    at async vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:36489
+[2022-07-19 13:23:59.241] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-19 13:23:59.689] [renderer1] [error] [Extension Host] (node:7486) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2022-07-19 13:23:59.691] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 13:23:59.870] [renderer1] [warning] UNRESPONSIVE extension host: 'ms-vsliveshare.vsliveshare' took 49% of 683.543ms, saved PROFILE here: 'file:///tmp/exthost-5c5144.cpuprofile' [{"id":"gc","total":19469,"percentage":3},{"id":"ms-vsliveshare.vsliveshare","total":335150,"percentage":49},{"id":"program","total":171,"percentage":0},{"id":"redwan-hossain.auto-rename-tag-clone","total":8901,"percentage":1},{"id":"self","total":182368,"percentage":27},{"id":"vscode.npm","total":134895,"percentage":20},{"id":"WallabyJs.quokka-vscode","total":2405,"percentage":0}]
+[2022-07-19 13:24:08.039] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-19 13:24:09.065] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 13:24:09.271] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.LiveServer' took 67% of 1367.411ms, saved PROFILE here: 'file:///tmp/exthost-17d2f3.cpuprofile' [{"id":"gc","total":839,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":175,"percentage":0},{"id":"program","total":204,"percentage":0},{"id":"ritwickdey.LiveServer","total":912431,"percentage":67},{"id":"self","total":252582,"percentage":18},{"id":"streetsidesoftware.code-spell-checker","total":35391,"percentage":3},{"id":"vscode.html-language-features","total":490,"percentage":0},{"id":"vscode.npm","total":525,"percentage":0},{"id":"zhuangtongfa.material-theme","total":164666,"percentage":12}]
+[2022-07-19 13:34:45.478] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at I.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:12655)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12159)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-19 13:38:30.358] [renderer1] [error] <semantic> TypeScript Server Error (4.7.3)
+BADCLIENT: Bad error code, 6133 not found in range 115..142 (found: ); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: BADCLIENT: Bad error code, 6133 not found in range 115..142 (found: ); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1653:25)
+    at deleteTypeParameters (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155361:65)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155232:100
+    at Function.ChangeTracker.with (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148314:17)
+    at Object.getCodeActions (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155232:68)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149562:77
+    at Object.flatMap (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149562:23)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:164962:35
+    at Object.flatMap (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getCodeFixesAtPosition (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:164960:23)
+    at IpcIOSession.Session.getCodeFixes (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176859:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175242:61)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177172:88
+    at IpcIOSession.Session.executeWithRequestId (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177163:28)
+    at IpcIOSession.Session.executeCommand (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177172:33)
+    at IpcIOSession.Session.onMessage (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177198:35)
+    at process.<anonymous> (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179833:31)
+    at process.emit (node:events:390:28)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21): Error: <semantic> TypeScript Server Error (4.7.3)
+BADCLIENT: Bad error code, 6133 not found in range 115..142 (found: ); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: BADCLIENT: Bad error code, 6133 not found in range 115..142 (found: ); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1653:25)
+    at deleteTypeParameters (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155361:65)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155232:100
+    at Function.ChangeTracker.with (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148314:17)
+    at Object.getCodeActions (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155232:68)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149562:77
+    at Object.flatMap (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149562:23)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:164962:35
+    at Object.flatMap (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getCodeFixesAtPosition (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:164960:23)
+    at IpcIOSession.Session.getCodeFixes (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176859:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175242:61)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177172:88
+    at IpcIOSession.Session.executeWithRequestId (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177163:28)
+    at IpcIOSession.Session.executeCommand (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177172:33)
+    at IpcIOSession.Session.onMessage (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177198:35)
+    at process.<anonymous> (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179833:31)
+    at process.emit (node:events:390:28)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:718215)
+    at p.dispatchResponse (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:712063)
+    at p.dispatchMessage (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:710931)
+    at ChildProcess.<anonymous> (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:710416)
+    at ChildProcess.emit (node:events:390:28)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-07-19 13:46:43.102] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 13:46:47.794] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 13:46:47.843] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-19 13:46:48.017] [renderer1] [warning] UNRESPONSIVE extension host: 'PKief.material-icon-theme' took 91% of 699.234ms, saved PROFILE here: 'file:///tmp/exthost-902f36.cpuprofile' [{"id":"PKief.material-icon-theme","total":633950,"percentage":91}]
+[2022-07-19 15:28:00.937] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 15:28:05.135] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-19 15:38:40.856] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 15:38:43.351] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-19 15:41:21.986] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-19 15:41:22.081] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 15:41:22.282] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.typescript-language-features' took 70% of 991.299ms, saved PROFILE here: 'file:///tmp/exthost-b769ac.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":170,"percentage":0},{"id":"esbenp.prettier-vscode","total":1420,"percentage":0},{"id":"program","total":124,"percentage":0},{"id":"self","total":102805,"percentage":10},{"id":"streetsidesoftware.code-spell-checker","total":145,"percentage":0},{"id":"vscode.git","total":188267,"percentage":19},{"id":"vscode.merge-conflict","total":177,"percentage":0},{"id":"vscode.typescript-language-features","total":697807,"percentage":70}]

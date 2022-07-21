@@ -1,0 +1,66 @@
+[2022-07-19 13:23:53.076] [exthost] [info] Extension host with pid 7486 started
+[2022-07-19 13:23:53.076] [exthost] [info] Skipping acquiring lock for /home/upalb/.config/VSCodium/User/workspaceStorage/fa84a96756ee31e53c73910e76cc5e69.
+[2022-07-19 13:23:54.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-19 13:23:54.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-19 13:23:55.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-19 13:23:55.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-19 13:23:55.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-19 13:23:55.835] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-19 13:23:56.279] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-07-19 13:23:59.349] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-07-19 13:23:59.429] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-07-19 13:23:59.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-19 13:24:01.270] [exthost] [info] Not activating extension 'glenn2223.live-sass': Timed out while searching for 'workspaceContains' pattern **/*.s[ac]ss
+[2022-07-19 13:24:01.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-19 13:24:01.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-19 13:24:04.202] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:04.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:04.307] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:04.366] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:04.596] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:05.472] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:05.526] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:08.663] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:08.828] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 13:24:15.692] [exthost] [info] Eager extensions activated
+[2022-07-19 13:24:15.727] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-19 13:27:48.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-07-19 13:34:14.748] [exthost] [info] ExtensionService#_doActivateExtension sleistner.vscode-fileutils, startup: false, activationEvent: 'onCommand:fileutils.newFile'
+[2022-07-19 13:38:30.334] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-07-19 13:38:30.334] [exthost] [error] Error: <semantic> TypeScript Server Error (4.7.3)
+BADCLIENT: Bad error code, 6133 not found in range 115..142 (found: ); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: BADCLIENT: Bad error code, 6133 not found in range 115..142 (found: ); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1653:25)
+    at deleteTypeParameters (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155361:65)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155232:100
+    at Function.ChangeTracker.with (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148314:17)
+    at Object.getCodeActions (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155232:68)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149562:77
+    at Object.flatMap (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149562:23)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:164962:35
+    at Object.flatMap (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getCodeFixesAtPosition (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:164960:23)
+    at IpcIOSession.Session.getCodeFixes (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176859:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:175242:61)
+    at /opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177172:88
+    at IpcIOSession.Session.executeWithRequestId (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177163:28)
+    at IpcIOSession.Session.executeCommand (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177172:33)
+    at IpcIOSession.Session.onMessage (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:177198:35)
+    at process.<anonymous> (/opt/vscodium-bin/resources/app/extensions/node_modules/typescript/lib/tsserver.js:179833:31)
+    at process.emit (node:events:390:28)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+    at Function.create (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:718215)
+    at p.dispatchResponse (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:712063)
+    at p.dispatchMessage (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:710931)
+    at ChildProcess.<anonymous> (/opt/vscodium-bin/resources/app/extensions/typescript-language-features/dist/extension.js:2:710416)
+    at ChildProcess.emit (node:events:390:28)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[2022-07-19 17:48:50.478] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-19 17:48:50.745] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-19 17:48:50.975] [exthost] [info] Extension host with pid 7486 exiting with code 0

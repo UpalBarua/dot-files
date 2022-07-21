@@ -1,0 +1,91 @@
+/* ==================== */
+/* CUSTOM PROPERTIES    */
+/* ==================== */
+:root {
+  /* colors */
+  --clr-dark: #000;
+  --clr-light: #fff;
+  --clr-light-alt: #9f9f9f;
+  --clr--accent: #562eff;
+  --clr-red: #ed6b4f;
+
+  /* fonts */
+  --ff-sans: 'Poppins', sans-serif;
+}
+
+/* ==================== */
+/* GENERAL RESETS       */
+/* ==================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--ff-sans);
+  line-height: 1.5;
+  font-size: 0.875rem;
+  background-color: var(--clr-light-alt);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.1;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ==================== */
+/* UTILITIES            */
+/* ==================== */
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* ==================== */
+/* NAVBAR STYLES        */
+/* ==================== */
+.header {
+  background-color: var(--clr--accent);
+}
+
+.navbar {
+  color: var(--clr-light);
+  display: flex;
+  justify-content: space-between;
+  padding: 0.35rem 1rem;
+}
+
+.navbar__logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+}
+
+.navbar__logo-img {
+  width: 2rem;
+}
+
+.navbar__list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}

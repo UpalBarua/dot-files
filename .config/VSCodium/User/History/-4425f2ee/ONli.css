@@ -1,0 +1,49 @@
+/* ==================== */
+/* CUSTOM PROPERTIES    */
+/* ==================== */
+:root {
+  --ff-sans: 'Poppins', sans-serif;
+}
+
+/* ==================== */
+/* GENERAL RESETS       */
+/* ==================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--ff-sans);
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.1;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* ==================== */
+/* UTILITIES            */
+/* ==================== */
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
+  background-color: lime;
+}
+
+/* ==================== */
+/* NAVBAR STYLES        */
+/* ==================== */

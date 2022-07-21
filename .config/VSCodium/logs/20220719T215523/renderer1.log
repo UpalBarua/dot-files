@@ -1,0 +1,140 @@
+[2022-07-19 21:55:44.626] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'visualstudioexptteam.vscodeintellicode-completions' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.648] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.650] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.651] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.653] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.654] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.654] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.655] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.656] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.656] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.657] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.658] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.658] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.659] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.659] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.660] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'tabs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:44.661] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:47.354] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 21:55:56.751] [renderer1] [error] [Extension Host] (node:1269) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2022-07-19 22:25:52.853] [renderer1] [error] [uncaught exception in main]: Settings Profiles are disabled. Enable them via the 'workbench.experimental.settingsProfiles.enabled' setting.: Error: Settings Profiles are disabled. Enable them via the 'workbench.experimental.settingsProfiles.enabled' setting.
+    at bt.unsetWorkspace (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:69:70201)
+    at o.deleteUntitledWorkspaceSync (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:76:26367)
+    at o.deleteUntitledWorkspace (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:76:26467)
+    at D.deleteUntitledWorkspace (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:77:55486)
+    at Object.call (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:24:8273)
+    at c.onPromise (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:23:4866)
+    at c.onRawMessage (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:23:4261)
+    at /opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:23:3553
+    at m.invoke (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at g.fire (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at /opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:17:18598
+    at m.invoke (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at g.fire (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at /opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:17:18774
+    at m.invoke (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at g.fire (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at N (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:17:20668)
+    at IpcMainImpl.f (/opt/vscodium-bin/resources/app/out/vs/code/electron-main/main.js:16:33377)
+    at IpcMainImpl.emit (node:events:390:28)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:161:10780)
+    at EventEmitter.emit (node:events:390:28)
+[2022-07-19 22:25:56.244] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'visualstudioexptteam.vscodeintellicode-completions' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.266] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.266] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.266] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.267] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.267] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.268] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.268] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.269] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.270] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-nightly' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.270] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.271] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.271] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.271] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookEditorDecorationType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.272] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'textDocumentNotebook' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.272] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'tabs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:56.272] [renderer1] [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:25:58.385] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-07-19 22:26:02.895] [renderer1] [error] [Extension Host] (node:3928) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2022-07-19 22:26:16.010] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-07-19 22:26:16.347] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-07-19 22:26:16.568] [renderer1] [warning] UNRESPONSIVE extension host: 'zhuangtongfa.material-theme' took 54% of 701.598ms, saved PROFILE here: 'file:///tmp/exthost-07218c.cpuprofile' [{"id":"bradlc.vscode-tailwindcss","total":336,"percentage":0},{"id":"esbenp.prettier-vscode","total":119738,"percentage":17},{"id":"formulahendry.code-runner","total":1498,"percentage":0},{"id":"gc","total":32326,"percentage":5},{"id":"ms-vsliveshare.vsliveshare","total":14829,"percentage":2},{"id":"PKief.material-icon-theme","total":12028,"percentage":2},{"id":"program","total":2333,"percentage":0},{"id":"ritwickdey.LiveServer","total":1134,"percentage":0},{"id":"self","total":98662,"percentage":14},{"id":"streetsidesoftware.code-spell-checker","total":29986,"percentage":4},{"id":"vscode.emmet","total":6625,"percentage":1},{"id":"vscode.merge-conflict","total":4758,"percentage":1},{"id":"WallabyJs.quokka-vscode","total":173,"percentage":0},{"id":"zhuangtongfa.material-theme","total":376840,"percentage":54}]
+[2022-07-19 22:28:14.894] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at S._lineAt (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:1174)
+    at Object.rangeOffset [as lineAt] (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:95)
+    at /home/upalb/.vscode-oss/extensions/redwan-hossain.auto-rename-tag-clone-0.1.8/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:317:41
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at I.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:12655)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12159)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-19 22:29:58.324] [renderer1] [error] Cannot read properties of undefined (reading 'getRuleStack'): TypeError: Cannot read properties of undefined (reading 'getRuleStack')
+    at DocumentDecoration.tokenizeLine (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/upalb/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at I.$acceptModelChanged (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:12655)
+    at s._doInvokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12159)
+    at s._receiveOneMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at v.invoke (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at w.deliver (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-19 23:43:57.431] [renderer1] [warning] {"name":"Canceled","message":"Canceled"}

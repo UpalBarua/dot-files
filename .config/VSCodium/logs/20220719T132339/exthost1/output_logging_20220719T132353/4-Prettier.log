@@ -1,0 +1,715 @@
+["INFO" - 1:24:09 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 1:24:09 PM] Extension Version: 9.5.0.
+["INFO" - 1:35:25 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/Card.js
+["INFO" - 1:35:25 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 1:35:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:35:25 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:35:25 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/Card.js",
+  "parser": "babel"
+}
+["INFO" - 1:35:26 PM] Formatting completed in 0.469ms.
+["INFO" - 1:37:08 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.css
+["INFO" - 1:37:08 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 1:37:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:37:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:37:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.css",
+  "parser": "css"
+}
+["INFO" - 1:37:08 PM] Formatting completed in 0.119ms.
+["INFO" - 1:37:21 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/Card.css
+["INFO" - 1:37:21 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 1:37:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:37:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:37:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/Card.css",
+  "parser": "css"
+}
+["INFO" - 1:37:21 PM] Formatting completed in 0.035ms.
+["INFO" - 1:38:21 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/Card.css
+["INFO" - 1:38:21 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 1:38:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:38:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:38:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/Card.css",
+  "parser": "css"
+}
+["INFO" - 1:38:21 PM] Formatting completed in 0.026ms.
+["INFO" - 1:38:36 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 1:38:36 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 1:38:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:38:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:38:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 1:38:36 PM] Formatting completed in 0.066ms.
+["INFO" - 1:42:38 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/Card.js
+["INFO" - 1:42:38 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 1:42:38 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:42:38 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:42:38 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/Card.js",
+  "parser": "babel"
+}
+["INFO" - 1:42:38 PM] Formatting completed in 0.023ms.
+["INFO" - 1:46:57 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/Card.js
+["INFO" - 1:46:58 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 1:46:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:46:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:46:58 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/Card.js",
+  "parser": "babel"
+}
+["INFO" - 1:46:58 PM] Formatting completed in 0.209ms.
+["INFO" - 3:28:37 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/Card.js
+["INFO" - 3:28:39 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 3:28:39 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:28:39 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:28:39 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/Card.js",
+  "parser": "babel"
+}
+["INFO" - 3:28:39 PM] Formatting completed in 1.443ms.
+["INFO" - 3:30:41 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/Card.js
+["INFO" - 3:30:41 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 3:30:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:30:41 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:30:41 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/Card.js",
+  "parser": "babel"
+}
+["INFO" - 3:30:42 PM] Formatting completed in 0.942ms.
+["INFO" - 3:31:17 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseDate.js
+["INFO" - 3:31:17 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 3:31:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:31:17 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:31:17 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseDate.js",
+  "parser": "babel"
+}
+["INFO" - 3:31:17 PM] Formatting completed in 0.456ms.
+["INFO" - 3:31:19 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseDate.js
+["INFO" - 3:31:19 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 3:31:19 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:31:19 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:31:19 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseDate.js",
+  "parser": "babel"
+}
+["INFO" - 3:31:19 PM] Formatting completed in 0.307ms.
+["INFO" - 3:31:52 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 3:31:52 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 3:31:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:31:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:31:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 3:31:52 PM] Formatting completed in 0.467ms.
+["INFO" - 3:32:12 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/App.js
+["INFO" - 3:32:12 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 3:32:12 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:32:12 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:32:12 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/App.js",
+  "parser": "babel"
+}
+["INFO" - 3:32:13 PM] Formatting completed in 0.584ms.
+["INFO" - 4:09:01 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 4:09:01 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 4:09:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:09:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:09:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 4:09:01 PM] Formatting completed in 0.108ms.
+["INFO" - 4:14:44 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 4:14:44 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 4:14:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:14:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:14:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 4:14:44 PM] Formatting completed in 0.027ms.
+["INFO" - 4:15:15 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 4:15:15 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 4:15:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:15:15 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:15:15 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 4:15:15 PM] Formatting completed in 0.027ms.
+["INFO" - 4:46:20 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 4:46:20 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 4:46:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:46:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:46:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 4:46:20 PM] Formatting completed in 0.185ms.
+["INFO" - 4:46:48 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 4:46:48 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 4:46:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:46:48 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:46:48 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 4:46:48 PM] Formatting completed in 0.026ms.
+["INFO" - 4:47:17 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 4:47:17 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 4:47:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:47:17 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:47:17 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 4:47:17 PM] Formatting completed in 0.037ms.
+["INFO" - 4:59:29 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 4:59:29 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 4:59:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:59:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:59:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 4:59:29 PM] Formatting completed in 0.234ms.
+["INFO" - 5:00:07 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 5:00:07 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 5:00:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:00:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:00:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 5:00:07 PM] Formatting completed in 0.062ms.
+["INFO" - 5:00:51 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 5:00:51 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 5:00:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:00:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:00:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 5:00:51 PM] Formatting completed in 0.169ms.
+["INFO" - 5:11:41 PM] Formatting file:///home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js
+["INFO" - 5:11:42 PM] Using ignore file (if present) at /home/upalb/Code/React/first-react-app/.prettierignore
+["INFO" - 5:11:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:11:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:11:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/upalb/Code/React/first-react-app/src/components/ExpenseItem.js",
+  "parser": "babel"
+}
+["INFO" - 5:11:42 PM] Formatting completed in 0.252ms.

@@ -1,0 +1,80 @@
+// SERVE
+.serve {
+  background-color: $clr-light;
+  padding-block: 6rem;
+  text-align: center;
+
+  &__title {
+    color: $clr-accent;
+  }
+
+  &__card-group {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    justify-content: center;
+    margin-top: 6rem;
+
+    @include for-tablet {
+      flex-direction: row;
+    }
+  }
+
+  &__card {
+    align-items: center;
+    background-color: $clr-white;
+    border-radius: 1.4rem;
+    box-shadow: $box-shadow;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    padding: 4rem 0.8rem;
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+
+    @include for-desktop {
+      max-width: 25rem;
+    }
+
+    &-text {
+      color: $clr-light-alt;
+      font-size: 1.4rem;
+      width: 30ch;
+    }
+
+    &-img {
+      height: 10rem;
+      padding-bottom: 2.5rem;
+      width: 10rem;
+    }
+
+    &::before {
+      background-color: $clr-accent;
+      border-radius: 1.4rem;
+      content: '';
+      height: 100%;
+      position: absolute;
+      transform-origin: top left;
+      transition: transform 0.25s ease-in-out;
+      width: 100%;
+      z-index: -10;
+    }
+
+    &::after {
+      background-color: $clr-white;
+      border-radius: 1.4rem;
+      content: '';
+      height: 100%;
+      position: absolute;
+      width: 100%;
+      z-index: -10;
+    }
+
+    &:hover::before {
+      transform: rotate(-3deg);
+    }
+  }
+}

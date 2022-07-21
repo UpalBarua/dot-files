@@ -1,0 +1,9 @@
+[2022-07-19 10:27:40.899] [main] [info] update#setState idle
+[2022-07-19 10:27:47.038] [main] [info] Starting extension host with pid 2442 (fork() took 110 ms).
+[2022-07-19 10:27:53.600] [main] [info] Enabling inspect port on extension host with pid 2442.
+[2022-07-19 10:28:10.902] [main] [info] update#setState checking for updates
+[2022-07-19 10:28:11.007] [main] [info] update#setState available for download
+[2022-07-19 10:58:04.099] [main] [info] Waiting for extension host with pid 2442 to exit.
+[2022-07-19 10:58:07.997] [main] [info] Extension host with pid 2442 exited with code: 0, signal: null.
+[2022-07-19 10:58:09.299] [main] [warning] [storage main] detected slow close() operation: Time: 5207ms, DB size: 126976b, Large Keys: memento/workbench.editors.files.textFileEditor:38776, terminal.integrated.bufferState:33699, history.entries:18632, __$__targetStorageMarker:2032, workbench.view.extensions.state:1898
+[2022-07-19 10:58:09.300] [main] [warning] [storage main] detected slow close() operation: Time: 5210ms, DB size: 516096b, Large Keys: iconThemeData:423714, colorThemeData:33905, workbench.activity.placeholderViewlets:3871, commandPalette.mru.cache:2099, __$__targetStorageMarker:2088
